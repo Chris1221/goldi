@@ -1,0 +1,387 @@
+bicyclic nitroimidazole metabolic process
+nitroimidazole metabolic process
+imidazole-containing compound metabolic process
+nitroimidazole catabolic process
+imidazole-containing compound catabolic process
+thiazole biosynthetic process
+thiazole metabolic process
+1-deoxy-D-xylulose 5-phosphate metabolic process
+1-deoxy-D-xylulose 5-phosphate catabolic process
+1-deoxy-D-xylulose 5-phosphate biosynthetic process
+"9,9'-di-cis-zeta-carotene desaturation to 7,9,7',9'-tetra-cis-lycopene"
+muscle cell development
+striated muscle cell development
+cardiac myofibril assembly
+atrial cardiac myofibril assembly
+ventricular cardiac myofibril assembly
+cardiac cell development
+cardiac muscle cell differentiation
+cardiac muscle tissue morphogenesis
+atrial cardiac muscle tissue morphogenesis
+ventricular cardiac muscle tissue morphogenesis
+atrial cardiac muscle cell differentiation
+ventricular cardiac muscle cell differentiation
+cardiac muscle cell development
+atrial cardiac muscle cell development
+ventricular cardiac muscle cell development
+hypochord development
+cardiac muscle tissue growth
+regulation of cardiac muscle fiber development
+negative regulation of cardiac muscle fiber development
+positive regulation of cardiac muscle fiber development
+regulation of cardiac muscle tissue growth
+negative regulation of cardiac muscle tissue growth
+positive regulation of cardiac muscle tissue growth
+regulation of cardiac muscle tissue development
+positive regulation of cardiac muscle tissue development
+negative regulation of cardiac muscle tissue development
+Bolwig's organ development
+antipodal cell degeneration
+microgametogenesis
+generative cell mitosis
+anastral spindle assembly
+astral spindle assembly
+astral spindle assembly involved in male meiosis
+symmetric neuroblast division
+asymmetric neuroblast division
+asymmetric neuroblast division resulting in ganglion mother cell formation
+"di-, tri-valent inorganic anion homeostasis"
+divalent inorganic anion homeostasis
+trivalent inorganic anion homeostasis
+phosphate ion homeostasis
+sulfate ion homeostasis
+chloride ion homeostasis
+metal ion homeostasis
+"di-, tri-valent inorganic cation homeostasis"
+divalent inorganic cation homeostasis
+trivalent inorganic cation homeostasis
+monovalent inorganic cation homeostasis
+cobalt ion homeostasis
+zinc ion homeostasis
+copper ion homeostasis
+manganese ion homeostasis
+iron ion homeostasis
+cadmium ion homeostasis
+calcium ion homeostasis
+potassium ion homeostasis
+transition metal ion homeostasis
+sodium ion homeostasis
+aluminum ion homeostasis
+cation homeostasis
+anion homeostasis
+cellular chemical homeostasis
+monovalent inorganic anion homeostasis
+fruiting body development in response to starvation
+transmembrane transport
+nucleobase-containing small molecule metabolic process
+lipid homeostasis
+fatty acid homeostasis
+acylglycerol homeostasis
+phospholipid homeostasis
+sterol homeostasis
+response to hyperoxia
+response to lipoprotein particle
+lipoprotein particle mediated signaling
+low-density lipoprotein particle mediated signaling
+high density lipoprotein particle mediated signaling
+response to low-density lipoprotein particle
+response to high density lipoprotein particle
+invagination involved in gastrulation with mouth forming second
+involution involved in gastrulation with mouth forming second
+ingression involved in gastrulation with mouth forming second
+delamination involved in gastrulation with mouth forming second
+epiboly involved in gastrulation with mouth forming second
+entry into diapause
+entry into reproductive diapause
+regulation of cardiac muscle contraction
+negative regulation of cardiac muscle contraction
+relaxation of cardiac muscle
+response to high fluence blue light stimulus by blue high-fluence system
+response to very low light intensity stimulus
+digestive system development
+premature neural plate formation
+vibrational conductance of sound to the inner ear
+L-proline biosynthetic process
+D-alanine catabolic process
+copper ion export
+reflex
+vestibular reflex
+angular vestibuloocular reflex
+linear vestibuloocular reflex
+Sertoli cell differentiation
+Sertoli cell development
+Sertoli cell fate commitment
+Sertoli cell proliferation
+"synaptic transmission, glycinergic"
+righting reflex
+granulosa cell differentiation
+granulosa cell fate commitment
+granulosa cell development
+parathyroid gland development
+astrocyte fate commitment
+radial glial cell differentiation
+Bergmann glial cell differentiation
+palate development
+hard palate development
+soft palate development
+rhythmic synaptic transmission
+regulation of synaptic activity
+convergent extension
+convergent extension involved in gastrulation
+convergent extension involved in axis elongation
+convergent extension involved in organogenesis
+dorsal convergence
+mediolateral intercalation
+notochord regression
+anatomical structure regression
+notochord cell differentiation
+notochord cell development
+notochord cell vacuolation
+pharyngeal system development
+cardiac muscle cell proliferation
+pericardium development
+retinal bipolar neuron differentiation
+retina development in camera-type eye
+retina morphogenesis in camera-type eye
+regulation of cardiac muscle cell proliferation
+negative regulation of cardiac muscle cell proliferation
+positive regulation of cardiac muscle cell proliferation
+regulation of acrosome reaction
+heart contraction
+cardiac muscle contraction
+regulation of protein glycosylation
+positive regulation of protein glycosylation
+negative regulation of protein glycosylation
+neurofilament cytoskeleton organization
+positive regulation of epithelial cell proliferation involved in wound healing
+angiogenesis involved in wound healing
+mammary gland involution
+apoptotic process involved in mammary gland involution
+positive regulation of apoptotic process involved in mammary gland involution
+embryonic retina morphogenesis in camera-type eye
+post-embryonic retina morphogenesis in camera-type eye
+Spemann organizer formation
+Spemann organizer formation at the dorsal lip of the blastopore
+Spemann organizer formation at the embryonic shield
+Spemann organizer formation at the anterior end of the primitive streak
+uterus development
+oviduct development
+cervix development
+vagina development
+"Wnt signaling pathway, regulating spindle positioning"
+canonical Wnt signaling pathway
+"Wnt signaling pathway, planar cell polarity pathway"
+micturition
+synapse maturation
+regulation of resting membrane potential
+regulation of postsynaptic membrane potential
+regulation of excitatory postsynaptic membrane potential
+regulation of inhibitory postsynaptic membrane potential
+membrane hyperpolarization
+eye blink reflex
+smooth muscle contraction involved in micturition
+synaptic transmission involved in micturition
+smooth muscle relaxation of the bladder outlet
+circadian temperature homeostasis
+relaxation of vascular smooth muscle
+auditory receptor cell stereocilium organization
+"regulation of synaptic transmission, glycinergic"
+"negative regulation of synaptic transmission, glycinergic"
+"positive regulation of synaptic transmission, glycinergic"
+"zinc potentiation of synaptic transmission, glycinergic"
+"serotonin secretion, neurotransmission"
+"cytoskeletal rearrangement involved in phagocytosis, engulfment"
+"membrane reorganization involved in phagocytosis, engulfment"
+"regulation of phagocytosis, engulfment"
+"positive regulation of phagocytosis, engulfment"
+"negative regulation of phagocytosis, engulfment"
+generation of ovulation cycle rhythm
+inner ear receptor cell differentiation
+vestibular receptor cell differentiation
+vestibular receptor cell fate commitment
+vestibular receptor cell morphogenesis
+auditory receptor cell development
+vestibular receptor cell development
+inner ear receptor cell development
+inner ear receptor cell fate commitment
+vestibular receptor cell stereocilium organization
+inner ear receptor stereocilium organization
+regulation of growth hormone secretion
+positive regulation of growth hormone secretion
+negative regulation of growth hormone secretion
+somatotropin secreting cell differentiation
+prolactin secreting cell differentiation
+corticotropin hormone secreting cell differentiation
+thyroid-stimulating hormone-secreting cell differentiation
+thyroid-stimulating hormone-secreting cell development
+corticotropin hormone secreting cell development
+prolactin secreting cell development
+somatotropin secreting cell development
+prepulse inhibition
+maternal process involved in female pregnancy
+embryonic process involved in female pregnancy
+maternal process involved in parturition
+fetal process involved in parturition
+positive regulation of apoptotic process by virus
+modulation by virus of syncytium formation via plasma membrane fusion
+positive regulation of syncytium formation by virus
+regulation of syncytium formation by plasma membrane fusion
+positive regulation of syncytium formation by plasma membrane fusion
+host cellular process involved in virus induced gene silencing
+viral gene silencing in virus induced gene silencing
+host gene silencing in virus induced gene silencing
+regulation of posttranscriptional gene silencing
+positive regulation of posttranscriptional gene silencing
+negative regulation of posttranscriptional gene silencing
+viral triggering of virus induced gene silencing
+peroxisome localization
+microtubule-based peroxisome localization
+modulation by virus of host cell cycle
+cellular process regulating host cell cycle in response to virus
+platelet dense granule organization
+milk ejection
+urinary bladder development
+phospholipase C-activating dopamine receptor signaling pathway
+regulation of dopamine receptor signaling pathway
+negative regulation of dopamine receptor signaling pathway
+negative regulation of phospholipase C-activating dopamine receptor signaling pathway
+subpallium neuron fate commitment
+regulation of timing of neuron differentiation
+regulation of timing of subpallium neuron differentiation
+olfactory pit development
+regulation of adenosine receptor signaling pathway
+positive regulation of adenosine receptor signaling pathway
+negative regulation of adenosine receptor signaling pathway
+astral microtubule depolymerization
+limb development
+limb bud formation
+regulation of aggregation involved in sorocarp development
+regulation of angiotensin metabolic process
+regulation of exocyst localization
+male mating behavior
+female mating behavior
+apelin receptor signaling pathway
+cell cycle switching
+outer ear unfolding
+outer ear emergence
+regulation of protein desumoylation
+positive regulation of protein desumoylation
+negative regulation of protein desumoylation
+regulation of lipase activity
+negative regulation of lipase activity
+positive regulation of lipase activity
+regulation of antisense RNA transcription
+negative regulation of antisense RNA transcription
+positive regulation of antisense RNA transcription
+cloacal septation
+estrous cycle phase
+diestrus
+proestrus
+estrus
+metestrus
+regulation of nuclear-transcribed mRNA poly(A) tail shortening
+negative regulation of nuclear-transcribed mRNA poly(A) tail shortening
+positive regulation of nuclear-transcribed mRNA poly(A) tail shortening
+endocardium formation
+primitive hemopoiesis
+definitive hemopoiesis
+hemangioblast cell differentiation
+hematopoietic stem cell differentiation
+camera-type eye photoreceptor cell differentiation
+camera-type eye photoreceptor cell fate commitment
+retinal rod cell differentiation
+regulation of retinal cone cell fate commitment
+retinal rod cell fate commitment
+regulation of retinal rod cell fate commitment
+positive regulation of retinal rod cell fate commitment
+negative regulation of retinal cone cell fate commitment
+Notch signaling pathway involved in camera-type eye photoreceptor fate commitment
+mesenchymal to epithelial transition
+delamination
+oenocyte delamination
+neuroblast delamination
+lens induction in camera-type eye
+regulation of mitotic spindle organization
+regulation of fungal-type cell wall organization
+regulation of signal transduction involved in conjugation with cellular fusion
+positive regulation of signal transduction involved in conjugation with cellular fusion
+negative regulation of signal transduction involved in conjugation with cellular fusion
+contact inhibition
+negative regulation of cell growth involved in contact inhibition
+negative regulation of cell proliferation involved in contact inhibition
+detection of cell density
+detection of cell density by contact stimulus
+detection of cell density by secreted molecule
+detection of cell density by contact stimulus involved in contact inhibition
+anatomical structure homeostasis
+germ-line stem-cell niche homeostasis
+regulation of glial cell proliferation
+positive regulation of glial cell proliferation
+negative regulation of glial cell proliferation
+regulation of N-terminal protein palmitoylation
+regulation of macromolecule metabolic process
+regulation of flocculation
+negative regulation of flocculation
+negative regulation of filamentous growth
+regulation of feeding behavior
+regulation of transcription initiation from RNA polymerase II promoter
+positive regulation of transcription initiation from RNA polymerase II promoter
+negative regulation of N-terminal protein palmitoylation
+regulation of respiratory burst
+regulation of respiratory burst involved in inflammatory response
+positive regulation of respiratory burst involved in inflammatory response
+negative regulation of respiratory burst involved in inflammatory response
+positive regulation of respiratory burst
+negative regulation of respiratory burst
+centripetally migrating follicle cell migration
+main body follicle cell migration
+cilium morphogenesis
+embryonic skeletal joint morphogenesis
+crying behavior
+maintenance of stationary phase
+maintenance of stationary phase in response to starvation
+maintenance of stationary phase in response to toxin
+negative regulation of transcription involved in G1 phase of mitotic cell cycle
+negative regulation of transcription involved in G1/S transition of mitotic cell cycle
+regulation of ovulation
+positive regulation of ovulation
+negative regulation of ovulation
+regulation of oocyte development
+positive regulation of oocyte development
+negative regulation of oocyte development
+regulation of cell development
+cilium-dependent cell motility
+flagellar cell motility
+bacterial-type flagellum-dependent cell motility
+epithelial cilium movement involved in determination of left/right asymmetry
+formation of a compartment boundary
+compartment boundary maintenance
+transdifferentiation
+long-term synaptic potentiation
+long term synaptic depression
+cilium movement involved in cell motility
+regulation of cilium movement involved in cell motility
+regulation of cilium beat frequency involved in ciliary motility
+regulation of sarcomere organization
+positive regulation of sarcomere organization
+negative regulation of sarcomere organization
+regulation of cytokine activity
+positive regulation of cytokine activity
+negative regulation of cytokine activity
+regulation of nucleosome density
+regulation of phosphatidylinositol dephosphorylation
+regulation of cell diameter
+regulation of membrane repolarization
+regulation of ventricular cardiac muscle cell membrane repolarization
+elastin catabolic process
+regulation of elastin catabolic process
+negative regulation of elastin catabolic process
+regulation of blood vessel remodeling
+negative regulation of blood vessel remodeling
+regulation of ryanodine-sensitive calcium-release channel activity
+negative regulation of ryanodine-sensitive calcium-release channel activity
+positive regulation of ryanodine-sensitive calcium-release channel activity
+cardiac epithelial to mesenchymal transition
+definitive erythrocyte differentiation
+primitive erythrocyte differentiation
+rejection of self pollen

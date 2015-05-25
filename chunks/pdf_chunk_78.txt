@@ -1,0 +1,387 @@
+"tyramine secretion, neurotransmission"
+ganglion development
+sympathetic ganglion development
+cranial ganglion development
+trigeminal ganglion development
+ganglion morphogenesis
+ganglion maturation
+ganglion formation
+ganglion structural organization
+trigeminal ganglion morphogenesis
+trigeminal ganglion maturation
+cranial ganglion maturation
+cranial ganglion morphogenesis
+cranial ganglion formation
+trigeminal ganglion formation
+cranial ganglion structural organization
+trigeminal ganglion structural organization
+axon development
+dAMP phosphorylation
+CMP phosphorylation
+dCMP phosphorylation
+GDP phosphorylation
+UDP phosphorylation
+dCDP phosphorylation
+TDP phosphorylation
+actin filament bundle organization
+actin filament bundle retrograde transport
+generation of L-type calcium current
+colon epithelial cell migration
+corneal epithelial cell migration
+intestinal epithelial cell migration
+colon epithelial cell chemotaxis
+hypocretin secretion
+"hypocretin secretion, neurotransmission"
+positive regulation of transcription by transcription factor localization
+transfer RNA gene-mediated silencing
+calcium activated phospholipid scrambling
+calcium activated phosphatidylserine scrambling
+calcium activated phosphatidylcholine scrambling
+calcium activated galactosylceramide scrambling
+phosphatidylserine exposure on osteoblast involved in bone mineralization
+N-terminal protein amino acid propionylation
+glycerol to glycerone phosphate metabolic process
+mannose to fructose-6-phosphate metabolic process
+galactose to glucose-1-phosphate metabolic process
+glycolytic process from glycerol
+pri-miRNA transcription from RNA polymerase II promoter
+glycolytic process through fructose-6-phosphate
+glycolytic process from fructose through fructose-6-phosphate
+glycolytic process from mannose through fructose-6-phosphate
+glycolytic process through glucose-6-phosphate
+canonical glycolysis
+glycolytic process through glucose-1-phosphate
+glycolytic process from galactose
+fructose catabolic process to hydroxyacetone phosphate and glyceraldehyde-3-phosphate
+glycolytic process through fructose-1-phosphate
+pharyngeal arch artery morphogenesis
+transport-coupled glycolytic process through glucose-6-phosphate
+regulation of protein complex stability
+Cdv-dependent cytokinesis
+cytoskeleton-dependent cytokinesis
+CENP-A containing chromatin organization
+chemoattraction of axon
+chemorepulsion of axon
+protein localization to CENP-A containing chromatin
+positive regulation of glutamate neurotransmitter secretion in response to membrane depolarization
+histone H3-K9 modification
+tooth replacement
+mitochondrial ribosome assembly
+spontaneous neurotransmitter secretion
+evoked neurotransmitter secretion
+gap filling involved in double-strand break repair via nonhomologous end joining
+Entner-Doudoroff pathway
+Entner-Doudoroff pathway through gluconate
+Entner-Doudoroff pathway through gluconate to D-glyceraldehyde
+Entner-Doudoroff pathway through gluconate to D-glyceraldehyde-3-phosphate
+specification of axis polarity
+intracellular protein transmembrane transport
+macromolecular complex assembly
+protein-DNA complex assembly
+protein-lipid complex assembly
+protein-carbohydrate complex assembly
+biological regulation
+regulation of biological quality
+regulation of molecular function
+regulation of transcription by carbon monoxide
+neuron cellular homeostasis
+"mRNA splicing, via endonucleolytic cleavage and ligation"
+HAC1-type intron splice site recognition and cleavage
+tRNA gene clustering
+intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress
+'de novo' actin filament nucleation
+proton-transporting V-type ATPase complex assembly
+proton-transporting two-sector ATPase complex assembly
+vacuolar proton-transporting V-type ATPase complex assembly
+clustering of voltage-gated calcium channels
+tear secretion
+histone lysine demethylation
+histone arginine demethylation
+histone H3-R2 demethylation
+histone H4-R3 demethylation
+glycosylation
+ubiquitin-dependent endocytosis
+glucagon secretion
+regulation of glucagon secretion
+negative regulation of glucagon secretion
+positive regulation of glucagon secretion
+mitochondrial outer membrane translocase complex assembly
+chemokine-mediated signaling pathway
+regulation of chemokine-mediated signaling pathway
+negative regulation of chemokine-mediated signaling pathway
+positive regulation of chemokine-mediated signaling pathway
+interleukin-6-mediated signaling pathway
+regulation of interleukin-6-mediated signaling pathway
+negative regulation of interleukin-6-mediated signaling pathway
+positive regulation of interleukin-6-mediated signaling pathway
+interleukin-27-mediated signaling pathway
+regulation of interleukin-27-mediated signaling pathway
+negative regulation of interleukin-27-mediated signaling pathway
+positive regulation of interleukin-27-mediated signaling pathway
+ciliary neurotrophic factor-mediated signaling pathway
+Kupffer's vesicle development
+mitochondrial translational initiation
+mitochondrial translational elongation
+mitochondrial translational termination
+tRNA aminoacylation for mitochondrial protein translation
+regulation of mitochondrial translation
+negative regulation of mitochondrial translation
+positive regulation of mitochondrial translation
+regulation of mitochondrial translational initiation
+negative regulation of mitochondrial translational initiation
+positive regulation of mitochondrial translational initiation
+"beta-1,2-oligomannoside metabolic process"
+"beta-1,2-oligomannoside biosynthetic process"
+response to UV-A
+synaptic vesicle budding
+mitochondrial alanyl-tRNA aminoacylation
+mitochondrial arginyl-tRNA aminoacylation
+mitochondrial asparaginyl-tRNA aminoacylation
+mitochondrial aspartyl-tRNA aminoacylation
+mitochondrial cysteinyl-tRNA aminoacylation
+mitochondrial glutaminyl-tRNA aminoacylation
+mitochondrial glutamyl-tRNA aminoacylation
+mitochondrial glycyl-tRNA aminoacylation
+mitochondrial histidyl-tRNA aminoacylation
+mitochondrial isoleucyl-tRNA aminoacylation
+mitochondrial leucyl-tRNA aminoacylation
+mitochondrial lysyl-tRNA aminoacylation
+mitochondrial methionyl-tRNA aminoacylation
+mitochondrial phenylalanyl-tRNA aminoacylation
+mitochondrial prolyl-tRNA aminoacylation
+mitochondrial seryl-tRNA aminoacylation
+mitochondrial threonyl-tRNA aminoacylation
+adiponectin secretion
+regulation of adiponectin secretion
+negative regulation of adiponectin secretion
+positive regulation of adiponectin secretion
+enamel mineralization
+regulation of biomineral tissue development
+negative regulation of biomineral tissue development
+positive regulation of biomineral tissue development
+regulation of tooth mineralization
+negative regulation of tooth mineralization
+positive regulation of tooth mineralization
+regulation of enamel mineralization
+negative regulation of enamel mineralization
+positive regulation of enamel mineralization
+contractile vacuole discharge
+D-serine metabolic process
+D-serine biosynthetic process
+mitochondrial tryptophanyl-tRNA aminoacylation
+mitochondrial tyrosyl-tRNA aminoacylation
+mitochondrial valyl-tRNA aminoacylation
+kynurenine metabolic process
+chromosome organization involved in meiosis
+synaptonemal complex organization
+synaptonemal complex disassembly
+eukaryotic translation initiation factor 3 complex assembly
+attachment of telomere to nuclear envelope
+"protein localization to chromosome, telomeric region"
+establishment of protein localization to chromosome
+establishment of protein localization to telomere
+regulation of establishment of protein localization
+regulation of establishment of protein localization to chromosome
+regulation of establishment of protein localization to telomere
+protein trimerization
+protein homotrimerization
+protein heterotrimerization
+protein poly-ADP-ribosylation
+protein auto-ADP-ribosylation
+transcription factor TFIIIB complex assembly
+sulfide ion homeostasis
+cellular sulfide ion homeostasis
+aerobic sulfur oxidation
+"sulfide oxidation, using sulfide:quinone oxidoreductase"
+"sulfide oxidation, using sulfide dehydrogenase"
+"sulfide oxidation, using sulfur dioxygenase"
+lymphocyte apoptotic process
+regulation of lymphocyte apoptotic process
+negative regulation of lymphocyte apoptotic process
+positive regulation of lymphocyte apoptotic process
+T cell apoptotic process
+regulation of T cell apoptotic process
+negative regulation of T cell apoptotic process
+positive regulation of T cell apoptotic process
+regulation of activation-induced cell death of T cells
+negative regulation of activation-induced cell death of T cells
+positive regulation of activation-induced cell death of T cells
+activated T cell autonomous cell death
+regulation of activated T cell autonomous cell death
+negative regulation of activated T cell autonomous cell death
+positive regulation of activated T cell autonomous cell death
+thymocyte apoptotic process
+regulation of thymocyte apoptotic process
+negative regulation of thymocyte apoptotic process
+positive regulation of thymocyte apoptotic process
+natural killer cell apoptotic process
+regulation of natural killer cell apoptotic process
+negative regulation of natural killer cell apoptotic process
+positive regulation of natural killer cell apoptotic process
+actin-mediated cell contraction
+somatostatin secretion
+mucus secretion
+regulation of mucus secretion
+negative regulation of mucus secretion
+positive regulation of mucus secretion
+peptidyl-serine dephosphorylation
+necroptotic process
+oncosis
+cornification
+pyroptosis
+mitotic catastrophe
+protein complex biogenesis
+proton-transporting ATP synthase complex biogenesis
+aerobic ammonia oxidation to nitrite via pyruvic oxime
+halogen metabolic process
+iodide oxidation
+extracellular matrix constituent secretion
+pigment cell development
+axonemal dynein complex assembly
+N-acylethanolamine metabolic process
+N-acylphosphatidylethanolamine metabolic process
+renal absorption
+renal sodium ion absorption
+renal water absorption
+sarcoplasmic reticulum calcium ion transport
+regulation of phosphorelay signal transduction system
+negative regulation of phosphorelay signal transduction system
+positive regulation of phosphorelay signal transduction system
+cellular response to hydrogen peroxide
+regulation of stress-activated protein kinase signaling cascade
+negative regulation of stress-activated protein kinase signaling cascade
+positive regulation of stress-activated protein kinase signaling cascade
+response to cGMP
+lens fiber cell differentiation
+lens fiber cell development
+lens fiber cell fate commitment
+lens fiber cell morphogenesis
+G1 to G0 transition
+G1 to G0 transition involved in cell differentiation
+regulation of G0 to G1 transition
+negative regulation of G0 to G1 transition
+positive regulation of G0 to G1 transition
+regulation of translation in response to nitrogen starvation
+negative regulation of translation in response to nitrogen starvation
+positive regulation of translation in response to nitrogen starvation
+thyroid hormone transport
+triglyceride homeostasis
+tRNA seleno-modification
+response to bacterial lipopeptide
+detection of bacterial lipopeptide
+fat cell proliferation
+brown fat cell proliferation
+white fat cell proliferation
+regulation of fat cell proliferation
+negative regulation of fat cell proliferation
+positive regulation of fat cell proliferation
+regulation of brown fat cell proliferation
+negative regulation of brown fat cell proliferation
+positive regulation of brown fat cell proliferation
+regulation of white fat cell proliferation
+negative regulation of white fat cell proliferation
+positive regulation of white fat cell proliferation
+actin polymerization-dependent cell motility
+actin polymerization-dependent cell motility involved in migration of symbiont in host
+migration of symbiont within host by polymerization of host actin
+hepatocyte differentiation
+regulation of hepatocyte differentiation
+negative regulation of hepatocyte differentiation
+positive regulation of hepatocyte differentiation
+cellular heat acclimation
+ERK1 and ERK2 cascade
+regulation of ERK1 and ERK2 cascade
+negative regulation of ERK1 and ERK2 cascade
+positive regulation of ERK1 and ERK2 cascade
+ERK5 cascade
+regulation of ERK5 cascade
+negative regulation of ERK5 cascade
+positive regulation of ERK5 cascade
+DNA cytosine deamination
+Harderian gland development
+chaperone cofactor-dependent protein refolding
+response to lipoteichoic acid
+detection of lipoteichoic acid
+teichoic acid catabolic process
+lipoteichoic acid metabolic process
+lipoteichoic acid biosynthetic process
+lipoteichoic acid catabolic process
+wall teichoic acid metabolic process
+wall teichoic acid biosynthetic process
+wall teichoic acid catabolic process
+teichoic acid D-alanylation
+oxidation-dependent protein catabolic process
+carbamoyl phosphate metabolic process
+carbamoyl phosphate biosynthetic process
+trehalose metabolism in response to stress
+trehalose metabolism in response to heat stress
+trehalose metabolism in response to cold stress
+trehalose metabolism in response to water deprivation
+cellular response to cold
+nucleotide-binding oligomerization domain containing signaling pathway
+regulation of nucleotide-binding oligomerization domain containing signaling pathway
+negative regulation of nucleotide-binding oligomerization domain containing signaling pathway
+positive regulation of nucleotide-binding oligomerization domain containing signaling pathway
+nucleotide-binding oligomerization domain containing 1 signaling pathway
+regulation of nucleotide-binding oligomerization domain containing 1 signaling pathway
+negative regulation of nucleotide-binding oligomerization domain containing 1 signaling pathway
+positive regulation of nucleotide-binding oligomerization domain containing 1 signaling pathway
+nucleotide-binding oligomerization domain containing 2 signaling pathway
+regulation of nucleotide-binding oligomerization domain containing 2 signaling pathway
+negative regulation of nucleotide-binding oligomerization domain containing 2 signaling pathway
+positive regulation of nucleotide-binding oligomerization domain containing 2 signaling pathway
+oligodendrocyte progenitor proliferation
+regulation of oligodendrocyte progenitor proliferation
+negative regulation of oligodendrocyte progenitor proliferation
+positive regulation of oligodendrocyte progenitor proliferation
+positive regulation of ergosterol biosynthetic process
+regulation of heme biosynthetic process
+negative regulation of heme biosynthetic process
+positive regulation of heme biosynthetic process
+cellular detoxification of nitrogen compound
+prolactin secretion
+thyroid-stimulating hormone secretion
+plus-end specific microtubule depolymerization
+dentin secretion
+uterine smooth muscle contraction
+regulation of uterine smooth muscle contraction
+negative regulation of uterine smooth muscle contraction
+positive regulation of uterine smooth muscle contraction
+rRNA base methylation
+rRNA (guanine-N7)-methylation
+"nuclear-transcribed mRNA catabolic process, 3'-5' exonucleolytic nonsense-mediated decay"
+"nuclear-transcribed mRNA catabolic process, 5'-3' exonucleolytic nonsense-mediated decay"
+exonucleolytic nuclear-transcribed mRNA catabolic process involved in deadenylation-independent decay
+"nuclear-transcribed mRNA catabolic process, non-stop decay"
+response to oxygen levels
+detection of hypoxia
+"dehydro-D-arabinono-1,4-lactone metabolic process"
+"dehydro-D-arabinono-1,4-lactone biosynthetic process"
+leukocyte aggregation
+monocyte aggregation
+neutrophil aggregation
+T cell aggregation
+protein pupylation
+thrombin receptor signaling pathway
+regulation of thrombin receptor signaling pathway
+negative regulation of thrombin receptor signaling pathway
+positive regulation of thrombin receptor signaling pathway
+interleukin-1-mediated signaling pathway
+exosporium assembly
+poly-gamma-glutamate metabolic process
+poly-gamma-glutamate biosynthetic process
+capsule poly-gamma-glutamate biosynthetic process
+selenium-containing prosthetic group metabolic process
+selenium-containing prosthetic group biosynthetic process
+regulation of microtubule cytoskeleton organization
+cholesterol import
+calcium ion import
+regulation of histone H4-K20 methylation
+negative regulation of histone H4-K20 methylation
+positive regulation of histone H4-K20 methylation
+threonylcarbamoyladenosine metabolic process
+threonylcarbamoyladenosine biosynthetic process
+platelet aggregation
+protein kinase C signaling
+protein K63-linked ubiquitination
+histone H2A K63-linked ubiquitination

@@ -1,0 +1,387 @@
+rRNA (cytosine-2'-O-)-methyltransferase activity
+preprotein binding
+"inositol 1,4,5 trisphosphate binding"
+deoxyribonucleoside 5'-monophosphate N-glycosidase activity
+transmembrane receptor protein serine/threonine kinase binding
+activin receptor binding
+type I activin receptor binding
+type II activin receptor binding
+BMP receptor binding
+sterol desaturase activity
+poly-purine tract binding
+leucine binding
+protein adenylyltransferase activity
+protein-glycine ligase activity
+"protein-glycine ligase activity, initiating"
+"protein-glycine ligase activity, elongating"
+tubulin-glycine ligase activity
+protein-glutamic acid ligase activity
+tubulin-glutamic acid ligase activity
+C2H2 zinc finger domain binding
+interleukin-35 binding
+interleukin-35 receptor activity
+interleukin-35 receptor binding
+protein-N-terminal glutamine amidohydrolase activity
+phytoceramidase activity
+dihydrosphingosine-1-phosphate phosphatase activity
+glycerol-2-phosphate-transporting ATPase activity
+peptidyl-lysine 5-dioxygenase activity
+protoporphyrinogen oxidase activity
+menaquinone-dependent protoporphyrinogen oxidase activity
+chromium ion transmembrane transporter activity
+dynein complex binding
+growth factor receptor binding
+myosin VI binding
+myosin VI heavy chain binding
+myosin VI head/neck binding
+myosin VI light chain binding
+sterol-dependent protein binding
+primary miRNA binding
+pre-miRNA binding
+E-box binding
+sodium-dependent L-ascorbate transmembrane transporter activity
+lipoteichoic acid binding
+lipoteichoic acid receptor activity
+serine binding
+aspartate:alanine antiporter activity
+histidine:histamine antiporter activity
+tyrosine:tyramine antiporter activity
+glutamate:gamma-aminobutyric acid antiporter activity
+inositol phosphoceramide synthase regulator activity
+coenzyme F420 binding
+pyrroloquinoline quinone binding
+POU domain binding
+FHA domain binding
+TIR domain binding
+SET domain binding
+snRNP binding
+medium-chain-acyl-CoA dehydrogenase activity
+type 1 melanocortin receptor binding
+eukaryotic initiation factor eIF2 binding
+"adenosine 3',5'-bisphosphate transmembrane transporter activity"
+cyclic-guanylate-specific phosphodiesterase activity
+cyanophycin synthetase activity (L-aspartate-adding)
+cyanophycin synthetase activity (L-arginine-adding)
+RNA trimethylguanosine synthase activity
+dihydromonapterin reductase activity
+histone pre-mRNA stem-loop binding
+histone pre-mRNA DCP binding
+U7 snRNA binding
+connexin binding
+rRNA (cytosine-N4-)-methyltransferase activity
+tDNA binding
+autoinducer-2 kinase activity
+ureidoglycine aminohydrolase activity
+ankyrin repeat binding
+RING-like zinc finger domain binding
+RIP homotypic interaction motif binding
+G-protein coupled pyrimidinergic nucleotide receptor activity
+histone demethylase activity (H3-K27 specific)
+UFM1 activating enzyme activity
+UFM1 hydrolase activity
+UFM1 transferase activity
+tetrahydrodictyopterin binding
+linoleic acid epoxygenase activity
+lysophospholipid acyltransferase activity
+lysophosphatidylethanolamine acyltransferase activity
+dihydroceramidase activity
+DNA/RNA hybrid binding
+para-aminobenzoyl-glutamate hydrolase activity
+icosanoid transmembrane transporter activity
+biotin-[pyruvate-carboxylase] ligase activity
+aldehyde decarbonylase activity
+chemokine (C-C motif) ligand 5 binding
+CAP-Gly domain binding
+K11-linked polyubiquitin binding
+K6-linked polyubiquitin binding
+protein-lipid complex binding
+intermediate-density lipoprotein particle binding
+N-box binding
+HMG box domain binding
+neuropeptide receptor binding
+beta-endorphin receptor binding
+corazonin receptor binding
+neuropeptide F receptor binding
+proctolin receptor binding
+tachykinin receptor binding
+protein phosphatase type 1 activator activity
+vitamin D receptor activator activity
+N-terminal protein N-methyltransferase activity
+"1-(4-iodo-2,5-dimethoxyphenyl)propan-2-amine binding"
+14-3-3 protein binding
+bicarbonate binding
+CRD domain binding
+citrate secondary active transmembrane transporter activity
+dipeptide transmembrane transporter activity
+triose-phosphate transmembrane transporter activity
+Arp2/3 complex binding
+coreceptor activity involved in Wnt signaling pathway
+FAD binding
+FADH2 binding
+lipopolysaccharide core heptosyltransferase activity
+lipid A-core heptosyltransferase activity
+WD40-repeat domain binding
+phytochelatin transporter activity
+phytochelatin transmembrane transporter activity
+glutathione S-conjugate-transporting ATPase activity
+"glucan endo-1,3-beta-D-glucosidase activity involved in ascospore release from ascus"
+volume-sensitive chloride channel activity
+alkene binding
+modified amino acid binding
+NAADP-sensitive calcium-release channel activity
+cADPR-sensitive calcium-release channel activity
+modified amino acid transmembrane transporter activity
+histone kinase activity (H3-T3 specific)
+histone kinase activity (H2A-S121 specific)
+alpha-carotene epsilon hydroxylase activity
+carotene epsilon hydroxylase activity
+Pup transferase activity
+divalent inorganic cation transmembrane transporter activity
+trivalent inorganic cation transmembrane transporter activity
+Rho-dependent protein serine/threonine kinase activity
+tri-(feruloyl or hydroxyferuloyl) spermidine meta-hydroxylase activity
+tri-(coumaroyl or caffeoyl) spermidine meta-hydroxylase activity
+peroxynitrite reductase activity
+protein phosphatase activator activity
+protein phosphatase type 2A activator activity
+L-DOPA binding
+tyrosine binding
+tricoumaroylspermidine meta-hydroxylase activity
+dicoumaroyl monocaffeoyl spermidine meta-hydroxylase activity
+monocoumaroyl dicaffeoyl spermidine meta-hydroxylase activity
+triferuloylspermidine meta-hydroxylase activity
+diferuloyl mono-(hydroxyferuloyl) spermidine meta-hydroxylase activity
+monoferuloyl di-(hydroxyferuloyl) spermidine meta-hydroxylase activity
+17-beta-ketosteroid reductase activity
+ADP-D-ribose binding
+mono-ADP-D-ribose binding
+poly-ADP-D-ribose binding
+17-beta-hydroxysteroid dehydrogenase (NADP+) activity
+xanthosine nucleotidase activity
+DNA topoisomerase (ATP-hydrolyzing) regulator activity
+DNA topoisomerase (ATP-hydrolyzing) activator activity
+N-acetyl-L-aspartate-L-glutamate ligase activity
+citrate-L-glutamate ligase activity
+UDP-glucose:4-aminobenzoate acylglucosyltransferase activity
+thalian-diol desaturase activity
+S-nitrosoglutathione reductase activity
+baruol synthase activity
+trihydroxyferuloyl spermidine O-methyltransferase activity
+"(E,E)-geranyllinalool synthase activity"
+thalianol hydroxylase activity
+sabinene synthase activity
+(-)-E-beta-caryophyllene synthase activity
+alpha-humulene synthase activity
+anthocyanin 5-O-glucosyltransferase activity
+fatty-acyl-CoA reductase (alcohol-forming) activity
+3R-hydroxyacyl-CoA dehydratase activity
+"phosphatidylinositol-3,5-bisphosphate binding"
+methyl indole-3-acetate esterase activity
+methyl salicylate esterase activity
+methyl jasmonate esterase activity
+xyloglucan endotransglucosylase activity
+ADP-ribose pyrophosphohydrolase activity
+ADP-glucose pyrophosphohydrolase activity
+quercetin 3-O-glucosyltransferase activity
+quercetin 7-O-glucosyltransferase activity
+quercetin 3'-O-glucosyltransferase activity
+quercetin 4'-O-glucosyltransferase activity
+GDP-L-galactose phosphorylase activity
+GDP-D-glucose phosphorylase activity
+"L-gulono-1,4-lactone dehydrogenase activity"
+low-affinity nitrate transmembrane transporter activity
+flavonol 3-O-arabinosyltransferase activity
+indole-3-acetonitrile nitrilase activity
+cytokinin 9-beta-glucosyltransferase activity
+3-methylthiopropyl-desulfoglucosinolate sulfotransferase activity
+4-methylthiobutyl-desulfoglucosinolate sulfotransferase activity
+5-methylthiopentyl-desulfoglucosinolate sulfotransferase activity
+7-methylthioheptyl-desulfoglucosinolate sulfotransferase activity
+8-methylthiooctyl-desulfoglucosinolate sulfotransferase activity
+indol-3-yl-methyl-desulfoglucosinolate sulfotransferase activity
+spermidine:sinapoyl CoA N-acyltransferase activity
+spermidine:coumaroyl CoA N-acyltransferase activity
+spermidine:caffeoyl CoA N-acyltransferase activity
+spermidine:feruloyl CoA N-acyltransferase activity
+caffeoyl CoA:S-adenosyl-L-methionine O-methyltransferase activity
+trihydroxyferuloyl spermidine:S-adenosyl-L-methionine O-methyltransferase activity
+tricaffeoyl spermidine:S-adenosyl-L-methionine O-methyltransferase activity
+cellobiose glucosidase activity
+4-methylumbelliferyl-beta-D-glucopyranoside beta-glucosidase activity
+esculin beta-glucosidase activity
+beta-gentiobiose beta-glucosidase activity
+5S rDNA binding
+sinapoyl spermidine:sinapoyl CoA N-acyltransferase activity
+phosphatidylethanolamine-sterol O-acyltransferase activity
+phosphatidate-sterol O-acyltransferase activity
+L-tryptophan:pyruvate aminotransferase activity
+L-tyrosine:pyruvate aminotransferase activity
+L-methionine:2-oxoglutarate aminotransferase activity
+L-glutamine:2-oxoglutarate aminotransferase activity
+phosphatidyl-N-dimethylethanolamine N-methyltransferase activity
+3-methylthiopropyl glucosinolate S-oxygenase activity
+4-methylthiopropyl glucosinolate S-oxygenase activity
+5-methylthiopropyl glucosinolate S-oxygenase activity
+6-methylthiopropyl glucosinolate S-oxygenase activity
+7-methylthiopropyl glucosinolate S-oxygenase activity
+8-methylthiopropyl glucosinolate S-oxygenase activity
+S-alkylthiohydroximate lyase activity
+indole-3-acetonitrile nitrile hydratase activity
+myosin XI tail binding
+glucuronoxylan glucuronosyltransferase activity
+brassinosteroid sulfotransferase activity
+AMP transmembrane transporter activity
+jasmonate-amino synthetase activity
+pheophytinase activity
+L-phenylalanine:2-oxoglutarate aminotransferase activity
+hydroxyjasmonate sulfotransferase activity
+fatty acid alpha-hydroxylase activity
+midchain alkane hydroxylase activity
+borate uptake transmembrane transporter activity
+borate efflux transmembrane transporter activity
+L-cysteine desulfhydrase activity
+S-adenosyl-L-methionine:benzoic acid carboxyl methyl transferase activity
+auxin transmembrane transporter activity
+"xyloglucan 1,6-alpha-xylosidase activity"
+voltage-gated sodium channel activity involved in cardiac muscle cell action potential
+voltage-gated calcium channel activity involved in cardiac muscle cell action potential
+voltage-gated potassium channel activity involved in cardiac muscle cell action potential repolarization
+gap junction channel activity involved in SA node cell-atrial cardiac muscle cell electrical coupling
+sodium:potassium-exchanging ATPase activity involved in regulation of cardiac muscle cell membrane potential
+calcium:sodium antiporter activity involved in regulation of cardiac muscle cell membrane potential
+calcium-transporting ATPase activity involved in regulation of cardiac muscle cell membrane potential
+sodium:proton antiporter activity involved in regulation of cardiac muscle cell membrane potential
+voltage-gated potassium channel activity involved in SA node cell action potential depolarization
+voltage-gated calcium channel activity involved in AV node cell action potential
+voltage-gated calcium channel activity involved in bundle of His cell action potential
+voltage-gated calcium channel activity involved in Purkinje myocyte cell action potential
+voltage-gated calcium channel activity involved SA node cell action potential
+voltage-gated sodium channel activity involved in AV node cell action potential
+voltage-gated sodium channel activity involved in bundle of His cell action potential
+voltage-gated sodium channel activity involved in Purkinje myocyte action potential
+voltage-gated sodium channel activity involved in SA node cell action potential
+gap junction channel activity involved in cardiac conduction electrical coupling
+gap junction channel activity involved in atrial cardiac muscle cell-AV node cell electrical coupling
+gap junction channel activity involved in AV node cell-bundle of His cell electrical coupling
+gap junction channel activity involved in bundle of His cell-Purkinje myocyte electrical coupling
+gap junction channel activity involved in Purkinje myocyte-ventricular cardiac muscle cell electrical coupling
+protein binding involved in heterotypic cell-cell adhesion
+cell adhesive protein binding involved in atrial cardiac muscle cell-AV node cell communication
+cell adhesive protein binding involved in AV node cell-bundle of His cell communication
+cell adhesive protein binding involved in bundle of His cell-Purkinje myocyte communication
+cell adhesive protein binding involved in Purkinje myocyte-ventricular cardiac muscle cell communication
+cell adhesive protein binding involved in SA cardiac muscle cell-atrial cardiac muscle cell communication
+voltage-gated potassium channel activity involved in AV node cell action potential repolarization
+voltage-gated potassium channel activity involved in bundle of His cell action potential repolarization
+voltage-gated potassium channel activity involved in Purkinje myocyte action potential repolarization
+voltage-gated potassium channel activity involved in atrial cardiac muscle cell action potential repolarization
+voltage-gated potassium channel activity involved in SA node cell action potential repolarization
+undecaprenyl-phosphate glucose phosphotransferase activity
+endocytic targeting sequence binding
+UDP-N-acetyl-D-mannosamine dehydrogenase activity
+tRNA m6t6A37 methyltransferase activity
+RHG protein domain binding
+caspase binding
+phosphoenolpyruvate transmembrane transporter activity
+"translation regulator activity, nucleic acid binding"
+APC-Cdc20 complex activity
+polygalacturonase inhibitor activity
+ornithine carbamoyltransferase inhibitor activity
+malonyl-CoA synthetase activity
+brassinosteroid binding
+7-hydroxymethyl chlorophyll a reductase activity
+nicotinate transporter activity
+N-methylnicotinate transporter activity
+thiamine pyrophosphate transporter activity
+caffeoyl-CoA: alcohol caffeoyl transferase activity
+myristoyl-CoA ligase activity
+palmitoyl-CoA ligase activity
+oleoyl-CoA ligase activity
+camelliol C synthase activity
+tetraketide alpha-pyrone synthase activity
+abscisic acid transporter activity
+glycerol-3-phosphate 2-O-acyltransferase activity
+glucosinolate:proton symporter activity
+inosine-diphosphatase activity
+"9,15,9'-tri-cis-zeta-carotene isomerase activity"
+vitamin transmembrane transporter activity
+phosphatidylglycerol-phosphatidylethanolamine phosphatidyltransferase activity
+drug transporter activity
+small RNA 2'-O-methyltransferase
+polo box domain specific binding
+"L-tryptophan,NADPH:oxygen oxidoreductase (N-hydroxylating, decarboxylating)"
+"L-tryptophan,NADPH:oxygen oxidoreductase (N-hydroxylating)"
+"N-hydroxy-L-tryptophan,NADPH:oxygen oxidoreductase (N-hydroxylating)"
+"N,N-Dihydroxy-L-tryptophan decarboxylase activity"
+pimelyl-[acyl-carrier protein] methyl ester esterase activity
+"cytochrome-b5 reductase activity, acting on NADPH"
+"cytochrome-b5 reductase activity, acting on NADH"
+MIT domain binding
+ELYC domain binding
+phosphatidylcholine-translocating ATPase activity
+phosphatidylethanolamine-translocating ATPase activity
+phosphatidylserine-translocating ATPase activity
+2-(3-amino-3-carboxypropyl)histidine synthase activity
+"protein-N(PI)-phosphohistidine-N,N'-diacetylchitobiose phosphotransferase system transporter activity"
+protein-phosphocysteine-sugar phosphotransferase activity
+protein-phosphocysteine-glucose phosphotransferase system transporter activity
+protein-phosphocysteine-mannitol phosphotransferase system transporter activity
+"protein-phosphocysteine-N,N'-diacetylchitobiose phosphotransferase system transporter activity"
+"phosphodiesterase activity, acting on 3'-phosphoglycolate-terminated DNA strands"
+protein-phosphocysteine-mannosylglycerate-phosphotransferase system transporter activity
+protein-phosphocysteine-D-fructose-phosphotransferase system transporter activity
+protein-phosphocysteine-D-sorbitol-phosphotransferase system transporter activity
+protein-phosphocysteine-galactitol-phosphotransferase system transporter activity
+protein-phosphocysteine-L-ascorbate-phosphotransferase system transporter activity
+protein-phosphocysteine-N-acetylglucosamine phosphotransferase system transporter activity
+protein-phosphocysteine-glucosamine phosphotransferase system transporter activity
+protein-phosphocysteine-N-acetylmuramate phosphotransferase system transporter activity
+protein-phosphocysteine-trehalose phosphotransferase system transporter activity
+protein-N(PI)-phosphohistidine-D-glucosamine phosphotransferase system transporter activity
+protein-N(PI)-phosphohistidine-N-acetyl-mannosamine phosphotransferase system transporter activity
+acetyl-CoA:L-lysine N6-acetyltransferase
+alpha-glucosidase activity
+"alpha-1,3-glucosidase activity"
+cAMP deaminase activity
+5'-deoxyadenosine deaminase activity
+5'-methylthioadenosine deaminase activity
+APC-fizzy related complex activity
+"endoribonuclease activity, cleaving miRNA-paired mRNA"
+pre-miRNA transporter activity
+N-glycolylneuraminic acid (Neu5Gc) cytidylyltransferase activity
+keto-deoxynonulosonic acid (KDN) cytidylyltransferase activity
+ceramide binding
+adipokinetic hormone receptor activity
+adipokinetic hormone binding
+adipokinetic hormone receptor binding
+"4,8,12-trimethyltrideca-1,3,7,11-tetraene synthase activity"
+"(3E)-4,8-dimethyl-1,3,7-nonatriene synthase activity"
+L27 domain binding
+COPII adaptor activity
+fructose 6-phosphate aldolase activity
+ubiquitin-protein transferase activator activity
+CENP-A containing nucleosome binding
+cadmium ion sensor activity
+copper ion sensor activity
+selenite:proton symporter activity
+DNA/RNA hybrid annealing activity
+structural constituent of albumen
+supercoiled DNA binding
+hedgehog family protein binding
+neuroligin family protein binding
+scaffold protein binding
+cysteine-type endopeptidase activity involved in apoptotic process
+pre-mRNA intronic binding
+pre-mRNA intronic pyrimidine-rich binding
+organic cyclic compound binding
+polychlorinated biphenyl binding
+DH domain binding
+MADS box domain binding
+sulfur carrier activity
+mitochondrial ribosome binding
+cysteine-type endopeptidase activity involved in apoptotic signaling pathway
+guanosine tetraphosphate binding
+flavonoid binding
+flavonol binding
+flavanol binding
+catechin binding

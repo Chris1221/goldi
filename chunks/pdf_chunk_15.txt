@@ -1,0 +1,388 @@
+A2B adenosine receptor binding
+A3 adenosine receptor binding
+adrenergic receptor binding
+alpha-1A adrenergic receptor binding
+alpha-1B adrenergic receptor binding
+alpha-1D adrenergic receptor binding
+alpha-2A adrenergic receptor binding
+alpha-2B adrenergic receptor binding
+alpha-2C adrenergic receptor binding
+beta-1 adrenergic receptor binding
+beta-2 adrenergic receptor binding
+beta-3 adrenergic receptor binding
+adrenomedullin receptor binding
+angiotensin receptor binding
+type 1 angiotensin receptor binding
+type 2 angiotensin receptor binding
+bombesin receptor binding
+subtype 3 bombesin receptor binding
+endothelin A receptor binding
+endothelin B receptor binding
+gastrin-releasing peptide receptor binding
+neuromedin B receptor binding
+bradykinin receptor binding
+B1 bradykinin receptor binding
+B2 bradykinin receptor binding
+C5a anaphylatoxin chemotactic receptor binding
+C5L2 anaphylatoxin chemotactic receptor binding
+calcitonin receptor binding
+cannabinoid receptor binding
+type 1 cannabinoid receptor binding
+type 2 cannabinoid receptor binding
+haptoglobin binding
+hemoglobin alpha binding
+hemoglobin beta binding
+CXCR4 chemokine receptor binding
+CXCR5 chemokine receptor binding
+CXCR6 chemokine receptor binding
+CCR1 chemokine receptor binding
+CCR2 chemokine receptor binding
+CCR3 chemokine receptor binding
+CCR4 chemokine receptor binding
+CCR5 chemokine receptor binding
+CCR6 chemokine receptor binding
+CCR7 chemokine receptor binding
+CCR8 chemokine receptor binding
+CCR9 chemokine receptor binding
+CCR10 chemokine receptor binding
+CCR11 chemokine receptor binding
+CX3C chemokine receptor binding
+XCR1 chemokine receptor binding
+cholecystokinin receptor binding
+type A cholecystokinin receptor binding
+type B gastrin/cholecystokinin receptor binding
+cysteinyl leukotriene receptor binding
+type 1 cysteinyl leukotriene receptor binding
+type 2 cysteinyl leukotriene receptor binding
+D1 dopamine receptor binding
+D2 dopamine receptor binding
+D3 dopamine receptor binding
+D4 dopamine receptor binding
+D5 dopamine receptor binding
+endothelial differentiation G-protein coupled receptor binding
+Edg-1 sphingosine 1-phosphate receptor binding
+Edg-2 lysophosphatidic acid receptor binding
+Edg-3 sphingosine 1-phosphate receptor binding
+Edg-4 lysophosphatidic acid receptor binding
+Edg-5 sphingosine 1-phosphate receptor binding
+Edg-6 sphingosine 1-phosphate receptor binding
+Edg-7 lysophosphatidic acid receptor binding
+fMet-Leu-Phe receptor binding
+follicle-stimulating hormone receptor binding
+galanin receptor binding
+type 1 galanin receptor binding
+type 2 galanin receptor binding
+type 3 galanin receptor binding
+gastric inhibitory polypeptide receptor binding
+ghrelin receptor binding
+glucagon receptor binding
+growth hormone-releasing hormone receptor binding
+type 1 hypocretin receptor binding
+type 2 hypocretin receptor binding
+kisspeptin receptor binding
+leukotriene receptor binding
+lutropin-choriogonadotropic hormone receptor binding
+melanin-concentrating hormone receptor binding
+type 1 melanin-concentrating hormone receptor binding
+type 2 melanin-concentrating hormone receptor binding
+melanocortin receptor binding
+corticotropin hormone receptor binding
+type 3 melanocortin receptor binding
+type 4 melanocortin receptor binding
+type 5 melanocortin receptor binding
+melatonin receptor binding
+type 1A melatonin receptor binding
+type 1B melatonin receptor binding
+H9 melatonin receptor binding
+motilin receptor binding
+G-protein coupled acetylcholine receptor binding
+G-protein coupled GABA receptor binding
+type 1 metabotropic GABA receptor binding
+type 2 metabotropic GABA receptor binding
+type 1 metabotropic glutamate receptor binding
+type 2 metabotropic glutamate receptor binding
+type 3 metabotropic glutamate receptor binding
+type 4 metabotropic glutamate receptor binding
+type 5 metabotropic glutamate receptor binding
+type 6 metabotropic glutamate receptor binding
+type 7 metabotropic glutamate receptor binding
+type 8 metabotropic glutamate receptor binding
+G-protein coupled histamine receptor binding
+H1 histamine receptor binding
+H2 histamine receptor binding
+H3 histamine receptor binding
+H4 histamine receptor binding
+G-protein coupled nucleotide receptor binding
+P2Y1 nucleotide receptor binding
+P2Y2 nucleotide receptor binding
+P2Y4 nucleotide receptor binding
+P2Y5 nucleotide receptor binding
+P2Y6 nucleotide receptor binding
+P2Y8 nucleotide receptor binding
+P2Y9 nucleotide receptor binding
+P2Y10 nucleotide receptor binding
+P2Y11 nucleotide receptor binding
+G-protein coupled serotonin receptor binding
+type 1B serotonin receptor binding
+type 1D serotonin receptor binding
+type 1E serotonin receptor binding
+type 1F serotonin receptor binding
+type 2A serotonin receptor binding
+type 2B serotonin receptor binding
+type 2C serotonin receptor binding
+type 4 serotonin receptor binding
+type 5A serotonin receptor binding
+type 5B serotonin receptor binding
+type 6 serotonin receptor binding
+type 7 serotonin receptor binding
+neurokinin receptor binding
+substance P receptor binding
+neuromedin K receptor binding
+substance K receptor binding
+type 1 neuromedin U receptor binding
+type 2 neuromedin U receptor binding
+neuropeptide Y receptor binding
+type 1 neuropeptide Y receptor binding
+type 2 neuropeptide Y receptor binding
+type 4 neuropeptide Y receptor binding
+type 5 neuropeptide Y receptor binding
+neurotensin receptor binding
+type 1 neurotensin receptor binding
+olfactory receptor binding
+delta-type opioid receptor binding
+kappa-type opioid receptor binding
+mu-type opioid receptor binding
+nociceptin receptor binding
+orexigenic neuropeptide QRFP receptor binding
+oxytocin receptor binding
+parathyroid hormone receptor binding
+type 1 parathyroid hormone receptor binding
+pituitary adenylate cyclase-activating polypeptide receptor binding
+platelet activating factor receptor binding
+prolactin-releasing peptide receptor binding
+prostanoid receptor binding
+prostaglandin D2 receptor binding
+EP1 subtype prostaglandin E2 receptor binding
+EP2 subtype prostaglandin E2 receptor binding
+EP3 subtype prostaglandin E2 receptor binding
+EP4 subtype prostaglandin E2 receptor binding
+prostaglandin F2-alpha receptor binding
+prostacyclin receptor binding
+thromboxane A2 receptor binding
+proteinase activated receptor binding
+type 1 proteinase activated receptor binding
+type 2 proteinase activated receptor binding
+type 3 proteinase activated receptor binding
+type 4 proteinase activated receptor binding
+secretin receptor binding
+somatostatin receptor binding
+type 1 somatostatin receptor binding
+type 2 somatostatin receptor binding
+type 3 somatostatin receptor binding
+type 4 somatostatin receptor binding
+type 5 somatostatin receptor binding
+taste receptor binding
+type 1 member 1 taste receptor binding
+type 1 member 2 taste receptor binding
+type 1 member 3 taste receptor binding
+urotensin receptor binding
+vasoactive intestinal polypeptide receptor binding
+type 1 vasoactive intestinal polypeptide receptor binding
+type 2 vasoactive intestinal polypeptide receptor binding
+vasopressin receptor binding
+V1A vasopressin receptor binding
+V1B vasopressin receptor binding
+V2 vasopressin receptor binding
+vitamin B6 transporter activity
+pyridoxal transmembrane transporter activity
+pyridoxal phosphate transmembrane transporter activity
+pyridoxamine transmembrane transporter activity
+pyridoxine transmembrane transporter activity
+short-chain fatty acid-CoA ligase activity
+medium-chain fatty acid-CoA ligase activity
+very long-chain fatty acid-CoA ligase activity
+cortisol receptor binding
+mineralocorticoid receptor binding
+cortisol receptor activity
+beta-alanyl-histamine hydrolase activity
+energy transducer activity
+light transducer activity
+insulin-like growth factor I binding
+insulin-like growth factor II binding
+thioesterase binding
+N-terminal myristoylation domain binding
+"1,4-alpha-glucan 6-alpha-glucosyltransferase activity"
+interleukin-28 receptor binding
+2-methylbutanol:NADP oxidoreductase activity
+myosin light chain binding
+myosin head/neck binding
+myosin tail binding
+myosin I light chain binding
+myosin I head/neck binding
+myosin I tail binding
+myosin II light chain binding
+myosin II head/neck binding
+myosin II tail binding
+myosin heavy chain binding
+myosin I heavy chain binding
+myosin II heavy chain binding
+NAD-dependent histone deacetylase activity (H3-K14 specific)
+clathrin heavy chain binding
+clathrin light chain binding
+bile acid binding
+Type IV site-specific deoxyribonuclease activity
+NACHT domain binding
+Pyrin domain binding
+SAM domain binding
+sorbose reductase activity
+histone deacetylase activity (H3-K9 specific)
+alkylated DNA binding
+O6-alkylguanine-DNA binding
+DNA insertion or deletion binding
+adenine/cytosine mispair binding
+guanine/thymine mispair binding
+single base insertion or deletion binding
+dinucleotide insertion or deletion binding
+single adenine insertion binding
+single cytosine insertion binding
+single guanine insertion binding
+single thymine insertion binding
+succinate-semialdehyde dehydrogenase binding
+thiosulfate transmembrane-transporting ATPase activity
+dinucleotide repeat insertion binding
+ubiquitin-like protein binding
+SUMO binding
+SUMO polymer binding
+acrosin binding
+glucosaminyl-phosphotidylinositol O-acyltransferase activity
+riboflavin transporter activity
+phosphatidylinositol-3-phosphate binding
+tRNA(Ile)-lysidine synthase activity
+double-stranded RNA-specific ribonuclease activity
+oxidized DNA binding
+oxidized purine DNA binding
+oxidized pyrimidine DNA binding
+inhibitory MHC class I receptor activity
+activating MHC class I receptor activity
+HECT domain binding
+protein complex binding
+mismatch repair complex binding
+MutLalpha complex binding
+MutLbeta complex binding
+MutSalpha complex binding
+MutSbeta complex binding
+purine-rich negative regulatory element binding
+GBD domain binding
+beta-N-acetylgalactosaminidase activity
+2-alkenal reductase [NAD(P)] activity
+pheophorbide a oxygenase activity
+phenylcoumaran benzylic ether reductase activity
+DNA hairpin binding
+maltose alpha-glucosidase activity
+demethylase activity
+histone demethylase activity
+histone demethylase activity (H3-K4 specific)
+histone demethylase activity (H3-K9 specific)
+muramyl dipeptide binding
+amino acid-exporting ATPase activity
+cysteine-exporting ATPase activity
+amino acid-importing ATPase activity
+D-methionine-exporting ATPase activity
+D-methionine-importing ATPase activity
+silicon efflux transmembrane transporter activity
+sulfiredoxin activity
+deoxyribonucleoside binding
+purine deoxyribonucleoside binding
+pyrimidine deoxyribonucleoside binding
+ribonucleoside binding
+purine ribonucleoside binding
+pyrimidine ribonucleoside binding
+deoxyribonucleotide binding
+ribonucleotide binding
+purine deoxyribonucleotide binding
+purine ribonucleotide binding
+pyrimidine deoxyribonucleotide binding
+pyrimidine ribonucleotide binding
+adenyl deoxyribonucleotide binding
+adenyl ribonucleotide binding
+guanyl deoxyribonucleotide binding
+guanyl ribonucleotide binding
+dAMP binding
+dADP binding
+dATP binding
+dGMP binding
+dGDP binding
+dGTP binding
+5'-3' RNA helicase activity
+ATP-dependent 5'-3' RNA helicase activity
+O-linoleoyltransferase activity
+phosphatidylcholine:cardiolipin O-linoleoyltransferase activity
+copper-dependent protein binding
+cobalt-transporting ATPase activity
+lead ion binding
+GTPase activating protein binding
+heterotrimeric G-protein binding
+sterol response element binding
+tumor necrosis factor receptor superfamily binding
+intramolecular proline-rich ligand binding
+calcitonin binding
+hydroperoxide reductase activity
+D-xylose:NADP reductase activity
+L-arabinose:NADP reductase activity
+palmitoyl-CoA 9-desaturase activity
+histone acetyltransferase activity (H3-K56 specific)
+sterol binding
+sterol sensor activity
+inositol tetrakisphosphate 2-kinase activity
+protein complex scaffold
+membrane insertase activity
+5-hydroxyvalerate dehydrogenase activity
+bitter taste receptor activity
+salty taste receptor activity
+sour taste receptor activity
+sweet taste receptor activity
+umami taste receptor activity
+"butane-1,4-diamine:2-oxoglutarate aminotransferase activity"
+acetylcholine receptor binding
+ubiquitin activating enzyme binding
+progesterone receptor binding
+FFAT motif binding
+oligogalacturonide transporting ATPase activity
+oligogalacturonide transmembrane transporter activity
+mitogen-activated protein kinase kinase kinase kinase binding
+glycolipid 6-alpha-mannosyltransferase activity
+protein-DNA loading ATPase activity
+nucleoprotein filament-forming ATPase activity
+inositol hexakisphosphate 4-kinase or 6-kinase activity
+sphingomyelin synthase activity
+solanapyrone synthase activity
+macrophomate synthase activity
+calmodulin-dependent protein phosphatase activity
+tryparedoxin peroxidase activity
+inositol heptakisphosphate 4-kinase or 6-kinase activity
+inositol heptakisphosphate 5-kinase activity
+"alpha-1,4-glucan synthase activity"
+ribonuclease P RNA binding
+"beta-1,4-N-acetylgalactosaminyltransferase activity"
+"UDP-N-acetylgalactosamine:N-acetylneuraminyl-alpha-2,3-galactosyl-beta-R 1,4-N-acetylgalactosaminyltransferase activity"
+amide binding
+urea binding
+amide-transporting ATPase activity
+urea-transporting ATPase activity
+xylose binding
+2-aminoethylphosphonate transmembrane transporter activity
+2-aminoethylphosphonate transporting ATPase activity
+2-aminoethylphosphonate binding
+cysteine transmembrane transporter activity
+cysteine-transporting ATPase activity
+D-methionine-transporting ATPase activity
+11-beta-hydroxysteroid dehydrogenase (NAD+) activity
+11-beta-hydroxysteroid dehydrogenase (NADP+) activity
+penicillinase activity
+cephalosporinase activity
+bontoxilysin activity
+choline binding
+choline-transporting ATPase activity
+organic acid-transporting ATPase activity
+carboxylic acid-transporting ATPase activity
+monocarboxylic acid-transporting ATPase activity

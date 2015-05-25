@@ -1,0 +1,387 @@
+nucleoside diphosphate phosphorylation
+purine ribonucleoside salvage
+AMP biosynthetic process
+adenine salvage
+adenosine salvage
+dAMP biosynthetic process
+cAMP biosynthetic process
+ADP biosynthetic process
+dADP biosynthetic process
+dADP phosphorylation
+dATP biosynthetic process
+dATP biosynthetic process from ADP
+GMP biosynthetic process
+guanine salvage
+guanosine salvage
+deoxyguanosine salvage
+dGMP biosynthetic process
+cGMP biosynthetic process
+GTP biosynthetic process
+obsolete GTP catabolic process
+dGDP biosynthetic process
+dGDP phosphorylation
+dGTP biosynthetic process from dGDP
+IMP biosynthetic process
+'de novo' IMP biosynthetic process
+inosine salvage
+deoxyinosine salvage
+IDP phosphorylation
+ITP catabolic process
+dIDP phosphorylation
+purine nucleotide catabolic process
+AMP catabolic process
+adenylate deaminase reaction
+cAMP catabolic process
+ADP reduction
+obsolete ATP catabolic process
+GMP catabolic process to IMP
+GMP catabolic process to guanine
+dGTP catabolic process
+IMP catabolic process
+pyrimidine metabolic process
+pyrimidine nucleobase metabolic process
+pyrimidine nucleoside metabolic process
+pyrimidine nucleotide metabolic process
+'de novo' pyrimidine nucleobase biosynthetic process
+pyrimidine nucleobase catabolic process
+cytosine catabolic process
+thymine catabolic process
+5-methylcytosine catabolic process
+uracil catabolic process
+thymidine catabolic process
+cytidine catabolic process
+deoxycytidine catabolic process
+uridine catabolic process
+deoxyuridine catabolic process
+pyrimidine nucleotide biosynthetic process
+UMP biosynthetic process
+uracil salvage
+uridine kinase reaction
+UDP biosynthetic process
+dUMP biosynthetic process
+dUDP biosynthetic process
+UTP biosynthetic process
+dUTP biosynthetic process
+TMP biosynthetic process
+dTMP biosynthetic process
+TDP biosynthetic process
+dTDP biosynthetic process
+TTP biosynthetic process
+dTTP biosynthetic process
+cytidine salvage
+deoxycytidine salvage
+CMP salvage
+dCMP salvage
+dCDP biosynthetic process
+CTP biosynthetic process
+dCTP biosynthetic process
+pyrimidine nucleotide catabolic process
+TDP catabolic process
+dTDP catabolic process
+TTP reduction
+CMP catabolic process
+dCMP catabolic process
+CDP reduction
+dCDP catabolic process
+CTP reduction
+dCTP catabolic process
+CTP catabolic process
+UDP reduction
+UDP catabolic process
+dUDP catabolic process
+UDP-glucose catabolic process
+DNA metabolic process
+DNA-dependent DNA replication
+mitochondrial DNA replication
+DNA topological change
+DNA ligation
+pre-replicative complex assembly involved in nuclear cell cycle DNA replication
+DNA unwinding involved in DNA replication
+"DNA replication, synthesis of RNA primer"
+DNA replication initiation
+DNA strand elongation involved in DNA replication
+leading strand elongation
+lagging strand elongation
+DNA replication termination
+regulation of DNA replication
+plasmid maintenance
+DNA amplification
+RNA-dependent DNA replication
+premeiotic DNA replication
+mutagenesis
+DNA repair
+regulation of DNA repair
+transcription-coupled nucleotide-excision repair
+base-excision repair
+"base-excision repair, AP site formation"
+"base-excision repair, base-free sugar-phosphate removal"
+"base-excision repair, gap-filling"
+"base-excision repair, DNA ligation"
+nucleotide-excision repair
+pyrimidine dimer repair
+"pyrimidine-dimer repair, DNA damage excision"
+"pyrimidine-dimer repair, DNA damage recognition"
+"nucleotide-excision repair, preincision complex stabilization"
+"nucleotide-excision repair, preincision complex assembly"
+"nucleotide-excision repair, DNA incision, 3'-to lesion"
+"nucleotide-excision repair, DNA incision, 5'-to lesion"
+"nucleotide-excision repair, DNA gap filling"
+mismatch repair
+short patch mismatch repair system
+postreplication repair
+double-strand break repair
+double-strand break repair via nonhomologous end joining
+DNA modification
+DNA alkylation
+DNA methylation
+DNA dealkylation involved in DNA repair
+DNA catabolic process
+apoptotic DNA fragmentation
+DNA recombination
+meiotic gene conversion
+mitotic recombination
+"transposition, DNA-mediated"
+intron homing
+homing of group II introns
+movement of group I intron
+DNA packaging
+S phase-specific histone modification
+histone modification
+chromatin organization
+random coil binding
+AT binding
+DNA replication-dependent nucleosome assembly
+DNA replication-independent nucleosome assembly
+nucleosome disassembly
+chromatin remodeling
+positive regulation of transcription of homeotic gene (trithorax group)
+chromatin silencing
+chromatin-mediated maintenance of transcription
+negative regulation of transcription of homeotic gene (Polycomb group)
+establishment of chromatin silencing
+maintenance of chromatin silencing
+methylation-dependent chromatin silencing
+chromatin silencing at telomere
+regulation of gene expression by genetic imprinting
+"transcription, DNA-templated"
+"DNA-templated transcription, initiation"
+"DNA-templated transcription, elongation"
+"regulation of transcription, DNA-templated"
+regulation of transcription from RNA polymerase I promoter
+regulation of transcription from RNA polymerase II promoter
+regulation of transcription from RNA polymerase III promoter
+transcription initiation from RNA polymerase I promoter
+transcription elongation from RNA polymerase I promoter
+rRNA processing
+transcription initiation from RNA polymerase II promoter
+transcription elongation from RNA polymerase II promoter
+7-methylguanosine mRNA capping
+mRNA splicing
+"lariat formation, 5'-splice site cleavage"
+"3'-splice site cleavage, exon ligation"
+mRNA splice site selection
+MATa1 (A1) pre-mRNA splicing
+mRNA polyadenylation
+mRNA cleavage
+poly-A binding
+adenosine to inosine editing
+transcription initiation from RNA polymerase III promoter
+transcription elongation from RNA polymerase III promoter
+snRNA capping
+7-methylguanosine cap hypermethylation
+"tRNA splicing, via endonucleolytic cleavage and ligation"
+tRNA-Y splicing
+transcription from mitochondrial promoter
+transcription initiation from mitochondrial promoter
+transcription elongation from mitochondrial promoter
+termination of mitochondrial transcription
+RNA processing
+mRNA processing
+histone mRNA 3'-end processing
+tRNA metabolic process
+tRNA modification
+RNA catabolic process
+mRNA catabolic process
+RNA localization
+RNA import into nucleus
+RNA export from nucleus
+mRNA export from nucleus
+rRNA export from nucleus
+snRNA export from nucleus
+tRNA export from nucleus
+"transcription, RNA-dependent"
+translation
+translational initiation
+translational elongation
+translational termination
+regulation of translation
+tRNA aminoacylation for protein translation
+alanyl-tRNA aminoacylation
+arginyl-tRNA aminoacylation
+asparaginyl-tRNA aminoacylation
+aspartyl-tRNA aminoacylation
+cysteinyl-tRNA aminoacylation
+glutamyl-tRNA aminoacylation
+glutaminyl-tRNA aminoacylation
+glycyl-tRNA aminoacylation
+histidyl-tRNA aminoacylation
+isoleucyl-tRNA aminoacylation
+leucyl-tRNA aminoacylation
+lysyl-tRNA aminoacylation
+methionyl-tRNA aminoacylation
+phenylalanyl-tRNA aminoacylation
+prolyl-tRNA aminoacylation
+seryl-tRNA aminoacylation
+threonyl-tRNA aminoacylation
+tryptophanyl-tRNA aminoacylation
+tyrosyl-tRNA aminoacylation
+valyl-tRNA aminoacylation
+aminoacyl-tRNA hydrolase reaction
+binding to mRNA cap
+regulation of translational initiation
+regulation of translational initiation by iron
+regulation of translational elongation
+regulation of translational termination
+regulation of translational fidelity
+translational readthrough
+translational frameshifting
+'de novo' protein folding
+binding unfolded ER proteins
+peptidyl-prolyl isomerase B reaction
+protein complex assembly
+"protein complex assembly, multichaperone pathway"
+chaperone-mediated protein complex assembly
+steroid hormone receptor complex assembly
+cellular protein modification process
+signal peptide processing
+protein disulfide-isomerase reaction
+protein phosphorylation
+negative regulation of protein kinase activity
+protein dephosphorylation
+protein ADP-ribosylation
+protein acetylation
+N-terminal protein amino acid acetylation
+internal protein amino acid acetylation
+protein deacetylation
+protein sulfation
+peptidyl-tyrosine sulfation
+protein methylation
+N-terminal protein amino acid methylation
+C-terminal protein methylation
+protein demethylation
+peptidyl-aspartic acid/asparagine hydroxylation
+peptidyl-aspartic acid hydroxylation
+peptidyl-asparagine hydroxylation
+protein cysteine-thiol oxidation
+protein glycosylation
+protein N-linked glycosylation
+dolichol-linked oligosaccharide biosynthetic process
+dolichyl diphosphate biosynthetic process
+oligosaccharide-lipid intermediate biosynthetic process
+N-glycan processing
+protein O-linked glycosylation
+protein amino acid terminal glycosylation
+terminal O-glycosylation
+protein amino acid terminal N-glycosylation
+N-terminal protein amino acid N-linked glycosylation
+protein lipidation
+N-terminal protein lipidation
+N-terminal protein myristoylation
+N-terminal protein palmitoylation
+C-terminal protein lipidation
+C-terminal protein prenylation
+protein prenylation
+C-terminal protein farnesylation
+protein farnesylation
+C-terminal protein geranylgeranylation
+protein geranylgeranylation
+GPI anchor metabolic process
+GPI anchor biosynthetic process
+GPI anchor release
+proteolysis
+membrane protein ectodomain proteolysis
+ATP-dependent proteolysis
+protein processing
+proteolysis involved in cellular protein catabolic process
+ubiquitin-dependent protein catabolic process
+ubiquitin cycle
+protein monoubiquitination
+misfolded or incompletely synthesized protein catabolic process
+glycoprotein catabolic process
+protein deglycosylation
+peptide metabolic process
+cellular amino acid metabolic process
+regulation of cellular amino acid metabolic process
+alanine metabolic process
+alanine biosynthetic process
+alanine catabolic process
+arginine metabolic process
+arginine biosynthetic process
+arginine catabolic process
+asparagine metabolic process
+asparagine biosynthetic process
+asparagine catabolic process
+aspartate metabolic process
+aspartate biosynthetic process
+aspartate catabolic process
+cysteine metabolic process
+cysteine biosynthetic process from serine
+glutamate metabolic process
+glutamate biosynthetic process
+glutamate catabolic process
+glutamate catabolic process via 2-oxoglutarate
+glutamate decarboxylation to succinate
+glutamine metabolic process
+glutamine biosynthetic process
+glutamine catabolic process
+glycine metabolic process
+glycine biosynthetic process
+glycine catabolic process
+histidine metabolic process
+histidine catabolic process
+isoleucine metabolic process
+isoleucine catabolic process
+leucine metabolic process
+leucine catabolic process
+lysine metabolic process
+lysine catabolic process
+methionine metabolic process
+S-adenosylmethionine biosynthetic process
+S-adenosylmethioninamine biosynthetic process
+L-phenylalanine metabolic process
+L-phenylalanine catabolic process
+proline metabolic process
+proline biosynthetic process
+proline catabolic process
+L-serine metabolic process
+L-serine biosynthetic process
+L-serine catabolic process
+threonine metabolic process
+threonine catabolic process
+tryptophan metabolic process
+tryptophan catabolic process
+tyrosine metabolic process
+tyrosine biosynthetic process
+tyrosine catabolic process
+valine metabolic process
+valine catabolic process
+cellular modified amino acid metabolic process
+cellular biogenic amine metabolic process
+amino-acid betaine metabolic process
+amino-acid betaine biosynthetic process
+amino-acid betaine catabolic process
+ethanolamine metabolic process
+acetylcholine catabolic process
+melanin metabolic process
+melanin biosynthetic process from tyrosine
+catecholamine metabolic process
+dopamine biosynthetic process from tyrosine
+indolalkylamine metabolic process
+serotonin biosynthetic process from tryptophan
+activation of tryptophan 5-monooxygenase activity
+octopamine biosynthetic process
+thyroid hormone generation
+ornithine metabolic process
+ornithine biosynthetic process
+ornithine catabolic process
+polyamine metabolic process

@@ -1,0 +1,387 @@
+ripoptosome assembly involved in necroptotic process
+dextrin catabolic process
+regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway
+negative regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway
+positive regulation of mitochondrial outer membrane permeabilization involved in apoptotic signaling pathway
+regulation of response to reactive oxygen species
+negative regulation of response to reactive oxygen species
+positive regulation of response to reactive oxygen species
+regulation of L-glutamine import
+negative regulation of L-glutamine import
+positive regulation of L-glutamine import
+regulation of transcription from RNA polymerase II promoter during M/G1 transition of mitotic cell cycle
+cyanidin 3-O-glucoside metabolic process
+regulation of peptide antigen transport
+negative regulation of peptide antigen transport
+positive regulation of peptide antigen transport
+positive regulation of L-arginine import
+protein polyubiquitination involved in cellular response to misfolded protein
+protein polyubiquitination involved in nucleus-associated proteasomal ubiquitin-dependent protein catabolic process
+negative regulation of oviposition
+positive regulation of oviposition
+insulin receptor signaling pathway involved in determination of adult lifespan
+transforming growth factor beta receptor signaling pathway involved in regulation of multicellular organism growth
+atropine metabolic process
+atropine catabolic process
+atropine biosynthetic process
+sarcosine metabolic process
+sarcosine catabolic process
+sarcosine biosynthetic process
+trimethylenediamine metabolic process
+trimethylenediamine catabolic process
+trimethylenediamine biosynthetic process
+p-hydroxyphenyl lignin metabolic process
+p-hydroxyphenyl lignin catabolic process
+p-hydroxyphenyl lignin biosynthetic process
+guaiacyl lignin metabolic process
+guaiacyl lignin catabolic process
+guaiacyl lignin biosynthetic process
+syringal lignin metabolic process
+syringal lignin catabolic process
+syringal lignin biosynthetic process
+ferulate catabolic process
+guanosine-containing compound metabolic process
+guanosine-containing compound catabolic process
+guanosine-containing compound biosynthetic process
+glucosamine-containing compound metabolic process
+glucosamine-containing compound catabolic process
+glucosamine-containing compound biosynthetic process
+regulation of engulfment of apoptotic cell
+negative regulation of engulfment of apoptotic cell
+positive regulation of engulfment of apoptotic cell
+regulation of relaxation of muscle
+negative regulation of relaxation of muscle
+positive regulation of relaxation of muscle
+regulation of relaxation of smooth muscle
+negative regulation of relaxation of smooth muscle
+positive regulation of relaxation of smooth muscle
+pyrrolizidine alkaloid metabolic process
+pyrrolizidine alkaloid catabolic process
+pyrrolizidine alkaloid biosynthetic process
+benzylpenicillin metabolic process
+benzylpenicillin catabolic process
+benzylpenicillin biosynthetic process
+acetate ester metabolic process involved in fermentation
+regulation of protein tetramerization
+negative regulation of protein tetramerization
+positive regulation of protein tetramerization
+regulation of protein homotetramerization
+negative regulation of protein homotetramerization
+positive regulation of protein homotetramerization
+regulation of autophagic vacuole maturation
+negative regulation of autophagic vacuole maturation
+positive regulation of autophagic vacuole maturation
+negative regulation of signal transduction in absence of ligand
+gramicidin S metabolic process
+gramicidin S catabolic process
+gramicidin S biosynthetic process
+tetracenomycin C metabolic process
+tetracenomycin C catabolic process
+tetracenomycin C biosynthetic process
+granaticin metabolic process
+granaticin catabolic process
+granaticin biosynthetic process
+actinorhodin metabolic process
+actinorhodin catabolic process
+actinorhodin biosynthetic process
+erythromycin metabolic process
+erythromycin catabolic process
+erythromycin biosynthetic process
+cephamycin C metabolic process
+cephamycin C catabolic process
+cephamycin C biosynthetic process
+tobramycin metabolic process
+tobramycin catabolic process
+tobramycin biosynthetic process
+bacitracin A metabolic process
+bacitracin A catabolic process
+bacitracin A biosynthetic process
+candicidin metabolic process
+candicidin catabolic process
+candicidin biosynthetic process
+gentamycin metabolic process
+gentamycin catabolic process
+gentamycin biosynthetic process
+kanamycin metabolic process
+kanamycin catabolic process
+kanamycin biosynthetic process
+negative regulation of coflocculation via protein-carbohydrate interaction
+carbohydrate derivative metabolic process
+carbohydrate derivative catabolic process
+carbohydrate derivative biosynthetic process
+p-coumaryl alcohol transport
+regulation of lignin biosynthetic process
+insulin metabolic process
+insulin catabolic process
+insulin biosynthetic process
+mesenchymal cell apoptotic process involved in nephron morphogenesis
+mesenchymal cell apoptotic process involved in mesonephric nephron morphogenesis
+mesenchymal cell apoptotic process involved in metanephric nephron morphogenesis
+gene expression involved in extracellular matrix organization
+vistamycin metabolic process
+vistamycin catabolic process
+vistamycin biosynthetic process
+paromomycin metabolic process
+paromomycin catabolic process
+paromomycin biosynthetic process
+neomycin metabolic process
+neomycin catabolic process
+neomycin biosynthetic process
+xylulose 5-phosphate biosynthetic process
+primary amino compound metabolic process
+primary amino compound catabolic process
+primary amino compound biosynthetic process
+regulation of trophoblast cell migration
+negative regulation of trophoblast cell migration
+positive regulation of trophoblast cell migration
+neural crest cell migration involved in autonomic nervous system development
+3-chlorocatechol metabolic process
+3-chlorocatechol catabolic process
+3-chlorocatechol biosynthetic process
+naphthalene catabolic process
+naphthalene biosynthetic process
+phytoene metabolic process
+phytoene catabolic process
+phytoene biosynthetic process
+lycopene metabolic process
+lycopene catabolic process
+lycopene biosynthetic process
+spheroidene metabolic process
+spheroidene catabolic process
+spheroidene biosynthetic process
+negative regulation of cellular response to caffeine
+regulation of camalexin biosynthetic process
+positive regulation of camalexin biosynthetic process
+regulation of ERBB signaling pathway
+negative regulation of ERBB signaling pathway
+positive regulation of ERBB signaling pathway
+regulation of ephrin receptor signaling pathway
+negative regulation of ephrin receptor signaling pathway
+positive regulation of ephrin receptor signaling pathway
+regulation of formation of translation initiation ternary complex
+negative regulation of formation of translation initiation ternary complex
+positive regulation of formation of translation initiation ternary complex
+regulation of formation of translation preinitiation complex
+negative regulation of formation of translation preinitiation complex
+positive regulation of formation of translation preinitiation complex
+positive regulation of calcium-mediated signaling involved in cellular response to salt stress
+positive regulation of calcium-mediated signaling involved in cellular response to calcium ion
+positive regulation of calcium ion transport into cytosol involved in cellular response to calcium ion
+positive regulation of calcium ion transport into cytosol involved in cellular response to salt stress
+negative regulation of calcium ion transport into cytosol involved in cellular response to salt stress
+regulation of extracellular matrix assembly
+negative regulation of extracellular matrix assembly
+positive regulation of extracellular matrix assembly
+regulation of adrenergic receptor signaling pathway involved in heart process
+negative regulation of adrenergic receptor signaling pathway involved in heart process
+positive regulation of adrenergic receptor signaling pathway involved in heart process
+regulation of heart looping
+negative regulation of heart looping
+positive regulation of heart looping
+regulation of cardiac chamber formation
+negative regulation of cardiac chamber formation
+positive regulation of cardiac chamber formation
+regulation of transcription from RNA polymerase II promoter involved in heart development
+regulation of neuron death
+negative regulation of neuron death
+positive regulation of neuron death
+regulation of holin activity
+negative regulation of holin activity
+regulation of cardiac chamber morphogenesis
+negative regulation of cardiac chamber morphogenesis
+positive regulation of cardiac chamber morphogenesis
+regulation of NIK/NF-kappaB signaling
+negative regulation of NIK/NF-kappaB signaling
+positive regulation of NIK/NF-kappaB signaling
+negative regulation of transcription from RNA polymerase II promoter involved in heart development
+positive regulation of transcription from RNA polymerase II promoter involved in heart development
+regulation of non-canonical Wnt signaling pathway via JNK cascade
+negative regulation of non-canonical Wnt signaling pathway via JNK cascade
+positive regulation of non-canonical Wnt signaling pathway via JNK cascade
+regulation of convergent extension involved in axis elongation
+negative regulation of convergent extension involved in axis elongation
+positive regulation of convergent extension involved in axis elongation
+positive regulation of transcription from RNA polymerase II promoter involved in defense response to fungus
+positive regulation of toll-like receptor 9 signaling pathway by B cell receptor internalization
+regulation of lung ciliated cell differentiation
+negative regulation of lung ciliated cell differentiation
+positive regulation of lung ciliated cell differentiation
+regulation of lung goblet cell differentiation
+negative regulation of lung goblet cell differentiation
+positive regulation of lung goblet cell differentiation
+regulation of intracellular transport of viral material
+negative regulation of intracellular transport of viral material
+positive regulation of intracellular transport of viral material
+nucleotide-excision repair involved in interstrand cross-link repair
+regulation of macrophage colony-stimulating factor production
+negative regulation of macrophage colony-stimulating factor production
+positive regulation of macrophage colony-stimulating factor production
+chloroplast rRNA processing
+peptidyl-lysine hydroxylation involved in bacterial-type EF-P lysine modification
+regulation of sorocarp spore cell differentiation
+negative regulation of sorocarp spore cell differentiation
+positive regulation of sorocarp spore cell differentiation
+carbohydrate derivative transport
+cephalosporin C metabolic process
+cephalosporin C catabolic process
+cephalosporin C biosynthetic process
+lipooligosaccharide metabolic process
+lipooligosaccharide catabolic process
+lipooligosaccharide biosynthetic process
+2-dehydro-3-deoxy-D-gluconic acid metabolic process
+2-dehydro-3-deoxy-D-gluconic acid catabolic process
+2-dehydro-3-deoxy-D-gluconic acid biosynthetic process
+tartrate metabolic process
+tartrate catabolic process
+tartrate biosynthetic process
+D-ribose 5-phosphate metabolic process
+D-ribose 5-phosphate catabolic process
+D-ribose 5-phosphate biosynthetic process
+fructoselysine catabolic process
+fructoselysine biosynthetic process
+"5,6,7,8-tetrahydromethanopterin metabolic process"
+"5,6,7,8-tetrahydromethanopterin catabolic process"
+"5,6,7,8-tetrahydromethanopterin biosynthetic process"
+iron-sulfur-molybdenum cofactor metabolic process
+iron-sulfur-molybdenum cofactor catabolic process
+iron-sulfur-molybdenum cofactor biosynthetic process
+succinyl-CoA catabolic process
+succinyl-CoA biosynthetic process
+negative regulation of double-strand break repair via single-strand annealing
+nucleoside phosphate catabolic process
+nucleoside phosphate biosynthetic process
+negative regulation of SREBP signaling pathway by negative regulation of DNA binding
+regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
+negative regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
+positive regulation of canonical Wnt signaling pathway involved in cardiac muscle cell fate commitment
+regulation of hydrogen peroxide-mediated programmed cell death
+negative regulation of hydrogen peroxide-mediated programmed cell death
+positive regulation of hydrogen peroxide-mediated programmed cell death
+regulation of cargo loading into COPII-coated vesicle
+negative regulation of cargo loading into COPII-coated vesicle
+regulation of spermidine biosynthetic process
+negative regulation of spermidine biosynthetic process
+positive regulation of spermidine biosynthetic process
+regulation of sterol regulatory element binding protein cleavage
+negative regulation of sterol regulatory element binding protein cleavage
+positive regulation of sterol regulatory element binding protein cleavage
+obsolete regulation of gene expression involved in extracellular matrix organization
+obsolete negative regulation of gene expression involved in extracellular matrix organization
+obsolete positive regulation of gene expression involved in extracellular matrix organization
+regulation of histone H2A K63-linked ubiquitination
+negative regulation of histone H2A K63-linked ubiquitination
+positive regulation of histone H2A K63-linked ubiquitination
+regulation of sperm motility
+negative regulation of sperm motility
+positive regulation of trehalose catabolic process
+negative regulation of heart induction
+positive regulation of heart induction
+response to chloramphenicol
+response to erythromycin
+response to trichodermin
+response to antimycin A
+response to tetracycline
+response to tacrolimus
+response to cytochalasin B
+regulation of odontoblast differentiation
+negative regulation of odontoblast differentiation
+positive regulation of odontoblast differentiation
+negative regulation of lateral root development
+positive regulation of lateral root development
+lactone metabolic process
+lactone catabolic process
+lactone biosynthetic process
+thioester transport
+regulation of store-operated calcium channel activity
+negative regulation of store-operated calcium channel activity
+positive regulation of store-operated calcium channel activity
+regulation of vasculature development
+negative regulation of vasculature development
+response to leptomycin B
+response to L-thialysine
+negative regulation of vasculature development involved in avascular cornea development in camera-type eye
+negative regulation of secondary cell wall biogenesis
+positive regulation of secondary cell wall biogenesis
+glucosinolate transport
+cell-cell signaling involved in cell-cell junction organization
+regulation of phosphatidylglycerol biosynthetic process
+negative regulation of phosphatidylglycerol biosynthetic process
+positive regulation of phosphatidylglycerol biosynthetic process
+response to L-canavanine
+response to rapamycin
+beta-D-galactofuranose metabolic process
+beta-D-galactofuranose catabolic process
+beta-D-galactofuranose biosynthetic process
+organic cyclic compound metabolic process
+organic cyclic compound catabolic process
+organic cyclic compound biosynthetic process
+funalenone metabolic process
+funalenone catabolic process
+funalenone biosynthetic process
+response to L-cysteine
+"cyclic 2,3-bisphospho-D-glycerate biosynthetic process"
+response to glutathione
+regulation of leaf morphogenesis
+trehalose biosynthetic process involved in ascospore formation
+lipid hydroperoxide transport
+acetate ester transport
+organic heteropentacyclic compound metabolic process
+organic heteropentacyclic compound catabolic process
+organic heteropentacyclic compound biosynthetic process
+regulation of potassium ion transmembrane transport
+negative regulation of potassium ion transmembrane transport
+positive regulation of potassium ion transmembrane transport
+regulation of chorionic trophoblast cell proliferation
+negative regulation of chorionic trophoblast cell proliferation
+positive regulation of chorionic trophoblast cell proliferation
+regulation of voltage-gated calcium channel activity
+negative regulation of voltage-gated calcium channel activity
+positive regulation of voltage-gated calcium channel activity
+regulation of transforming growth factor beta activation
+negative regulation of transforming growth factor beta activation
+positive regulation of transforming growth factor beta activation
+regulation of transforming growth factor beta1 activation
+negative regulation of transforming growth factor beta1 activation
+positive regulation of transforming growth factor beta1 activation
+regulation of transforming growth factor beta2 activation
+negative regulation of transforming growth factor beta2 activation
+positive regulation of transforming growth factor beta2 activation
+regulation of transforming growth factor beta3 activation
+negative regulation of transforming growth factor beta3 activation
+positive regulation of transforming growth factor beta3 activation
+regulation of tetrapyrrole metabolic process
+negative regulation of tetrapyrrole metabolic process
+positive regulation of tetrapyrrole metabolic process
+regulation of tetrapyrrole catabolic process
+negative regulation of tetrapyrrole catabolic process
+positive regulation of tetrapyrrole catabolic process
+regulation of phosphorylation of RNA polymerase II C-terminal domain
+negative regulation of phosphorylation of RNA polymerase II C-terminal domain
+positive regulation of phosphorylation of RNA polymerase II C-terminal domain
+regulation of tetrapyrrole biosynthetic process from glutamate
+negative regulation of tetrapyrrole biosynthetic process from glutamate
+positive regulation of tetrapyrrole biosynthetic process from glutamate
+regulation of tetrapyrrole biosynthetic process from glycine and succinyl-CoA
+negative regulation of tetrapyrrole biosynthetic process from glycine and succinyl-CoA
+positive regulation of tetrapyrrole biosynthetic process from glycine and succinyl-CoA
+regulation of response to ethanol
+negative regulation of response to ethanol
+positive regulation of response to ethanol
+regulation of response to alcohol
+negative regulation of response to alcohol
+positive regulation of response to alcohol
+response to butan-1-ol
+response to benzene
+response to toluene
+response to formic acid
+response to furfural
+response to propan-1-ol
+regulation of syringal lignin biosynthetic process
+negative regulation of syringal lignin biosynthetic process
+positive regulation of syringal lignin biosynthetic process
+regulation of response to cycloalkane
+negative regulation of response to cycloalkane
+positive regulation of response to cycloalkane
+regulation of toluene catabolic process
+negative regulation of toluene catabolic process
+positive regulation of toluene catabolic process

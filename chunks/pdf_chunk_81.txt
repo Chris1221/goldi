@@ -1,0 +1,387 @@
+ectodermal placode morphogenesis
+olfactory placode development
+olfactory placode morphogenesis
+olfactory placode maturation
+regulation of MAPK export from nucleus
+organic substance transport
+detection of organic substance
+organic substance metabolic process
+nitrogen compound transport
+tumor necrosis factor superfamily cytokine production
+immunoglobulin heavy chain V-D-J recombination
+immunoglobulin light chain V-J recombination
+membrane assembly
+membrane macromolecule biosynthetic process
+basement membrane organization
+ER-associated misfolded protein catabolic process
+icosanoid transport
+leukotriene transport
+thromboxane transport
+sodium-independent icosanoid transport
+sodium-independent leukotriene transport
+sodium-independent prostaglandin transport
+sodium-independent thromboxane transport
+detoxification of arsenic-containing substance
+response to diacyl bacterial lipopeptide
+response to triacyl bacterial lipopeptide
+cellular response to diacyl bacterial lipopeptide
+cellular response to triacyl bacterial lipopeptide
+beak development
+beak morphogenesis
+beak formation
+response to nitric oxide
+cellular response to nitric oxide
+transcriptional activation by promoter-enhancer looping
+nuclear membrane organization
+nuclear outer membrane organization
+nuclear inner membrane organization
+Actinobacterium-type cell wall biogenesis
+mycolic acid metabolic process
+mycolic acid biosynthetic process
+mycolate cell wall layer assembly
+DIM/DIP cell wall layer assembly
+response to BMP
+cellular response to BMP stimulus
+response to fibroblast growth factor
+endoplasmic reticulum cisternal network organization
+endoplasmic reticulum cisternal network assembly
+endoplasmic reticulum cisternal network maintenance
+endoplasmic reticulum tubular network organization
+endoplasmic reticulum tubular network assembly
+endoplasmic reticulum tubular network maintenance
+spindle pole body localization to nuclear envelope
+establishment of spindle pole body localization to nuclear envelope
+bacillithiol metabolic process
+bacillithiol biosynthetic process
+response to prostaglandin D
+cellular response to prostaglandin D stimulus
+podosome assembly
+regulation of podosome assembly
+negative regulation of podosome assembly
+positive regulation of podosome assembly
+cellular potassium ion transport
+potassium ion transmembrane transport
+protein transmembrane transport
+replication fork arrest involved in DNA replication termination
+regulation of fever generation by regulation of prostaglandin biosynthesis
+regulation of fever generation by regulation of prostaglandin secretion
+positive regulation of fever generation by positive regulation of prostaglandin biosynthesis
+positive regulation of fever generation by positive regulation of prostaglandin secretion
+tail-anchored membrane protein insertion into ER membrane
+protein complex subunit organization
+protein-carbohydrate complex subunit organization
+protein-DNA complex subunit organization
+protein-lipid complex subunit organization
+ribonucleoprotein complex subunit organization
+plasma lipoprotein particle organization
+apolipoprotein E recycling
+plasma lipoprotein particle disassembly
+triglyceride-rich lipoprotein particle clearance
+intermediate-density lipoprotein particle clearance
+peptide pheromone export involved in conjugation
+peptide pheromone export involved in conjugation with cellular fusion
+mating pheromone secretion
+mating pheromone secretion involved in conjugation
+nectar secretion
+cell proliferation in bone marrow
+apoptotic process in bone marrow
+cellular component organization or biogenesis
+actin filament debranching
+TNFSF11-mediated signaling pathway
+positive regulation of ERK1 and ERK2 cascade via TNFSF11-mediated signaling
+G1 cell cycle arrest in response to nitrogen starvation
+mitotic cell cycle arrest
+mitotic G1 cell cycle arrest in response to nitrogen starvation
+fungal-type cell wall organization or biogenesis
+fungal-type cell wall disassembly
+cell wall macromolecule catabolic process involved in fungal-type cell wall disassembly
+regulation of cell proliferation in bone marrow
+positive regulation of cell proliferation in bone marrow
+regulation of apoptotic process in bone marrow
+negative regulation of apoptotic process in bone marrow
+response to monoamine
+cellular response to monoamine stimulus
+response to catecholamine
+cellular response to catecholamine stimulus
+response to epinephrine
+cellular response to epinephrine stimulus
+response to norepinephrine
+cellular response to norepinephrine stimulus
+adrenergic receptor signaling pathway
+initiation of adrenergic receptor signal transduction
+regulation of adrenergic receptor signaling pathway
+negative regulation of adrenergic receptor signaling pathway
+positive regulation of adrenergic receptor signaling pathway
+adenylate cyclase-activating adrenergic receptor signaling pathway
+adenylate cyclase-inhibiting adrenergic receptor signaling pathway
+phospholipase C-activating adrenergic receptor signaling pathway
+activation of MAPK activity by adrenergic receptor signaling pathway
+leukocyte apoptotic process
+macrophage apoptotic process
+N-terminal peptidyl-proline dimethylation involved in translation
+thrombocyte activation
+BMP signaling pathway involved in nephric duct formation
+histone H2B conserved C-terminal lysine ubiquitination
+odontoblast differentiation
+protein localization to adherens junction
+DNA biosynthetic process
+regulation of estrogen receptor binding
+negative regulation of estrogen receptor binding
+regulation of protein serine/threonine kinase activity
+negative regulation of protein serine/threonine kinase activity
+positive regulation of protein serine/threonine kinase activity
+protein N-linked N-acetylglucosaminylation via asparagine
+protein N-linked N-acetylgalactosaminylation via asparagine
+protein N-linked glucosylation via asparagine
+determination of digestive tract left/right asymmetry
+determination of intestine left/right asymmetry
+determination of stomach left/right asymmetry
+determination of liver left/right asymmetry
+synchronous neurotransmitter secretion
+asynchronous neurotransmitter secretion
+protein-lysine lysylation
+urea transmembrane transport
+G-quadruplex DNA formation
+cohesin localization to chromatin
+regulation of cohesin localization to chromatin
+negative regulation of cohesin localization to chromatin
+chemokine (C-C motif) ligand 22 production
+thymic stromal lymphopoietin production
+endocannabinoid signaling pathway
+octopamine signaling pathway
+tyramine signaling pathway
+alpha-tubulin acetylation
+positive regulation of transcription involved in G1/S transition of mitotic cell cycle
+replication fork reversal
+thiamine transmembrane transport
+octopamine signaling pathway involved in response to food
+vitamin A transport
+vitamin A import
+fungal-type cell wall assembly
+nitrogen cycle metabolic process
+regulation of bacterial-type flagellum-dependent cell motility by regulation of motor speed
+cis-acting DNA replication termination
+protein deubiquitination involved in ubiquitin-dependent protein catabolic process
+activation-induced B cell apoptotic process
+conversion of methionyl-tRNA to N-formyl-methionyl-tRNA
+conversion of O-phosphoseryl-tRNA to cysteinyl-tRNA
+chemokine (C-C motif) ligand 11 production
+recycling endosome to Golgi transport
+"maintenance of mitotic sister chromatid cohesion, arms"
+"maintenance of mitotic sister chromatid cohesion, centromeric"
+"mitotic sister chromatid cohesion, arms"
+"mitotic sister chromatid cohesion, centromeric"
+establishment or maintenance of cell polarity regulating cell shape
+establishment of cell polarity regulating cell shape
+multicellular organismal locomotion
+fungal-type cell wall polysaccharide metabolic process
+fungal-type cell wall (1->3)-beta-D-glucan metabolic process
+fungal-type cell wall (1->3)-beta-D-glucan biosynthetic process
+extracellular vesicular exosome assembly
+cell swimming
+cell gliding
+bacterial-type flagellum-dependent swimming motility
+bacterial-type flagellum-dependent swarming motility
+cytoskeleton-mediated cell swimming
+cell surface adhesin-mediated gliding motility
+exit from diapause
+maintenance of diapause
+exit from reproductive diapause
+maintenance of reproductive diapause
+multivesicular body sorting pathway
+protein localization to spindle pole body
+establishment of protein localization to spindle pole body
+maintenance of protein location in spindle pole body
+phytochelatin transport
+phytochelatin transmembrane transport
+phytochelatin import into vacuole
+glutathione transmembrane import into vacuole
+ascospore release from ascus
+extracellular polysaccharide catabolic process
+extracellular polysaccharide catabolic process involved in ascospore release from ascus
+renal system development
+Malpighian tubule development
+kidney rudiment formation
+kidney field specification
+maintenance of kidney identity
+nephron development
+mesangial cell differentiation
+glomerular mesangial cell differentiation
+nephron epithelium development
+glomerular epithelium development
+glomerular endothelium development
+glomerulus vasculature development
+glomus development
+proximal tubule development
+glomerular visceral epithelial cell development
+glomerular parietal epithelial cell development
+distal tubule development
+proximal convoluted tubule development
+proximal straight tubule development
+ascending thin limb development
+descending thin limb development
+thick ascending limb development
+macula densa development
+distal convoluted tubule development
+connecting tubule development
+nephron morphogenesis
+long nephron development
+short nephron development
+proximal convoluted tubule segment 1 development
+proximal convoluted tubule segment 2 development
+renal vesicle formation
+renal vesicle induction
+pre-tubular aggregate formation
+mesenchymal to epithelial transition involved in renal vesicle formation
+mesenchymal stem cell differentiation involved in nephron morphogenesis
+mesenchymal stem cell maintenance involved in nephron morphogenesis
+regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis
+negative regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis
+positive regulation of mesenchymal cell apoptotic process involved in nephron morphogenesis
+regulation of mesenchymal stem cell proliferation involved in nephron morphogenesis
+regulation of pre-tubular aggregate formation by cell-cell signaling
+collecting duct development
+convergent extension involved in nephron morphogenesis
+establishment of planar polarity involved in nephron morphogenesis
+proximal/distal pattern formation involved in nephron development
+renal system pattern specification
+comma-shaped body morphogenesis
+S-shaped body morphogenesis
+juxtaglomerular apparatus development
+juxtaglomerulus cell differentiation
+renal inner medulla development
+renal outer medulla development
+renal cortex development
+pyramid development
+inner stripe development
+outer stripe development
+cortical collecting duct development
+outer medullary collecting duct development
+inner medullary collecting duct development
+proximal convoluted tubule segment 1 cell differentiation
+short descending thin limb development
+long descending thin limb development
+long descending thin limb bend development
+prebend segment development
+early distal convoluted tubule development
+late distal convoluted tubule development
+DCT cell differentiation
+loop of Henle development
+kidney interstitial fibroblast differentiation
+kidney stroma development
+kidney epithelium development
+kidney mesenchyme development
+metanephric mesenchyme development
+nephrogenic mesenchyme development
+renal vesicle morphogenesis
+nephron tubule morphogenesis
+nephron tubule formation
+nephron tubule development
+specification of nephron tubule identity
+specification of proximal tubule identity
+specification of distal tubule identity
+specification of connecting tubule identity
+specification of loop of Henle identity
+renal vesicle development
+nephron epithelium morphogenesis
+stem cell proliferation
+mesenchymal stem cell proliferation involved in nephron morphogenesis
+regulation of stem cell proliferation
+ureteric bud invasion
+metanephric renal vesicle formation
+metanephric renal vesicle induction
+regulation of branch elongation involved in ureteric bud branching
+negative regulation of branch elongation involved in ureteric bud branching
+negative regulation of branch elongation involved in ureteric bud branching by BMP signaling pathway
+anterior/posterior pattern specification involved in kidney development
+anterior/posterior pattern specification involved in ureteric bud development
+specification of ureteric bud anterior/posterior symmetry
+specification of ureteric bud anterior/posterior symmetry by BMP signaling pathway
+glomerulus morphogenesis
+glomerulus vasculature morphogenesis
+glomerular capillary formation
+ureteric peristalsis
+regulation of ureteric bud formation
+positive regulation of ureteric bud formation
+positive regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis
+glomerular mesangium development
+glomerular mesangial cell proliferation
+cell proliferation involved in kidney development
+glomerular visceral epithelial cell differentiation
+head kidney development
+pronephros morphogenesis
+head kidney morphogenesis
+pronephros formation
+head kidney formation
+pronephros structural organization
+head kidney structural organization
+pronephros maturation
+head kidney maturation
+extraglomerular mesangial cell proliferation
+intraglomerular mesangial cell proliferation
+regulation of glomerular mesangial cell proliferation
+negative regulation of glomerular mesangial cell proliferation
+positive regulation of glomerular mesangial cell proliferation
+renal capsule development
+renal capsule morphogenesis
+renal capsule formation
+renal capsule specification
+kidney mesenchyme morphogenesis
+mesenchyme morphogenesis
+metanephric mesenchyme morphogenesis
+nephrogenic mesenchyme morphogenesis
+kidney mesenchymal cell proliferation
+metanephric mesenchymal cell proliferation involved in metanephros development
+condensed mesenchymal cell proliferation
+mesenchymal cell proliferation involved in ureteric bud development
+glomerular parietal epithelial cell differentiation
+DCT cell development
+renal interstitial fibroblast development
+juxtaglomerulus cell development
+mesangial cell development
+glomerular mesangial cell development
+proximal convoluted tubule segment 1 cell development
+DCT cell fate commitment
+glomerular parietal epithelial cell fate commitment
+epithelial cell fate commitment
+glomerular visceral epithelial cell fate commitment
+juxtaglomerulus cell fate commitment
+mesangial cell fate commitment
+glomerular mesangial cell fate commitment
+renal interstitial fibroblast fate commitment
+proximal convoluted tubule segment 1 cell fate commitment
+epithelial cell migration involved in nephron tubule morphogenesis
+distal tubule morphogenesis
+epithelial cell migration involved in distal tubule morphogenesis
+proximal tubule morphogenesis
+epithelial cell migration involved in proximal tubule morphogenesis
+nephron tubule epithelial cell differentiation
+mesenchymal cell differentiation involved in kidney development
+metanephric mesenchymal cell differentiation
+mesonephric epithelium development
+mesonephric tubule development
+anterior mesonephric tubule development
+posterior mesonephric tubule development
+specification of mesonephric tubule identity
+specification of anterior mesonephric tubule identity
+specification of posterior mesonephric tubule identity
+metanephric tubule development
+mesonephric tubule morphogenesis
+mesonephric tubule formation
+metanephric tubule morphogenesis
+metanephric tubule formation
+epithelial tube formation
+nephric duct development
+mesonephric duct development
+nephric duct morphogenesis
+nephric duct formation
+mesonephric duct morphogenesis
+mesonephric duct formation
+regulation of nephron tubule epithelial cell differentiation
+negative regulation of nephron tubule epithelial cell differentiation
+renal vesicle progenitor cell differentiation
+metanephric cap development
+metanephric cap morphogenesis
+metanephric cap formation
+metanephric cap specification
+ureter development

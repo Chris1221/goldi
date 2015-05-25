@@ -1,0 +1,387 @@
+regulation of muscle organ development
+negative regulation of muscle organ development
+positive regulation of muscle organ development
+regulation of developmental growth
+positive regulation of developmental growth
+negative regulation of developmental growth
+regulation of skeletal muscle tissue development
+negative regulation of skeletal muscle tissue development
+positive regulation of skeletal muscle tissue development
+muscle organ morphogenesis
+organ formation
+polyphenic determination
+caste determination
+"caste determination, influence by genetic factors"
+"caste determination, influence by environmental factors"
+"polyphenic determination, influence by environmental factors"
+"polyphenic determination, influence by genetic factors"
+anther development
+anther morphogenesis
+anther wall tapetum morphogenesis
+anther wall tapetum formation
+anther wall tapetum cell differentiation
+anther wall tapetum development
+smooth muscle cell proliferation
+regulation of smooth muscle cell proliferation
+positive regulation of smooth muscle cell proliferation
+negative regulation of smooth muscle cell proliferation
+neuron fate commitment
+neuron fate determination
+neuron fate specification
+neuron development
+cell morphogenesis involved in neuron differentiation
+collateral sprouting
+collateral sprouting in absence of injury
+regulation of collateral sprouting
+negative regulation of collateral sprouting
+positive regulation of collateral sprouting
+collateral sprouting of intact axon in response to injury
+collateral sprouting of injured axon
+axon extension
+axon extension involved in regeneration
+response to axon injury
+regulation of axon regeneration
+positive regulation of axon regeneration
+negative regulation of axon regeneration
+sprouting of injured axon
+regulation of collateral sprouting of intact axon in response to injury
+positive regulation of collateral sprouting of intact axon in response to injury
+negative regulation of collateral sprouting of intact axon in response to injury
+regulation of sprouting of injured axon
+positive regulation of sprouting of injured axon
+negative regulation of sprouting of injured axon
+formation of growth cone in injured axon
+regulation of axon extension involved in regeneration
+positive regulation of axon extension involved in regeneration
+negative regulation of axon extension involved in regeneration
+regulation of collateral sprouting of injured axon
+positive regulation of collateral sprouting of injured axon
+negative regulation of collateral sprouting of injured axon
+regulation of collateral sprouting in absence of injury
+positive regulation of collateral sprouting in absence of injury
+negative regulation of collateral sprouting in absence of injury
+generation of neurons
+acquisition of desiccation tolerance in seed
+embryonic cranial skeleton morphogenesis
+embryonic neurocranium morphogenesis
+embryonic viscerocranium morphogenesis
+embryonic skeletal system morphogenesis
+skeletal system morphogenesis
+embryonic skeletal system development
+instar larval or pupal morphogenesis
+astrocyte differentiation
+oligodendrocyte differentiation
+regulation of astrocyte differentiation
+positive regulation of astrocyte differentiation
+negative regulation of astrocyte differentiation
+regulation of oligodendrocyte differentiation
+positive regulation of oligodendrocyte differentiation
+negative regulation of oligodendrocyte differentiation
+labrum morphogenesis
+anterior cibarial plate morphogenesis
+cibarial fish-trap bristle morphogenesis
+epistomal sclerite morphogenesis
+posterior cibarial plate morphogenesis
+clypeus morphogenesis
+anterior cibarial plate development
+clypeus development
+epistomal sclerite development
+cibarial fish-trap bristle development
+labrum development
+posterior cibarial plate development
+proboscis development
+tissue morphogenesis
+epidermis morphogenesis
+system development
+gland development
+sebaceous gland development
+proboscis morphogenesis
+haltere morphogenesis
+appendage development
+imaginal disc-derived appendage development
+cardiac muscle tissue development
+cardiac muscle fiber development
+striated muscle fiber development
+skeletal muscle fiber development
+regulation of skeletal muscle fiber development
+positive regulation of skeletal muscle fiber development
+negative regulation of skeletal muscle fiber development
+smooth muscle tissue development
+smooth muscle fiber development
+muscle fiber development
+compound eye development
+compound eye corneal lens morphogenesis
+semicircular canal morphogenesis
+pigment granule organization
+branching morphogenesis of an epithelial tube
+branching morphogenesis of a nerve
+sieve cell differentiation
+pigment granule maturation
+companion cell differentiation
+xylem vessel member cell differentiation
+plant parenchymal cell differentiation
+collenchyma cell differentiation
+mesenchymal cell differentiation
+trichoblast maturation
+root hair cell differentiation
+root hair initiation
+root hair elongation
+root hair cell tip growth
+sarcomerogenesis
+tissue remodeling
+leucophore differentiation
+erythrophore differentiation
+cyanophore differentiation
+regulation of leucophore differentiation
+negative regulation of leucophore differentiation
+positive regulation of leucophore differentiation
+regulation of erythrophore differentiation
+negative regulation of erythrophore differentiation
+positive regulation of erythrophore differentiation
+regulation of cyanophore differentiation
+negative regulation of cyanophore differentiation
+positive regulation of cyanophore differentiation
+pigment biosynthetic process involved in pigment granule maturation
+hatching gland development
+cytoskeletal matrix organization at active zone
+maintenance of presynaptic active zone structure
+calcium ion-dependent exocytosis of neurotransmitter
+calcium ion-independent exocytosis of neurotransmitter
+pronephros development
+swim bladder development
+swim bladder morphogenesis
+swim bladder maturation
+swim bladder formation
+swim bladder inflation
+organ maturation
+antennal morphogenesis
+antennal joint morphogenesis
+notum morphogenesis
+imaginal disc-derived male genitalia morphogenesis
+imaginal disc-derived female genitalia morphogenesis
+imaginal disc-derived genitalia morphogenesis
+genitalia development
+female genitalia morphogenesis
+male genitalia morphogenesis
+female analia morphogenesis
+male analia morphogenesis
+neuron projection morphogenesis
+dendrite morphogenesis
+regulation of dendrite morphogenesis
+hermaphrodite genitalia morphogenesis
+ocellus morphogenesis
+negative regulation of hair follicle maturation
+positive regulation of hair follicle maturation
+regulation of hair follicle maturation
+hair follicle maturation
+erythrocyte development
+enucleate erythrocyte development
+nucleate erythrocyte development
+pigment cell precursor differentiation
+cotyledon development
+cotyledon morphogenesis
+phyllome development
+root cap development
+adventitious root development
+regulation of shoot system development
+specification of organ number
+specification of floral organ number
+specification of petal number
+specification of decreased petal number
+specification of increased petal number
+sorus development
+release of seed from dormancy
+inner ear development
+otolith development
+regulation of axon extension involved in axon guidance
+positive regulation of axon extension involved in axon guidance
+negative regulation of axon extension involved in axon guidance
+artery morphogenesis
+venous blood vessel morphogenesis
+axon extension involved in axon guidance
+adenohypophysis formation
+neurohypophysis morphogenesis
+neurohypophysis formation
+hypophysis morphogenesis
+hypophysis formation
+diencephalon morphogenesis
+forebrain morphogenesis
+brain morphogenesis
+adenohypophysis morphogenesis
+anatomical structure development
+neural nucleus development
+cell projection morphogenesis
+formation of anatomical boundary
+glioblast division
+leukemia inhibitory factor signaling pathway
+stem cell differentiation
+stem cell development
+stem cell fate commitment
+stem cell fate specification
+stem cell fate determination
+pollen tube development
+cellular developmental process
+cell motility
+multicellular organismal homeostasis
+homeostasis of number of cells
+homeostasis of number of cells within a tissue
+homeostasis of number of cells in a free-living population
+chemical homeostasis within a tissue
+chemical homeostasis within retina
+homeostasis of number of retina cells
+chemical homeostasis
+sensory system development
+mechanosensory lateral line system development
+lateral line development
+neuromast primordium migration
+neuromast development
+neuromast deposition
+neuromast hair cell differentiation
+cupula development
+neuromast mantle cell differentiation
+neuromast support cell differentiation
+lateral line ganglion development
+lateral line ganglion neuron differentiation
+lateral line nerve development
+afferent axon development in lateral line nerve
+efferent axon development in a lateral line nerve
+lateral line nerve glial cell differentiation
+lateral line nerve glial cell migration
+myelination of lateral line nerve axons
+anterior lateral line system development
+anterior lateral line development
+anterior lateral line neuromast primordium migration
+anterior lateral line neuromast development
+anterior lateral line neuromast deposition
+anterior lateral line neuromast hair cell differentiation
+anterior lateral line neuromast cupula development
+anterior lateral line neuromast mantle cell differentiation
+anterior lateral line neuromast support cell differentiation
+anterior lateral line ganglion development
+anterior lateral line ganglion neuron differentiation
+anterior lateral line nerve development
+afferent axon development in anterior lateral line nerve
+efferent axon development in anterior lateral line nerve
+glial cell migration in anterior lateral line nerve
+anterior lateral line nerve glial cell differentiation
+myelination of anterior lateral line nerve axons
+posterior lateral line system development
+posterior lateral line development
+posterior lateral line ganglion development
+posterior lateral line nerve development
+posterior lateral line neuromast development
+posterior lateral line neuromast primordium migration
+posterior lateral line neuromast cupula development
+posterior lateral line neuromast deposition
+posterior lateral line neuromast hair cell differentiation
+posterior lateral line neuromast mantle cell differentiation
+lateral line system development
+electrosensory lateral line system development
+posterior lateral line neuromast support cell differentiation
+posterior lateral line ganglion neuron differentiation
+efferent axon development in posterior lateral line nerve
+glial cell migration in posterior lateral line nerve
+posterior lateral line nerve glial cell differentiation
+myelination of posterior lateral line nerve axons
+afferent axon development in posterior lateral line nerve
+peripheral nervous system neuron differentiation
+peripheral nervous system neuron development
+peripheral nervous system neuron axonogenesis
+lateral line nerve glial cell development
+lateral line nerve glial cell morphogenesis involved in differentiation
+anterior lateral line nerve glial cell development
+anterior lateral line nerve glial cell morphogenesis involved in differentiation
+posterior lateral line nerve glial cell development
+posterior lateral line nerve glial cell morphogenesis involved in differentiation
+chromosome localization
+3'-phosphoadenosine 5'-phosphosulfate metabolic process
+3'-phosphoadenosine 5'-phosphosulfate biosynthetic process
+catecholamine secretion
+regulation of catecholamine secretion
+positive regulation of viral transcription
+beta-amyloid metabolic process
+arachidonic acid secretion
+GPI anchor biosynthetic process via N-threonyl-glycosylphosphatidylinositolethanolamine
+GSI anchor biosynthetic process via N-glycyl-glycosylsphingolipidinositolethanolamine
+peptidyl-glycyl-phosphatidylethanolamine biosynthetic process from peptidyl-glycine
+peptidyl-L-glutamyl 5-omega-hydroxyceramide ester biosynthetic process from peptidyl-glutamine
+chondroitin sulfate proteoglycan biosynthetic process
+dermatan sulfate proteoglycan biosynthetic process
+"dermatan sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process"
+"chondroitin sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process"
+chondroitin sulfate proteoglycan metabolic process
+dermatan sulfate proteoglycan metabolic process
+nucleic acid transport
+RNA transport
+cytokine secretion
+hydrogen peroxide biosynthetic process
+regulation of homocysteine metabolic process
+homocysteine metabolic process
+positive regulation of homocysteine metabolic process
+negative regulation of homocysteine metabolic process
+regulation of lymphocyte proliferation
+positive regulation of lymphocyte proliferation
+negative regulation of lymphocyte proliferation
+epithelial cell proliferation
+urothelial cell proliferation
+regulation of urothelial cell proliferation
+negative regulation of urothelial cell proliferation
+positive regulation of urothelial cell proliferation
+regulation of epithelial cell proliferation
+positive regulation of epithelial cell proliferation
+negative regulation of epithelial cell proliferation
+regulation of mRNA processing
+positive regulation of mRNA processing
+negative regulation of mRNA processing
+negative regulation of defense response to virus
+regulation of defense response to virus
+negative regulation of defense response to virus by host
+regulation of defense response to virus by virus
+regulation of defense response to virus by host
+trichloroethylene catabolic process
+interleukin-1 secretion
+interleukin-1 beta secretion
+interleukin-1 alpha secretion
+regulation of interleukin-1 secretion
+regulation of interleukin-1 alpha secretion
+regulation of interleukin-1 beta secretion
+regulation of cytokine secretion
+regulation of protein secretion
+negative regulation of protein secretion
+negative regulation of cytokine secretion
+negative regulation of interleukin-1 secretion
+negative regulation of interleukin-1 alpha secretion
+negative regulation of interleukin-1 beta secretion
+positive regulation of protein secretion
+positive regulation of cytokine secretion
+positive regulation of interleukin-1 secretion
+positive regulation of interleukin-1 alpha secretion
+positive regulation of interleukin-1 beta secretion
+interleukin-1 alpha biosynthetic process
+interleukin-1 beta biosynthetic process
+regulation of interleukin-1 alpha biosynthetic process
+regulation of interleukin-1 beta biosynthetic process
+negative regulation of interleukin-1 alpha biosynthetic process
+negative regulation of interleukin-1 beta biosynthetic process
+positive regulation of interleukin-1 beta biosynthetic process
+positive regulation of interleukin-1 alpha biosynthetic process
+regulation of inflammatory response
+negative regulation of inflammatory response
+positive regulation of inflammatory response
+regulation of peptidyl-tyrosine phosphorylation
+positive regulation of peptidyl-tyrosine phosphorylation
+negative regulation of peptidyl-tyrosine phosphorylation
+peptide cross-linking via S-[5'-(L-tryptoph-6'-yl)-L-tyrosin-3'-yl]-L-methionin-S-ium
+protein-FMN linkage via O3-riboflavin phosphoryl-L-threonine
+protein-FMN linkage via O3-riboflavin phosphoryl-L-serine
+protein-FMN linkage via S-(4a-FMN)-L-cysteine
+protein-FMN linkage via 1'-(8alpha-FMN)-L-histidine
+protein-FMN linkage via 3'-(8alpha-FMN)-L-histidine
+peptide cross-linking via L-cysteinyl-5-imidazolinone glycine
+regulation of lipoprotein metabolic process
+positive regulation of lipoprotein metabolic process
+negative regulation of lipoprotein metabolic process
+fractalkine biosynthetic process
+regulation of fractalkine biosynthetic process
+negative regulation of fractalkine biosynthetic process
+positive regulation of fractalkine biosynthetic process

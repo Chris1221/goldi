@@ -1,0 +1,387 @@
+"protein import into mitochondrial intermembrane space, conservative"
+secretory pathway
+protein import into peroxisome membrane
+protein targeting to ER
+protein insertion into ER membrane
+protein insertion into ER membrane by N-terminal cleaved signal sequence
+protein insertion into ER membrane by stop-transfer membrane-anchor sequence
+protein insertion into ER membrane by internal uncleaved signal-anchor sequence
+protein insertion into ER membrane by GPI attachment sequence
+protein retention in Golgi apparatus
+constitutive secretory pathway
+regulated secretory pathway
+cisternal progression
+T cell selection
+positive thymic T cell selection
+negative thymic T cell selection
+thymic T cell selection
+extrathymic T cell selection
+T-helper 1 cell differentiation
+T-helper 2 cell differentiation
+cytotoxic T cell differentiation
+regulatory T cell differentiation
+positive extrathymic T cell selection
+negative extrathymic T cell selection
+regulation of viral genome replication
+positive regulation of viral genome replication
+negative regulation of viral genome replication
+regulation of interferon-gamma biosynthetic process
+regulation of chemokine biosynthetic process
+regulation of interleukin-10 biosynthetic process
+regulation of interleukin-12 biosynthetic process
+regulation of interleukin-2 biosynthetic process
+negative regulation of interferon-gamma biosynthetic process
+positive regulation of interferon-gamma biosynthetic process
+negative regulation of chemokine biosynthetic process
+positive regulation of chemokine biosynthetic process
+negative regulation of interleukin-10 biosynthetic process
+positive regulation of interleukin-10 biosynthetic process
+negative regulation of interleukin-12 biosynthetic process
+positive regulation of interleukin-12 biosynthetic process
+negative regulation of interleukin-2 biosynthetic process
+positive regulation of interleukin-2 biosynthetic process
+innate immune response
+regulation of innate immune response
+positive regulation of innate immune response
+regulation of single stranded viral RNA replication via double stranded DNA intermediate
+intermediate filament-based process
+intermediate filament cytoskeleton organization
+intermediate filament polymerization or depolymerization
+intermediate filament depolymerization
+intermediate filament polymerization
+regulation of intermediate filament polymerization or depolymerization
+intermediate filament organization
+intermediate filament bundle assembly
+integrin biosynthetic process
+regulation of integrin biosynthetic process
+beta 2 integrin biosynthetic process
+regulation of beta 2 integrin biosynthetic process
+azole transport
+aflatoxin biosynthetic process
+cellular extravasation
+regulation of bone resorption
+negative regulation of reciprocal meiotic recombination
+meiotic chromosome segregation
+development of secondary sexual characteristics
+development of primary sexual characteristics
+nematode male tail tip morphogenesis
+copper sensitivity/resistance
+response to copper ion
+meiotic telomere clustering
+homologous chromosome segregation
+meiotic sister chromatid segregation
+initiation of acetate catabolic process by acetate
+regulation of initiation of acetate catabolic process by acetate
+acetoin metabolic process
+acetoin catabolic process
+acetoin biosynthetic process
+neuronal ion channel clustering
+clustering of voltage-gated sodium channels
+clustering of voltage-gated potassium channels
+cell fate commitment
+asymmetric protein localization involved in cell fate determination
+cell-cell signaling involved in cell fate commitment
+O-sialoglycoprotein catabolic process
+basal protein localization
+apical protein localization
+establishment of protein localization
+maintenance of protein location
+zonula adherens assembly
+"regulation of circadian sleep/wake cycle, sleep"
+"regulation of circadian sleep/wake cycle, non-REM sleep"
+connective tissue growth factor biosynthetic process
+isotype switching
+regulation of isotype switching
+low-density lipoprotein catabolic process
+acetylated low-density lipoprotein catabolic process
+oxidized low-density lipoprotein catabolic process
+gallstone formation
+establishment or maintenance of neuroblast polarity
+establishment or maintenance of epithelial cell apical/basal polarity
+establishment of epithelial cell apical/basal polarity
+maintenance of epithelial cell apical/basal polarity
+establishment of neuroblast polarity
+maintenance of neuroblast polarity
+MAPK export from nucleus
+MAPK phosphatase export from nucleus
+"MAPK phosphatase export from nucleus, leptomycin B sensitive"
+FasL biosynthetic process
+neurotransmitter receptor biosynthetic process
+neurotransmitter receptor metabolic process
+sarcomere organization
+cell-cell junction organization
+cell-cell junction maintenance
+zonula adherens maintenance
+regulation of FasL biosynthetic process
+positive regulation of FasL biosynthetic process
+negative regulation of FasL biosynthetic process
+CD4 biosynthetic process
+regulation of CD4 biosynthetic process
+positive regulation of CD4 biosynthetic process
+negative regulation of CD4 biosynthetic process
+extracellular polysaccharide biosynthetic process
+capsule polysaccharide biosynthetic process
+slime layer polysaccharide biosynthetic process
+external encapsulating structure organization
+capsule organization
+slime layer organization
+S-layer organization
+protein palmitoleylation
+"mRNA trans splicing, SL addition"
+"mRNA cis splicing, via spliceosome"
+post-mating behavior
+otolith mineralization
+regulation of establishment of competence for transformation
+negative regulation of establishment of competence for transformation
+positive regulation of establishment of competence for transformation
+invasive growth in response to pheromone
+nor-spermidine biosynthetic process
+rhabdomere membrane biogenesis
+regulation of compound eye photoreceptor development
+positive regulation of compound eye photoreceptor development
+negative regulation of compound eye photoreceptor development
+equator specification
+"SRP-independent cotranslational protein-membrane targeting, translocation"
+leukocyte activation
+late endosome to vacuole transport
+peptidyl-tryptophan hydroxylation
+protein-DNA covalent cross-linking via the 3'-end to peptidyl-tyrosine
+protein-DNA covalent cross-linking via peptidyl-tyrosine
+cytochrome P450 4A1-heme linkage
+carnitine biosynthetic process
+phospholipid translocation
+cellular respiration
+farnesyl diphosphate biosynthetic process
+farnesyl diphosphate metabolic process
+farnesyl diphosphate catabolic process
+MHC class I biosynthetic process
+MHC class II biosynthetic process
+regulation of MHC class I biosynthetic process
+negative regulation of MHC class I biosynthetic process
+positive regulation of MHC class I biosynthetic process
+regulation of MHC class II biosynthetic process
+negative regulation of MHC class II biosynthetic process
+positive regulation of MHC class II biosynthetic process
+interferon-alpha biosynthetic process
+interferon-beta biosynthetic process
+type I interferon biosynthetic process
+regulation of interferon-alpha biosynthetic process
+negative regulation of interferon-alpha biosynthetic process
+positive regulation of interferon-alpha biosynthetic process
+regulation of interferon-beta biosynthetic process
+negative regulation of interferon-beta biosynthetic process
+positive regulation of interferon-beta biosynthetic process
+regulation of interleukin-1 biosynthetic process
+negative regulation of interleukin-1 biosynthetic process
+positive regulation of interleukin-1 biosynthetic process
+regulation of interleukin-11 biosynthetic process
+negative regulation of interleukin-11 biosynthetic process
+positive regulation of interleukin-11 biosynthetic process
+regulation of interleukin-13 biosynthetic process
+negative regulation of interleukin-13 biosynthetic process
+positive regulation of interleukin-13 biosynthetic process
+regulation of interleukin-14 biosynthetic process
+negative regulation of interleukin-14 biosynthetic process
+positive regulation of interleukin-14 biosynthetic process
+regulation of interleukin-15 biosynthetic process
+negative regulation of interleukin-15 biosynthetic process
+positive regulation of interleukin-15 biosynthetic process
+regulation of interleukin-16 biosynthetic process
+negative regulation of interleukin-16 biosynthetic process
+positive regulation of interleukin-16 biosynthetic process
+regulation of interleukin-17 biosynthetic process
+negative regulation of interleukin-17 biosynthetic process
+positive regulation of interleukin-17 biosynthetic process
+regulation of interleukin-18 biosynthetic process
+negative regulation of interleukin-18 biosynthetic process
+positive regulation of interleukin-18 biosynthetic process
+regulation of interleukin-19 biosynthetic process
+negative regulation of interleukin-19 biosynthetic process
+positive regulation of interleukin-19 biosynthetic process
+regulation of interleukin-20 biosynthetic process
+negative regulation of interleukin-20 biosynthetic process
+positive regulation of interleukin-20 biosynthetic process
+regulation of interleukin-21 biosynthetic process
+negative regulation of interleukin-21 biosynthetic process
+positive regulation of interleukin-21 biosynthetic process
+regulation of interleukin-22 biosynthetic process
+negative regulation of interleukin-22 biosynthetic process
+positive regulation of interleukin-22 biosynthetic process
+regulation of interleukin-23 biosynthetic process
+negative regulation of interleukin-23 biosynthetic process
+positive regulation of interleukin-23 biosynthetic process
+regulation of interleukin-3 biosynthetic process
+negative regulation of interleukin-3 biosynthetic process
+positive regulation of interleukin-3 biosynthetic process
+regulation of interleukin-4 biosynthetic process
+negative regulation of interleukin-4 biosynthetic process
+positive regulation of interleukin-4 biosynthetic process
+regulation of interleukin-5 biosynthetic process
+negative regulation of interleukin-5 biosynthetic process
+positive regulation of interleukin-5 biosynthetic process
+regulation of interleukin-6 biosynthetic process
+negative regulation of interleukin-6 biosynthetic process
+positive regulation of interleukin-6 biosynthetic process
+regulation of interleukin-7 biosynthetic process
+negative regulation of interleukin-7 biosynthetic process
+positive regulation of interleukin-7 biosynthetic process
+regulation of interleukin-8 biosynthetic process
+negative regulation of interleukin-8 biosynthetic process
+positive regulation of interleukin-8 biosynthetic process
+regulation of interleukin-9 biosynthetic process
+negative regulation of interleukin-9 biosynthetic process
+positive regulation of interleukin-9 biosynthetic process
+regulation of connective tissue growth factor biosynthetic process
+negative regulation of connective tissue growth factor biosynthetic process
+positive regulation of connective tissue growth factor biosynthetic process
+regulation of granulocyte macrophage colony-stimulating factor biosynthetic process
+negative regulation of granulocyte macrophage colony-stimulating factor biosynthetic process
+positive regulation of granulocyte macrophage colony-stimulating factor biosynthetic process
+enzyme active site formation via (phospho-5'-guanosine)-L-histidine
+regulation of nitric oxide biosynthetic process
+positive regulation of nitric oxide biosynthetic process
+"male courtship behavior, veined wing generated song production"
+"negative regulation of female receptivity, post-mating"
+juvenile hormone secretion
+fat cell differentiation
+myoblast differentiation
+endothelial cell differentiation
+"mitotic cell cycle, embryonic"
+bicoid mRNA localization
+pole plasm oskar mRNA localization
+bone resorption
+ecdysteroid metabolic process
+ecdysteroid biosynthetic process
+ecdysteroid secretion
+recombination within rDNA repeats
+iron incorporation into iron-sulfur cluster via tetrakis-L-cysteinyl triiron tetrasulfide
+sterigmatocystin metabolic process
+sterigmatocystin biosynthetic process
+R8 cell development
+R8 cell fate specification
+R8 cell differentiation
+R7 cell differentiation
+R7 cell development
+regulation of R8 cell spacing in compound eye
+negative regulation of R8 cell spacing in compound eye
+R8 cell-mediated photoreceptor organization
+response to ethanol
+response to ether
+response to ethanol (sensu Insecta)
+behavioral response to ethanol
+response to ether (sensu Insecta)
+behavioral response to ether
+locomotor rhythm
+nurse cell apoptotic process
+regulation of nurse cell apoptotic process
+fusome organization
+vesicle targeting to fusome
+gibberellin catabolic process
+pectin metabolic process
+pectin biosynthetic process
+pectin catabolic process
+xylan metabolic process
+xylan biosynthetic process
+xylan catabolic process
+photoreceptor cell maintenance
+male analia development
+female analia development
+sex comb development
+sevenless signaling pathway
+regulation of sevenless signaling pathway
+interleukin-24 biosynthetic process
+interleukin-25 biosynthetic process
+interleukin-26 biosynthetic process
+interleukin-27 biosynthetic process
+regulation of interleukin-24 biosynthetic process
+regulation of interleukin-25 biosynthetic process
+regulation of interleukin-26 biosynthetic process
+regulation of interleukin-27 biosynthetic process
+negative regulation of interleukin-24 biosynthetic process
+negative regulation of interleukin-25 biosynthetic process
+negative regulation of interleukin-26 biosynthetic process
+negative regulation of interleukin-27 biosynthetic process
+positive regulation of interleukin-24 biosynthetic process
+positive regulation of interleukin-25 biosynthetic process
+positive regulation of interleukin-26 biosynthetic process
+positive regulation of interleukin-27 biosynthetic process
+regulation of cholesterol biosynthetic process
+negative regulation of cholesterol biosynthetic process
+positive regulation of cholesterol biosynthetic process
+TRAIL biosynthetic process
+regulation of TRAIL biosynthetic process
+negative regulation of TRAIL biosynthetic process
+positive regulation of TRAIL biosynthetic process
+TRAIL receptor biosynthetic process
+TRAIL receptor 1 biosynthetic process
+TRAIL receptor 2 biosynthetic process
+regulation of TRAIL receptor biosynthetic process
+regulation of TRAIL receptor 1 biosynthetic process
+regulation of TRAIL receptor 2 biosynthetic process
+negative regulation of TRAIL receptor biosynthetic process
+positive regulation of TRAIL receptor biosynthetic process
+negative regulation of TRAIL receptor 1 biosynthetic process
+positive regulation of TRAIL receptor 1 biosynthetic process
+negative regulation of TRAIL receptor 2 biosynthetic process
+positive regulation of TRAIL receptor 2 biosynthetic process
+regulation of imaginal disc growth
+negative regulation of imaginal disc growth
+positive regulation of imaginal disc growth
+sterigmatocystin catabolic process
+basophil activation
+mast cell activation
+regulation of B cell differentiation
+negative regulation of B cell differentiation
+positive regulation of B cell differentiation
+regulation of T cell differentiation
+negative regulation of T cell differentiation
+positive regulation of T cell differentiation
+regulation of cytotoxic T cell differentiation
+negative regulation of cytotoxic T cell differentiation
+positive regulation of cytotoxic T cell differentiation
+regulation of gamma-delta T cell differentiation
+negative regulation of gamma-delta T cell differentiation
+positive regulation of gamma-delta T cell differentiation
+regulation of regulatory T cell differentiation
+negative regulation of regulatory T cell differentiation
+positive regulation of regulatory T cell differentiation
+regulation of cumulus cell differentiation
+negative regulation of cumulus cell differentiation
+positive regulation of cumulus cell differentiation
+regulation of cell differentiation
+negative regulation of cell differentiation
+positive regulation of cell differentiation
+regulation of fat cell differentiation
+negative regulation of fat cell differentiation
+positive regulation of fat cell differentiation
+regulation of endothelial cell differentiation
+negative regulation of endothelial cell differentiation
+positive regulation of endothelial cell differentiation
+regulation of epidermal cell differentiation
+negative regulation of epidermal cell differentiation
+positive regulation of epidermal cell differentiation
+regulation of auditory receptor cell differentiation
+negative regulation of auditory receptor cell differentiation
+positive regulation of auditory receptor cell differentiation
+regulation of hemocyte differentiation
+negative regulation of hemocyte differentiation
+positive regulation of hemocyte differentiation
+regulation of plasmatocyte differentiation
+negative regulation of plasmatocyte differentiation
+positive regulation of plasmatocyte differentiation
+regulation of keratinocyte differentiation
+negative regulation of keratinocyte differentiation
+positive regulation of keratinocyte differentiation
+regulation of lymphocyte differentiation
+negative regulation of lymphocyte differentiation
+positive regulation of lymphocyte differentiation
+regulation of T-helper cell differentiation
+negative regulation of T-helper cell differentiation
+positive regulation of T-helper cell differentiation
+regulation of T-helper 1 cell differentiation
+negative regulation of T-helper 1 cell differentiation
+positive regulation of T-helper 1 cell differentiation
+regulation of T-helper 2 cell differentiation
+negative regulation of T-helper 2 cell differentiation
+positive regulation of T-helper 2 cell differentiation
+regulation of mechanoreceptor differentiation

@@ -1,0 +1,388 @@
+1-acyl-2-lysophosphatidylserine acylhydrolase activity
+fatty acid amide hydrolase activity
+single-strand selective uracil DNA N-glycosylase activity
+tyrosine-ester sulfotransferase activity
+U6 snRNA binding
+tubulin-specific chaperone activity
+procollagen N-endopeptidase activity
+syntaxin-1 binding
+purine nucleotide binding
+oxidative phosphorylation uncoupler activity
+Hsc70 protein regulator activity
+heat shock protein binding
+sodium channel regulator activity
+chloride channel regulator activity
+mineralocorticoid receptor activity
+4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase activity
+delta1-pyrroline-5-carboxylate synthetase activity
+X-Pro dipeptidyl-peptidase activity
+glycolipid transporter activity
+AU-rich element binding
+sterol regulatory element-binding protein site 2 protease activity
+sterol regulatory element-binding protein protease activity
+sterol regulatory element-binding protein site 1 protease activity
+heparan sulfate 6-O-sulfotransferase activity
+acetylserotonin O-methyltransferase activity
+sulfonylurea receptor binding
+very-long-chain-acyl-CoA dehydrogenase activity
+UTP:galactose-1-phosphate uridylyltransferase activity
+acyl-CoA delta11-desaturase activity
+activin inhibitor activity
+anion exchanger adaptor activity
+5'-flap endonuclease activity
+Rab guanyl-nucleotide exchange factor activity
+dihydropyrimidine dehydrogenase (NADP+) activity
+wide-spectrum protease inhibitor activity
+peptidase inhibitor activity
+single-stranded DNA-dependent ATP-dependent DNA helicase activity
+lipoyltransferase activity
+polyphosphatidylinositol phosphatase activity
+phosphatidylinositol-4-phosphate phosphatase activity
+SH3 domain binding
+deoxycytidyl transferase activity
+cholesterol transporter activity
+phospholipid scramblase activity
+triglyceride binding
+poly(C) RNA binding
+uridine-rich cytoplasmic polyadenylylation element binding
+cyclic nucleotide-dependent guanyl-nucleotide exchange factor activity
+fibroblast growth factor binding
+membrane-associated protein with guanylate kinase activity interacting
+enzyme binding
+NAD-dependent histone deacetylase activity
+Rab GTPase binding
+Wnt-protein binding
+protein biosynthetic process inhibitor activity
+tRNA dihydrouridine synthase activity
+DEAD/H-box RNA helicase binding
+sodium:dicarboxylate symporter activity
+semaphorin receptor activity
+sodium:hydrogen antiporter regulator activity
+pantetheine hydrolase activity
+Ral GTPase binding
+"inositol-1,3,4-trisphosphate 4-phosphatase activity"
+aryl hydrocarbon receptor binding
+basal transcription repressor activity
+nicotinic acetylcholine receptor-associated protein activity
+dipeptidase E activity
+vinculin binding
+5-oxoprolinase (ATP-hydrolyzing) activity
+CDP-alcohol phosphatidyltransferase activity
+KU70 binding
+serine hydrolase activity
+cysteine dioxygenase activity
+glycine N-methyltransferase activity
+IMP-GMP specific 5'-nucleotidase activity
+GMP 5'-nucleotidase activity
+phosphatidylinositol N-acetylglucosaminyltransferase activity
+diphthine-ammonia ligase activity
+aspartate N-acetyltransferase activity
+glycoprotein N-palmitoyltransferase activity
+histone-lysine N-methyltransferase activity
+calmodulin-lysine N-methyltransferase activity
+peptidyl-lysine N6-myristoyltransferase activity
+peptidyl-lysine N6-palmitoyltransferase activity
+protein-histidine N-methyltransferase activity
+NAD(P)-cysteine ADP-ribosyltransferase activity
+histone arginine kinase activity
+methionine racemase activity
+proline racemase activity
+lysine racemase activity
+threonine racemase activity
+NAD(P)-asparagine ADP-ribosyltransferase activity
+NAD(P)-serine ADP-ribosyltransferase activity
+peptidyl-serine cyclase activity
+peptidyl-oxazoline dehydrogenase activity
+peptidyl-cysteine cyclase activity
+peptidyl-thiazoline dehydrogenase activity
+ribosomal S6-glutamic acid ligase activity
+urease activator activity
+biotin-protein ligase activity
+protein-serine epimerase activity
+glycoprotein 3-alpha-L-fucosyltransferase activity
+UDP-N-acetylglucosamine:serine-protein N-acetylglucosamine-1-phosphotransferase activity
+GDP-mannose:serine-protein mannose-1-phosphotransferase activity
+protein C-terminal leucine carboxyl O-methyltransferase activity
+prothoracicotrophic hormone activity
+pinocarveol dehydrogenase activity
+chloral hydrate dehydrogenase activity
+hydroxymethylmethylsilanediol oxidase activity
+1-phenylethanol dehydrogenase activity
+myrtenol dehydrogenase activity
+epoxide dehydrogenase activity
+5-exo-hydroxycamphor dehydrogenase activity
+2-hydroxytetrahydrofuran dehydrogenase activity
+acetoacetyl-CoA reductase activity
+alcohol dehydrogenase [NAD(P)+] activity
+aryl-alcohol dehydrogenase (NAD+) activity
+perillyl-alcohol dehydrogenase activity
+isopiperitenol dehydrogenase activity
+carveol dehydrogenase activity
+cyclohexanol dehydrogenase activity
+fluoren-9-ol dehydrogenase activity
+4-(hydroxymethyl)benzenesulfonate dehydrogenase activity
+6-hydroxyhexanoate dehydrogenase activity
+3-hydroxypimeloyl-CoA dehydrogenase activity
+vanillyl-alcohol oxidase activity
+"limonene-1,2-diol dehydrogenase activity"
+formaldehyde dehydrogenase activity
+alcohol dehydrogenase (acceptor) activity
+myrtenal dehydrogenase activity
+4-hydroxybutaraldehyde dehydrogenase activity
+4-chlorobenzaldehyde oxidase activity
+1-hydroxy-2-naphthaldehyde dehydrogenase activity
+"cis-2-methyl-5-isopropylhexa-2,5-dienal dehydrogenase activity"
+2-carboxybenzaldehyde dehydrogenase activity
+"trans-2-methyl-5-isopropylhexa-2,5-dienal dehydrogenase activity"
+benzaldehyde dehydrogenase (NADP+) activity
+malonate-semialdehyde dehydrogenase (acetylating) activity
+benzaldehyde dehydrogenase (NAD+) activity
+5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase activity
+4-hydroxymuconic-semialdehyde dehydrogenase activity
+4-formylbenzenesulfonate dehydrogenase activity
+6-oxohexanoate dehydrogenase activity
+4-hydroxybenzaldehyde dehydrogenase activity
+salicylaldehyde dehydrogenase activity
+2-butanone oxidase activity
+vanillate O-demethylase (anaerobic) activity
+aryl-aldehyde oxidase activity
+vanillate monooxygenase activity
+4-hydroxyphenylpyruvate oxidase activity
+2-oxobutyrate synthase activity
+carbon-monoxide dehydrogenase (acceptor) activity
+formylmethanofuran dehydrogenase activity
+carvone reductase activity
+2-hydroxycyclohexane-1-carboxyl-CoA dehydrogenase activity
+"2,6-dihydroxycyclohexane-1-carboxyl-CoA dehydrogenase activity"
+"1-chloro-2,2-bis(4-chlorophenyl)ethane dehydrogenase activity"
+"2,3-dihydroxy-2,3-dihydro-phenylpropionate dehydrogenase activity"
+"cis-2,3-dihydrodiol DDT dehydrogenase activity"
+"trans-9R,10R-dihydrodiolphenanthrene dehydrogenase activity"
+cis-chlorobenzene dihydrodiol dehydrogenase activity
+"2,5-dichloro-2,5-cyclohexadiene-1,4-diol dehydrogenase activity"
+"trans-1,2-dihydrodiolphenanthrene dehydrogenase activity"
+"cis-1,2-dihydrobenzene-1,2-diol dehydrogenase activity"
+"cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase activity"
+maleylacetate reductase activity
+"cis-3,4-dihydrophenanthrene-3,4-diol dehydrogenase activity"
+"cis-1,2-dihydroxycyclohexa-3,5-diene-1-carboxylate dehydrogenase activity"
+"cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase activity"
+phloroglucinol reductase activity
+"2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase activity"
+"1,6-dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate dehydrogenase activity"
+dibenzothiophene dihydrodiol dehydrogenase activity
+pimeloyl-CoA dehydrogenase activity
+"2,4-dichlorobenzoyl-CoA reductase activity"
+"phthalate 4,5-cis-dihydrodiol dehydrogenase activity"
+"5,6-dihydroxy-3-methyl-2-oxo-1,2,5,6-tetrahydroquinoline dehydrogenase activity"
+cis-dihydroethylcatechol dehydrogenase activity
+"cis-1,2-dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate dehydrogenase activity"
+"1,2-dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate dehydrogenase activity"
+benzoyl-CoA reductase activity
+quinoline 2-oxidoreductase activity
+acetophenone carboxylase activity
+4-hydroxybenzoyl-CoA reductase activity
+2-aminobenzoyl-CoA reductase activity
+cyclohexylamine oxidase activity
+iminodiacetate dehydrogenase activity
+nitrilotriacetate monooxygenase activity
+(R)-6-hydroxynicotine oxidase activity
+(S)-6-hydroxynicotine oxidase activity
+"5,10-methenyl-5,6,7,8-tetrahydromethanopterin dehydrogenase activity"
+nitrilotriacetate dehydrogenase activity
+nicotine dehydrogenase activity
+"coenzyme F420-dependent N5,N10-methenyltetrahydromethanopterin reductase activity"
+epoxide carboxylase activity
+p-benzoquinone reductase (NADPH) activity
+"2,3-dihydroxy DDT 1,2-dioxygenase activity"
+4-amino-2-nitroso-6-nitrotoluene reductase activity
+4-carboxy-4'-sulfoazobenzene reductase activity
+NAD(P)H nitroreductase activity
+nitrobenzene nitroreductase activity
+nitroglycerin reductase activity
+pentaerythritol trinitrate reductase activity
+methanethiol oxidase activity
+tetrachloro-p-hydroquinone reductive dehalogenase activity
+hydrogensulfite reductase activity
+"3-(2,3-dihydroxyphenyl)propionate 1,2-dioxygenase activity"
+"1,2-dihydroxynaphthalene dioxygenase activity"
+phenanthrene dioxygenase activity
+"2,2',3-trihydroxybiphenyl dioxygenase activity"
+"1,2-dihydroxyfluorene 1,1-alpha-dioxygenase activity"
+"5,6-dihydroxy-3-methyl-2-oxo-1,2-dihydroquinoline dioxygenase activity"
+"1,1-dichloro-2-(dihydroxy-4-chlorophenyl)-(4-chlorophenyl)ethene 1,2-dioxygenase activity"
+"protocatechuate 3,4-dioxygenase type II activity"
+"2'-aminobiphenyl-2,3-diol 1,2-dioxygenase activity"
+"3,4-dihydroxyfluorene 4,4-alpha-dioxygenase activity"
+"2,3-dihydroxy-ethylbenzene 1,2-dioxygenase activity"
+"carbazole 1,9a-dioxygenase activity"
+dihydroxydibenzothiophene dioxygenase activity
+"1,2-dihydroxynaphthalene-6-sulfonate 1,8a-dioxygenase activity"
+styrene dioxygenase activity
+"3,4-dihydroxyphenanthrene dioxygenase activity"
+"hydroquinone 1,2-dioxygenase activity"
+"p-cumate 2,3-dioxygenase activity"
+"2,3-dihydroxy-p-cumate dioxygenase activity"
+"3,5-dichlorocatechol 1,2-dioxygenase activity"
+"2-aminophenol 1,6-dioxygenase activity"
+"2,6-dichloro-p-hydroquinone 1,2-dioxygenase activity"
+"chlorocatechol 1,2-dioxygenase activity"
+"catechol 1,2-dioxygenase activity"
+"catechol 2,3-dioxygenase activity"
+"protocatechuate 3,4-dioxygenase activity"
+"protocatechuate 4,5-dioxygenase activity"
+nitronate monooxygenase activity
+"hydroxyquinol 1,2-dioxygenase activity"
+"1-hydroxy-2-naphthoate 1,2-dioxygenase activity"
+"biphenyl-2,3-diol 1,2-dioxygenase activity"
+"2,4,5-trichlorophenoxyacetic acid oxygenase activity"
+fluorene oxygenase activity
+mono-butyltin dioxygenase activity
+limonene 8-monooxygenase activity
+limonene monooxygenase activity
+tri-n-butyltin dioxygenase activity
+di-n-butyltin dioxygenase activity
+methylsilanetriol hydroxylase activity
+methyl tertiary butyl ether 3-monooxygenase activity
+4-nitrocatechol 4-monooxygenase activity
+4-chlorophenoxyacetate monooxygenase activity
+tert-butanol 2-monooxygenase activity
+alpha-pinene monooxygenase activity
+dimethylsilanediol hydroxylase activity
+ammonia monooxygenase activity
+hydroxymethylsilanetriol oxidase activity
+2-hydroxyisobutyrate 3-monooxygenase activity
+alpha-pinene dehydrogenase activity
+4-nitrophenol 2-monooxygenase activity
+"2,4-dichlorophenoxyacetate alpha-ketoglutarate dioxygenase activity"
+"nitrobenzene 1,2-dioxygenase activity"
+"4-aminobenzoate 3,4-dioxygenase (deaminating) activity"
+benzenesulfonate dioxygenase activity
+1-indanone monooxygenase activity
+1-indanone dioxygenase activity
+chlorobenzene dioxygenase activity
+"dibenzofuran 4,4a-dioxygenase activity"
+toluate dioxygenase activity
+dibenzothiophene dioxygenase activity
+9-fluorenone dioxygenase activity
+ethylbenzene dioxygenase activity
+2-indanone monooxygenase activity
+trihydroxytoluene dioxygenase activity
+"4-aminobenzenesulfonate 3,4-dioxygenase (deaminating) activity"
+"anthranilate 1,2-dioxygenase (deaminating, decarboxylating) activity"
+"benzene 1,2-dioxygenase activity"
+"phthalate 4,5-dioxygenase activity"
+"4-sulfobenzoate 3,4-dioxygenase activity"
+"4-chlorophenylacetate 3,4-dioxygenase activity"
+"benzoate 1,2-dioxygenase activity"
+toluene dioxygenase activity
+"naphthalene 1,2-dioxygenase activity"
+"2-chlorobenzoate 1,2-dioxygenase activity"
+"2-aminobenzenesulfonate 2,3-dioxygenase activity"
+"terephthalate 1,2-dioxygenase activity"
+"2-hydroxyquinoline 5,6-dioxygenase activity"
+"3,5-xylenol methylhydroxylase activity"
+phenylacetate hydroxylase activity
+4-nitrophenol 4-monooxygenase activity
+dimethyl sulfide monooxygenase activity
+alpha-pinene monooxygenase [NADH] activity
+"(R)-limonene 1,2-monooxygenase activity"
+"phenanthrene 9,10-monooxygenase activity"
+1-hydroxy-2-naphthoate hydroxylase activity
+toluene 4-monooxygenase activity
+xylene monooxygenase activity
+dibenzothiophene monooxygenase activity
+"6-hydroxy-3-methyl-2-oxo-1,2-dihydroquinoline 6-monooxygenase activity"
+chlorophenol 4-monooxygenase activity
+carbon disulfide oxygenase activity
+toluene 2-monooxygenase activity
+alkene monooxygenase activity
+"1-hydroxy-2-oxolimonene 1,2-monooxygenase activity"
+"phenanthrene 1,2-monooxygenase activity"
+methanesulfonate monooxygenase activity
+tetrahydrofuran hydroxylase activity
+styrene monooxygenase activity
+toluene-4-sulfonate monooxygenase activity
+toluene-sulfonate methyl-monooxygenase activity
+"3-methyl-2-oxo-1,2-dihydroquinoline 6-monooxygenase activity"
+2-hydroxy-phenylacetate hydroxylase activity
+"2-oxo-delta3-4,5,5-trimethylcyclopentenylacetyl-CoA 1,2-monooxygenase activity"
+"phenanthrene 3,4-monooxygenase activity"
+toluene 3-monooxygenase activity
+salicylate 1-monooxygenase activity
+4-hydroxybenzoate 3-monooxygenase activity
+"4-hydroxyphenylacetate,NADH:oxygen oxidoreductase (3-hydroxylating) activity"
+orcinol 2-monooxygenase activity
+phenol 2-monooxygenase activity
+"2,6-dihydroxypyridine 3-monooxygenase activity"
+benzoate 4-monooxygenase activity
+4-hydroxyphenylacetate 1-monooxygenase activity
+"2,4-dichlorophenol 6-monooxygenase activity"
+cyclohexanone monooxygenase activity
+3-hydroxybenzoate 4-monooxygenase activity
+3-hydroxybenzoate 6-monooxygenase activity
+4-aminobenzoate 1-monooxygenase activity
+4-hydroxybenzoate 3-monooxygenase [NAD(P)H] activity
+anthranilate 3-monooxygenase (deaminating) activity
+anthraniloyl-CoA monooxygenase activity
+(S)-limonene 3-monooxygenase activity
+(S)-limonene 6-monooxygenase activity
+(S)-limonene 7-monooxygenase activity
+pentachlorophenol monooxygenase activity
+4-hydroxybenzoate 1-hydroxylase activity
+"dibenzothiophene-5,5-dioxide monooxygenase activity"
+deethylatrazine monooxygenase activity
+deisopropylatrazine monooxygenase activity
+atrazine N-dealkylase activity
+camphor 5-monooxygenase activity
+"camphor 1,2-monooxygenase activity"
+alkane 1-monooxygenase activity
+6-hydroxy pseudo-oxynicotine monooxygenase activity
+"biphenyl 2,3-dioxygenase activity"
+"DDT 2,3-dioxygenase activity"
+"naphthalene disulfonate 1,2-dioxygenase activity"
+4-methoxybenzoate monooxygenase (O-demethylating) activity
+ethylbenzene hydroxylase activity
+p-cymene methyl hydroxylase activity
+4-cresol dehydrogenase (hydroxylating) activity
+carbonyl sulfide nitrogenase activity
+vinyl chloride reductive dehalogenase activity
+"1,1,1-trichloroethane reductive dehalogenase activity"
+2-chloro-N-isopropylacetanilide reductive dehalogenase activity
+"2,5-dichlorohydroquinone reductive dehalogenase activity"
+"1,1-dichloro-2,2-bis(4-chlorophenyl)ethene dehalogenase activity"
+"2,4-dichlorophenoxyacetate dehalogenase activity"
+5-chloro-2-hydroxymuconic semialdehyde dehalogenase activity
+"1,2-dichloroethene reductive dehalogenase activity"
+pyrogallol hydroxytransferase activity
+1-phenanthrol methyltransferase activity
+thiol S-methyltransferase activity
+acetone carboxylase activity
+benzoyl acetate-CoA thiolase activity
+3-hydroxybutyryl-CoA thiolase activity
+3-ketopimelyl-CoA thiolase activity
+9-phenanthrol UDP-glucuronosyltransferase activity
+1-phenanthrol glycosyltransferase activity
+9-phenanthrol glycosyltransferase activity
+"1,2-dihydroxy-phenanthrene glycosyltransferase activity"
+6-aminohexanoate transaminase activity
+phenol kinase activity
+"trans-9R,10R-dihydrodiolphenanthrene sulfotransferase activity"
+1-phenanthrol sulfotransferase activity
+3-phenanthrol sulfotransferase activity
+4-phenanthrol sulfotransferase activity
+"trans-3,4-dihydrodiolphenanthrene sulfotransferase activity"
+9-phenanthrol sulfotransferase activity
+2-phenanthrol sulfotransferase activity
+propionate CoA-transferase activity
+glutaconate CoA-transferase activity
+1-oxa-2-oxocycloheptane lactonase activity
+sulfolactone hydrolase activity
+"3,4-dihydrocoumarin hydrolase activity"
+butyrolactone hydrolase activity
+6-oxo-2-hydroxycyclohexane-1-carboxyl-CoA hydrolase activity
+2-ketocyclohexane-1-carboxyl-CoA hydrolase activity
+S-formylglutathione hydrolase activity
+4-hydroxybenzoyl-CoA thioesterase activity
+2'-hydroxybiphenyl-2-sulfinate desulfinase activity
+alkyl sulfatase activity

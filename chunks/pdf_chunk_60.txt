@@ -1,0 +1,387 @@
+vocal learning
+molting cycle
+regulation of fatty acid biosynthetic process
+"specification of segmental identity, mandibular segment"
+regulation of protein import into nucleus
+positive regulation of protein import into nucleus
+negative regulation of protein import into nucleus
+vasoconstriction
+vasodilation
+regulation of vasodilation
+protein kinase C deactivation
+penicillin metabolic process
+penicillin catabolic process
+penicillin biosynthetic process
+"regulation of circadian sleep/wake cycle, REM sleep"
+"negative regulation of circadian sleep/wake cycle, sleep"
+"negative regulation of circadian sleep/wake cycle, REM sleep"
+"negative regulation of circadian sleep/wake cycle, non-REM sleep"
+regulation of phosphorylation
+negative regulation of phosphorylation
+positive regulation of phosphorylation
+taxis
+phototaxis
+gravitaxis
+chemotaxis to oxidizable substrate
+taxis to electron acceptor
+cuticle development
+cuticle development involved in protein-based cuticle molting cycle
+cuticle development involved in chitin-based cuticle molting cycle
+cuticle development involved in collagen and cuticulin-based cuticle molting cycle
+keratan sulfate metabolic process
+keratan sulfate catabolic process
+cyanogenic glycoside metabolic process
+cyanogenic glycoside catabolic process
+indole glucosinolate metabolic process
+indole glucosinolate catabolic process
+regulation of NF-kappaB import into nucleus
+positive regulation of NF-kappaB import into nucleus
+negative regulation of NF-kappaB import into nucleus
+NF-kappaB import into nucleus
+GDP-L-fucose biosynthetic process
+'de novo' GDP-L-fucose biosynthetic process
+GDP-L-fucose salvage
+fucose biosynthetic process
+L-fucose metabolic process
+L-fucose catabolic process
+thiamine diphosphate metabolic process
+thiamine diphosphate catabolic process
+vitamin D metabolic process
+vitamin E metabolic process
+menaquinone catabolic process
+fat-soluble vitamin biosynthetic process
+fat-soluble vitamin catabolic process
+water-soluble vitamin biosynthetic process
+water-soluble vitamin catabolic process
+cobalamin catabolic process
+biotin catabolic process
+vitamin D biosynthetic process
+vitamin D catabolic process
+thiamine diphosphate dephosphorylation
+vitamin K biosynthetic process
+phylloquinone biosynthetic process
+vitamin K metabolic process
+phylloquinone metabolic process
+phylloquinone catabolic process
+vitamin K catabolic process
+hemolymph coagulation
+hemocyte differentiation
+plasmatocyte differentiation
+"gibberellic acid mediated signaling pathway, G-alpha-dependent"
+"gibberellic acid mediated signaling pathway, G-alpha-independent"
+regulation of membrane potential
+"ecdysis, protein-based cuticle"
+"ecdysis, collagen and cuticulin-based cuticle"
+phosphagen biosynthetic process
+phosphagen catabolic process
+cellular modified amino acid biosynthetic process
+ectoine metabolic process
+ectoine catabolic process
+cellular biogenic amine biosynthetic process
+cellular biogenic amine catabolic process
+thyroid hormone metabolic process
+thyroid hormone catabolic process
+cristae formation
+taurine biosynthetic process
+carnitine catabolic process
+epinephrine metabolic process
+norepinephrine metabolic process
+dopamine biosynthetic process
+dopamine metabolic process
+epinephrine biosynthetic process
+epinephrine catabolic process
+dopamine catabolic process
+norepinephrine biosynthetic process
+norepinephrine catabolic process
+catecholamine biosynthetic process
+catecholamine catabolic process
+choline biosynthetic process
+choline catabolic process
+serotonin biosynthetic process
+serotonin metabolic process
+serotonin catabolic process
+indole-containing compound metabolic process
+indole metabolic process
+indole biosynthetic process
+indole catabolic process
+indole-containing compound biosynthetic process
+indole-containing compound catabolic process
+indoleacetic acid catabolic process
+melanin biosynthetic process
+ethanolamine-containing compound metabolic process
+pigment metabolic process
+eye pigment metabolic process
+melatonin catabolic process
+phenylethylamine metabolic process
+phenylethylamine biosynthetic process
+hormone metabolic process
+hormone biosynthetic process
+hormone catabolic process
+progesterone metabolic process
+arginine biosynthetic process via ornithine
+purine nucleoside biosynthetic process
+deoxyguanosine biosynthetic process
+deoxyguanosine metabolic process
+ribonucleoside catabolic process
+ribonucleoside biosynthetic process
+ethylene catabolic process
+nopaline catabolic process to proline
+octopine catabolic process to proline
+photoreceptor cell development
+eye photoreceptor cell development
+ocellus photoreceptor cell development
+dosage compensation by hypoactivation of X chromosome
+kinesis
+chemokinesis
+orthokinesis
+klinokinesis
+ear morphogenesis
+inner ear morphogenesis
+outer ear morphogenesis
+middle ear morphogenesis
+odontogenesis of dentin-containing tooth
+odontogenesis
+regulation of eye photoreceptor cell development
+positive regulation of eye photoreceptor cell development
+negative regulation of eye photoreceptor cell development
+regulation of odontogenesis
+positive regulation of odontogenesis
+negative regulation of odontogenesis
+regulation of odontogenesis of dentin-containing tooth
+positive regulation of odontogenesis of dentin-containing tooth
+negative regulation of odontogenesis of dentin-containing tooth
+mechanoreceptor differentiation
+auditory receptor cell differentiation
+gamma-delta T cell differentiation
+detection of bacterial lipoprotein
+detection of triacyl bacterial lipopeptide
+detection of diacyl bacterial lipopeptide
+serine phosphorylation of STAT protein
+tyrosine phosphorylation of Stat2 protein
+tyrosine phosphorylation of Stat3 protein
+tyrosine phosphorylation of Stat4 protein
+tyrosine phosphorylation of Stat6 protein
+tyrosine phosphorylation of Stat5 protein
+tyrosine phosphorylation of Stat7 protein
+tyrosine phosphorylation of Stat1 protein
+regulation of tyrosine phosphorylation of STAT protein
+regulation of tyrosine phosphorylation of Stat1 protein
+positive regulation of tyrosine phosphorylation of Stat1 protein
+negative regulation of tyrosine phosphorylation of Stat1 protein
+regulation of tyrosine phosphorylation of Stat2 protein
+negative regulation of tyrosine phosphorylation of Stat2 protein
+positive regulation of tyrosine phosphorylation of Stat2 protein
+regulation of tyrosine phosphorylation of Stat3 protein
+positive regulation of tyrosine phosphorylation of Stat3 protein
+negative regulation of tyrosine phosphorylation of Stat3 protein
+regulation of tyrosine phosphorylation of Stat4 protein
+positive regulation of tyrosine phosphorylation of Stat4 protein
+negative regulation of tyrosine phosphorylation of Stat4 protein
+regulation of tyrosine phosphorylation of Stat5 protein
+positive regulation of tyrosine phosphorylation of Stat5 protein
+negative regulation of tyrosine phosphorylation of Stat5 protein
+regulation of tyrosine phosphorylation of Stat6 protein
+positive regulation of tyrosine phosphorylation of Stat6 protein
+negative regulation of tyrosine phosphorylation of Stat6 protein
+regulation of tyrosine phosphorylation of Stat7 protein
+positive regulation of tyrosine phosphorylation of Stat7 protein
+negative regulation of tyrosine phosphorylation of Stat7 protein
+positive regulation of tyrosine phosphorylation of STAT protein
+negative regulation of tyrosine phosphorylation of STAT protein
+tumor necrosis factor biosynthetic process
+regulation of tumor necrosis factor biosynthetic process
+positive regulation of tumor necrosis factor biosynthetic process
+negative regulation of tumor necrosis factor biosynthetic process
+benzene-containing compound metabolic process
+hyperosmotic salinity response
+hypotonic salinity response
+hemoglobin catabolic process
+hemoglobin biosynthetic process
+response to hydrogen peroxide
+protein N-linked glycosylation via arginine
+melibiose biosynthetic process
+cell wall modification
+cell wall biogenesis
+cell wall modification involved in multidimensional cell growth
+"regulation of photosynthesis, light reaction"
+photosystem II stabilization
+photosystem I stabilization
+neuron maturation
+myelination
+superoxide anion generation
+pteridine-containing compound metabolic process
+pteridine-containing compound biosynthetic process
+pteridine-containing compound catabolic process
+retinol metabolic process
+retinoic acid metabolic process
+retinal metabolic process
+antigen processing and presentation of exogenous peptide antigen via MHC class I
+homeostatic process
+glucose homeostasis
+response to starvation
+behavioral response to starvation
+fear response
+paclitaxel metabolic process
+paclitaxel biosynthetic process
+poly-hydroxybutyrate metabolic process
+poly-hydroxybutyrate biosynthetic process
+poly(3-hydroxyalkanoate) metabolic process
+poly(3-hydroxyalkanoate) biosynthetic process
+mating plug formation
+behavioral response to water deprivation
+cellular response to water deprivation
+cholesterol homeostasis
+hair cycle
+regulation of hair cycle
+positive regulation of hair cycle
+negative regulation of hair cycle
+catagen
+exogen
+telogen
+anagen
+activation of JNKKK activity
+regulation of cell fate specification
+positive regulation of cell fate specification
+regulation of mesodermal cell fate specification
+negative regulation of mesodermal cell fate specification
+regulation of endodermal cell fate specification
+negative regulation of endodermal cell fate specification
+regulation of ectodermal cell fate specification
+negative regulation of ectodermal cell fate specification
+auditory receptor cell fate specification
+auditory receptor cell fate determination
+regulation of auditory receptor cell fate specification
+retinal cone cell differentiation
+retinal cone cell fate determination
+retinal cone cell fate specification
+regulation of retinal cone cell fate specification
+compound eye cone cell differentiation
+compound eye cone cell fate commitment
+compound eye cone cell fate specification
+compound eye cone cell fate determination
+regulation of compound eye cone cell fate specification
+negative regulation of compound eye cone cell fate specification
+cardioblast cell fate commitment
+cardioblast cell fate specification
+regulation of cardioblast cell fate specification
+crystal cell differentiation
+regulation of crystal cell differentiation
+negative regulation of crystal cell differentiation
+positive regulation of crystal cell differentiation
+muscle cell differentiation
+muscle cell fate commitment
+muscle cell fate specification
+thelarche
+menarche
+menopause
+ovulation cycle
+follicle-stimulating hormone signaling pathway
+luteinizing hormone signaling pathway
+progesterone secretion
+uterine wall growth
+menstruation
+uterine wall breakdown
+ocellus photoreceptor cell differentiation
+eye photoreceptor cell fate commitment
+ocellus photoreceptor cell fate commitment
+biofilm formation
+maternal behavior
+paternal behavior
+sperm ejaculation
+dosage compensation complex assembly
+dosage compensation complex assembly involved in dosage compensation by hypoactivation of X chromosome
+alpha-beta T cell activation by superantigen
+thiamine-containing compound metabolic process
+thiamine-containing compound biosynthetic process
+thiamine-containing compound catabolic process
+flavin-containing compound metabolic process
+flavin-containing compound biosynthetic process
+flavin-containing compound catabolic process
+fibrinolysis
+D-xylose metabolic process
+embryonic digit morphogenesis
+drug catabolic process
+exogenous drug catabolic process
+endogenous drug catabolic process
+exogenous antibiotic catabolic process
+endogenous antibiotic catabolic process
+hydrogen peroxide metabolic process
+hydrogen peroxide catabolic process
+circadian sleep/wake cycle
+"circadian sleep/wake cycle, wakefulness"
+"circadian sleep/wake cycle, REM sleep"
+"circadian sleep/wake cycle, non-REM sleep"
+regulation of circadian sleep/wake cycle
+hibernation
+estivation
+regulation of circadian rhythm
+positive regulation of circadian rhythm
+negative regulation of circadian rhythm
+eating behavior
+drinking behavior
+long-chain fatty acid catabolic process
+long-chain fatty acid biosynthetic process
+very long-chain fatty acid catabolic process
+very long-chain fatty acid biosynthetic process
+regulation of sulfur metabolic process
+nucleosome mobilization
+"DNA damage response, detection of DNA damage"
+signal transduction in response to DNA damage
+intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+"DNA damage response, signal transduction resulting in transcription"
+ATP synthesis coupled electron transport
+plasma membrane ATP synthesis coupled electron transport
+mitochondrial ATP synthesis coupled electron transport
+mitochondrial ATP synthesis coupled proton transport
+plasma membrane ATP synthesis coupled proton transport
+tRNA end turnover
+tRNA 3'-trailer cleavage
+tRNA 3'-end processing
+passive evasion of host immune response
+active evasion of host immune response
+active evasion of host immune response via regulation of host complement system
+active evasion of host immune response via regulation of host cytokine network
+active evasion of host immune response via regulation of host antigen processing and presentation
+mRNA transcription from RNA polymerase II promoter
+transcription of nuclear large rRNA transcript from RNA polymerase I promoter
+5S class rRNA transcription from RNA polymerase III type 1 promoter
+rRNA transcription from mitochondrial promoter
+transcription from plastid promoter
+rRNA transcription from plastid promoter
+snRNA transcription from RNA polymerase II promoter
+snRNA transcription from RNA polymerase III promoter
+tRNA transcription from RNA polymerase III promoter
+protein neddylation during NEDD8 class-dependent protein catabolic process
+protein homooligomerization
+pheromone metabolic process
+pheromone biosynthetic process
+pheromone catabolic process
+vitamin B6 metabolic process
+pyridoxal metabolic process
+pyridoxamine metabolic process
+vitamin B6 biosynthetic process
+vitamin B6 catabolic process
+pyridoxal biosynthetic process
+pyridoxal phosphate metabolic process
+pyridoxal phosphate biosynthetic process
+defense response to protozoan
+D-glucarate metabolic process
+D-glucarate biosynthetic process
+D-glucarate catabolic process
+D-glucuronate metabolic process
+D-glucuronate catabolic process
+D-glucuronate biosynthetic process
+D-xylose biosynthetic process
+D-xylose catabolic process
+glycol metabolic process
+glycol biosynthetic process
+glycol catabolic process
+sorbose biosynthetic process
+sorbose catabolic process
+L-sorbose biosynthetic process
+L-sorbose catabolic process
+L-alanine metabolic process
+L-alanine biosynthetic process
+L-alanine catabolic process
+eugenol metabolic process
+eugenol biosynthetic process

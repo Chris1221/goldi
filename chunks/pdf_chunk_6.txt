@@ -1,0 +1,388 @@
+chloride channel activity
+channel-conductance-controlling ATPase activity
+cation channel activity
+calcium channel activity
+potassium channel activity
+sodium channel activity
+allantoin uptake transmembrane transporter activity
+amine transmembrane transporter activity
+vesicular hydrogen:amino acid antiporter activity
+acetylcholine transmembrane transporter activity
+acetylcholine:proton antiporter activity
+hydrogen:amino acid symporter activity
+general amino acid permease activity
+amino acid transmembrane transporter activity
+high-affinity basic amino acid transmembrane transporter activity
+high-affinity arginine transmembrane transporter activity
+L-histidine transmembrane transporter activity
+high-affinity L-histidine transmembrane transporter activity
+high-affinity lysine transmembrane transporter activity
+neutral L-amino acid secondary active transmembrane transporter activity
+neutral amino acid:sodium symporter activity
+hydrogen:proline symporter activity
+proline:sodium symporter activity
+high-affinity tryptophan transmembrane transporter activity
+valine/tyrosine/tryptophan permease activity
+L-tyrosine transmembrane transporter activity
+L-tryptophan transmembrane transporter activity
+transmembrane transporter activity
+choline:sodium symporter activity
+creatine transmembrane transporter activity
+creatine:sodium symporter activity
+dicarboxylic acid transmembrane transporter activity
+sodium:dicarboxylate/tricarboxylate symporter activity
+organic acid:sodium symporter activity
+tricarboxylic acid transmembrane transporter activity
+L-glutamate transmembrane transporter activity
+high-affinity glutamate transmembrane transporter activity
+inorganic phosphate transmembrane transporter activity
+high-affinity inorganic phosphate:sodium symporter activity
+phosphate:hydrogen symporter
+phosphate:proton symporter activity
+lipid transporter activity
+apolipoprotein
+high-density lipoprotein
+low-density lipoprotein
+very-low-density lipoprotein
+peroxisomal fatty-acyl-CoA transporter activity
+neurotransmitter transporter activity
+neurotransmitter:sodium symporter activity
+dopamine transmembrane transporter activity
+dopamine:sodium symporter activity
+gamma-aminobutyric acid:sodium symporter activity
+norepinephrine transmembrane transporter activity
+norepinephrine:sodium symporter activity
+serotonin:sodium symporter activity
+nucleotide-sugar transmembrane transporter activity
+nucleotide-sulfate transmembrane transporter activity
+organic acid transmembrane transporter activity
+purine nucleobase transmembrane transporter activity
+purine ribonucleotide transmembrane transporter activity
+ATP transmembrane transporter activity
+pyrimidine nucleobase transmembrane transporter activity
+sugar:proton symporter activity
+alpha-glucoside:proton symporter activity
+fructose transmembrane transporter activity
+galactose transmembrane transporter activity
+glucose transmembrane transporter activity
+hydrogen:glucose symporter activity
+constitutive hydrogen:glucose symporter activity
+high-affinity hydrogen:glucose symporter activity
+low-affinity hydrogen:glucose symporter activity
+insulin-responsive hydrogen:glucose symporter activity
+low-affinity glucose:sodium symporter activity
+maltose transmembrane transporter activity
+maltose:proton symporter activity
+myo-inositol transmembrane transporter activity
+myo-inositol:proton symporter activity
+myo-inositol:sodium symporter activity
+taurine transmembrane transporter activity
+taurine:sodium symporter activity
+tricarboxylate secondary active transmembrane transporter activity
+water transmembrane transporter activity
+heavy metal ion porter activity
+secondary active transmembrane transporter activity
+copper ion transmembrane transporter activity
+plasma membrane copper transporter
+intracellular copper ion transporter
+manganese ion transmembrane transporter activity
+zinc ion transmembrane transporter activity
+calcium-transporting ATPase activity
+sodium:potassium-exchanging ATPase activity
+eye pigment precursor transporter activity
+transmembrane conductance regulator activity
+peroxisomal membrane transporter
+cation:sugar symporter activity
+glucose:sodium symporter activity
+nucleoside:sodium symporter activity
+cation:amino acid symporter activity
+proton-dependent oligopeptide secondary active transmembrane transporter activity
+chromaffin granule amine transmembrane transporter activity
+synaptic vesicle amine transmembrane transporter activity
+calcium:sodium antiporter activity
+sodium:phosphate symporter activity
+monovalent cation:proton antiporter activity
+inorganic anion exchanger activity
+CMP-N-acetylneuraminate transmembrane transporter activity
+GDP-fucose transmembrane transporter activity
+GDP-mannose transmembrane transporter activity
+UDP-galactose transmembrane transporter activity
+UDP-glucose transmembrane transporter activity
+UDP-glucuronic acid transmembrane transporter activity
+UDP-N-acetylglucosamine transmembrane transporter activity
+UDP-N-acetylgalactosamine transmembrane transporter activity
+UDP-xylose transmembrane transporter activity
+small-molecule carrier or transporter
+succinate:fumarate antiporter activity
+ATP:ADP antiporter activity
+FAD carrier activity
+carnitine:acyl carnitine antiporter activity
+pyruvate secondary active transmembrane transporter activity
+vacuolar assembly
+vesicle transport
+vesicle fusion
+vesicle targeting
+soluble NSF attachment protein activity
+SNAP receptor activity
+nucleocytoplasmic transporter activity
+binding
+electron transporter activity
+cytochrome P450
+steroid binding
+androgen binding
+vitamin D binding
+juvenile hormone binding
+retinoid binding
+11-cis retinal binding
+all-trans retinal binding
+fatty acid binding
+heavy metal binding
+metal ion binding
+iron ion binding
+copper ion binding
+copper/cadmium binding
+cadmium ion binding
+calcium ion storage activity
+calmodulin binding
+calmodulin inhibitor activity
+collagen binding
+cytoskeletal regulatory protein binding
+insulin-like growth factor binding
+profilin binding
+tropomyosin binding
+ATP binding
+GTP binding
+macrolide binding
+FK506 binding
+lectin
+galactose binding lectin
+galactose binding
+mannose binding lectin
+mannose binding
+N-acetylgalactosamine lectin
+N-acetylgalactosamine binding
+glucose binding
+glycosaminoglycan binding
+hyaluronic acid binding
+acyl-CoA or acyl binding
+folic acid binding
+phospholipid binding
+calcium-dependent phospholipid binding
+1-phosphatidylinositol binding
+"phosphatidylinositol-4,5-bisphosphate binding"
+"phosphatidylinositol-3,4,5-trisphosphate binding"
+phospholipid transporter activity
+odorant binding
+pheromone binding
+obsolete ubiquitin
+protein tag
+polyubiquitin
+ubiquitin-ribosomal protein fusion protein
+blood group antigen
+lymphocyte antigen
+minor histocompatibility antigen
+transfer RNA
+triplet codon-amino acid adaptor activity
+ribosomal RNA
+small nucleolar RNA
+RNA modification guide activity
+small nuclear RNA
+snRNA binding
+Ran GTPase binding
+oxidoreductase activity
+protein-disulfide reductase (glutathione) activity
+methylenetetrahydrofolate reductase (ferredoxin) activity
+pteridine reductase activity
+purine nucleosidase activity
+deoxyadenosine deaminase activity
+ADP reductase activity
+ATPase activity
+TTP reductase activity
+CDP reductase activity
+CTP reductase activity
+UDP reductase activity
+chromatin insulator sequence binding
+poly(A) binding
+lipid binding
+cob(II)alamin reductase activity
+oxoglutarate:malate antiporter activity
+cysteine-type endopeptidase activity involved in execution phase of apoptosis
+RNA ligase activity
+centromeric DNA binding
+telomeric DNA binding
+receptor tyrosine kinase binding
+transforming growth factor beta binding
+protein dimerization activity
+fibrinogen
+chemokine activity
+structural constituent of chitin-based larval cuticle
+structural constituent of pupal chitin-based cuticle
+structural constituent of adult chitin-based cuticle
+beta-catenin binding
+calcium-dependent cell adhesion molecule activity
+microtubule binding
+structural protein of chorion (sensu Drosophila)
+macrophage receptor activity
+signaling pattern recognition receptor activity
+G-protein coupled photoreceptor activity
+protein C-terminus binding
+diazepam binding inhibitor activity
+benzodiazepine receptor binding
+diazepam binding
+GABA receptor binding
+ATP-dependent helicase activity
+monocarboxylic acid transmembrane transporter activity
+pentraxin receptor activity
+neuronal pentraxin receptor activity
+eclosion hormone activity
+lipoprotein binding
+lipopeptide binding
+lipoprotein particle binding
+high-density lipoprotein particle binding
+diuretic hormone receptor activity
+storage protein of fat body (sensu Insecta)
+iron-sulfur electron transfer carrier
+axon guidance receptor activity
+enzyme activator activity
+calcium sensitive guanylate cyclase activator activity
+chitin binding
+glutamate receptor activity
+"metabotropic glutamate, GABA-B-like receptor activity"
+extracellular-glutamate-gated chloride channel activity
+ornithine decarboxylase inhibitor activity
+receptor guanylate cyclase activity
+Hsp70/Hsp90 organizing protein activity
+translation termination factor activity
+N-acetyltransferase activity
+phosphoric diester hydrolase activity
+growth factor activity
+imaginal disc growth factor receptor binding
+light-activated voltage-gated calcium channel activity
+cytoskeletal protein binding
+cytoskeletal adaptor activity
+DNA-dependent ATPase activity
+juvenile hormone epoxide hydrolase activity
+5S rRNA binding
+5S rRNA primary transcript binding
+lipophorin
+alcohol dehydrogenase (NADP+) activity
+galactoside 2-alpha-L-fucosyltransferase activity
+UDP-glucose:hexose-1-phosphate uridylyltransferase activity
+"N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase activity"
+L-histidine:2-oxoglutarate aminotransferase activity
+alpha-methylacyl-CoA racemase activity
+nicotinamide N-methyltransferase activity
+peptide-methionine (S)-S-oxide reductase activity
+phosphogluconate 2-dehydrogenase activity
+sarcosine oxidase activity
+prostaglandin-I synthase activity
+sphinganine-1-phosphate aldolase activity
+"N-acetyllactosaminide alpha-2,3-sialyltransferase activity"
+thiopurine S-methyltransferase activity
+ceramide glucosyltransferase activity
+ubiquinol-cytochrome-c reductase activity
+cholesterol 7-alpha-monooxygenase activity
+4-alpha-hydroxytetrahydrobiopterin dehydratase activity
+pancreatic elastase I activity
+acetylesterase activity
+"quercetin 2,3-dioxygenase activity"
+actinidain activity
+neutrophil collagenase activity
+primary amine oxidase activity
+pancreatic elastase activity
+collagenase activity
+transcription factor binding
+"translation factor activity, RNA binding"
+NADH dehydrogenase (ubiquinone) activity
+protein tyrosine/serine/threonine phosphatase activity
+nuclear localization sequence binding
+cAMP response element binding protein binding
+puparial glue (sensu Diptera)
+oxysterol binding
+drug binding
+phenylalkylamine binding
+sulfotransferase activity
+structural constituent of bone
+negative transcription elongation factor activity
+para-aminobenzoic acid (PABA) synthase
+4-amino-4-deoxychorismate lyase activity
+4-amino-4-deoxychorismate synthase activity
+protein phosphatase 1 binding
+hedgehog receptor activity
+positive transcription elongation factor activity
+protein tyrosine phosphatase activator activity
+methyltransferase activity
+C-methyltransferase activity
+N-methyltransferase activity
+O-methyltransferase activity
+S-methyltransferase activity
+RNA methyltransferase activity
+mRNA methyltransferase activity
+tRNA methyltransferase activity
+tRNA (guanine-N7-)-methyltransferase activity
+succinate dehydrogenase (ubiquinone) activity
+adenylate cyclase binding
+tumor suppressor
+glycogen phosphorylase activity
+RNA-dependent ATPase activity
+poly-pyrimidine tract binding
+neuropeptide receptor activity
+apoptosis inhibitor activity
+eukaryotic initiation factor 4E binding
+metalloendopeptidase inhibitor activity
+RNA guanylyltransferase activity
+tRNA guanylyltransferase activity
+UDP-glycosyltransferase activity
+phosphatidate phosphatase activity
+vitellogenin receptor activity
+yolk protein
+ferrous iron binding
+ferric iron binding
+ion channel inhibitor activity
+heparin binding
+tumor antigen
+Gram-positive antibacterial peptide activity
+Gram-negative antibacterial peptide activity
+tyramine receptor activity
+G-protein coupled amine receptor activity
+opsonin activity
+exopeptidase activity
+omega peptidase activity
+plasminogen activator activity
+electron transfer flavoprotein
+pre-mRNA splicing factor activity
+tRNA-specific adenosine deaminase activity
+nucleotidase activity
+5'-nucleotidase activity
+3'-nucleotidase activity
+ecdysis-triggering hormone activity
+protein histidine pros-kinase activity
+protein histidine tele-kinase activity
+3-oxoacid CoA-transferase activity
+allatostatin receptor activity
+importin-alpha export receptor activity
+pyrimidine-specific mismatch base pair DNA N-glycosylase activity
+Mo-molybdopterin cofactor sulfurase activity
+poly(U) RNA binding
+poly-glutamine tract binding
+receptor signaling protein tyrosine kinase signaling protein activity
+JAK pathway signal transduction adaptor activity
+zinc ion binding
+secondary active sulfate transmembrane transporter activity
+"calcium, potassium:sodium antiporter activity"
+protein methyltransferase activity
+sulfonylurea receptor activity
+calcium- and calmodulin-responsive adenylate cyclase activity
+3'-5'-exodeoxyribonuclease activity
+single-stranded DNA exodeoxyribonuclease activity
+"DNA binding, bending"
+structural constituent of muscle
+voltage-gated anion channel activity
+double-stranded DNA exodeoxyribonuclease activity
+single-stranded DNA 3'-5' exodeoxyribonuclease activity
+double-stranded DNA 3'-5' exodeoxyribonuclease activity
+7S RNA binding
+gurken-activated receptor activity
+structural constituent of vitelline membrane
+gurken receptor binding
+protein prenyltransferase activity

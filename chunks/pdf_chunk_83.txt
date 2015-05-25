@@ -1,0 +1,387 @@
+lamellipodium morphogenesis
+multinuclear osteoclast differentiation
+osteoclast fusion
+lymphocyte migration
+eosinophil migration
+T cell migration
+thymocyte migration
+extracellular matrix-dependent thymocyte migration
+fibronectin-dependent thymocyte migration
+eosinophil extravasation
+T cell extravasation
+"mitochondrial tRNA 3'-trailer cleavage, endonucleolytic"
+Mre11 complex assembly
+SHREC complex localization
+MCM complex assembly
+single-celled organism vegetative growth phase
+initiation of premeiotic DNA replication
+chromatin silencing at centromere central core
+protein targeting to prospore membrane
+cell cycle arrest in response to caffeine
+regulation of DNA recombination at telomere
+positive regulation of DNA recombination at telomere
+protein localization to cell cortex
+protein localization to microtubule cytoskeleton
+protein localization to cortical microtubule cytoskeleton
+response to bismuth
+cellular response to bismuth
+response to methyl methanesulfonate
+cellular response to methyl methanesulfonate
+response to mercaptoethanol
+cellular response to mercaptoethanol
+response to sodium dodecyl sulfate
+cellular response to sodium dodecyl sulfate
+response to sorbitol
+cellular response to sorbitol
+response to hydroxyurea
+cellular response to hydroxyurea
+response to thiabendazole
+cellular response to thiabendazole
+response to selenite ion
+cellular response to selenite ion
+response to actinomycin D
+cellular response to actinomycin D
+response to cisplatin
+cellular response to cisplatin
+response to dithiothreitol
+cellular response to dithiothreitol
+response to amitrole
+cellular response to amitrole
+response to 4-nitroquinoline N-oxide
+cellular response to 4-nitroquinoline N-oxide
+response to CCCP
+cellular response to CCCP
+response to Gentian violet
+cellular response to Gentian violet
+response to papulacandin B
+cellular response to papulacandin B
+cellular response to calcium ion starvation
+response to staurosporine
+cellular response to staurosporine
+response to t-BOOH
+cellular response to t-BOOH
+response to diamide
+cellular response to diamide
+response to anisomycin
+cellular response to anisomycin
+protein localization to cell division site
+SAGA complex localization to transcription regulatory region
+cellular response to erythromycin
+cellular response to trichodermin
+cellular response to antimycin A
+cellular response to tetracycline
+cellular response to chloramphenicol
+cellular response to tacrolimus
+cellular response to cytochalasin B
+cellular response to leptomycin B
+cellular response to L-thialysine
+cellular response to rapamycin
+cellular response to glutathione
+cellular response to purvalanol A
+cellular response to benomyl
+cellular response to paraquat
+cellular response to camptothecin
+response to topoisomerase inhibitor
+cellular response to topoisomerase inhibitor
+cellular response to GW 7647
+cellular response to capsazepine
+cellular response to carbendazim
+cellular response to hesperadin
+cellular response to reversine
+centromere localization
+centromere clustering at the nuclear envelope
+response to host osmotic environment
+adhesion of symbiont infection structure to host
+adhesion of symbiont germination tube to host
+adhesion of symbiont appressorium to host
+adhesion of symbiont spore to host
+spore germination on or near host
+modulation of spore germination on or near host
+positive regulation of spore germination on or near host
+negative regulation of spore germination on or near host
+germ tube formation on or near host
+modulation of germ tube formation on or near host
+positive regulation of germ tube formation on or near host
+negative regulation of germ tube formation on or near host
+growth or development of symbiont on or near host phyllosphere
+growth or development of symbiont on or near host rhizosphere
+formation of infection structure on or near host
+appressorium formation on or near host
+regulation of appressorium formation on or near host
+positive regulation of appressorium formation on or near host
+negative regulation of appressorium formation on or near host
+calcium or calmodulin-mediated activation of appressorium formation
+cAMP-mediated activation of appressorium formation
+ethylene-mediated activation of appressorium formation
+MAPK-mediated regulation of appressorium formation
+phospholipase C-mediated activation of appressorium formation
+initiation of appressorium on or near host
+regulation of appressorium initiation on or near host
+positive regulation of appressorium initiation on or near host
+negative regulation of appressorium initiation on or near host
+formation of symbiont germ tube hook structure on or near host
+modulation of symbiont germ tube hook structure formation on or near host
+positive regulation of symbiont germ tube hook structure formation on or near host
+negative regulation of symbiont germ tube hook structure formation on or near host
+septum formation involved in appressorium formation on or near host
+nuclear division involved in appressorium formation on or near host
+maturation of appressorium on or near host
+regulation of appressorium maturation on or near host
+positive regulation of appressorium maturation on or near host
+negative regulation of appressorium maturation on or near host
+establishment of turgor in appressorium
+regulation of establishment of turgor in appressorium
+positive regulation of establishment of turgor in appressorium
+negative regulation of establishment of turgor in appressorium
+maintenance of turgor in appressorium by melanization
+autophagy of host cells involved in interaction with symbiont
+regulation of formation by symbiont of haustorium for nutrient acquisition from host
+positive regulation of formation by symbiont of haustorium for nutrient acquisition from host
+negative regulation of formation by symbiont of haustorium for nutrient acquisition from host
+cell wall strengthening in symbiont involved in entry into host
+modulation of symbiont cell wall strengthening involved in entry into host
+positive regulation of symbiont cell wall strengthening involved in entry into host
+negative regulation of symbiont cell wall strengthening involved in entry into host
+entry into host via a specialized structure
+formation of symbiont penetration peg for entry into host
+modulation of symbiont penetration peg formation for entry into host
+positive regulation of symbiont penetration peg formation for entry into host
+negative regulation of symbiont penetration peg formation for entry into host
+initiation of symbiont penetration peg
+modulation of symbiont penetration peg initiation
+positive regulation of symbiont penetration peg initiation
+negative regulation of symbiont penetration peg initiation
+formation of symbiont invasive hypha in host
+regulation of symbiont invasive hypha formation in host
+positive regulation of symbiont invasive hypha formation in host
+negative regulation of symbiont invasive hypha formation in host
+growth or development of symbiont in host cell
+growth or development of symbiont in host organelle
+growth or development of symbiont in host intercellular space
+growth or development of symbiont in host vascular tissue
+adhesion of symbiont infection cushion to host
+adhesion of symbiont hyphopodium to host
+autophagy involved in symbiotic interaction
+autophagy of symbiont cells involved in interaction with host
+autophagy of symbiont cells on or near host surface
+spore autophagy involved in appressorium formation on or near host
+modulation by host of symbiont adenylate cyclase activity
+positive regulation by host of symbiont adenylate cyclase activity
+negative regulation by host of symbiont adenylate cyclase activity
+modulation by host of symbiont receptor-mediated signal transduction
+positive regulation by host of symbiont receptor-mediated signal transduction
+negative regulation by host of symbiont receptor-mediated signal transduction
+modulation by host of symbiont transmembrane receptor-mediated signal transduction
+positive regulation by host of symbiont transmembrane receptor-mediated signal transduction
+negative regulation by host of symbiont transmembrane receptor-mediated signal transduction
+modulation by host of symbiont transmembrane receptor-mediated cAMP signal transduction
+positive regulation by host of symbiont transmembrane receptor-mediated cAMP signal transduction
+negative regulation by host of symbiont transmembrane receptor-mediated cAMP signal transduction
+modulation by host of symbiont G-protein coupled receptor protein signal transduction
+positive regulation by host of symbiont G-protein coupled receptor protein signal transduction
+negative regulation by host of symbiont G-protein coupled receptor protein signal transduction
+modulation by host of symbiont signal transduction mediated by G-protein alpha subunit
+positive regulation by host of symbiont signal transduction mediated by G-protein alpha subunit
+negative regulation by host of symbiont signal transduction mediated by G-protein alpha subunit
+modulation by host of symbiont signal transduction mediated by G-protein beta subunit
+positive regulation by host of symbiont signal transduction mediated by G-protein beta subunit
+negative regulation by host of symbiont signal transduction mediated by G-protein beta subunit
+modulation by host of symbiont signal transduction mediated by G-protein gamma subunit
+positive regulation by host of symbiont signal transduction mediated by G-protein gamma subunit
+negative regulation by host of symbiont signal transduction mediated by G-protein gamma subunit
+modulation by host of symbiont protein kinase-mediated signal transduction
+positive regulation by host of symbiont protein kinase-mediated signal transduction
+negative regulation by host of symbiont protein kinase-mediated signal transduction
+negative regulation by host of symbiont MAP kinase-mediated signal transduction
+modulation by host of symbiont calcium or calmodulin-mediated signal transduction
+positive regulation by host of symbiont calcium or calmodulin-mediated signal transduction
+negative regulation by host of symbiont calcium or calmodulin-mediated signal transduction
+modulation by symbiont of host adenylate cyclase activity
+positive regulation by symbiont of host adenylate cyclase activity
+negative regulation by symbiont of host adenylate cyclase activity
+modulation by symbiont of host receptor-mediated signal transduction
+positive regulation by symbiont of host receptor-mediated signal transduction
+negative regulation by symbiont of host receptor-mediated signal transduction
+modulation by symbiont of host transmembrane receptor-mediated signal transduction
+positive regulation by symbiont of host transmembrane receptor-mediated signal transduction
+negative regulation by symbiont of host transmembrane receptor-mediated signal transduction
+modulation by symbiont of host transmembrane receptor-mediated cAMP signal transduction
+positive regulation by symbiont of host transmembrane receptor-mediated cAMP signal transduction
+negative regulation by symbiont of host transmembrane receptor-mediated cAMP signal transduction
+modulation by symbiont of host G-protein coupled receptor protein signal transduction
+positive regulation by symbiont of host G-protein coupled receptor protein signal transduction
+negative regulation by symbiont of host G-protein coupled receptor protein signal transduction
+modulation by symbiont of host signal transduction mediated by G-protein alpha subunit
+positive regulation by symbiont of host signal transduction mediated by G-protein alpha subunit
+negative regulation by symbiont of host signal transduction mediated by G-protein alpha subunit
+modulation by symbiont of host signal transduction mediated by G-protein beta subunit
+positive regulation by symbiont of host signal transduction mediated by G-protein beta subunit
+negative regulation by symbiont of host signal transduction mediated by G-protein beta subunit
+modulation by symbiont of host signal transduction mediated by G-protein gamma subunit
+positive regulation by symbiont of host signal transduction mediated by G-protein gamma subunit
+negative regulation by symbiont of host signal transduction mediated by G-protein gamma subunit
+modulation by symbiont of host protein kinase-mediated signal transduction
+positive regulation by symbiont of host protein kinase-mediated signal transduction
+negative regulation by symbiont of host protein kinase-mediated signal transduction
+modulation by symbiont of host calcium or calmodulin-mediated signal transduction
+positive regulation by symbiont of host calcium or calmodulin-mediated signal transduction
+negative regulation by symbiont of host calcium or calmodulin-mediated signal transduction
+response to host
+response to host redox environment
+response to host oxygen tension environment
+response to host iron concentration
+response to host defense molecules
+maintenance of symbiont tolerance to host environment
+maintenance of symbiont tolerance to host oxygen tension environment
+maintenance of symbiont tolerance to host redox environment
+maintenance of symbiont tolerance to host iron concentration
+maintenance of symbiont tolerance to host defense molecules
+maintenance of symbiont tolerance to host osmotic environment
+regulation of signal transduction in response to host
+positive regulation of signal transduction in response to host
+negative regulation of signal transduction in response to host
+regulation of receptor-mediated signal transduction in response to host
+positive regulation of receptor-mediated signal transduction in response to host
+negative regulation of receptor-mediated signal transduction in response to host
+regulation of transmembrane receptor-mediated signal transduction in response to host
+positive regulation of transmembrane receptor-mediated signal transduction in response to host
+negative regulation of transmembrane receptor-mediated signal transduction in response to host
+regulation of G-protein coupled receptor protein signaling pathway in response to host
+positive regulation of G-protein coupled receptor protein signaling pathway in response to host
+negative regulation of G-protein coupled receptor protein signaling pathway in response to host
+regulation of G-protein alpha subunit-mediated signal transduction in response to host
+positive regulation of G-protein alpha subunit-mediated signal transduction in response to host
+negative regulation of G-protein alpha subunit-mediated signal transduction in response to host
+regulation of G-protein beta subunit-mediated signal transduction in response to host
+positive regulation of G-protein beta subunit-mediated signal transduction in response to host
+negative regulation of G-protein beta subunit-mediated signal transduction in response to host
+regulation of G-protein gamma subunit-mediated signal transduction in response to host
+positive regulation of G-protein gamma subunit-mediated signal transduction in response to host
+negative regulation of G-protein gamma subunit-mediated signal transduction in response to host
+regulation of protein kinase-mediated signal transduction in response to host
+positive regulation of symbiont protein kinase-mediated signal transduction in response to host
+negative regulation of protein kinase-mediated signal transduction in response to host
+regulation of MAP kinase-mediated signal transduction in response to host
+positive regulation of MAP kinase-mediated signal transduction in response to host
+negative regulation of MAP kinase-mediated signal transduction in response to host
+regulation of cAMP-mediated signaling in response to host
+positive regulation of cAMP-mediated signaling in response to host
+negative regulation of cAMP-mediated signaling in response to host
+regulation of calcium or calmodulin-mediated signal transduction in response to host
+positive regulation of calcium or calmodulin-mediated signal transduction in response to host
+negative regulation of calcium or calmodulin-mediated signal transduction in response to host
+regulation of transcription in response to host
+positive regulation of symbiont transcription in response to host
+negative regulation of symbiont transcription in response to host
+infection cushion formation on or near host
+regulation of infection cushion formation on or near host
+positive regulation of infection cushion formation on or near host
+negative regulation of infection cushion formation on or near host
+hyphopodium formation on or near host
+regulation of hyphopodium formation on or near host
+positive regulation of hyphopodium formation on or near host
+negative regulation of hyphopodium formation on or near host
+autophagy of host cells on or near symbiont surface
+haustorium mother cell formation on or near host
+regulation of haustorium mother cell formation on or near host
+positive regulation of haustorium mother cell formation on or near host
+negative regulation of haustorium mother cell formation on or near host
+adhesion of symbiont haustorium mother cell to host
+formation of symbiont haustorium neck for entry into host
+modulation of symbiont haustorium neck formation for entry into host
+positive regulation of symbiont haustorium neck formation for entry into host
+negative regulation of symbiont haustorium neck formation for entry into host
+formation of symbiont penetration hypha for entry into host
+modulation of symbiont penetration hypha formation for entry into host
+positive regulation of symbiont penetration hypha formation for entry into host
+negative regulation of symbiont penetration hypha formation for entry into host
+modulation by host of symbiont cAMP-mediated signal transduction
+positive regulation by host of symbiont cAMP-mediated signal transduction
+negative regulation by host of symbiont cAMP-mediated signal transduction
+modulation by symbiont of host cAMP-mediated signal transduction
+positive regulation by symbiont of host cAMP-mediated signal transduction
+negative regulation by symbiont of host cAMP-mediated signal transduction
+regulation of transmembrane receptor-mediated cAMP signaling in response to host
+positive regulation of transmembrane receptor-mediated cAMP signal transduction in response to host
+negative regulation of transmembrane receptor-mediated cAMP signal transduction in response to host
+spore encystment on host
+modulation of spore encystment on host
+positive regulation of spore encystment on host
+negative regulation of spore encystment on host
+zoospore encystment on host
+modulation of zoospore encystment on host
+positive regulation of zoospore encystment on host
+negative regulation of zoospore encystment on host
+sporangium germination on or near host
+modulation of sporangium germination on or near host
+positive regulation of sporangium germination on or near host
+negative regulation of sporangium germination on or near host
+encysted zoospore germination on or near host
+modulation of encysted zoospore germination on or near host
+positive regulation of encysted zoospore germination on or near host
+negative regulation of encysted zoospore germination on or near host
+spore movement on or near host
+modulation of spore movement on or near host
+positive regulation of spore movement on or near host
+negative regulation of spore movement on or near host
+zoospore movement on or near host
+modulation of zoospore movement on or near host
+positive regulation of zoospore movement on or near host
+negative regulation of zoospore movement on or near host
+maintenance of symbiont tolerance to host pH environment
+zoospore formation
+regulation of zoospore formation
+positive regulation of zoospore formation
+negative regulation of zoospore formation
+oospore formation
+regulation of oospore formation
+positive regulation of oospore formation
+negative regulation of oospore formation
+aeciospore formation
+regulation of aeciospore formation
+positive regulation of aeciospore formation
+negative regulation of aeciospore formation
+uredospore formation
+regulation of uredospore formation
+positive regulation of uredospore formation
+negative regulation of uredospore formation
+teliospore formation
+regulation of teliospore formation
+positive regulation of teliospore formation
+negative regulation of teliospore formation
+spore-bearing organ development
+regulation of spore-bearing organ development
+positive regulation of spore-bearing organ development
+negative regulation of spore-bearing organ development
+oogonium development
+regulation of oogonium development
+positive regulation of oogonium development
+negative regulation of oogonium development
+aecium development
+regulation of aecium development
+positive regulation of aecium development
+negative regulation of aecium development
+zygosporangium development
+regulation of zygosporangium development
+positive regulation of zygosporangium development
+negative regulation of zygosporangium development
+telium development
+regulation of telium development
+positive regulation of telium development
+negative regulation of telium development
+uredinium development
+regulation of uredinium development
+positive regulation of uredinium development
+negative regulation of uredinium development
+sporulation resulting in formation of a multicellular or syncytial spore
+asexual sporulation resulting in formation of a multicellular or syncytial spore
+sexual sporulation resulting in formation of a multicellular or syncytial spore
+regulation of sporangiospore formation
+positive regulation of sporangiospore formation
+negative regulation of sporangiospore formation
+aplanospore formation
+regulation of aplanospore formation
+positive regulation of aplanospore formation
+negative regulation of aplanospore formation
+response to host pH environment
+positive regulation by symbiont of entry into host

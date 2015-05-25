@@ -1,0 +1,387 @@
+viral tail assembly
+virus tail fiber assembly
+viral head-tail joining
+"viral DNA genome packaging, headful"
+viral DNA genome packaging via site-specific sequence recognition
+"viral DNA genome packaging, 3' extended cos packaging"
+"viral DNA genome packaging, 5' extended cos packaging"
+"non-replicative transposition, DNA-mediated"
+"replicative transposition, DNA-mediated"
+virus baseplate assembly
+polynucleotide dephosphorylation
+DNA dephosphorylation
+DNA 3' dephosphorylation
+DNA 3' dephosphorylation involved in DNA repair
+polynucleotide 3' dephosphorylation
+polynucleotide 5' dephosphorylation
+endothelial to hematopoietic transition
+sensory perception of humidity
+sensory perception of high humidity
+sensory perception of low humidity
+detection of humidity stimulus involved in sensory perception
+detection of humidity
+detection of high humidity stimulus involved in sensory perception
+detection of low humidity stimulus involved in sensory perception
+detection of high humidity
+detection of low humidity
+skeletal muscle fiber differentiation
+"neuromuscular junction development, skeletal muscle fiber"
+positive regulation of strand invasion
+histone H3-K27 trimethylation
+centriole assembly
+de novo centriole assembly
+defense response to other organism
+detection of other organism
+maintenance of protein complex location
+maintenance of protein complex location in cytoplasm
+detection of external biotic stimulus
+innate vocalization behavior
+learned vocalization behavior
+cellular response to virus
+imitative learning
+observational learning
+learned vocalization behavior or vocal learning
+single organism cell adhesion
+cell-cell adhesion
+adhesion between unicellular organisms
+cell-cell adhesion involved in galactose-specific flocculation
+cell-cell adhesion involved in mannose-specific flocculation
+peptidyl-N-phospho-arginine dephosphorylation
+trans-Golgi network membrane organization
+aggregation of unicellular organisms
+response to peptidyl-dipeptidase A inhibitor
+centromere clustering
+cation transmembrane transport
+anion transmembrane transport
+import into cell
+inorganic anion import into cell
+inorganic cation import into cell
+inorganic ion transmembrane transport
+inorganic anion transmembrane transport
+inorganic cation transmembrane transport
+neurotransmitter loading into synaptic vesicle
+endocytic import into cell
+adenine import across plasma membrane
+calcium ion import across plasma membrane
+carbohydrate import across plasma membrane
+copper ion import across plasma membrane
+ferric iron import across plasma membrane
+ferrous iron import across plasma membrane
+glucose import across plasma membrane
+glutathione import across plasma membrane
+guanine import across plasma membrane
+iron ion import across plasma membrane
+L-glutamate import across plasma membrane
+leucine import across plasma membrane
+malate import across plasma membrane
+malonic acid import across plasma membrane
+nickel cation import across plasma membrane
+pantothenate import across plasma membrane
+serine import across plasma membrane
+sodium ion import across plasma membrane
+succinate import across plasma membrane
+uracil import across plasma membrane
+asymmetric stem cell division
+symmetric stem cell division
+symmetric cell division
+symmetric division of skeletal muscle satellite stem cell
+maintenance of cell number
+germline stem cell asymmetric division
+germline stem cell symmetric division
+male germline stem cell symmetric division
+skeletal muscle satellite stem cell maintenance involved in skeletal muscle regeneration
+macromolecule deacylation
+macromolecule depalmitoylation
+positive regulation of the force of heart contraction
+negative regulation of the force of heart contraction
+protein insertion into plasma membrane
+RNA polymerase II complex import into nucleus
+import across plasma membrane
+multi organism cell adhesion
+adhesion between unicellular organisms via cell-wall interaction
+cell-cell adhesion via plasma-membrane adhesion molecules
+cell aggregation
+"fast, calcium ion-dependent exocytosis of neurotransmitter"
+"slow, calcium ion-dependent exocytosis of neurotransmitter"
+cerebellar neuron development
+bone cell development
+detoxification
+maintenance of seed dormancy by absisic acid
+response to interleukin-21
+cellular response to interleukin-21
+response to interleukin-8
+cellular response to interleukin-8
+response to interleukin-7
+cellular response to interleukin-7
+meiotic cell cycle phase
+mitotic cell cycle phase
+meiosis I cell cycle phase
+meiosis II cell cycle phase
+meiosis I M phase
+meiosis II M phase
+mitotic prometaphase I
+inorganic ion homeostasis
+skin epidermis development
+curli assembly
+protein transport across the cell outer membrane
+protein secretion by the type VIII secretion system
+curli subunit secretion coupled to curli assembly
+activation of mitophagy in response to mitochondrial depolarization
+response to mitochondrial depolarisation
+ncRNA transcription
+biofilm matrix organization
+biofilm matrix assembly
+biofilm matrix disassembly
+regulation of renal system process
+regulation of action potential
+regulation of cardiac muscle cell action potential
+regulation of membrane depolarization during action potential
+regulation of membrane repolarization during action potential
+regulation of AV node cell action potential
+regulation of bundle of His cell action potential
+regulation of Purkinje myocyte action potential
+regulation of SA node cell action potential
+regulation of neuronal action potential
+regulation of cardiac muscle cell action potential involved in regulation of contraction
+regulation of atrial cardiac muscle cell action potential
+regulation of ventricular cardiac muscle cell action potential
+membrane depolarization during atrial cardiac muscle cell action potential
+membrane depolarization during ventricular cardiac muscle cell action potential
+membrane repolarization during atrial cardiac muscle cell action potential
+membrane repolarization during ventricular cardiac muscle cell action potential
+inorganic ion import into cell
+regulation of anthocyanin catabolic process
+negative regulation of anthocyanin catabolic process
+positive regulation of anthocyanin catabolic process
+regulation of serine-type endopeptidase activity
+negative regulation of serine-type endopeptidase activity
+positive regulation of serine-type endopeptidase activity
+positive regulation of dendrite development
+regulation of extrachromosomal rDNA circle accumulation involved in replicative cell aging
+negative regulation of extrachromosomal rDNA circle accumulation involved in replicative cell aging
+positive regulation of extrachromosomal rDNA circle accumulation involved in replicative cell aging
+regulation of corticotropin-releasing hormone receptor activity
+negative regulation of corticotropin-releasing hormone receptor activity
+positive regulation of corticotropin-releasing hormone receptor activity
+cellular response to potassium ion involved in chemotaxis to cAMP
+cellular response to calcium ion involved in chemotaxis to cAMP
+regulation of cytokine production involved in inflammatory response
+negative regulation of cytokine production involved in inflammatory response
+positive regulation of cytokine production involved in inflammatory response
+phosphorylation of RNA polymerase II C-terminal domain serine 5 residues involved in recruitment of mRNA capping enzyme to RNA polymerase II holoenzyme complex
+regulation of protein kinase C activity
+positive regulation of protein kinase C activity
+regulation of D-erythro-sphingosine kinase activity
+positive regulation of D-erythro-sphingosine kinase activity
+regulation of substrate adhesion-dependent cell spreading
+negative regulation of substrate adhesion-dependent cell spreading
+positive regulation of substrate adhesion-dependent cell spreading
+regulation of ruffle assembly
+negative regulation of ruffle assembly
+positive regulation of ruffle assembly
+regulation of pectin biosynthetic process
+regulation of transcription from RNA polymerase II promoter involved in calcium-mediated signaling
+regulation of transcription from RNA polymerase II promoter by calcium-mediated signaling
+regulation of trichome patterning
+negative regulation of trichome patterning
+regulation of cellular response to heat
+negative regulation of cellular response to heat
+positive regulation of cellular response to heat
+regulation of cellular response to hypoxia
+negative regulation of cellular response to hypoxia
+positive regulation of cellular response to hypoxia
+regulation of interleukin-2 secretion
+negative regulation of interleukin-2 secretion
+positive regulation of interleukin-2 secretion
+leptin-mediated signaling pathway involved in negative regulation of appetite
+regulation of protein K63-linked ubiquitination
+negative regulation of protein K63-linked ubiquitination
+regulation of hemostasis
+negative regulation of hemostasis
+positive regulation of hemostasis
+regulation of histone exchange
+negative regulation of histone exchange
+positive regulation of histone exchange
+regulation of retinoic acid biosynthetic process
+negative regulation of retinoic acid biosynthetic process
+positive regulation of retinoic acid biosynthetic process
+regulation of leaf senescence
+negative regulation of leaf senescence
+positive regulation of leaf senescence
+regulation of sulfate assimilation
+positive regulation of sulfate assimilation
+negative regulation of ceramide biosynthetic process
+positive regulation of transcription from RNA polymerase II promoter involved in calcium-mediated signaling
+positive regulation of transcription from RNA polymerase II promoter by calcium-mediated signaling
+regulation of replicative cell aging
+regulation of peroxisome organization
+positive regulation of peroxisome organization
+regulation of ethanol catabolic process
+positive regulation of ethanol catabolic process
+regulation of cellular response to alkaline pH
+negative regulation of cellular response to alkaline pH
+regulation of cellular hyperosmotic salinity response
+negative regulation of cellular hyperosmotic salinity response
+regulation of sulfite transport
+positive regulation of sulfite transport
+regulation of neuromuscular synaptic transmission
+negative regulation of neuromuscular synaptic transmission
+positive regulation of neuromuscular synaptic transmission
+regulation of cellular response to insulin stimulus
+negative regulation of cellular response to insulin stimulus
+positive regulation of cellular response to insulin stimulus
+regulation of arginine biosynthetic process
+positive regulation of arginine biosynthetic process
+regulation of arginine catabolic process
+negative regulation of arginine catabolic process
+regulation of Sertoli cell proliferation
+regulation of peptidyl-tyrosine autophosphorylation
+negative regulation of peptidyl-tyrosine autophosphorylation
+positive regulation of peptidyl-tyrosine autophosphorylation
+positive regulation of G1/S transition of mitotic cell cycle
+regulation of inositol biosynthetic process
+negative regulation of inositol biosynthetic process
+positive regulation of inositol biosynthetic process
+regulation of raffinose biosynthetic process
+negative regulation of raffinose biosynthetic process
+positive regulation of raffinose biosynthetic process
+regulation of transcription from RNA polymerase II promoter involved in determination of left/right symmetry
+regulation of dosage compensation by inactivation of X chromosome
+negative regulation of dosage compensation by inactivation of X chromosome
+positive regulation of dosage compensation by inactivation of X chromosome
+regulation of plasma cell differentiation
+negative regulation of plasma cell differentiation
+positive regulation of plasma cell differentiation
+regulation of endoplasmic reticulum unfolded protein response
+negative regulation of endoplasmic reticulum unfolded protein response
+positive regulation of endoplasmic reticulum unfolded protein response
+regulation of hyaluranon cable assembly
+negative regulation of hyaluranon cable assembly
+positive regulation of hyaluranon cable assembly
+regulation of nodal signaling pathway
+negative regulation of nodal signaling pathway
+regulation of histone H3-K9 dimethylation
+negative regulation of histone H3-K9 dimethylation
+positive regulation of histone H3-K9 dimethylation
+regulation of histone H3-K9 trimethylation
+negative regulation of histone H3-K9 trimethylation
+positive regulation of histone H3-K9 trimethylation
+extracellular regulation of signal transduction
+extracellular negative regulation of signal transduction
+regulation of execution phase of apoptosis
+negative regulation of execution phase of apoptosis
+positive regulation of execution phase of apoptosis
+regulation of receptor binding
+negative regulation of receptor binding
+positive regulation of receptor binding
+regulation of nodal receptor complex assembly
+negative regulation of nodal receptor complex assembly
+regulation of hyaluronan biosynthetic process
+negative regulation of hyaluronan biosynthetic process
+positive regulation of hyaluronan biosynthetic process
+regulation of G-protein activated inward rectifier potassium channel activity
+positive regulation of G-protein activated inward rectifier potassium channel activity
+regulation of lipid binding
+negative regulation of lipid binding
+positive regulation of lipid binding
+regulation of renin secretion into blood stream
+negative regulation of renin secretion into blood stream
+positive regulation of renin secretion into blood stream
+regulation of chemokine activity
+negative regulation of chemokine activity
+negative regulation of phospholipase A2 activity
+negative regulation of arachidonic acid secretion
+regulation of seedling development
+regulation of oligodendrocyte apoptotic process
+negative regulation of oligodendrocyte apoptotic process
+positive regulation of oligodendrocyte apoptotic process
+positive regulation of BMP secretion
+regulation of nodal signaling pathway involved in determination of left/right asymmetry
+negative regulation of nodal signaling pathway involved in determination of left/right asymmetry
+regulation of Schwann cell migration
+negative regulation of Schwann cell migration
+positive regulation of Schwann cell migration
+regulation of defense response to fungus
+"regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay"
+"negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay"
+"positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay"
+regulation of bone trabecula formation
+negative regulation of bone trabecula formation
+positive regulation of bone trabecula formation
+regulation of bone mineralization involved in bone maturation
+negative regulation of bone mineralization involved in bone maturation
+positive regulation of bone mineralization involved in bone maturation
+plastid DNA packaging
+regulation of phospholipid scramblase activity
+negative regulation of phospholipid scramblase activity
+positive regulation of phospholipid scramblase activity
+negative regulation of interleukin-6 secretion
+regulation of glial cell line-derived neurotrophic factor secretion
+negative regulation of glial cell line-derived neurotrophic factor secretion
+positive regulation of glial cell line-derived neurotrophic factor secretion
+regulation of glucocorticoid mediated signaling pathway
+negative regulation of glucocorticoid mediated signaling pathway
+positive regulation of glucocorticoid mediated signaling pathway
+negative regulation of nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry
+regulation of aflatoxin biosynthetic process
+negative regulation of aflatoxin biosynthetic process
+positive regulation of aflatoxin biosynthetic process
+regulation of protein localization to nucleus
+negative regulation of protein localization to nucleus
+positive regulation of protein localization to nucleus
+regulation of xanthone-containing compound biosynthetic process
+negative regulation of xanthone-containing compound biosynthetic process
+positive regulation of xanthone-containing compound biosynthetic process
+negative regulation of clathrin-mediated endocytosis
+regulation of cell adhesion involved in single-species biofilm formation
+negative regulation of cell adhesion involved in single-species biofilm formation
+positive regulation of cell adhesion involved in single-species biofilm formation
+regulation of single-species biofilm formation
+negative regulation of single-species biofilm formation
+positive regulation of single-species biofilm formation
+regulation of oocyte maturation
+negative regulation of oocyte maturation
+positive regulation of oocyte maturation
+regulation of penicillin biosynthetic process
+negative regulation of penicillin biosynthetic process
+positive regulation of penicillin biosynthetic process
+positive regulation of protein export from nucleus during meiotic anaphase II
+mesenchymal cell apoptotic process involved in metanephros development
+"regulation of spread of virus in host, cell to cell"
+"negative regulation of spread of virus in host, cell to cell"
+"positive regulation of spread of virus in host, cell to cell"
+apoptotic process involved in metanephric collecting duct development
+apoptotic process involved in metanephric nephron tubule development
+regulation of pronephric nephron tubule development
+negative regulation of pronephric nephron tubule development
+regulation of cardiolipin metabolic process
+negative regulation of cardiolipin metabolic process
+positive regulation of cardiolipin metabolic process
+regulation of mesenchymal cell apoptotic process involved in metanephros development
+negative regulation of mesenchymal cell apoptotic process involved in metanephros development
+positive regulation of mesenchymal cell apoptotic process involved in metanephros development
+regulation of apoptotic process involved in metanephric collecting duct development
+negative regulation of apoptotic process involved in metanephric collecting duct development
+positive regulation of apoptotic process involved in metanephric collecting duct development
+regulation of apoptotic process involved in metanephric nephron tubule development
+negative regulation of apoptotic process involved in metanephric nephron tubule development
+positive regulation of apoptotic process involved in metanephric nephron tubule development
+semaphorin-plexin signaling pathway involved in bone trabecula morphogenesis
+regulation of beta-amyloid clearance
+negative regulation of beta-amyloid clearance
+positive regulation of beta-amyloid clearance
+positive regulation of nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry
+regulation of NLRP3 inflammasome complex assembly
+negative regulation of NLRP3 inflammasome complex assembly
+positive regulation of NLRP3 inflammasome complex assembly
+regulation of single-species biofilm formation in or on host organism
+negative regulation of single-species biofilm formation in or on host organism
+positive regulation of single-species biofilm formation in or on host organism
+regulation of single-species biofilm formation on inanimate substrate
+negative regulation of single-species biofilm formation on inanimate substrate
+positive regulation of single-species biofilm formation on inanimate substrate
+regulation of Kit signaling pathway
+negative regulation of Kit signaling pathway
+positive regulation of Kit signaling pathway
+positive regulation of induction of conjugation with cellular fusion
+regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway

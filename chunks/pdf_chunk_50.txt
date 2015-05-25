@@ -1,0 +1,387 @@
+asexual sporulation
+ascospore formation
+MAPKKK cascade during sporulation (sensu Fungi)
+activation of MAPK during sporulation (sensu Fungi)
+activation of MAPKK during sporulation (sensu Fungi)
+activation of MAPKKK during sporulation (sensu Fungi)
+inactivation of MAPK during sporulation (sensu Fungi)
+nuclear translocation of MAPK during sporulation (sensu Fungi)
+microtubule depolymerization during nuclear congression
+filamentous growth
+hyphal growth
+regulation of complement activation
+"regulation of complement activation, classical pathway"
+"regulation of complement activation, alternative pathway"
+MAPKKK cascade (mating sensu Fungi)
+activation of MAPK (mating sensu Fungi)
+activation of MAPKK (mating sensu Fungi)
+activation of MAPKKK (mating sensu Fungi)
+inactivation of MAPK (mating sensu Fungi)
+nuclear translocation of MAPK (mating sensu Fungi)
+cell aging (sensu Fungi)
+aging dependent sterility (sensu Fungi)
+autophagic death (sensu Fungi)
+spore germination (sensu Fungi)
+spindle pole body and microtubule cycle (sensu Fungi)
+spindle pole body organization
+mitotic spindle organization in nucleus
+nuclear migration along microtubule
+spindle pole body duplication
+ascospore wall assembly
+tRNA methylation
+processing of 27S pre-rRNA
+maturation of SSU-rRNA
+heteroduplex formation
+bacteriochlorophyll metabolic process
+bacteriochlorophyll biosynthetic process
+bacteriochlorophyll catabolic process
+fatty acid elongation
+regulation of bone mineralization
+positive regulation of bone mineralization
+negative regulation of bone mineralization
+inorganic diphosphate transport
+BMP signaling pathway
+regulation of BMP signaling pathway
+positive regulation of transforming growth factor beta receptor signaling pathway
+negative regulation of transforming growth factor beta receptor signaling pathway
+positive regulation of BMP signaling pathway
+negative regulation of BMP signaling pathway
+regulation of axon extension
+negative regulation of axon extension
+intracellular steroid hormone receptor signaling pathway
+intracellular estrogen receptor signaling pathway
+androgen receptor signaling pathway
+intracellular receptor signaling pathway
+adult feeding behavior (sensu Insecta)
+embryonic genitalia morphogenesis
+male genitalia development
+female genitalia development
+plasmid partitioning
+2-micrometer plasmid partitioning
+bile acid catabolic process
+collagen catabolic process
+nuclear body organization
+Cajal body organization
+Lands organization
+PML body organization
+ubiquitin-dependent SMAD protein catabolic process
+symbiont intracellular protein transport in host
+fruiting body development
+fruiting body development in cellular response to starvation
+sporocarp development
+sorocarp development
+pseudocleavage
+pseudocleavage involved in syncytial blastoderm formation
+first cell cycle pseudocleavage
+DNA ADP-ribosylation
+neutrophil chemotaxis
+leukocyte chemotaxis
+pyrrolysine incorporation
+D-alanine biosynthetic process
+D-alanine family amino acid catabolic process
+carbon fixation by acetyl-CoA pathway
+acetate derivative metabolic process
+acetate ester metabolic process
+acetate derivative biosynthetic process
+acetate ester biosynthetic process
+acetate derivative catabolic process
+polyketide metabolic process
+polyketide catabolic process
+regulation of cellular pH
+cellular sulfate ion homeostasis
+cellular phosphate ion homeostasis
+cellular chloride ion homeostasis
+glucose catabolic process to butyrate
+aminoglycoside antibiotic metabolic process
+aminoglycoside antibiotic biosynthetic process
+aminoglycoside antibiotic catabolic process
+peptide antibiotic metabolic process
+peptide antibiotic biosynthetic process
+peptide antibiotic catabolic process
+beta-lactam antibiotic metabolic process
+beta-lactam antibiotic biosynthetic process
+beta-lactam antibiotic catabolic process
+regulation of vitamin metabolic process
+regulation of coenzyme and prosthetic group metabolic process
+regulation of coenzyme metabolic process
+regulation of prosthetic group metabolic process
+evasion or tolerance of host defense response
+evasion or tolerance by virus of host immune response
+chromatin silencing at centromere
+eggshell formation
+vitelline membrane formation
+cytoskeleton-dependent intracellular transport
+germarium-derived oocyte differentiation
+ovarian follicle cell development
+germarium-derived female germ-line cyst encapsulation
+border follicle cell delamination
+regulation of border follicle cell delamination
+positive regulation of border follicle cell delamination
+negative regulation of border follicle cell delamination
+ovarian follicle cell stalk formation
+"anterior/posterior axis specification, follicular epithelium"
+oocyte growth in germarium-derived egg chamber
+oocyte fate determination
+karyosome formation
+germ-line stem cell maintenance
+P granule organization
+oocyte localization involved in germarium-derived egg chamber formation
+spectrosome organization
+establishment of oocyte nucleus localization involved in oocyte dorsal/ventral axis specification
+ovarian fusome organization
+testicular fusome organization
+germline ring canal formation
+male germline ring canal formation
+germarium-derived female germ-line cyst formation
+ovulation
+sequestering of triglyceride
+regulation of cyclic nucleotide metabolic process
+negative regulation of cyclic nucleotide metabolic process
+positive regulation of cyclic nucleotide metabolic process
+regulation of cyclic nucleotide biosynthetic process
+negative regulation of cyclic nucleotide biosynthetic process
+positive regulation of cyclic nucleotide biosynthetic process
+regulation of cyclic nucleotide catabolic process
+negative regulation of cyclic nucleotide catabolic process
+positive regulation of cyclic nucleotide catabolic process
+regulation of nucleotide biosynthetic process
+negative regulation of nucleotide biosynthetic process
+positive regulation of nucleotide biosynthetic process
+regulation of nucleotide catabolic process
+negative regulation of nucleotide catabolic process
+positive regulation of nucleotide catabolic process
+regulation of cAMP metabolic process
+negative regulation of cAMP metabolic process
+positive regulation of cAMP metabolic process
+regulation of cAMP biosynthetic process
+negative regulation of cAMP biosynthetic process
+positive regulation of cAMP biosynthetic process
+regulation of cAMP catabolic process
+negative regulation of cAMP catabolic process
+positive regulation of cAMP catabolic process
+regulation of cGMP metabolic process
+negative regulation of cGMP metabolic process
+positive regulation of cGMP metabolic process
+regulation of cGMP biosynthetic process
+negative regulation of cGMP biosynthetic process
+positive regulation of cGMP biosynthetic process
+regulation of cGMP catabolic process
+negative regulation of cGMP catabolic process
+positive regulation of cGMP catabolic process
+regulation of actin filament polymerization
+regulation of actin filament depolymerization
+negative regulation of actin filament depolymerization
+positive regulation of actin filament depolymerization
+negative regulation of actin filament polymerization
+positive regulation of actin filament polymerization
+regulation of intermediate filament polymerization
+negative regulation of intermediate filament polymerization
+positive regulation of intermediate filament polymerization
+regulation of intermediate filament depolymerization
+negative regulation of intermediate filament depolymerization
+positive regulation of intermediate filament depolymerization
+phospholipase C-inhibiting G-protein coupled receptor signaling pathway
+"termination of RNA polymerase II transcription, poly(A)-coupled"
+"termination of RNA polymerase II transcription, exosome-dependent"
+prostate gland development
+granulocyte differentiation
+regulation of granulocyte differentiation
+negative regulation of granulocyte differentiation
+positive regulation of granulocyte differentiation
+epithelial cell differentiation
+regulation of epithelial cell differentiation
+negative regulation of epithelial cell differentiation
+positive regulation of epithelial cell differentiation
+polarized epithelial cell differentiation
+regulation of polarized epithelial cell differentiation
+negative regulation of polarized epithelial cell differentiation
+positive regulation of polarized epithelial cell differentiation
+cortical cytoskeleton organization
+cortical actin cytoskeleton organization
+thyroid gland development
+mammary gland development
+regulation of myeloid dendritic cell activation
+negative regulation of myeloid dendritic cell activation
+positive regulation of myeloid dendritic cell activation
+regulation of B cell proliferation
+negative regulation of B cell proliferation
+positive regulation of B cell proliferation
+forebrain development
+midbrain development
+hindbrain development
+notochord development
+protein splicing
+non-intein-mediated protein splicing
+olfactory placode formation
+response to deep water
+paranodal junction assembly
+otic vesicle formation
+midbrain-hindbrain boundary development
+peptidyl-serine O-acetylation
+peptidyl-serine acetylation
+"peptidyl-tyrosine dehydrogenation to form (Z)-2,3-didehydrotyrosine"
+"peptidyl-tyrosine dehydrogenation to form (E)-2,3-didehydrotyrosine"
+metal incorporation into metallo-oxygen cluster
+manganese incorporation into metallo-oxygen cluster
+calcium incorporation into metallo-oxygen cluster
+calcium incorporation into metallo-oxygen cluster via bis-L-aspartato tris-L-glutamato L-histidino calcium tetramanganese tetroxide
+manganese incorporation into metallo-oxygen cluster via bis-L-aspartato tris-L-glutamato L-histidino calcium tetramanganese tetroxide
+response to long-day photoperiod
+long-day photoperiodism
+response to short-day photoperiod
+short-day photoperiodism
+regulation of vascular endothelial growth factor receptor signaling pathway
+negative regulation of vascular endothelial growth factor receptor signaling pathway
+positive regulation of vascular endothelial growth factor receptor signaling pathway
+establishment or maintenance of actin cytoskeleton polarity
+establishment or maintenance of microtubule cytoskeleton polarity
+establishment or maintenance of cytoskeleton polarity
+astral microtubule organization
+astral microtubule nucleation
+peptide cross-linking via 3'-(3'-L-tyrosinyl)-L-tyrosine
+peptide cross-linking via 3'-(O4'-L-tyrosinyl)-L-tyrosine
+peptidyl-arginine hydroxylation
+"peptidyl-arginine dihydroxylation to peptidyl-3,4-dihydroxy-L-arginine"
+"peptidyl-lysine dihydroxylation to 4,5-dihydroxy-L-lysine"
+"plasma membrane electron transport, NADH to quinone"
+endoplasmic reticulum unfolded protein response
+"retrograde protein transport, ER to cytosol"
+cleavage of cytosolic proteins involved in execution phase of apoptosis
+thiamine pyrophosphate transport
+alpha-glucan metabolic process
+alpha-glucan biosynthetic process
+alpha-glucan catabolic process
+adventurous gliding motility
+dynein-driven meiotic oscillatory nuclear movement
+primary cell septum disassembly
+cell septum edging catabolic process
+mitotic cell cycle arrest in response to nitrogen starvation
+regulation of centriole-centriole cohesion
+linear element assembly
+response to caffeine
+response to brefeldin A
+pancreas development
+exocrine pancreas development
+endocrine pancreas development
+nuclear migration along microfilament
+microtubule organizing center organization
+interphase microtubule organizing center assembly
+equatorial microtubule organizing center disassembly
+septation initiation signaling
+regulation of septation initiation signaling
+negative regulation of septation initiation signaling
+positive regulation of septation initiation signaling
+actomyosin structure organization
+myosin filament organization
+myosin filament assembly
+myosin filament disassembly
+myosin II filament assembly
+myosin II filament disassembly
+myosin II filament organization
+"O-glycan processing, core 5"
+"O-glycan processing, core 6"
+"O-glycan processing, core 7"
+"O-glycan processing, core 8"
+gene silencing by RNA
+chromatin silencing by small RNA
+programmed DNA elimination
+dsRNA fragmentation
+scnRNA production
+chromosome breakage
+primary miRNA processing
+pre-miRNA processing
+chromatin remodeling at centromere
+regulation of histone modification
+negative regulation of histone modification
+positive regulation of histone modification
+histone deacetylation at centromere
+regulation of histone methylation
+negative regulation of histone methylation
+positive regulation of histone methylation
+regulation of histone deacetylation
+negative regulation of histone deacetylation
+positive regulation of histone deacetylation
+regulation of histone deacetylation at centromere
+negative regulation of histone deacetylation at centromere
+positive regulation of histone deacetylation at centromere
+hair follicle morphogenesis
+intronic snoRNA processing
+embryonic camera-type eye development
+post-embryonic camera-type eye development
+nuclear pore distribution
+"nuclear-transcribed mRNA catabolic process, deadenylation-independent decay"
+deadenylation-independent decapping of nuclear-transcribed mRNA
+stress-activated protein kinase signaling cascade
+regeneration
+organ regeneration
+fin regeneration
+neuron projection regeneration
+axon regeneration
+dendrite regeneration
+septin ring organization
+septin ring disassembly
+holo-[acyl-carrier-protein] biosynthetic process
+microtubule polymerization or depolymerization
+regulation of microtubule polymerization or depolymerization
+negative regulation of microtubule polymerization or depolymerization
+positive regulation of microtubule polymerization or depolymerization
+regulation of microtubule polymerization
+regulation of microtubule depolymerization
+negative regulation of microtubule polymerization
+positive regulation of microtubule polymerization
+positive regulation of microtubule depolymerization
+rRNA pseudouridine synthesis
+tRNA pseudouridine synthesis
+snRNA pseudouridine synthesis
+equatorial microtubule organization
+cytoplasmic microtubule organization
+RNA 3'-end processing
+mRNA 3'-end processing
+rRNA 3'-end processing
+snoRNA 3'-end processing
+developmental induction
+inductive cell-cell signaling
+reception of an inductive signal
+regulation of axon diameter
+sister chromatid biorientation
+negative regulation of conjugation
+positive regulation of conjugation
+regulation of conjugation with cellular fusion
+negative regulation of conjugation with cellular fusion
+positive regulation of conjugation with cellular fusion
+induction of conjugation upon nutrient starvation
+induction of conjugation upon carbon starvation
+induction of conjugation upon nitrogen starvation
+proteasome localization
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process
+SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+"1-(3,5-dichloro-2,6-dihydroxy-4-methoxyphenyl)hexan-1-one metabolic process"
+DIF-1 biosynthetic process
+sorocarp stalk cell differentiation
+sorocarp stalk development
+aggregation involved in sorocarp development
+slug development involved in sorocarp development
+culmination involved in sorocarp development
+regulation of fruiting body development
+regulation of sorocarp development
+regulation of aggregate size involved in sorocarp development
+negative regulation of aggregate size involved in sorocarp development
+positive regulation of aggregate size involved in sorocarp development
+phosphatidylinositol catabolic process
+sulfur incorporation into metallo-sulfur cluster
+metallo-sulfur cluster assembly
+rRNA methylation
+ferrichrome metabolic process
+ferrichrome biosynthetic process
+ferricrocin metabolic process
+ferricrocin biosynthetic process
+otolith mineralization completed early in development
+lifelong otolith mineralization
+neuron projection development
+peptide modification
+"posttranslational protein targeting to membrane, docking"
+"posttranslational protein targeting to membrane, translocation"
+biomineral tissue development
+shell calcification
+arabinan metabolic process
+arabinan catabolic process

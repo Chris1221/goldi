@@ -1,0 +1,387 @@
+positive regulation of oxygen and reactive oxygen species metabolic process
+positive regulation of oxygen metabolic process
+positive regulation of reactive oxygen species metabolic process
+negative regulation of oxygen and reactive oxygen species metabolic process
+negative regulation of oxygen metabolic process
+negative regulation of reactive oxygen species metabolic process
+regulation of transcription from RNA polymerase II promoter during meiosis
+positive regulation of transcription from RNA polymerase II promoter during meiosis
+negative regulation of transcription from RNA polymerase II promoter during meiosis
+regulation of cellular carbohydrate metabolic process
+positive regulation of cellular carbohydrate metabolic process
+negative regulation of cellular carbohydrate metabolic process
+"negative regulation of cellular carbohydrate metabolic process by negative regulation of transcription, DNA-templated"
+cinnamic acid biosynthetic process involved in salicylic acid metabolism
+cinnamic acid biosynthetic process involved in coumarin metabolism
+cinnamic acid biosynthetic process involved in stilbene metabolism
+cinnamic acid biosynthetic process involved in flavonoid metabolism
+tricyclic triterpenoid metabolic process
+tricyclic triterpenoid catabolic process
+tetracyclic triterpenoid metabolic process
+tetracyclic triterpenoid biosynthetic process
+negative regulation of ribosomal protein gene transcription from RNA polymerase II promoter
+negative regulation of ribosomal protein gene transcription from RNA polymerase II promoter in response to chemical stimulus
+negative regulation of ribosomal protein gene transcription from RNA polymerase II promoter in response to stress
+negative regulation of ribosomal protein gene transcription from RNA polymerase II promoter in response to nutrient levels
+regulation of alkaline phosphatase activity
+negative regulation of alkaline phosphatase activity
+positive regulation of alkaline phosphatase activity
+regulation of spindle pole body separation
+positive regulation of spindle pole body separation
+negative regulation of spindle pole body separation
+cell-cell signaling involved in quorum sensing
+negative regulation of norepinephrine secretion
+positive regulation of norepinephrine secretion
+regulation of histolysis
+negative regulation of histolysis
+meiotic DNA double-strand break processing involved in meiotic gene conversion
+meiotic DNA double-strand break processing involved in reciprocal meiotic recombination
+ganglioside biosynthetic process via lactosylceramide
+globoside biosynthetic process via lactosylceramide
+heteroduplex formation involved in gene conversion at mating-type locus
+heteroduplex formation involved in double-strand break repair via synthesis-dependent strand annealing
+regulation of collagen catabolic process
+negative regulation of collagen catabolic process
+regulation of collagen metabolic process
+negative regulation of collagen metabolic process
+positive regulation of collagen metabolic process
+regulation of extracellular matrix disassembly
+negative regulation of extracellular matrix disassembly
+regulation of epithelial to mesenchymal transition
+positive regulation of epithelial to mesenchymal transition
+negative regulation of epithelial to mesenchymal transition
+positive regulation of cell development
+negative regulation of cell development
+regulation of ferrochelatase activity
+positive regulation of transcription from RNA polymerase II promoter in response to iron
+regulation of definitive erythrocyte differentiation
+regulation of primitive erythrocyte differentiation
+positive regulation of hydrogen peroxide metabolic process
+negative regulation of hydrogen peroxide metabolic process
+regulation of hydrogen peroxide biosynthetic process
+positive regulation of hydrogen peroxide biosynthetic process
+negative regulation of hydrogen peroxide biosynthetic process
+protein glutathionylation
+regulation of protein glutathionylation
+positive regulation of protein glutathionylation
+negative regulation of protein glutathionylation
+positive regulation of transcription via serum response element binding
+protein kinase A signaling
+regulation of protein kinase A signaling
+positive regulation of protein kinase A signaling
+macrophage derived foam cell differentiation
+regulation of macrophage derived foam cell differentiation
+positive regulation of macrophage derived foam cell differentiation
+negative regulation of macrophage derived foam cell differentiation
+regulation of plasma membrane long-chain fatty acid transport
+positive regulation of plasma membrane long-chain fatty acid transport
+negative regulation of plasma membrane long-chain fatty acid transport
+regulation of nitric oxide mediated signal transduction
+positive regulation of nitric oxide mediated signal transduction
+negative regulation of nitric oxide mediated signal transduction
+regulation of cGMP-mediated signaling
+positive regulation of cGMP-mediated signaling
+negative regulation of cGMP-mediated signaling
+regulation of plasminogen activation
+positive regulation of plasminogen activation
+negative regulation of plasminogen activation
+regulation of macrophage chemotaxis
+positive regulation of macrophage chemotaxis
+negative regulation of macrophage chemotaxis
+fibroblast migration
+regulation of fibroblast migration
+positive regulation of fibroblast migration
+negative regulation of fibroblast migration
+positive regulation of sodium ion transport
+negative regulation of sodium ion transport
+regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage
+negative regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage
+regulation of cell morphogenesis involved in differentiation
+positive regulation of cell morphogenesis involved in differentiation
+negative regulation of cell morphogenesis involved in differentiation
+meiotic DNA recombinase assembly involved in reciprocal meiotic recombination
+meiotic DNA recombinase assembly involved in meiotic gene conversion
+meiotic strand invasion involved in reciprocal meiotic recombination
+meiotic strand invasion involved in meiotic gene conversion
+meiotic mismatch repair involved in meiotic gene conversion
+meiotic mismatch repair involved in reciprocal meiotic recombination
+meiotic DNA repair synthesis involved in reciprocal meiotic recombination
+meiotic DNA repair synthesis involved in meiotic gene conversion
+meiotic DNA double-strand break formation involved in reciprocal meiotic recombination
+meiotic DNA double-strand break formation involved in meiotic gene conversion
+"proboscis morphogenesis, labial disc-derived"
+"proboscis morphogenesis, eye-antennal disc-derived"
+"proboscis morphogenesis, clypeo-labral disc-derived"
+"clathrin coating of Golgi vesicle, plasma membrane to endosome targeting"
+"clathrin coating of Golgi vesicle, trans-Golgi to endosome targeting"
+"COPI coating of Golgi vesicle, inter-Golgi cisterna"
+"COPI coating of Golgi vesicle, cis-Golgi to rough ER"
+meiotic sister chromatid cohesion involved in meiosis I
+meiotic sister chromatid cohesion involved in meiosis II
+DNA double-strand break processing involved in repair via synthesis-dependent strand annealing
+DNA double-strand break processing involved in repair via single-strand annealing
+regulation of mRNA export from nucleus
+regulation of dolichol biosynthetic process
+regulation of ubiquinone biosynthetic process
+regulation of multivesicular body size
+regulation of multivesicular body size involved in endosome transport
+regulation of multivesicular body size involved in ubiquitin-dependent protein catabolism
+regulation of peptidyl-threonine phosphorylation
+positive regulation of peptidyl-threonine phosphorylation
+negative regulation of peptidyl-threonine phosphorylation
+regulation of tumor necrosis factor-mediated signaling pathway
+negative regulation of tumor necrosis factor-mediated signaling pathway
+regulation of lysine import
+negative regulation of lysine import
+regulation of synaptic vesicle priming
+positive regulation of synaptic vesicle priming
+negative regulation of synaptic vesicle priming
+regulation of cell-substrate adhesion
+positive regulation of cell-substrate adhesion
+negative regulation of cell-substrate adhesion
+neuropeptide catabolic process
+substance P catabolic process
+bradykinin catabolic process
+calcitonin catabolic process
+regulation of hormone levels
+T cell chemotaxis
+regulation of T cell chemotaxis
+positive regulation of T cell chemotaxis
+regulation of mitochondrion organization
+positive regulation of mitochondrion organization
+negative regulation of mitochondrion organization
+regulation of centrosome duplication
+positive regulation of centrosome duplication
+negative regulation of centrosome duplication
+regulation of glucose transport
+positive regulation of glucose transport
+negative regulation of glucose transport
+regulation of myotube differentiation
+positive regulation of myotube differentiation
+negative regulation of myotube differentiation
+telomere maintenance via telomere lengthening
+telomere maintenance via telomere shortening
+regulation of protein ADP-ribosylation
+negative regulation of protein ADP-ribosylation
+regulation of keratinocyte proliferation
+positive regulation of keratinocyte proliferation
+negative regulation of keratinocyte proliferation
+"regulation of circadian sleep/wake cycle, wakefulness"
+"positive regulation of circadian sleep/wake cycle, wakefulness"
+retina layer formation
+positive regulation of reciprocal meiotic recombination
+activation of reciprocal meiotic recombination
+regulation of chromatin assembly
+regulation of chromatin disassembly
+"regulation of proton-transporting ATPase activity, rotational mechanism"
+regulation of blood pressure by chemoreceptor signaling pathway
+positive regulation of pathway-restricted SMAD protein phosphorylation
+positive regulation of phospholipase C activity
+positive regulation of protein histidine kinase activity
+stipule development
+regulation of triglyceride biosynthetic process
+positive regulation of triglyceride biosynthetic process
+negative regulation of triglyceride biosynthetic process
+regulation of receptor biosynthetic process
+positive regulation of receptor biosynthetic process
+negative regulation of receptor biosynthetic process
+regulation of cholesterol esterification
+positive regulation of cholesterol esterification
+regulation of cholesterol efflux
+positive regulation of cholesterol efflux
+lipid localization
+lipid transport involved in lipid storage
+cholesterol storage
+cholesterol transport involved in cholesterol storage
+regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum
+regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion
+regulation of cardiac muscle contraction by calcium ion signaling
+regulation of lipid storage
+positive regulation of lipid storage
+regulation of cholesterol storage
+positive regulation of cholesterol storage
+negative regulation of cholesterol storage
+negative regulation of lipid storage
+regulation of sequestering of triglyceride
+positive regulation of sequestering of triglyceride
+negative regulation of sequestering of triglyceride
+positive regulation of mitochondrial translation in response to stress
+positive regulation of steroid biosynthetic process
+negative regulation of steroid biosynthetic process
+negative regulation of ergosterol biosynthetic process
+regulation of triglyceride catabolic process
+negative regulation of triglyceride catabolic process
+positive regulation of triglyceride catabolic process
+regulation of phosphatidylcholine catabolic process
+negative regulation of phosphatidylcholine catabolic process
+regulation of very-low-density lipoprotein particle remodeling
+positive regulation of very-low-density lipoprotein particle remodeling
+negative regulation of very-low-density lipoprotein particle remodeling
+regulation of UDP-glucose catabolic process
+negative regulation of UDP-glucose catabolic process
+regulation of glucose metabolic process
+positive regulation of glucose metabolic process
+regulation of heparan sulfate proteoglycan biosynthetic process
+positive regulation of heparan sulfate proteoglycan biosynthetic process
+positive regulation of heparan sulfate proteoglycan biosynthesis by positive regulation of epimerase activity
+regulation of isomerase activity
+positive regulation of isomerase activity
+regulation of sterigmatocystin biosynthetic process
+positive regulation of sterigmatocystin biosynthetic process
+regulation of very-low-density lipoprotein particle clearance
+negative regulation of very-low-density lipoprotein particle clearance
+negative regulation of mitochondrial membrane potential
+positive regulation of mitochondrial membrane potential
+regulation of inositol phosphate biosynthetic process
+negative regulation of inositol phosphate biosynthetic process
+regulation of phosphatase activity
+positive regulation of phosphatase activity
+negative regulation of phosphatase activity
+regulation of inositol-polyphosphate 5-phosphatase activity
+positive regulation of inositol-polyphosphate 5-phosphatase activity
+anatomical structure formation
+cellular component assembly
+anatomical structure formation involved in morphogenesis
+cellular component assembly involved in morphogenesis
+regulation of auxin mediated signaling pathway
+positive regulation of auxin mediated signaling pathway
+negative regulation of auxin mediated signaling pathway
+macrophage tolerance induction
+regulation of macrophage tolerance induction
+positive regulation of macrophage tolerance induction
+macrophage cytokine production
+regulation of macrophage cytokine production
+negative regulation of macrophage cytokine production
+regulation of cytoplasmic microtubule depolymerization
+cytoplasmic microtubule depolymerization
+regulation of necrotic cell death
+positive regulation of necrotic cell death
+regulation of cell death
+positive regulation of cell death
+negative regulation of transcription by competitive promoter binding
+regulation of meiotic joint molecule formation
+negative regulation of meiotic joint molecule formation
+negative regulation of cell cycle process
+negative regulation of intestinal phytosterol absorption
+positive regulation of endopeptidase activity
+negative regulation of endopeptidase activity
+positive regulation of peptidase activity
+positive regulation of protein processing
+negative regulation of protein processing
+negative regulation of calcidiol 1-monooxygenase activity
+negative regulation of vitamin D biosynthetic process
+regulation of amino acid import
+regulation of metal ion transport
+magnesium ion homeostasis
+cellular magnesium ion homeostasis
+regulation of glucan biosynthetic process
+regulation of L-arginine import
+regulation of chromatin silencing by small RNA
+regulation of mitotic sister chromatid separation
+regulation of phosphate transport
+regulation of polyamine biosynthetic process
+regulation of microtubule nucleation
+regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion
+microtubule-based transport
+positive regulation of G2/M transition of mitotic cell cycle
+negative regulation of G2/M transition of mitotic cell cycle
+positive regulation of barrier septum assembly
+negative regulation of barrier septum assembly
+regulation of neuron projection development
+positive regulation of neuron projection development
+negative regulation of neuron projection development
+gene silencing involved in chronological cell aging
+regulation of vitamin D 24-hydroxylase activity
+positive regulation of vitamin D 24-hydroxylase activity
+regulation of cell wall macromolecule metabolic process
+regulation of high-density lipoprotein particle clearance
+positive regulation of high-density lipoprotein particle clearance
+regulation of lipoprotein particle clearance
+negative regulation of lipoprotein particle clearance
+positive regulation of lipoprotein particle clearance
+negative regulation of high-density lipoprotein particle clearance
+regulation of low-density lipoprotein particle clearance
+negative regulation of low-density lipoprotein particle clearance
+regulation of SMAD protein complex assembly
+negative regulation of SMAD protein complex assembly
+ubiquitin homeostasis
+regulation of ubiquitin homeostasis
+free ubiquitin chain polymerization
+free ubiquitin chain depolymerization
+response to auditory stimulus
+regulation of translational initiation by eIF2 alpha phosphorylation
+regulation of eIF2 alpha phosphorylation by heme
+replication fork arrest at mating type locus
+induction of programmed cell death
+sclerenchyma cell differentiation
+astrocyte development
+oligodendrocyte development
+microglia differentiation
+microglia development
+regulation of microglia differentiation
+negative regulation of microglia differentiation
+positive regulation of microglia differentiation
+glial cell proliferation
+Schwann cell proliferation
+Schwann cell proliferation involved in axon regeneration
+peripheral nervous system axon regeneration
+regulation of gliogenesis
+negative regulation of gliogenesis
+positive regulation of gliogenesis
+neuroblast differentiation
+neuroblast fate commitment
+neuroblast fate specification
+neuroblast development
+primary neural tube formation
+secondary neural tube formation
+neural plate elongation
+neural rod formation
+neural rod cavitation
+neural keel formation
+secondary neural tube rod cavitation
+notochord formation
+neural crest formation
+mesenchymal cell fate commitment
+mesenchymal cell development
+neural crest cell development
+neural crest cell differentiation
+neural crest cell fate commitment
+neural crest cell fate determination
+neural crest cell fate specification
+Schwann cell differentiation
+regulation of Schwann cell differentiation
+negative regulation of Schwann cell differentiation
+positive regulation of Schwann cell differentiation
+regulation of neuron maturation
+positive regulation of neuron maturation
+negative regulation of neuron maturation
+Schwann cell development
+establishment of endothelial blood-brain barrier
+dopamine secretion
+glutamate secretion
+regulation of glutamate secretion
+positive regulation of glutamate secretion
+negative regulation of glutamate secretion
+gamma-aminobutyric acid secretion
+regulation of gamma-aminobutyric acid secretion
+negative regulation of gamma-aminobutyric acid secretion
+positive regulation of gamma-aminobutyric acid secretion
+"acetylcholine secretion, neurotransmission"
+"regulation of acetylcholine secretion, neurotransmission"
+"positive regulation of acetylcholine secretion, neurotransmission"
+"negative regulation of acetylcholine secretion, neurotransmission"
+regulation of dopamine secretion
+regulation of epinephrine secretion
+regulation of norepinephrine secretion
+regulation of serotonin secretion
+negative regulation of serotonin secretion
+positive regulation of serotonin secretion
+phosphatidylinositol 3-kinase signaling
+regulation of phosphatidylinositol 3-kinase signaling
+negative regulation of phosphatidylinositol 3-kinase signaling
+positive regulation of phosphatidylinositol 3-kinase signaling
+response to organic cyclic compound
+response to cycloalkane
+response to isoquinoline alkaloid
+response to tropane
+response to purine-containing compound

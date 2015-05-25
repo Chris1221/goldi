@@ -1,0 +1,387 @@
+polyamine biosynthetic process
+spermine biosynthetic process
+polyamine catabolic process
+phosphagen metabolic process
+creatine metabolic process
+creatine biosynthetic process
+creatinine catabolic process
+phosphocreatine metabolic process
+phosphoarginine metabolic process
+protein targeting
+NLS-bearing protein import into nucleus
+snRNP protein import into nucleus
+mRNA-binding (hnRNP) protein import into nucleus
+ribosomal protein import into nucleus
+protein export from nucleus
+protein targeting to membrane
+cotranslational protein targeting to membrane
+SRP-dependent cotranslational protein targeting to membrane
+"SRP-dependent cotranslational protein targeting to membrane, docking"
+"SRP-dependent cotranslational protein targeting to membrane, translocation"
+"SRP-dependent cotranslational protein targeting to membrane, signal sequence recognition"
+"SRP-dependent cotranslational protein targeting to membrane, signal sequence processing"
+SRP-independent cotranslational protein-membrane targeting
+posttranslational protein targeting to membrane
+protein retention in ER lumen
+protein targeting to lysosome
+protein targeting to vacuole
+vacuolar protein processing
+protein targeting to mitochondrion
+protein processing involved in protein targeting to mitochondrion
+mitochondrial translocation
+lipid metabolic process
+fatty acid metabolic process
+fatty acid biosynthetic process
+hexadecanal biosynthetic process
+fatty acid beta-oxidation
+unsaturated fatty acid biosynthetic process
+acyl-CoA metabolic process
+neutral lipid metabolic process
+acylglycerol metabolic process
+monoacylglycerol biosynthetic process
+triglyceride metabolic process
+triglyceride mobilization
+membrane lipid metabolic process
+phospholipid metabolic process
+phosphatidylethanolamine biosynthetic process
+phosphatidyl-N-monomethylethanolamine biosynthetic process
+dihydrosphingosine-1-P pathway
+phospholipid transfer to membrane
+glycerophospholipid metabolic process
+diacylglycerol biosynthetic process
+"1,2-diacyl-sn-glycero-3-phosphocholine metabolic process"
+phosphatidic acid biosynthetic process
+phosphatidylglycerol biosynthetic process
+phosphatidylcholine biosynthetic process
+CDP-choline pathway
+phosphatidylserine metabolic process
+phosphatidylserine biosynthetic process
+phosphatidylserine catabolic process
+phosphatidylinositol biosynthetic process
+glycerol ether metabolic process
+platelet activating factor biosynthetic process
+glycolipid metabolic process
+sphingolipid metabolic process
+3-keto-sphinganine metabolic process
+sphinganine metabolic process
+sphinganine-1-phosphate metabolic process
+sphinganine-1-phosphate biosynthetic process
+sphingosine metabolic process
+phytosphingosine metabolic process
+ceramide metabolic process
+inositolphosphoceramide metabolic process
+mannosyl-inositol phosphorylceramide metabolic process
+mannosyl diphosphorylinositol ceramide metabolic process
+glycosylceramide metabolic process
+glucosylceramide metabolic process
+glucosylceramide biosynthetic process
+glucosylceramide catabolic process
+galactosylceramide metabolic process
+galactosylceramide biosynthetic process
+galactosylceramide catabolic process
+sphingomyelin metabolic process
+sphingomyelin catabolic process
+sphingomyelin biosynthetic process
+glycosphingolipid metabolic process
+glycosphingolipid biosynthetic process
+ganglioside catabolic process
+icosanoid metabolic process
+leukotriene metabolic process
+prostanoid metabolic process
+prostaglandin metabolic process
+steroid biosynthetic process
+cholesterol biosynthetic process
+ergosterol biosynthetic process
+ecdysone biosynthetic process
+ecdysone modification
+bile acid biosynthetic process
+C21-steroid hormone biosynthetic process
+progesterone biosynthetic process
+androgen biosynthetic process
+estrogen biosynthetic process
+glucocorticoid biosynthetic process
+mineralocorticoid biosynthetic process
+steroid catabolic process
+cholesterol catabolic process
+ecdysone catabolic process
+progesterone catabolic process
+androgen catabolic process
+estrogen catabolic process
+mineralocorticoid catabolic process
+glucocorticoid catabolic process
+sesquiterpenoid metabolic process
+farnesol biosynthetic process
+juvenile hormone metabolic process
+juvenile hormone biosynthetic process
+juvenile hormone catabolic process
+isoprenoid metabolic process
+terpenoid metabolic process
+triterpenoid metabolic process
+cuticle hydrocarbon biosynthetic process
+cellular aromatic compound metabolic process
+eye pigment biosynthetic process
+ommochrome biosynthetic process
+pteridine biosynthetic process
+tetrahydrobiopterin biosynthetic process
+one-carbon metabolic process
+coenzyme and prosthetic group metabolic process
+coenzyme metabolic process
+prosthetic group metabolic process
+oxidoreduction coenzyme metabolic process
+NADH metabolic process
+NADH regeneration
+nicotinamide riboside catabolic process
+NADP metabolic process
+NADPH regeneration
+NADP biosynthetic process
+NADP catabolic process
+ubiquinone metabolic process
+ubiquinone biosynthetic process
+FADH2 metabolic process
+FAD biosynthetic process
+lipoamide metabolic process
+glutathione biosynthetic process
+glutathione catabolic process
+nucleoside phosphate metabolic process
+ATP biosynthetic process
+carbamoyl phosphate-ADP transphosphorylation
+AMP phosphorylation
+ADP phosphorylation
+folic acid-containing compound metabolic process
+dihydrofolate biosynthetic process
+dihydrofolate reduction
+dihydrofolate metabolic process
+vitamin metabolic process
+water-soluble vitamin metabolic process
+biotin metabolic process
+nicotinamide metabolic process
+riboflavin metabolic process
+thiamine metabolic process
+vitamin B12 reduction
+cobalamin metabolic process
+fat-soluble vitamin metabolic process
+vitamin A metabolic process
+Mo-molybdopterin cofactor biosynthetic process
+porphyrin-containing compound metabolic process
+porphyrin-containing compound biosynthetic process
+uroporphyrinogen III biosynthetic process
+succinyl-CoA pathway
+protoporphyrinogen IX biosynthetic process
+heme biosynthetic process
+heme a biosynthetic process
+heme b biosynthetic process
+heme c biosynthetic process
+porphyrin-containing compound catabolic process
+heme oxidation
+bilirubin conjugation
+sulfur utilization
+regulation of sulfur utilization
+phosphorus metabolic process
+phosphorus utilization
+regulation of phosphorus utilization
+phosphate-containing compound metabolic process
+polyphosphate metabolic process
+polyphosphate catabolic process
+polyphosphate biosynthetic process
+oxygen and reactive oxygen species metabolic process
+oxygen metabolic process
+reactive oxygen species metabolic process
+superoxide metabolic process
+catalase reaction
+glutathione conjugation reaction
+peroxidase reaction
+xenobiotic metabolic process
+insecticide resistance
+response to insecticide
+nitrogen compound metabolic process
+regulation of nitrogen utilization
+nitric oxide biosynthetic process
+transport
+ion transport
+cation transport
+potassium ion transport
+sodium ion transport
+sodium/potassium transport
+calcium ion transport
+phosphate ion transport
+hydrogen transport
+anion transport
+chloride transport
+heavy metal ion transport
+metal ion transport
+cobalt ion transport
+copper ion transport
+iron ion transport
+high-affinity iron ion transmembrane transport
+manganese ion transport
+zinc II ion transport
+high-affinity zinc II ion transport
+low-affinity zinc II ion transport
+small molecule transport
+water transport
+dicarboxylic acid transport
+neurotransmitter transport
+serotonin transport
+allantoin/allantoate transport
+allantoate transport
+allantoin transport
+mitochondrial transport
+mitochondrial alpha-ketoglutarate/malate transport
+alpha-ketoglutarate transport
+malate transport
+tricarboxylic acid transport
+mitochondrial citrate transport
+acyl carnitine transport
+mitochondrial aspartate/glutamate transport
+aspartate transport
+L-glutamate transport
+acetate transport
+plasma membrane acetate transport
+pyruvate transport
+plasma membrane pyruvate transport
+mitochondrial pyruvate transport
+mitochondrial calcium ion transport
+mitochondrial sodium/calcium ion exchange
+carnitine shuttle
+ATP/ADP exchange
+drug transmembrane transport
+eye pigment precursor transport
+oligopeptide transport
+extracellular transport
+extracellular carbohydrate transport
+extracellular amino acid transport
+nucleotide transport
+purine nucleobase transport
+pyrimidine nucleotide transport
+amino acid transport
+asparagine transport
+glutamine transport
+lipid transport
+cellular ion homeostasis
+cellular calcium ion homeostasis
+cellular metal ion homeostasis
+cellular cadmium ion homeostasis
+cellular cobalt ion homeostasis
+cellular copper ion homeostasis
+cellular iron ion homeostasis
+intracellular sequestering of iron ion
+extracellular sequestering of iron ion
+cellular zinc ion homeostasis
+cellular sodium ion homeostasis
+cell volume homeostasis
+regulation of pH
+intracellular protein transport
+exocytosis
+ER to Golgi vesicle-mediated transport
+regulation of calcium in ER
+"retrograde vesicle-mediated transport, Golgi to ER"
+intra-Golgi vesicle-mediated transport
+post-Golgi vesicle-mediated transport
+Golgi to plasma membrane transport
+Golgi to secretory vesicle transport
+Golgi to secretory granule transport
+Golgi to transport vesicle transport
+Golgi to endosome transport
+Golgi to vacuole transport
+endocytosis
+receptor-mediated endocytosis
+membrane budding
+vesicle coating
+vesicle docking involved in exocytosis
+pinocytosis
+phagocytosis
+"phagocytosis, recognition"
+"phagocytosis, engulfment"
+phagosome formation
+nucleocytoplasmic transport
+autophagy
+induction of apoptosis by p53
+activation of cysteine-type endopeptidase activity involved in apoptotic process
+commitment to apoptosis
+cellular component disassembly involved in execution phase of apoptosis
+cleavage of lamin involved in execution phase of apoptosis
+cleavage of cytoskeletal proteins involved in execution phase of apoptosis
+activation-induced cell death of T cells
+inflammatory cell apoptotic process
+virus-infected cell apoptotic process
+transformed cell apoptotic process
+movement of cell or subcellular component
+substrate-dependent cell migration
+"substrate-dependent cell migration, cell extension"
+"substrate-dependent cell migration, cell attachment to substrate"
+"substrate-dependent cell migration, cell contraction"
+negative regulation of cell adhesion involved in substrate-bound cell migration
+"substrate-bound cell migration, adhesion receptor recycling"
+chemotaxis
+regulation of muscle contraction
+smooth muscle contraction
+regulation of smooth muscle contraction
+striated muscle contraction
+regulation of striated muscle contraction
+chemi-mechanical coupling
+response to mechanical stimulus
+sensory perception of mechanical stimulus
+nuclear fusion during karyogamy
+induction by virus of host cell-cell fusion
+syncytium formation
+response to stress
+inflammatory response
+immune response
+"complement activation, alternative pathway"
+"complement activation, classical pathway"
+humoral immune response
+male-specific antibacterial humoral response
+positive regulation of antibacterial peptide biosynthetic process
+positive regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria
+positive regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria
+positive regulation of antifungal peptide biosynthetic process
+cellular defense response
+melanotic tumor response
+response to osmotic stress
+hypotonic response
+hyperosmotic response
+intracellular accumulation of glycerol
+cellular response to DNA damage stimulus
+DNA damage induced protein phosphorylation
+"DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest"
+"DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator"
+response to oxidative stress
+activation of SoxR protein
+response to lipid hydroperoxide
+ER overload response
+ER-nucleus signaling pathway
+positive regulation of NF-kappaB transcription factor activity by ER overload response
+activation of signaling protein activity involved in unfolded protein response
+"unfolded protein response, cleavage of primary transcript encoding UFP-specific transcription factor"
+UFP-specific transcription factor mRNA processing involved in endoplasmic reticulum unfolded protein response
+"unfolded protein response, ligation of mRNA encoding UFP-specific transcription factor by RNA ligase"
+positive regulation of transcription from RNA polymerase II promoter involved in unfolded protein response
+response to sterol depletion
+cellular response to nitrogen starvation
+organelle organization
+nucleus organization
+nuclear envelope organization
+nuclear pore organization
+nucleolus organization
+centromere binding
+telomere binding
+telomere maintenance via telomerase
+mitochondrion organization
+mitochondrial membrane organization
+inner mitochondrial membrane organization
+outer mitochondrial membrane organization
+plasma membrane organization
+regulation of cytoskeleton
+actin ubiquitination
+actin filament organization
+cytoskeletal anchoring at plasma membrane
+microtubule-based movement
+microtubule depolymerization
+microtubule nucleation
+tubulin complex assembly
+post-chaperonin tubulin folding pathway
+negative regulation of microtubule depolymerization
+negative regulation of axonemal microtubule depolymerization
+cytoplasm organization
+endoplasmic reticulum organization
+Golgi organization

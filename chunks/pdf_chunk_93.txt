@@ -1,0 +1,387 @@
+(R)-carnitine transmembrane transport
+regulation of (R)-carnitine transmembrane transport
+negative regulation of (R)-carnitine transmembrane transport
+positive regulation of (R)-carnitine transmembrane transport
+regulation of chromatin organization
+regulation of pancreatic amylase secretion
+negative regulation of pancreatic amylase secretion
+positive regulation of pancreatic amylase secretion
+positive regulation of pancreatic amylase secretion by cholecystokinin signaling pathway
+regulation of ATP-dependent RNA helicase activity
+negative regulation of ATP-dependent RNA helicase activity
+negative regulation of primary amine oxidase activity
+neuron projection extension involved in neuron projection guidance
+semaphorin-plexin signaling pathway involved in neuron projection guidance
+semaphorin-plexin signaling pathway involved in dendrite guidance
+semaphorin-plexin signaling pathway involved in axon guidance
+regulation of defense response to oomycetes
+negative regulation of defense response to oomycetes
+positive regulation of defense response to oomycetes
+cell cycle DNA replication DNA ligation
+cell cycle DNA replication initiation
+cell cycle DNA replication termination
+synthesis of RNA primer involved in cell cycle DNA replication
+DNA strand elongation involved in cell cycle DNA replication
+cell cycle DNA replication DNA unwinding
+cell cycle DNA replication maintenance of fidelity
+pre-replicative complex assembly involved in cell cycle DNA replication
+galactarate transport
+regulation of potassium ion export
+negative regulation of potassium ion export
+positive regulation of potassium ion export
+regulation of sodium ion transmembrane transport
+negative regulation of sodium ion transmembrane transport
+positive regulation of sodium ion transmembrane transport
+regulation of peptidyl-serine dephosphorylation
+negative regulation of peptidyl-serine dephosphorylation
+positive regulation of peptidyl-serine dephosphorylation
+regulation of copper ion transmembrane transport
+negative regulation of copper ion transmembrane transport
+positive regulation of copper ion transmembrane transport
+nuclear cell cycle DNA replication initiation
+nuclear DNA replication termination
+synthesis of RNA primer involved in nuclear cell cycle DNA replication
+DNA strand elongation involved in nuclear cell cycle DNA replication
+nuclear DNA replication DNA duplex unwinding
+methyl-branched fatty acid biosynthetic process
+regulation of methyl-branched fatty acid biosynthetic process
+negative regulation of methyl-branched fatty acid biosynthetic process
+positive regulation of methyl-branched fatty acid biosynthetic process
+negative regulation of chlorophyll biosynthetic process
+positive regulation of chlorophyll biosynthetic process
+bacterial-type DNA replication DNA ligation
+bacterial-type DNA replication initiation
+bacterial-type DNA replication termination
+synthesis of RNA primer involved in bacterial-type DNA replication
+DNA strand elongation involved in bacterial-type DNA replication
+bacterial-type DNA replication DNA duplex unwinding
+nuclear DNA replication DNA ligation
+fructose export from vacuole to cytoplasm
+positive chemotaxis involved in neuron migration
+positive regulation of retinal ganglion cell axon guidance
+regulation of apoptotic process involved in morphogenesis
+negative regulation of apoptotic process involved in morphogenesis
+positive regulation of apoptotic process involved in morphogenesis
+negative regulation of chromosome condensation
+xylitol transport
+xylitol export
+regulation of maltose transport
+negative regulation of maltose transport
+positive regulation of maltose transport
+meiotic strand displacement involved in double-strand break repair via SDSA
+response to strigolactone
+cellular response to strigolactone
+response to chloroquine
+cellular response to chloroquine
+response to imidacloprid
+negative regulation of filamentous growth of a population of unicellular organisms in response to starvation by negative regulation of transcription from RNA polymerase II promoter
+positive regulation of induction of conjugation with cellular fusion by negative regulation of transcription from RNA polymerase II promoter by pheromones
+blood vessel endothelial cell delamination involved in blood vessel lumen ensheathment
+endothelial tube lumen extension involved in blood vessel lumen ensheathment
+oxaloacetate(2-) transmembrane transport
+2-isopropylmalate(2-) transmembrane transport
+sulfate transmembrane transport
+Notch signaling pathway involved in somitogenesis
+conversion of ds siRNA to ss siRNA involved in chromatin silencing by small RNA
+mitochondrial pyruvate transmembrane transport
+melanocyte apoptotic process
+regulation of protein localization to spindle pole body
+negative regulation of protein localization to spindle pole body
+positive regulation of protein localization to spindle pole body
+regulation of Notch signaling pathway involved in somitogenesis
+negative regulation of Notch signaling pathway involved in somitogenesis
+heterochromatin maintenance involved in chromatin silencing at centromere outer repeat region
+negative regulation of RNA catabolic process
+regulation of tRNA catabolic process
+negative regulation of tRNA catabolic process
+positive regulation of tRNA catabolic process
+negative regulation of mRNA catabolic process
+regulation of rRNA catabolic process
+"nuclear tRNA 3'-trailer cleavage, endonucleolytic"
+protein denaturation involved in proteasomal ubiquitin-dependent protein catabolic process
+VEGF-activated neuropilin signaling pathway involved in axon guidance
+positive regulation of endoribonuclease activity
+11-oxo-beta-amyrin metabolic process
+11-oxo-beta-amyrin catabolic process
+11-oxo-beta-amyrin biosynthetic process
+glycyrrhetinate metabolic process
+glycyrrhetinate catabolic process
+glycyrrhetinate biosynthetic process
+ceramide 1-phosphate transport
+regulation of N-terminal peptidyl-serine acetylation
+positive regulation of N-terminal peptidyl-serine acetylation
+regulation of exodeoxyribonuclease activity
+negative regulation of exodeoxyribonuclease activity
+positive regulation of exodeoxyribonuclease activity
+regulation of 1-deoxy-D-xylulose-5-phosphate synthase activity
+protein localization to tight junction
+detection of stimulus involved in meiotic spindle checkpoint
+intracellular signal transduction involved in meiotic spindle checkpoint
+detection of stimulus involved in G1 DNA damage checkpoint
+intracellular signal transduction involved in G1 DNA damage checkpoint
+detection of stimulus involved in mitotic DNA damage checkpoint
+signal transduction involved in mitotic DNA damage checkpoint
+signal transduction involved in mitotic DNA integrity checkpoint
+mitotic actomyosin contractile ring contraction
+mitotic actomyosin contractile ring localization
+mitotic actomyosin contractile ring maintenance
+assembly of actomyosin apparatus involved in mitotic cytokinesis
+"mitotic cytokinesis, site selection"
+mitotic cytokinetic process
+regulation of mitotic cytokinesis
+negative regulation of mitotic cytokinesis
+protein localization to cell junction
+regulation of mRNA binding
+positive regulation of mRNA binding
+(+)-abscisic acid D-glucopyranosyl ester transmembrane transport
+detection of stimulus involved in Dma1-dependent checkpoint
+signal transduction involved in Dma1-dependent checkpoint
+hydrogen metabolic process
+hydrogen biosynthetic process
+regulation of mitotic attachment of spindle microtubules to kinetochore
+negative regulation of mitotic attachment of spindle microtubules to kinetochore
+positive regulation of attachment of mitotic spindle microtubules to kinetochore
+negative regulation of mitotic spindle assembly checkpoint
+regulation of water channel activity
+negative regulation of water channel activity
+positive regulation of water channel activity
+negative regulation of beta-amyloid formation
+uracil import into cell
+protein localization to barrier septum
+positive regulation of water channel activity involved in maintenance of lens transparency
+sulfate import into cell
+regulation of male mating behavior
+negative regulation of male mating behavior
+positive regulation of male mating behavior
+response to vanadate(3-)
+cellular response to vanadate(3-)
+protein localization to mitotic spindle pole body
+protein localization to meiotic spindle pole body
+regulation of ripoptosome assembly involved in necroptotic process
+negative regulation of ripoptosome assembly involved in necroptotic process
+regulation of mitochondrial membrane permeability involved in programmed necrotic cell death
+regulation of shade avoidance
+negative regulation of shade avoidance
+positive regulation of shade avoidance
+regulation of ATP-dependent DNA helicase activity
+negative regulation of ATP-dependent DNA helicase activity
+positive regulation of ATP-dependent DNA helicase activity
+regulation of autophagic vacuole fusion
+negative regulation of autophagic vacuole fusion
+positive regulation of autophagic vacuole fusion
+negative regulation of stem cell maintenance
+regulation of stomatal opening
+negative regulation of stomatal opening
+positive regulation of stomatal opening
+positive regulation of stem cell maintenance
+regulation of mesenchymal stem cell proliferation
+negative regulation of mesenchymal stem cell proliferation
+positive regulation of mesenchymal stem cell proliferation
+protein localization to cell leading edge
+regulation of histone H3-K27 trimethylation
+negative regulation of histone H3-K27 trimethylation
+positive regulation of histone H3-K27 trimethylation
+regulation of mitotic actomyosin contractile ring localization
+"regulation of mitotic cytokinesis, site selection"
+regulation of protein localization to synapse
+positive regulation of protein localization to synapse
+L-alpha-amino acid transmembrane transport
+chloride transmembrane transport
+"regulation of defense response to bacterium, incompatible interaction"
+"negative regulation of defense response to bacterium, incompatible interaction"
+"positive regulation of defense response to bacterium, incompatible interaction"
+protein localization to mitotic spindle
+gamma-tubulin complex assembly
+regulatory T cell apoptotic process
+cytotoxic T cell apoptotic process
+Sertoli cell apoptotic process
+protein localization to growing cell tip
+protein localization to non-growing cell tip
+cholangiocyte apoptotic process
+hepatoblast apoptotic process
+regulation of sperm capacitation
+negative regulation of sperm capacitation
+positive regulation of sperm capacitation
+iron-sulfur cluster transport
+regulation of protein autoubiquitination
+positive regulation of protein autoubiquitination
+regulation of signal transduction involved in mitotic G2 DNA damage checkpoint
+negative regulation of signal transduction involved in mitotic G2 DNA damage checkpoint
+positive regulation of signal transduction involved in mitotic G2 DNA damage checkpoint
+regulation of apoptotic DNA fragmentation
+negative regulation of apoptotic DNA fragmentation
+positive regulation of apoptotic DNA fragmentation
+regulation of organelle transport along microtubule
+regulation of generation of L-type calcium current
+response to cyclophosphamide
+response to docetaxel trihydrate
+response to doxorubicin
+response to etoposide
+response to 4'-epidoxorubicin
+positive regulation of protein K63-linked ubiquitination
+positive regulation of protein K48-linked ubiquitination
+regulation of protein monoubiquitination
+negative regulation of protein monoubiquitination
+positive regulation of protein monoubiquitination
+regulation of protein linear polyubiquitination
+negative regulation of protein linear polyubiquitination
+positive regulation of protein linear polyubiquitination
+regulation of intracellular signal transduction
+negative regulation of intracellular signal transduction
+positive regulation of intracellular signal transduction
+single-organism membrane invagination
+multi-organism membrane invagination
+single-organism pinocytosis
+multi-organism pinocytosis
+single-organism macropinocytosis
+multi-organism macropinocytosis
+single-organism micropinocytosis
+multi-organism micropinocytosis
+regulation of protein localization to mitotic spindle pole body
+negative regulation of protein localization to mitotic spindle pole body
+regulation of DNA N-glycosylase activity
+negative regulation of DNA N-glycosylase activity
+positive regulation of DNA N-glycosylase activity
+regulation of cellular response to vascular endothelial growth factor stimulus
+negative regulation of cellular response to vascular endothelial growth factor stimulus
+protein localization to Mei2 nuclear dot
+lymphoid lineage cell migration into thymus involved in thymus epithelium morphogenesis
+regulation of catalase activity
+negative regulation of catalase activity
+positive regulation of catalase activity
+5'-adenylyl sulfate transmembrane transport
+3'-phospho-5'-adenylyl sulfate transmembrane transport
+origin recognition complex assembly
+regulation of neutrophil activation
+negative regulation of neutrophil activation
+positive regulation of neutrophil activation
+regulation of eosinophil activation
+negative regulation of eosinophil activation
+positive regulation of eosinophil activation
+negative regulation of activation of JAK2 kinase activity
+protein localization to nucleolus
+regulation of serine-type peptidase activity
+negative regulation of serine-type peptidase activity
+positive regulation of serine-type peptidase activity
+negative regulation of leucine import by regulation of transcription from RNA polymerase II promoter
+"protein localization to cell division site involved in cytokinesis, actomyosin contractile ring assembly"
+negative regulation of nuclear cell cycle DNA replication
+protein localization to medial cortical node
+single-organism localization
+multi-organism localization
+single-organism cellular localization
+multi-organism cellular localization
+single-organism intracellular transport
+multi-organism intracellular transport
+positive regulation of response to water deprivation
+single-organism intercellular transport
+multi-organism intercellular transport
+single-organism plasmodesmata-mediated intercellular transport
+multi-organism plasmodesmata-mediated intercellular transport
+single-organism organelle organization
+multi-organism organelle organization
+single-organism membrane budding
+multi-organism membrane budding
+single-organism nuclear import
+multi-organism nuclear import
+regulation of DNA replication origin binding
+negative regulation of DNA replication origin binding
+positive regulation of DNA replication origin binding
+creatine transmembrane transport
+sulfathiazole transmembrane transport
+hydrogen ion transmembrane transport
+silver ion transmembrane transport
+aluminum ion transmembrane transport
+carnitine transmembrane transport
+p-aminobenzoyl-glutamate transmembrane transport
+heterotrimeric G-protein complex assembly
+regulation of large conductance calcium-activated potassium channel activity
+negative regulation of large conductance calcium-activated potassium channel activity
+positive regulation of large conductance calcium-activated potassium channel activity
+(R)-2-hydroxy-alpha-linolenic acid biosynthetic process
+response to N-phenylthiourea
+cellular response to N-phenylthiourea
+regulation of anti-Mullerian hormone signaling pathway
+negative regulation of anti-Mullerian hormone signaling pathway
+positive regulation of anti-Mullerian hormone signaling pathway
+immune response involved in response to exogenous dsRNA
+acyl carnitine transmembrane transport
+response to fluoride
+cellular response to fluoride
+regulation of microtubule minus-end binding
+positive regulation of microtubule minus-end binding
+actomyosin contractile ring disassembly
+regulation of neutrophil migration
+negative regulation of neutrophil migration
+positive regulation of neutrophil migration
+negative regulation of induction of conjugation with cellular fusion by negative regulation of transcription from RNA polymerase II promoter
+assembly of large subunit precursor of preribosome
+regulation of assembly of large subunit precursor of preribosome
+positive regulation of assembly of large subunit precursor of preribosome
+regulation of mRNA stability involved in cellular response to UV
+regulation of membrane hyperpolarization
+negative regulation of membrane hyperpolarization
+positive regulation of membrane hyperpolarization
+"1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate metabolic process"
+"1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate catabolic process"
+"1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate biosynthetic process"
+neural crest cell differentiation involved in thymus development
+neural crest cell differentiation involved in parathyroid gland development
+propan-2-ol metabolic process
+propan-2-ol biosynthetic process
+"regulation of 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate catabolic process"
+"negative regulation of 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate catabolic process"
+"positive regulation of 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate catabolic process"
+tertiary alcohol metabolic process
+tertiary alcohol biosynthetic process
+"regulation of 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate biosynthetic process"
+"negative regulation of 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate biosynthetic process"
+"positive regulation of 1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate biosynthetic process"
+regulation of histone H2A-H2B dimer displacement
+negative regulation of histone H2A-H2B dimer displacement
+positive regulation of histone H2A-H2B dimer displacement
+secondary alcohol metabolic process
+secondary alcohol biosynthetic process
+aromatic primary alcohol metabolic process
+aromatic primary alcohol biosynthetic process
+calcium ion import into cytosol
+protein localization to prospore membrane
+establishment of protein localization to prospore membrane
+regulation of glucose mediated signaling pathway
+negative regulation of glucose mediated signaling pathway
+positive regulation of glucose mediated signaling pathway
+regulation of peptidyl-L-cysteine S-palmitoylation
+negative regulation of peptidyl-L-cysteine S-palmitoylation
+positive regulation of peptidyl-L-cysteine S-palmitoylation
+response to isobutanol
+protein localization to Mmi1 nuclear focus complex
+regulation of axon guidance
+negative regulation of axon guidance
+positive regulation of axon guidance
+negative regulation of RNA biosynthetic process
+positive regulation of RNA biosynthetic process
+regulation of replication fork arrest at rDNA repeats
+protein localization to nuclear pericentric heterochromatin
+regulation of receptor localization to synapse
+negative regulation of receptor localization to synapse
+positive regulation of receptor localization to synapse
+mitochondrial outer membrane permeabilization involved in programmed cell death
+regulation of NAD metabolic process
+negative regulation of NAD metabolic process
+positive regulation of NAD metabolic process
+respiratory basal cell differentiation
+regulation of neuroblast proliferation
+glycine catabolic process to isobutanol
+valine catabolic process to isobutanol
+pentose catabolic process to butyrate
+pentose catabolic process to acetate
+pentose catabolic process to butan-1-ol
+pentose catabolic process to propan-2-ol
+hexose catabolic process to propan-2-ol
+hexose catabolic process to butan-1-ol
+hexose catabolic process to acetone
+hexose catabolic process to butyrate
+hexose catabolic process to acetate
+hexose catabolic process to ethanol
+response to plumbagin
+cellular response to plumbagin

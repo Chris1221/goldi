@@ -1,0 +1,387 @@
+sphingolipid mediated signaling pathway
+glomerular visceral epithelial cell migration
+vesicle tethering involved in exocytosis
+regulation of glycolysis involved in cellular glucose homeostasis
+regulation of gluconeogenesis involved in cellular glucose homeostasis
+actin filament reorganization
+smooth septate junction assembly
+cell septum assembly
+L-ascorbic acid biosynthetic process via GDP-alpha-D-mannose
+L-ascorbic acid biosynthetic process via UDP-alpha-D-glucuronate
+peptide pheromone secretion
+peptide pheromone export by transmembrane transport
+bacterial cellulose biosynthetic process
+chlorophyll fluorescence
+response to low humidity
+response to nitrate starvation
+response to carbon starvation
+response to molybdenum starvation
+response to manganese starvation
+establishment of endothelial intestinal barrier
+plant epidermis development
+regulation of membrane permeability
+nuclear migration during mitotic telophase
+reproductive shoot system development
+dsDNA loop formation
+DNA synthesis involved in DNA replication
+peptidyl-histidine autophosphorylation
+inflammatory response to wounding
+sensory organ morphogenesis
+nematode male tail mating organ morphogenesis
+male anatomical structure morphogenesis
+enucleation
+sieve element enucleation
+sieve element differentiation
+surface biofilm formation
+submerged biofilm formation
+single-species surface biofilm formation
+multi-species surface biofilm formation
+multi-species submerged biofilm formation
+single-species submerged biofilm formation
+bundle sheath cell fate specification
+ubiquitin-independent protein catabolic process via the multivesicular body sorting pathway
+mitochondrial mRNA processing
+mitochondrial mRNA 3'-end processing
+mitochondrial mRNA 5'-end processing
+DNA clamp unloading
+activation of APC-fizzy related complex activity
+mRNA cleavage involved in gene silencing by siRNA
+plant epidermis morphogenesis
+plant epidermal cell differentiation
+plant epidermal cell fate specification
+lagging strand initiation
+activation of GTPase activity
+glycolysis from storage polysaccharide
+response to nematicide
+regulation of plasma lipoprotein particle levels
+energy homeostasis
+eukaryotic translation initiation factor 4F complex assembly
+cellular response to granulocyte macrophage colony-stimulating factor stimulus
+response to granulocyte macrophage colony-stimulating factor
+renal protein absorption
+renal albumin absorption
+neurotransmitter receptor catabolic process
+lymphocyte migration into lymphoid organs
+lymphocyte migration into lymph node
+dendritic cell dendrite assembly
+dendritic cell differentiation
+mature conventional dendritic cell differentiation
+mitochondrial respiratory chain complex I biogenesis
+mitochondrial respiratory chain complex II biogenesis
+mitochondrial respiratory chain complex III biogenesis
+mitochondrial respiratory chain complex IV biogenesis
+regulation of membrane lipid distribution
+regulation of plasma membrane sterol distribution
+heme export
+protein linear polyubiquitination
+phthiocerol biosynthetic process
+phenolic phthiocerol biosynthetic process
+histone H3-K56 acetylation
+histone H3-K56 acetylation in response to DNA damage
+phosphatidylserine exposure on blood platelet
+replication fork progression beyond termination site
+dendritic cell apoptotic process
+motor neuron apoptotic process
+type B pancreatic cell apoptotic process
+establishment of protein localization to endoplasmic reticulum membrane
+L-kynurenine metabolic process
+L-kynurenine catabolic process
+L-glutamate biosynthetic process
+agmatine biosynthetic process
+selenocysteinyl-tRNA(Sec) biosynthetic process
+dendritic spine organization
+dendritic spine maintenance
+ncRNA export from nucleus
+anterior head development
+response to thyroid hormone
+cellular response to thyroid hormone stimulus
+response to thyroxine
+cellular response to thyroxine stimulus
+ductus arteriosus closure
+plasma membrane selenite transport
+vascular smooth muscle cell fate commitment
+vascular smooth muscle cell fate specification
+vascular smooth muscle cell fate determination
+vascular smooth muscle cell development
+amniotic stem cell differentiation
+interleukin-17A production
+interleukin-17F production
+methyl-branched fatty acid metabolic process
+presynaptic membrane organization
+synaptic vesicle clustering
+polyacyltrehalose metabolic process
+polyacyltrehalose biosynthetic process
+craniofacial suture morphogenesis
+frontonasal suture morphogenesis
+facial suture morphogenesis
+nasal suture morphogenesis
+blood vessel endothelial cell fate specification
+endothelial tip cell fate specification
+endothelial stalk cell fate specification
+postsynaptic membrane assembly
+presynaptic membrane assembly
+postsynaptic density organization
+postsynaptic density assembly
+endoplasmic reticulum-Golgi intermediate compartment organization
+gamma-aminobutyric acid receptor clustering
+alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor clustering
+N-methyl-D-aspartate receptor clustering
+neurexin clustering
+gephyrin clustering
+guanylate kinase-associated protein clustering
+neuroligin clustering
+postsynaptic density protein 95 clustering
+receptor localization to synapse
+neuronal stem cell maintenance
+positive regulation of inhibitory postsynaptic membrane potential
+mesenchymal cell apoptotic process
+GABAergic neuron differentiation
+fasciculation of sensory neuron axon
+fasciculation of motor neuron axon
+ammonium ion metabolic process
+lens epithelial cell proliferation
+circadian regulation of translation
+mesenchymal stem cell proliferation
+ADP-L-glycero-beta-D-manno-heptose metabolic process
+ADP-L-glycero-beta-D-manno-heptose biosynthetic process
+N-acetylmuramic acid metabolic process
+N-acetylmuramic acid catabolic process
+"1,6-anhydro-N-acetyl-beta-muramic acid metabolic process"
+"1,6-anhydro-N-acetyl-beta-muramic acid catabolic process"
+epoxide metabolic process
+ruffle assembly
+response to azide
+cellular response to azide
+amelogenesis
+dentinogenesis
+dentin mineralization
+apoptotic signaling pathway
+extrinsic apoptotic signaling pathway
+extrinsic apoptotic signaling pathway in absence of ligand
+intrinsic apoptotic signaling pathway
+execution phase of apoptosis
+pilomotor reflex
+histone H3-K36 trimethylation
+negative regulation of transcription from RNA polymerase II promoter in response to stress
+activation of cysteine-type endopeptidase activity
+renal filtration
+nephrocyte filtration
+bud dormancy process
+response to gonadotropin-releasing hormone
+cellular response to gonadotropin-releasing hormone
+lysosomal membrane organization
+regulation of lysosomal membrane permeability
+positive regulation of lysosomal membrane permeability
+negative regulation of lysosomal membrane permeability
+mitochondrial mRNA polyadenylation
+cell motility in response to potassium ion
+cell motility in response to calcium ion
+positive regulation of fatty acid beta-oxidation by positive regulation of transcription from RNA polymerase II promoter
+positive regulation of transcription from RNA polymerase II promoter in response to zinc ion starvation
+cellular response to toxic substance
+cellular response to methylglyoxal
+positive regulation of transcription from RNA polymerase II promoter in response to methylglyoxal
+chromosome attachment to the nuclear envelope
+hematopoietic stem cell migration to bone marrow
+beta-amyloid clearance
+maintenance of protein location in cell cortex of cell tip
+mitochondrial respiratory chain supercomplex assembly
+leukotriene B4 biosynthetic process
+oligodendrocyte apoptotic process
+renal tubular secretion
+self proteolysis
+omega-hydroxylase P450 pathway
+dishabituation
+protein localization to bud neck
+ammonia homeostasis
+creatinine homeostasis
+urea homeostasis
+cellular ammonia homeostasis
+cellular creatinine homeostasis
+cellular urea homeostasis
+complement-dependent cytotoxicity
+histamine secretion mediated by IgE immunoglobulin
+histamine secretion mediated by immunoglobulin
+immune complex formation
+immunoglobulin-mediated neutralization
+keratinocyte apoptotic process
+hepatocyte apoptotic process
+cell-type specific apoptotic process
+iron ion import
+7-cyano-7-deazaguanine metabolic process
+7-cyano-7-deazaguanine biosynthetic process
+alpha-ribazole metabolic process
+alpha-ribazole biosynthetic process
+renal phosphate ion absorption
+XMP metabolic process
+XMP biosynthetic process
+'de novo' XMP biosynthetic process
+morphine biosynthetic process
+activation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway
+activation of cysteine-type endopeptidase activity involved in execution phase of apoptosis
+regulation of nucleus size
+programmed necrotic cell death
+regulation of potassium ion concentration by positive regulation of transcription from RNA polymerase II promoter
+lipoprotein biosynthetic process via diacylglyceryl transfer
+lipoprotein biosynthetic process via N-acyl transfer
+lipoprotein biosynthetic process via signal peptide cleavage
+response to alcohol
+cellular response to alcohol
+response to farnesol
+cellular response to farnesol
+cap1 mRNA methylation
+cap2 mRNA methylation
+apoptosome assembly
+response to N-acetyl-D-glucosamine
+cellular response to N-acetyl-D-glucosamine
+invasive growth in response to biotic stimulus
+invasive growth in response to abiotic stimulus
+carbohydrate import into cell
+membrane tubulation
+"cell growth mode switching, filamentous to budding"
+B cell adhesion
+melanocyte migration
+melanocyte proliferation
+melanocyte adhesion
+response to antineoplastic agent
+response to carboplatin
+response to antimetabolite
+response to 5-fluoro-2'-deoxyuridine
+response to cytarabine
+response to antipsychotic drug
+response to olanzapine
+response to perphenazine
+response to quetiapine
+response to risperidone
+response to ziprasidone
+response to clozapine
+glycolate transmembrane transport
+inhibition of cysteine-type endopeptidase activity
+zymogen inhibition
+ripoptosome assembly
+mitochondrial outer membrane permeabilization
+neutrophil clearance
+autophagic vacuole maturation
+centrolateral pattern formation
+prenylation
+protein localization to heterochromatin
+myo-inositol import into cell
+UDP-glucosylation
+chorionic trophoblast cell proliferation
+response to bronchodilator
+establishment of Sertoli cell barrier
+sodium ion import
+protein O-GlcNAcylation via threonine
+sensory neuron axon guidance
+spinal sensory neuron axon guidance
+interneuron axon guidance
+spinal cord interneuron axon guidance
+dorsal spinal cord interneuron axon guidance
+dorsal spinal cord interneuron posterior axon guidance
+dorsal spinal cord interneuron anterior axon guidance
+cellular lipid biosynthetic process
+programmed necrotic cell death in response to starvation
+chemokine (C-C motif) ligand 19 production
+chemokine (C-C motif) ligand 21 production
+chemokine (C-X-C motif) ligand 12 production
+chemokine (C-X-C motif) ligand 13 production
+chemokine (C-X-C motif) ligand 16 production
+telomeric RNA transcription
+telomeric RNA transcription from RNA pol II promoter
+response to interleukin-32
+response to interleukin-17
+cellular response to interleukin-32
+cellular response to interleukin-17
+interleukin-32-mediated signaling pathway
+interleukin-17-mediated signaling pathway
+synaptic vesicle lumen acidification
+neuroblast migration
+cellular response to raffinose
+succinate import into cell
+malate import into cell
+malonic acid import into cell
+hippocampal interneuron differentiation
+hypoxia-inducible factor-1alpha signaling pathway
+liver regeneration
+protein maturation by iron-sulfur cluster transfer
+copper ion import into ascospore-type prospore
+hippocampal pyramidal neuron differentiation
+fibril organization
+entry into dormancy
+maintenance of dormancy
+exit from dormancy
+acquisition of desiccation tolerance
+protein localization to eisosome filament
+iron ion import into cell
+ferrous iron import into cell
+ferric iron import into cell
+misfolded or incompletely synthesized glycoprotein catabolic process
+programmed cell death in response to reactive oxygen species
+retinal rod cell apoptotic process
+retinal cone cell apoptotic process
+motor neuron migration
+spinal cord motor neuron migration
+lateral motor column neuron migration
+synaptic vesicle localization
+establishment of synaptic vesicle localization
+dendrite extension
+neuron projection guidance
+sympathetic neuron projection extension
+sympathetic neuron projection guidance
+sympathetic neuron axon guidance
+regulation of vesicle size
+blood vessel lumen ensheathment
+blood vessel endothelial cell delamination
+endothelial tube lumen extension
+protein localization to nonmotile primary cilium
+receptor localization to nonmotile primary cilium
+stress response to metal ion
+mannosylation
+sialylation
+"base-excision repair, AP site formation via deaminated base removal"
+necroptotic signaling pathway
+execution phase of necroptosis
+myeloid leukocyte migration
+granulocyte migration
+mast cell migration
+stress response to acid chemical
+cellular stress response to acid chemical
+lymphoid lineage cell migration
+lymphoid lineage cell migration into thymus
+thymus epithelium morphogenesis
+seed abscission
+chromatin organization involved in negative regulation of transcription
+mitochondrial double-strand break repair
+mitochondrial double-strand break repair via homologous recombination
+calcium ion transmembrane import into cytosol
+vacuole fusion
+sequestering of iron ion
+sequestering of copper ion
+extracellular sequestering of copper ion
+intracellular sequestering of copper ion
+lamellipodium organization
+archaeal or bacterial-type flagellum-dependent cell motility
+archaeal-type flagellum-dependent cell motility
+retina blood vessel maintenance
+regulation of nuclear envelope permeability
+positive regulation of nuclear envelope permeability
+negative regulation of nuclear envelope permeability
+modulation by host of symbiont type IV pilus-dependent motility
+positive regulation by host of symbiont type IV pilus-dependent motility
+cytoplasmic translational elongation through polyproline stretches
+potassium ion export across plasma membrane
+UDP-galactose transmembrane import into Golgi lumen
+distal tip cell migration
+L-arginine import across plasma membrane
+L-lysine import across plasma membrane
+L-ornithine import across plasma membrane
+calcitonin family receptor signaling pathway
+amylin receptor signaling pathway
+cell-cell self recognition
+nucleic acid-templated transcription
+histone H3-K36 dimethylation
+double-strand break repair via classical nonhomologous end joining
+double-strand break repair via alternative nonhomologous end joining
+glutamate receptor clustering
+receptor-mediated bacteriophage reversible attachment to host cell
+receptor-mediated bacteriophage irreversible attachment to host cell

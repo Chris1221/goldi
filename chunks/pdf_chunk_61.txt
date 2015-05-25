@@ -1,0 +1,387 @@
+eugenol catabolic process
+chrysobactin metabolic process
+chrysobactin biosynthetic process
+chrysobactin catabolic process
+achromobactin metabolic process
+achromobactin biosynthetic process
+achromobactin catabolic process
+pyochelin metabolic process
+pyochelin biosynthetic process
+pyochelin catabolic process
+pyruvate biosynthetic process
+pyruvate catabolic process
+antisense RNA metabolic process
+aldarate transport
+D-glucarate transport
+aldonate transport
+D-glucuronate transport
+D-galactonate transport
+L-arabinose transport
+cysteine transport
+microcin transport
+microcin B17 transport
+amide transport
+3-phenylpropionic acid transport
+antibiotic transport
+chloramphenicol transport
+polymyxin transport
+fosmidomycin transport
+arabinan transport
+peptidoglycan-protein cross-linking via L-threonyl-pentaglycyl-murein
+9-cis-retinoic acid biosynthetic process
+9-cis-retinoic acid metabolic process
+xanthine transport
+xenobiotic transport
+acridine transport
+colicin transport
+group A colicin transport
+alkylphosphonate transport
+alkanesulfonate transport
+benzoate transport
+3-hydroxyphenylpropionic acid transport
+glucocorticoid receptor signaling pathway
+ferrichrome transport
+enterobactin transport
+chrysobactin transport
+achromobactin transport
+dipeptide transport
+tripeptide transport
+D-amino acid transport
+D-alanine transport
+D-serine transport
+glucoside transport
+salicin transport
+arbutin transport
+beta-ketoadipate pathway
+lipoprotein transport
+dextrin transport
+maltodextrin transport
+thioredoxin biosynthetic process
+glutaredoxin biosynthetic process
+biotin carboxyl carrier protein biosynthetic process
+acyl-carrier-protein biosynthetic process
+homoserine transport
+lactone transport
+activation of Janus kinase activity
+activation of JAK2 kinase activity
+amyloid precursor protein metabolic process
+amyloid precursor protein biosynthetic process
+regulation of amyloid precursor protein biosynthetic process
+negative regulation of amyloid precursor protein biosynthetic process
+positive regulation of amyloid precursor protein biosynthetic process
+amyloid precursor protein catabolic process
+regulation of transcription factor import into nucleus
+transcription factor import into nucleus
+negative regulation of transcription factor import into nucleus
+positive regulation of transcription factor import into nucleus
+regulation of Golgi to plasma membrane protein transport
+negative regulation of Golgi to plasma membrane protein transport
+positive regulation of Golgi to plasma membrane protein transport
+regulation of Golgi to plasma membrane CFTR protein transport
+Golgi to plasma membrane CFTR protein transport
+Golgi to plasma membrane protein transport
+negative regulation of Golgi to plasma membrane CFTR protein transport
+positive regulation of Golgi to plasma membrane CFTR protein transport
+cytoplasmic sequestering of CFTR protein
+activation of phospholipase A2 activity by calcium-mediated signaling
+maintenance of rDNA
+chordate embryonic development
+camera-type eye development
+myeloid dendritic cell differentiation
+regulation of fusion of sperm to egg plasma membrane
+negative regulation of fusion of sperm to egg plasma membrane
+regulation of lymphotoxin A biosynthetic process
+positive regulation of lymphotoxin A biosynthetic process
+negative regulation of lymphotoxin A biosynthetic process
+T cell homeostasis
+regulation of macrophage activation
+negative regulation of macrophage activation
+positive regulation of macrophage activation
+amino acid activation
+tRNA aminoacylation
+tRNA aminoacylation for nonribosomal peptide biosynthetic process
+amino acid activation for nonribosomal peptide biosynthetic process
+amino acid adenylylation by nonribosomal peptide synthase
+peptide biosynthetic process
+ATP-dependent chromatin remodeling
+DNA methylation involved in embryo development
+DNA methylation involved in gamete generation
+dolichyl monophosphate biosynthetic process
+otic placode formation
+pharyngeal pumping
+regulation of pharyngeal pumping
+thermotaxis
+dauer entry
+dauer exit
+maintenance of dauer
+forward locomotion
+backward locomotion
+regulation of backward locomotion
+regulation of forward locomotion
+meiotic metaphase I plate congression
+meiotic metaphase II plate congression
+extracellular structure organization
+intercellular bridge organization
+flagellum organization
+bacterial-type flagellum organization
+cilium organization
+positive regulation of apoptotic process
+regulation of programmed cell death
+positive regulation of programmed cell death
+negative regulation of programmed cell death
+initiation of acetate catabolic process
+penile erection
+positive regulation of catalytic activity
+negative regulation of catalytic activity
+amino acid import
+L-arginine import
+L-amino acid import
+FtsZ-dependent cytokinesis
+cellular metabolic compound salvage
+regulation of GTP cyclohydrolase I activity
+purine nucleobase salvage
+pyrimidine nucleoside salvage
+purine deoxyribonucleoside salvage
+pyrimidine deoxyribonucleoside salvage
+pyrimidine nucleobase salvage
+purine-containing compound salvage
+amino acid salvage
+positive regulation of GTP cyclohydrolase I activity
+negative regulation of GTP cyclohydrolase I activity
+type IV pilus-dependent motility
+pilus retraction
+replication fork arrest
+receptor metabolic process
+receptor clustering
+regulation of vascular permeability
+negative regulation of vascular permeability
+positive regulation of vascular permeability
+regulation of I-kappaB kinase/NF-kappaB signaling
+positive regulation of I-kappaB kinase/NF-kappaB signaling
+negative regulation of I-kappaB kinase/NF-kappaB signaling
+regulation of 1-phosphatidylinositol 4-kinase activity
+negative regulation of 1-phosphatidylinositol 4-kinase activity
+positive regulation of 1-phosphatidylinositol 4-kinase activity
+surfactant homeostasis
+erythrocyte enucleation
+NAD transport
+hindgut contraction
+regulation of hindgut contraction
+"DNA replication, removal of RNA primer"
+regulation of translation by machinery localization
+snoRNA processing
+snoRNA 3'-end cleavage
+spindle stabilization
+meiotic spindle stabilization
+mitotic spindle stabilization
+stress fiber assembly
+DNA synthesis involved in double-strand break repair via homologous recombination
+DNA synthesis involved in double-strand break repair via single-strand annealing
+induction of bacterial agglutination
+entrainment of circadian clock by photoperiod
+negative regulation of cysteine-type endopeptidase activity involved in apoptotic process
+"negative regulation of photosynthesis, light reaction"
+chromatin remodeling in response to cation stress
+response to cation stress
+heterocyst differentiation
+proteasome-mediated ubiquitin-dependent protein catabolic process
+ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway
+cell envelope organization
+Gram-negative-bacterium-type cell wall biogenesis
+Gram-negative-bacterium-type cell outer membrane assembly
+macromolecule metabolic process
+peptide catabolic process
+ferredoxin biosynthetic process
+nucleotide salvage
+nucleoside salvage
+rhythmic excitation
+rhythmic inhibition
+vacuolar sequestering
+vacuolar sequestering of sodium ion
+response to amino acid
+response to leucine
+extracellular fibril organization
+response to external biotic stimulus
+bacteriocin transport
+daunorubicin transport
+myelin maintenance
+protein complex disassembly
+negative regulation of protein complex disassembly
+positive regulation of protein complex disassembly
+regulation of protein complex disassembly
+telomere maintenance in response to DNA damage
+proteasome assembly
+erythrocyte maturation
+sodium-dependent organic anion transport
+sodium-independent organic anion transport
+regulation of protein complex assembly
+regulation of carbohydrate biosynthetic process
+regulation of potassium ion transport
+positive regulation of potassium ion transport
+regulation of ion transport
+positive regulation of ion transport
+negative regulation of ion transport
+ethylene biosynthesis involved in jasmonic acid and ethylene-dependent systemic resistance
+anoikis
+apoptotic cell clearance
+response to morphine
+response to alkaloid
+positive regulation of cysteine-type endopeptidase activity involved in apoptotic process
+regulation of cysteine-type endopeptidase activity involved in apoptotic process
+pharyngeal muscle development
+regulation of poly(3-hydroxyalkanoate) biosynthetic process
+apocarotenoid metabolic process
+apocarotenoid biosynthetic process
+apocarotenoid catabolic process
+apical junction assembly
+leukocyte degranulation
+regulation of leukocyte degranulation
+negative regulation of leukocyte degranulation
+positive regulation of leukocyte degranulation
+mast cell degranulation
+regulation of mast cell degranulation
+negative regulation of mast cell degranulation
+positive regulation of mast cell degranulation
+eosinophil activation
+eosinophil degranulation
+regulation of eosinophil degranulation
+negative regulation of eosinophil degranulation
+positive regulation of eosinophil degranulation
+neutrophil degranulation
+regulation of neutrophil degranulation
+negative regulation of neutrophil degranulation
+positive regulation of neutrophil degranulation
+cytotoxic T cell degranulation
+regulation of cytotoxic T cell degranulation
+negative regulation of cytotoxic T cell degranulation
+positive regulation of cytotoxic T cell degranulation
+natural killer cell degranulation
+regulation of natural killer cell degranulation
+negative regulation of natural killer cell degranulation
+positive regulation of natural killer cell degranulation
+pigment metabolic process involved in developmental pigmentation
+chemotaxis to folate
+chemotaxis to cAMP
+protein targeting to vacuole involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway
+protein targeting to membrane involved in ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway
+response to exogenous dsRNA
+response to dsRNA
+protein unfolding
+enucleate erythrocyte differentiation
+enucleate erythrocyte maturation
+nucleate erythrocyte maturation
+nucleate erythrocyte differentiation
+beta selection
+"CD4-positive, alpha-beta T cell differentiation"
+positive T cell selection
+"CD4-positive or CD8-positive, alpha-beta T cell lineage commitment"
+"regulation of CD4-positive, alpha-beta T cell differentiation"
+"negative regulation of CD4-positive, alpha-beta T cell differentiation"
+"positive regulation of CD4-positive, alpha-beta T cell differentiation"
+"CD4-positive, alpha-beta T cell lineage commitment"
+"CD8-positive, alpha-beta T cell differentiation"
+"CD8-positive, alpha-beta T cell lineage commitment"
+"regulation of CD8-positive, alpha-beta T cell differentiation"
+"negative regulation of CD8-positive, alpha-beta T cell differentiation"
+"positive regulation of CD8-positive, alpha-beta T cell differentiation"
+memory T cell differentiation
+regulation of memory T cell differentiation
+negative regulation of memory T cell differentiation
+positive regulation of memory T cell differentiation
+negative T cell selection
+mycotoxin metabolic process
+mycotoxin biosynthetic process
+mycotoxin catabolic process
+positive regulation of DNA binding
+aflatoxin B1 metabolic process
+aflatoxin B2 metabolic process
+negative regulation of DNA binding
+regulation of protein binding
+corticotropin-releasing hormone secretion
+regulation of corticotropin-releasing hormone secretion
+cortisol secretion
+steroid hormone mediated signaling pathway
+glucocorticoid mediated signaling pathway
+skeletal muscle tissue regeneration
+regulation of MAP kinase activity
+positive regulation of MAP kinase activity
+negative regulation of MAP kinase activity
+regulation of MAPK cascade
+negative regulation of MAPK cascade
+positive regulation of MAPK cascade
+macromolecule modification
+macromolecule glycosylation
+macromolecule methylation
+positive regulation of skeletal muscle tissue regeneration
+regulation of skeletal muscle tissue regeneration
+negative regulation of skeletal muscle tissue regeneration
+homocysteine catabolic process
+urea catabolic process
+anthranilate metabolic process
+anthranilate catabolic process
+carbon fixation by 3-hydroxypropionate cycle
+negative regulation of sequence-specific DNA binding transcription factor activity
+response to peptide hormone
+response to corticotropin-releasing hormone
+oxoacid metabolic process
+acetoacetic acid metabolic process
+acetoacetic acid biosynthetic process
+acetoacetic acid catabolic process
+acetone metabolic process
+acetone catabolic process
+acetone biosynthetic process
+cellular alkane metabolic process
+alkane biosynthetic process
+alkane catabolic process
+cellular alkene metabolic process
+alkene biosynthetic process
+alkene catabolic process
+cellular alkyne metabolic process
+alkyne biosynthetic process
+alkyne catabolic process
+regulation of secondary metabolic process
+regulation of pentose-phosphate shunt
+regulation of cellular respiration
+ethanol biosynthetic process involved in glucose fermentation to ethanol
+response to short exposure to lithium ion
+response to long exposure to lithium ion
+proton-transporting ATP synthase complex assembly
+regulation of ATPase activity
+regulation of rhamnose catabolic process
+malolactic fermentation
+regulation of fermentation
+pyrimidine nucleobase fermentation
+regulation of generation of precursor metabolites and energy
+regulation of fucose catabolic process
+regulation of D-xylose catabolic process
+regulation of carbohydrate catabolic process
+regulation of cellular carbohydrate catabolic process
+pigmentation
+pigment metabolic process involved in pigmentation
+pigment metabolic process involved in pigment accumulation
+pigment accumulation
+pigment biosynthetic process involved in pigment accumulation
+pigment accumulation in response to UV light
+pigment accumulation in tissues in response to UV light
+pigment accumulation in tissues
+anthocyanin accumulation in tissues in response to UV light
+cellular pigment accumulation
+anthocyanin biosynthetic process involved in anthocyanin accumulation in response to UV light
+regulation of RNA splicing
+endosome to pigment granule transport
+regulation of RNA stability
+regulation of mRNA stability
+RNA stabilization
+malate-aspartate shuttle
+protein kinase B signaling
+regulation of protein homodimerization activity
+regulation of protein heterodimerization activity
+muscle adaptation
+skeletal muscle adaptation
+regulation of muscle adaptation
+skeletal muscle fiber adaptation
+mitochondrial DNA repair
+regulation of JUN kinase activity
+positive regulation of JUN kinase activity
+negative regulation of JUN kinase activity
+"regulation of DNA damage response, signal transduction by p53 class mediator"

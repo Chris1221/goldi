@@ -1,0 +1,387 @@
+acylglycerol catabolic process
+dolichyl diphosphate metabolic process
+membrane lipid catabolic process
+membrane lipid biosynthetic process
+phosphatidyl-N-monomethylethanolamine metabolic process
+platelet activating factor metabolic process
+phosphatidylcholine metabolic process
+phosphatidylglycerol metabolic process
+phosphatidic acid metabolic process
+glycerophospholipid biosynthetic process
+glycerophospholipid catabolic process
+glycosylceramide biosynthetic process
+glycosylceramide catabolic process
+lactosylceramide metabolic process
+glycosphingolipid catabolic process
+para-aminobenzoic acid metabolic process
+heterocycle metabolic process
+oxazole or thiazole metabolic process
+ether lipid metabolic process
+glycerolipid metabolic process
+glyoxylate metabolic process
+phosphatidylinositol metabolic process
+isopentenyl diphosphate metabolic process
+L-methylmalonyl-CoA metabolic process
+heme b metabolic process
+lipid A metabolic process
+rhizobactin 1021 metabolic process
+nicotinamide riboside metabolic process
+nicotinamide nucleotide metabolic process
+nicotinate nucleotide metabolic process
+S-adenosylhomocysteine metabolic process
+S-adenosylmethioninamine metabolic process
+S-adenosylmethionine metabolic process
+protoporphyrinogen IX metabolic process
+uroporphyrinogen III metabolic process
+glycerolipid catabolic process
+glycerol ether biosynthetic process
+sulfolipid metabolic process
+sulfolipid biosynthetic process
+sphinganine biosynthetic process
+sphingosine biosynthetic process
+ceramide biosynthetic process
+ceramide catabolic process
+hypusine metabolic process
+octamethylcyclotetrasiloxane catabolic process
+octamethylcyclotetrasiloxane metabolic process
+sphingoid metabolic process
+sphingoid biosynthetic process
+sphingoid catabolic process
+imaginal disc fusion
+"imaginal disc fusion, thorax closure"
+photoreceptor cell differentiation
+regulation of photoreceptor cell differentiation
+negative regulation of photoreceptor cell differentiation
+positive regulation of photoreceptor cell differentiation
+detection of chemical stimulus involved in sensory perception of umami taste
+saliva secretion
+alpha-factor export
+development of secondary female sexual characteristics
+development of secondary male sexual characteristics
+development of primary female sexual characteristics
+development of primary male sexual characteristics
+retinal rod cell development
+retinal cone cell development
+(3-aminopropyl)(L-aspartyl-1-amino)phosphoryl-5'-adenosine biosynthetic process from asparagine
+retinal cone cell fate commitment
+photoreceptor cell fate commitment
+regulation of Ras protein signal transduction
+positive regulation of Ras protein signal transduction
+negative regulation of Ras protein signal transduction
+enniatin metabolic process
+enniatin biosynthetic process
+regulation of calcium-dependent cell-cell adhesion
+positive regulation of calcium-dependent cell-cell adhesion
+negative regulation of calcium-dependent cell-cell adhesion
+embryonic leg morphogenesis
+embryonic leg joint morphogenesis
+maintenance of pole plasm mRNA location
+establishment of pole plasm mRNA localization
+regulation of viral entry into host cell
+negative regulation of viral entry into host cell
+positive regulation of viral entry into host cell
+regulation of centriole replication
+negative regulation of centriole replication
+positive regulation of centriole replication
+regulation of mitotic centrosome separation
+negative regulation of mitotic centrosome separation
+positive regulation of mitotic centrosome separation
+regulation of centrosome cycle
+negative regulation of centrosome cycle
+positive regulation of centrosome cycle
+re-entry into mitotic cell cycle after pheromone arrest (sensu Saccharomyces)
+nucleolar size increase (sensu Saccharomyces)
+drug export
+optic placode formation involved in camera-type eye formation
+regulation of organ growth
+negative regulation of organ growth
+positive regulation of organ growth
+regulation of insulin receptor signaling pathway
+negative regulation of insulin receptor signaling pathway
+positive regulation of insulin receptor signaling pathway
+gamma-delta T cell activation
+gamma-delta T cell proliferation
+alpha-beta T cell activation
+alpha-beta T cell differentiation
+alpha-beta T cell proliferation
+regulation of alpha-beta T cell activation
+positive regulation of alpha-beta T cell activation
+negative regulation of alpha-beta T cell activation
+regulation of alpha-beta T cell differentiation
+positive regulation of alpha-beta T cell differentiation
+negative regulation of alpha-beta T cell differentiation
+regulation of alpha-beta T cell proliferation
+positive regulation of alpha-beta T cell proliferation
+negative regulation of alpha-beta T cell proliferation
+regulation of gamma-delta T cell activation
+negative regulation of gamma-delta T cell activation
+positive regulation of gamma-delta T cell activation
+regulation of gamma-delta T cell proliferation
+negative regulation of gamma-delta T cell proliferation
+positive regulation of gamma-delta T cell proliferation
+lymphocyte activation
+lymphocyte proliferation
+tetrahydrofolate metabolic process
+tetrahydrofolate biosynthetic process
+folic acid metabolic process
+folic acid biosynthetic process
+folic acid catabolic process
+female sex differentiation
+male sex differentiation
+regulation of oviposition
+"dorsal closure, leading edge cell differentiation"
+"dorsal closure, amnioserosa morphology change"
+amnioserosa maintenance
+retinal cell programmed cell death
+compound eye retinal cell programmed cell death
+regulation of retinal cell programmed cell death
+regulation of compound eye retinal cell programmed cell death
+positive regulation of retinal cell programmed cell death
+negative regulation of retinal cell programmed cell death
+positive regulation of compound eye retinal cell programmed cell death
+negative regulation of compound eye retinal cell programmed cell death
+negative regulation of insulin secretion
+sperm competition
+sperm storage
+sperm incapacitation
+decidualization
+heterocycle catabolic process
+insecticide catabolic process
+CDP metabolic process
+CDP biosynthetic process
+CDP catabolic process
+IDP metabolic process
+IDP biosynthetic process
+IDP catabolic process
+GDP metabolic process
+GDP biosynthetic process
+GDP catabolic process
+borate transport
+muscle cell cellular homeostasis
+acid secretion
+regulation by virus of viral protein levels in host cell
+citric acid secretion
+formic acid secretion
+lactic acid secretion
+malic acid secretion
+oxalic acid secretion
+negative regulation by virus of viral protein levels in host cell
+positive regulation by virus of viral protein levels in host cell
+induction of host immune response by virus
+passive induction of host immune response by virus
+active induction of host immune response by virus
+passive induction of host humoral immune response by virus
+passive induction of host cell-mediated immune response by virus
+passive induction of host innate immune response by virus
+active induction of humoral immune response in host by virus
+active induction of cell-mediated immune response in host by virus
+active induction of innate immune response in host by virus
+transport of virus in multicellular host
+"transport of virus in host, cell to cell"
+"transport of virus in host, tissue to tissue"
+viral capsid secondary envelopment
+viral capsid precursor transport to host cell nucleus
+non-lytic viral release
+viral exocytosis
+viral budding
+lytic virus budding from ER membrane
+lytic virus budding from Golgi membrane
+lytic virus budding from plasma membrane
+viral budding from Golgi membrane
+viral budding from plasma membrane
+viral budding from ER membrane
+viral budding from nuclear membrane
+viral budding from inner nuclear membrane
+viral budding from outer nuclear membrane
+suppression by virus of host translation termination
+suppression by virus of host intracellular interferon activity
+suppression by virus of host cytokine production
+suppression by virus of host antigen processing and presentation of peptide antigen via MHC class I
+protein autophosphorylation
+modification by virus of host mRNA processing
+suppression by virus of expression of host genes with introns
+suppression by virus of host mRNA splicing
+regulation of viral transcription
+modification by virus of host polysomes
+viral mRNA export from host cell nucleus
+microtubule polymerization
+viral replication complex formation and maintenance
+viral DNA repair
+suppression by virus of host complement neutralization
+suppression by virus of host cell cycle arrest
+induction by virus of phosphorylation of host RNA polymerase II
+transport of virus
+viral procapsid maturation
+recruitment of helicase-primase complex to DNA lesions
+enhancement of virulence
+exit of virus from host cell nucleus by nuclear egress
+reduction of virulence
+"peptide cross-linking via (2S,3S,4Xi,6R)-3-methyl-lanthionine sulfoxide"
+protein-heme linkage via 1'-L-histidine
+viral scaffold assembly and maintenance
+receptor-mediated virion attachment to host cell
+coreceptor-mediated virion attachment to host cell
+genome retention in viral capsid
+protein secretion by the type V secretion system
+regulation of nucleocytoplasmic transport
+negative regulation of nucleocytoplasmic transport
+positive regulation of nucleocytoplasmic transport
+regulation of protein export from nucleus
+negative regulation of protein export from nucleus
+positive regulation of protein export from nucleus
+regulation of RNA import into nucleus
+negative regulation of RNA import into nucleus
+positive regulation of RNA import into nucleus
+regulation of RNA export from nucleus
+negative regulation of RNA export from nucleus
+positive regulation of RNA export from nucleus
+lipid phosphorylation
+carbohydrate phosphorylation
+glycolipid transport
+phosphorylated carbohydrate dephosphorylation
+phospholipid dephosphorylation
+trisporic acid metabolic process
+trisporic acid biosynthetic process
+dorsal appendage formation
+micropyle formation
+"branched duct epithelial cell fate determination, open tracheal system"
+filopodium assembly
+bone remodeling
+regulation of bone remodeling
+negative regulation of bone remodeling
+positive regulation of bone remodeling
+inositol or phosphatidylinositol phosphorylation
+phosphatidylinositol phosphorylation
+inositol phosphate dephosphorylation
+phosphatidylinositol dephosphorylation
+isoprenoid transport
+terpenoid transport
+tetraterpenoid transport
+carotenoid transport
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-aspartato diiron disulfide
+quinolinate metabolic process
+regulation of saliva secretion
+hormone secretion
+regulation of follicle-stimulating hormone secretion
+regulation of hormone secretion
+follicle-stimulating hormone secretion
+regulation of hormone biosynthetic process
+negative regulation of hormone secretion
+regulation of lipid biosynthetic process
+peptidyl-cysteine S-carbamoylation
+peptidyl-S-carbamoyl-L-cysteine dehydration
+iron incorporation into hydrogenase diiron subcluster via L-cysteine ligation
+enzyme active site formation via S-amidino-L-cysteine
+N-terminal peptidyl-isoleucine methylation
+N-terminal peptidyl-leucine methylation
+N-terminal peptidyl-tyrosine methylation
+response to cycloheximide
+tetrahydrofolylpolyglutamate metabolic process
+tetrahydrofolylpolyglutamate biosynthetic process
+regulation of mitochondrial membrane permeability
+intracellular transport
+negative regulation of crystal formation
+ion homeostasis
+intermembrane transport
+cellular transition metal ion homeostasis
+N-terminal peptidyl-glycine N-palmitoylation
+peptide cross-linking via 2-(S-L-cysteinyl)-L-phenylalanine
+peptide cross-linking via 2-(S-L-cysteinyl)-D-phenylalanine
+peptide cross-linking via 2-(S-L-cysteinyl)-D-allo-threonine
+peptidyl-threonine racemization
+regulation of neurotransmitter secretion
+phytochelatin metabolic process
+phytochelatin biosynthetic process
+nucleotide phosphorylation
+nucleoside monophosphate phosphorylation
+carboxylic acid transport
+protein carbamoylation
+N-terminal peptidyl-alanine N-carbamoylation
+hydroxylysine metabolic process
+hydroxylysine biosynthetic process
+hydroxylysine catabolic process
+fatty-acyl-CoA biosynthetic process
+cellular ketone body metabolic process
+ketone body biosynthetic process
+ketone body catabolic process
+positive phototaxis
+negative phototaxis
+nonassociative learning
+habituation
+sensitization
+3'-phosphoadenosine 5'-phosphosulfate transport
+cytosol to ER transport
+peptide antigen transport
+regulation of hemoglobin biosynthetic process
+positive regulation of hemoglobin biosynthetic process
+negative regulation of hemoglobin biosynthetic process
+regulation of conjugation
+regulation of response to osmotic stress
+vesicle transport along microtubule
+mitochondrion transport along microtubule
+antigen processing and presentation of peptide antigen
+antigen processing and presentation of lipid antigen via MHC class Ib
+"antigen processing and presentation, endogenous lipid antigen via MHC class Ib"
+"antigen processing and presentation, exogenous lipid antigen via MHC class Ib"
+platelet-derived growth factor receptor signaling pathway
+insulin-like growth factor receptor signaling pathway
+vascular endothelial growth factor receptor signaling pathway
+neurotrophin TRK receptor signaling pathway
+hepatocyte growth factor receptor signaling pathway
+ephrin receptor signaling pathway
+Tie signaling pathway
+phosphatidylinositol-mediated signaling
+regulation of melanin biosynthetic process
+negative regulation of melanin biosynthetic process
+positive regulation of melanin biosynthetic process
+"regulation of mRNA splicing, via spliceosome"
+"negative regulation of mRNA splicing, via spliceosome"
+"positive regulation of mRNA splicing, via spliceosome"
+heme o metabolic process
+heme O biosynthetic process
+heme o catabolic process
+central complex development
+focal adhesion assembly
+regulation of post-mating oviposition
+"mating behavior, sex discrimination"
+embryonic eye morphogenesis
+post-embryonic eye morphogenesis
+R1/R6 cell differentiation
+R1/R6 development
+R2/R5 cell differentiation
+R2/R5 development
+R3/R4 cell differentiation
+R3/R4 development
+compound eye corneal lens development
+negative gravitaxis
+positive gravitaxis
+"male courtship behavior, veined wing extension"
+developmental pigmentation
+cuticle pigmentation
+eye pigmentation
+regulation of developmental pigmentation
+sex-specific pigmentation
+compound eye pigmentation
+regulation of eye pigmentation
+negative regulation of eye pigmentation
+positive regulation of eye pigmentation
+regulation of compound eye pigmentation
+negative regulation of compound eye pigmentation
+positive regulation of compound eye pigmentation
+regulation of cuticle pigmentation
+negative regulation of cuticle pigmentation
+positive regulation of cuticle pigmentation
+regulation of adult chitin-containing cuticle pigmentation
+negative regulation of adult chitin-containing cuticle pigmentation
+positive regulation of adult chitin-containing cuticle pigmentation
+adult chitin-containing cuticle pigmentation
+negative regulation of developmental pigmentation
+positive regulation of developmental pigmentation
+regulation of male pigmentation
+regulation of female pigmentation
+negative regulation of female pigmentation
+positive regulation of female pigmentation
+negative regulation of male pigmentation
+positive regulation of male pigmentation
+male pigmentation
+female pigmentation

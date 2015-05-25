@@ -1,0 +1,387 @@
+regulation of catagen
+positive regulation of catagen
+negative regulation of catagen
+regulation of hair follicle development
+positive regulation of hair follicle development
+negative regulation of hair follicle development
+cytolysis in other organism involved in symbiotic interaction
+regulation of cytolysis in other organism involved in symbiotic interaction
+negative regulation of cytolysis in other organism involved in symbiotic interaction
+positive regulation of cytolysis in other organism involved in symbiotic interaction
+evasion or tolerance of immune response of other organism involved in symbiotic interaction
+entry into cell of other organism involved in symbiotic interaction
+evasion or tolerance of defense response of other organism involved in symbiotic interaction
+translocation of peptides or proteins into other organism involved in symbiotic interaction
+passive evasion of immune response of other organism involved in symbiotic interaction
+active evasion of immune response of other organism involved in symbiotic interaction
+active evasion of immune response of other organism via regulation of complement system of other organism involved in symbiotic interaction
+active evasion of immune response of other organism via regulation of cytokine network of other organism involved in symbiotic interaction
+active evasion of immune response of other organism via regulation of antigen processing and presentation in other organism involved in symbiotic interaction
+movement in other organism involved in symbiotic interaction
+migration in other organism involved in symbiotic interaction
+acquisition of nutrients from other organism during symbiotic interaction
+modification of morphology or physiology of other organism involved in symbiotic interaction
+disruption of cells of other organism involved in symbiotic interaction
+"induction of tumor, nodule, or growth in other organism involved in symbiotic interaction"
+"induction of tumor, nodule, or growth containing transformed cells in other organism involved in symbiotic interaction"
+dissemination or transmission of organism from other organism involved in symbiotic interaction
+dissemination or transmission of organism from other organism by vector involved in symbiotic interaction
+regulation of synapse structural plasticity
+recognition of other organism involved in symbiotic interaction
+negative regulation of synapse structural plasticity
+growth or development on or near surface of other organism during symbiotic interaction
+entry into other organism involved in symbiotic interaction
+entry into other organism through natural portals involved in symbiotic interaction
+entry into other organism through barriers of other organism involved in symbiotic interaction
+growth or development in other organism during symbiotic interaction
+avoidance of defenses of other organism involved in symbiotic interaction
+suppression of defenses of other organism involved in symbiotic interaction
+evasion or tolerance of defenses of other organism involved in symbiotic interaction
+positive regulation of synapse structural plasticity
+translocation of molecules into other organism involved in symbiotic interaction
+translocation of DNA into other organism involved in symbiotic interaction
+cytolysis by host of symbiont cells
+regulation by host of cytolysis of symbiont cells
+negative regulation by host of cytolysis of symbiont cells
+positive regulation by host of cytolysis of symbiont cells
+evasion or tolerance of symbiont immune response
+evasion or tolerance of symbiont defense response
+translocation of peptides or proteins into symbiont
+passive evasion of symbiont immune response
+active evasion of symbiont immune response
+active evasion of symbiont immune response via regulation of symbiont complement system
+active evasion of symbiont immune response via regulation of symbiont cytokine network
+active evasion of symbiont immune response via regulation of symbiont antigen processing and presentation
+acquisition of nutrients from symbiont
+modification by host of symbiont morphology or physiology
+disruption by host of symbiont cells
+"induction in symbiont of tumor, nodule, or growth"
+"induction in symbiont of tumor, nodule, or growth containing transformed cells"
+recognition of symbiont
+growth or development of organism on or near symbiont surface
+avoidance of symbiont defenses
+suppression of symbiont defenses
+evasion or tolerance of symbiont defenses
+translocation of molecules into symbiont
+translocation of DNA into symbiont
+protein autoubiquitination
+general adaptation syndrome
+"general adaptation syndrome, behavioral process"
+sphingosine catabolic process
+killing by host of symbiont cells
+sphinganine-1-phosphate catabolic process
+pigment granule localization
+pigment granule dispersal
+pigment granule aggregation in cell center
+lateral element assembly
+regulation of mitochondrial membrane potential
+mitochondrial depolarization
+killing of cells in other organism involved in symbiotic interaction
+regulation of anagen
+positive regulation of anagen
+negative regulation of anagen
+regulation of exogen
+positive regulation of exogen
+negative regulation of exogen
+regulation of cardioblast differentiation
+positive regulation of cardioblast differentiation
+negative regulation of cardioblast differentiation
+regulation of focal adhesion assembly
+positive regulation of focal adhesion assembly
+negative regulation of focal adhesion assembly
+regulation of protein kinase B signaling
+positive regulation of protein kinase B signaling
+negative regulation of protein kinase B signaling
+membrane depolarization
+regulation of mitochondrial depolarization
+positive regulation of mitochondrial depolarization
+negative regulation of mitochondrial depolarization
+pigment granule transport
+establishment of pigment granule localization
+maintenance of pigment granule location
+regulation of synaptic plasticity by chemical substance
+positive regulation of synaptic plasticity by chemical substance
+induction of synaptic plasticity by chemical substance
+regulation of fibrinolysis
+negative regulation of fibrinolysis
+positive regulation of fibrinolysis
+sulfation
+regulation of calcium ion transport
+regulation of calcium ion transport via voltage-gated calcium channel activity
+negative regulation of calcium ion transport
+negative regulation of calcium ion transport via voltage-gated calcium channel activity
+positive regulation of calcium ion transport
+positive regulation of calcium ion transport via voltage-gated calcium channel activity
+regulation of sensory perception of pain
+regulation of sensory perception
+"synaptic transmission, GABAergic"
+amino acid uptake involved in synaptic transmission
+catecholamine uptake involved in synaptic transmission
+L-glutamate uptake involved in synaptic transmission
+gamma-aminobutyric acid uptake involved in synaptic transmission
+catecholamine transport
+L-glutamate import
+gamma-aminobutyric acid import
+regulation of catecholamine uptake involved in synaptic transmission
+regulation of amino acid uptake involved in synaptic transmission
+negative regulation of amino acid uptake involved in synaptic transmission
+positive regulation of amino acid uptake involved in synaptic transmission
+positive regulation of catecholamine uptake involved in synaptic transmission
+negative regulation of catecholamine uptake involved in synaptic transmission
+regulation of glutamate uptake involved in transmission of nerve impulse
+regulation of gamma-aminobutyric acid uptake involved in transmission of nerve impulse
+negative regulation of glutamate uptake involved in transmission of nerve impulse
+negative regulation of gamma-aminobutyric acid uptake involved in transmission of nerve impulse
+positive regulation of gamma-aminobutyric acid uptake involved in transmission of nerve impulse
+positive regulation of glutamate uptake involved in transmission of nerve impulse
+regulation of amine transport
+negative regulation of amine transport
+positive regulation of amine transport
+regulation of amino acid transport
+negative regulation of amino acid transport
+positive regulation of amino acid transport
+methotrexate transport
+regulation of nervous system development
+negative regulation of nervous system development
+positive regulation of nervous system development
+regulation of synapse assembly
+negative regulation of synapse assembly
+positive regulation of synapse assembly
+"regulation of synaptic transmission, glutamatergic"
+"negative regulation of synaptic transmission, glutamatergic"
+"positive regulation of synaptic transmission, glutamatergic"
+regulation of transmission of nerve impulse
+negative regulation of transmission of nerve impulse
+positive regulation of transmission of nerve impulse
+regulation of telomerase activity
+positive regulation of telomerase activity
+negative regulation of telomerase activity
+lysine biosynthetic process via alpha-aminoadipate and saccharopine
+lysine biosynthetic process via alpha-aminoadipate and N2-acetyl-alpha-aminoadipate
+lysophospholipid transport
+alginic acid acetylation
+regulation of chromosome segregation
+positive regulation of chromosome segregation
+negative regulation of chromosome segregation
+negative regulation of attachment of spindle microtubules to kinetochore
+positive regulation of attachment of spindle microtubules to kinetochore
+regulation of attachment of spindle microtubules to kinetochore
+mannosyl-inositol phosphorylceramide biosynthetic process
+Type IV pili-dependent aggregation
+Type IV pili-dependent localized adherence to host
+metabolism by symbiont of substance in host
+negative regulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway
+negative regulation by symbiont of host salicylic acid-mediated defense response
+negative regulation by symbiont of host ethylene-mediated defense response
+catabolism by symbiont of substance in host
+biosynthesis by symbiont of substance in host
+disruption by symbiont of host cellular component
+disruption by symbiont of host cell wall
+catabolism by symbiont of host cell wall cellulose
+catabolism by symbiont of host cell wall pectin
+catabolism by symbiont of host cell wall chitin
+catabolism by symbiont of host macromolecule
+catabolism by symbiont of host protein
+catabolism by symbiont of host carbohydrate
+catabolism by symbiont of host glucan
+catabolism by symbiont of host xylan
+modulation by symbiont of RNA levels in host
+modulation by symbiont of host hormone or growth regulator levels
+modification by symbiont of host cell wall
+modulation by symbiont of ethylene levels in host
+modulation by symbiont of jasmonic acid levels in host
+modulation by symbiont of salicylic acid levels in host
+positive regulation by symbiont of hormone or growth regulator levels in host
+modification by symbiont of host cell membrane
+modulation by symbiont of host transcription
+modulation by symbiont of host signal transduction pathway
+positive regulation by symbiont of host signal transduction pathway
+negative regulation by symbiont of host signal transduction pathway
+modulation by symbiont of host defense response
+modulation by symbiont of host inflammatory response
+pathogen-associated molecular pattern dependent induction by symbiont of host innate immune response
+negative regulation by symbiont of microbe-associated molecular pattern-induced host innate immune response
+positive regulation by symbiont of host inflammatory response
+negative regulation by symbiont of host inflammatory response
+negative regulation by symbiont of host defense response
+modulation by symbiont of host intracellular transport
+modification by symbiont of host cytoskeleton
+modulation by symbiont of host programmed cell death
+negative regulation by symbiont of host programmed cell death
+positive regulation by symbiont of host programmed cell death
+modification by symbiont of host cellular component
+modification by symbiont of host morphology or physiology via secreted substance
+interaction with other organism via secreted substance involved in symbiotic interaction
+interaction with host via secreted substance involved in symbiotic interaction
+interaction with host via protein secreted by type III secretion system
+interaction with host via substance secreted by type IV secretion system
+interaction with host via protein secreted by type II secretion system
+modification by symbiont of host morphology or physiology via protein secreted by type II secretion system
+negative regulation by symbiont of host catalytic activity
+negative regulation by symbiont of host peptidase activity
+modulation by symbiont of host molecular function
+negative regulation by symbiont of host molecular function
+modification by symbiont of host morphology or physiology via protein secreted by type III secretion system
+modification by symbiont of host morphology or physiology via substance secreted by type IV secretion system
+evasion or tolerance by symbiont of host-produced reactive oxygen species
+evasion or tolerance by symbiont of host-produced nitric oxide
+evasion or tolerance by symbiont of host-produced phytoalexins
+induction by symbiont of host phytoalexin production
+induction by symbiont of defense-related host nitric oxide production
+induction by symbiont of defense-related host reactive oxygen species production
+positive regulation by organism of defense-related calcium ion flux in other organism involved in symbiotic interaction
+entry of symbiont into host cell by promotion of host phagocytosis
+negative regulation by symbiont of entry into host cell via phagocytosis
+negative regulation by symbiont of host jasmonic acid-mediated defense response
+negative regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway
+negative regulation by symbiont of defense-related host ethylene-mediated signal transduction pathway
+positive regulation by symbiont of defense-related host ethylene-mediated signal transduction pathway
+positive regulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway
+positive regulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway
+positive regulation by symbiont of host salicylic acid-mediated defense response
+positive regulation by symbiont of host jasmonic acid-mediated defense response
+positive regulation by symbiont of host ethylene-mediated defense response
+modulation by symbiont of defense-related host ethylene-mediated signal transduction pathway
+negative regulation by symbiont of defense-related host MAP kinase-mediated signal transduction pathway
+positive regulation by symbiont of defense-related host MAP kinase-mediated signal transduction pathway
+modulation by symbiont of defense-related host MAP kinase-mediated signal transduction pathway
+modulation by symbiont of defense-related host salicylic acid-mediated signal transduction pathway
+modulation by symbiont of defense-related host jasmonic acid-mediated signal transduction pathway
+negative regulation by symbiont of host cell-mediated immune response
+modulation by symbiont of host ethylene-mediated defense response
+negative regulation by symbiont of host T-cell mediated immune response
+negative regulation by symbiont of host B-cell mediated immune response
+negative regulation by symbiont of defense-related host callose deposition
+modulation by symbiont of host jasmonic acid-mediated defense response
+modulation by symbiont of host salicylic acid-mediated defense response
+modulation by symbiont of defense-related host callose deposition
+modulation by symbiont of nutrient release from host
+positive regulation by symbiont of nutrient release from host
+formation of specialized structure for nutrient acquisition from host
+formation by symbiont of haustorium for nutrient acquisition from host
+formation of specialized structure for nutrient acquisition from other organism involved in symbiotic interaction
+formation by symbiont of syncytium involving giant cell for nutrient acquisition from host
+interspecies quorum sensing
+formation by host of specialized structure for nutrient acquisition from symbiont
+acquisition by symbiont of nutrients from host via siderophores
+intraspecies quorum sensing
+induction by symbiont of host resistance gene-dependent defense response
+positive regulation by symbiont of defense-related host calcium-dependent protein kinase pathway
+induction by symbiont of host induced systemic resistance
+induction by symbiont of host systemic acquired resistance
+induction by symbiont of defense-related host cell wall thickening
+quorum sensing involved in interaction with host
+positive regulation by symbiont of defense-related host callose deposition
+growth or development of symbiont during interaction with host
+positive regulation by symbiont of defense-related host cell wall callose deposition
+occlusion by symbiont of host vascular system
+modification by symbiont of host structure
+occlusion by symbiont of host xylem
+adaptation to host osmotic environment
+adaptation to host pH environment
+energy taxis in host environment
+chemotaxis in host environment
+aerotaxis in host environment
+positive energy taxis in host environment
+negative energy taxis in host environment
+positive aerotaxis in host environment
+positive chemotaxis in host environment
+negative aerotaxis in host environment
+negative chemotaxis in host environment
+energy taxis within host
+energy taxis on or near host
+movement in host environment
+movement on or near host
+positive energy taxis
+negative energy taxis
+negative aerotaxis
+positive aerotaxis
+positive aerotaxis on or near host
+positive aerotaxis in host
+negative aerotaxis on or near host
+negative aerotaxis in host
+negative chemotaxis on or near host
+aerotaxis in host
+aerotaxis on or near host
+negative chemotaxis in host
+positive chemotaxis in host
+positive chemotaxis on or near host
+chemotaxis within host
+chemotaxis on or near host involved in symbiotic interaction
+negative energy taxis in host
+negative energy taxis on or near host
+positive energy taxis on or near host
+positive energy taxis in host
+modulation by symbiont of host catalytic activity
+modulation by symbiont of host peptidase activity
+modulation by symbiont of host apoptotic process
+positive regulation by symbiont of host apoptotic process
+modulation by symbiont of host B-cell mediated immune response
+modulation by symbiont of host cell-mediated immune response
+modulation by symbiont of host T-cell mediated immune response
+modulation by symbiont of microbe-associated molecular pattern-induced host innate immune response
+modulation by symbiont of host resistance gene-dependent defense response
+modulation by symbiont of host induced systemic resistance
+modulation by symbiont of host systemic acquired resistance
+modulation by symbiont of defense-related host cell wall thickening
+modulation by symbiont of defense-related host calcium ion flux
+modulation by symbiont of defense-related host nitric oxide production
+modulation by symbiont of defense-related host reactive oxygen species production
+modulation by symbiont of host phytoalexin production
+positive regulation by symbiont of host innate immune response
+modulation by symbiont of host innate immune response
+modulation by symbiont of defense-related host calcium-dependent protein kinase pathway
+pathogen-associated molecular pattern dependent modulation by symbiont of host innate immune response
+negative regulation by symbiont of host innate immune response
+growth or development during symbiotic interaction
+metabolism by symbiont of host cell wall cellulose
+response to defenses of other organism involved in symbiotic interaction
+metabolism by symbiont of host macromolecule
+metabolism by symbiont of host carbohydrate
+metabolism by symbiont of host glucan
+metabolism by symbiont of host xylan
+metabolism by symbiont of host cell wall chitin
+metabolism by symbiont of host cell wall pectin
+negative regulation of peptidase activity in other organism involved in symbiotic interaction
+modulation by host of symbiont defense response
+modification by host of symbiont morphology or physiology via secreted substance
+modification by host of symbiont structure
+modulation by organism of symbiont hormone or growth regulator levels
+modification of structure of other organism involved in symbiotic interaction
+modulation by organism of hormone or growth regulator levels in other organism involved in symbiotic interaction
+modification by host of symbiont cellular component
+modification of cellular component in other organism involved in symbiotic interaction
+modulation by symbiont of defense-related host cell wall callose deposition
+modulation by symbiont of host phagocytosis
+positive regulation by symbiont of host phagocytosis
+movement in environment of other organism involved in symbiotic interaction
+movement in symbiont environment
+movement on or near symbiont
+movement on or near other organism involved in symbiotic interaction
+negative regulation by host of symbiont defense response
+positive regulation by host of symbiont defense response
+modulation of peptidase activity in other organism involved in symbiotic interaction
+negative regulation of catalytic activity in other organism involved in symbiotic interaction
+response to host defenses
+response to symbiont defenses
+negative regulation by symbiont of defense-related host cell wall callose deposition
+modulation of catalytic activity in other organism involved in symbiotic interaction
+negative regulation of molecular function in other organism involved in symbiotic interaction
+modulation of molecular function in other organism involved in symbiotic interaction
+modification of morphology or physiology of other organism via protein secreted by type II secretion system involved in symbiotic interaction
+modification of morphology or physiology of other organism via protein secreted by type III secretion system involved in symbiotic interaction
+modification of morphology or physiology of other organism via substance secreted by type IV secretion system involved in symbiotic interaction
+interaction with other organism via substance secreted by type IV secretion system involved in symbiotic interaction
+interaction with other organism via protein secreted by type III secretion system involved in symbiotic interaction
+interaction with other organism via protein secreted by type II secretion system involved in symbiotic interaction
+modification of morphology or physiology of other organism via secreted substance involved in symbiotic interaction
+interaction with symbiont via secreted substance involved in symbiotic interaction
+metabolism of substance in other organism involved in symbiotic interaction
+energy taxis in environment of other organism involved in symbiotic interaction
+chemotaxis in environment of other organism involved in symbiotic interaction
+aerotaxis in environment of other organism involved in symbiotic interaction
+positive energy taxis in environment of other organism involved in symbiotic interaction
+negative energy taxis in environment of other organism involved in symbiotic interaction
+positive aerotaxis in environment of other organism involved in symbiotic interaction
+positive chemotaxis in environment of other organism involved in symbiotic interaction
+negative aerotaxis in environment of other organism involved in symbiotic interaction

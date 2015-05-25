@@ -1,0 +1,387 @@
+sodium-dependent phosphate transport
+type B pancreatic cell proliferation
+canonical Wnt signaling pathway involved in regulation of type B pancreatic cell proliferation
+cellular response to fibroblast growth factor stimulus
+stromal-epithelial cell signaling involved in prostate gland development
+fibroblast apoptotic process
+cell wall polysaccharide catabolic process
+plant-type cell wall cellulose catabolic process
+DNA excision
+micropinocytosis
+macropinocytosis
+clearance of foreign intracellular DNA
+clearance of foreign intracellular DNA by conversion of DNA cytidine to uridine
+regulation of rRNA stability
+envenomation resulting in hemorrhagic damage to other organism
+modulation of molecular function in other organism
+modulation of voltage-gated potassium channel activity in other organism
+negative regulation of voltage-gated potassium channel activity in other organism
+negative regulation of molecular function in other organism
+modulation of potassium channel activity in other organism
+disruption of cells of other organism
+envenomation resulting in modulation of platelet aggregation in other organism
+feeding on or from other organism
+feeding from tissue of other organism
+feeding from vascular tissue of another organism
+feeding on blood of other organism
+injection of substance into other organism during feeding on blood of other organism
+feeding from phloem of other organism
+feeding from xylem of other organism
+regulation of peroxisome size
+RNA polymerase II complex localization to nucleus
+protein localization to actin cortical patch
+protein localization to cytoskeleton
+glucose import in response to insulin stimulus
+CLRC ubiquitin ligase complex localization to heterochromatin
+negative regulation of protein kinase activity by regulation of protein phosphorylation
+protein targeting to vacuolar membrane
+actin cortical patch organization
+actin cortical patch internalization
+envenomation resulting in induction of edema in other organism
+multi-species biofilm formation
+multi-species biofilm formation on inanimate substrate
+multi-species biofilm formation in or on host organism
+competition with other organism
+recognition of host
+adhesion of symbiont to host
+single-species biofilm formation in or on host organism
+growth or development of symbiont on or near host
+entry into host through natural portals
+entry into host through host barriers
+growth or development of symbiont in host
+avoidance of host defenses
+suppression of host defenses
+evasion or tolerance of host defenses
+induction by symbiont of host defense response
+translocation of molecules into host
+translocation of DNA into host
+interspecies interaction between organisms
+motile cilium assembly
+modulation of sensory perception of pain in other organism
+glial cell line-derived neurotrophic factor secretion
+envenomation resulting in modulation of blood coagulation in other organism
+envenomation resulting in positive regulation of blood coagulation in other organism
+envenomation resulting in negative regulation of blood coagulation in other organism
+envenomation resulting in pore formation in membrane of other organism
+envenomation resulting in modulation of calcium channel activity in other organism
+envenomation resulting in negative regulation of calcium channel activity in other organism
+envenomation resulting in negative regulation of voltage-gated calcium channel activity in other organism
+envenomation resulting in negative regulation of high voltage-gated calcium channel activity in other organism
+envenomation resulting in negative regulation of low voltage-gated calcium channel activity in other organism
+envenomation resulting in negative regulation of platelet aggregation in other organism
+envenomation resulting in positive regulation of platelet aggregation in other organism
+envenomation resulting in modulation of mast cell degranulation in other organism
+envenomation resulting in positive regulation of mast cell degranulation in other organism
+envenomation resulting in proteolysis in other organism
+"envenomation resulting in blood vessel extracellular matrix damage, causing hemorrhagic damage in other organism"
+envenomation resulting in impairment of hemostasis in other organism
+envenomation resulting in fibrinolysis in other organism
+envenomation resulting in fibrinogenolysis in other organism
+modulation of transmission of nerve impulse in other organism
+envenomation resulting in modulation of transmission of nerve impulse in other organism
+modulation of voltage-gated sodium channel activity in other organism
+negative regulation of voltage-gated sodium channel activity in other organism
+positive regulation of voltage-gated sodium channel activity in other organism
+positive regulation of molecular function in other organism
+envenomation resulting in modulation of voltage-gated sodium channel activity in other organism
+envenomation resulting in negative regulation of voltage-gated sodium channel activity in other organism
+envenomation resulting in positive regulation of voltage-gated sodium channel activity in other organism
+modulation of blood pressure in other organism
+negative regulation of blood pressure in other organism
+positive regulation of blood pressure in other organism
+envenomation resulting in modulation of blood pressure in other organism
+envenomation resulting in positive regulation of blood pressure in other organism
+envenomation resulting in negative regulation of blood pressure in other organism
+modulation of signal transduction in other organism
+positive regulation of signal transduction in other organism
+modulation of G-protein coupled receptor activity in other organism
+modulation of receptor activity in other organism
+positive regulation of G-protein coupled receptor activity in other organism
+modulation of glucagon-like peptide receptor 1 activity in other organism
+positive regulation of receptor activity in other organism
+envenomation resulting in modulation of signal transduction in other organism
+envenomation resulting in positive regulation of signal transduction in other organism
+envenomation resulting in modulation of receptor activity in other organism
+envenomation resulting in modulation of glucagon-like peptide receptor 1 activity in other organism
+envenomation resulting in modulation of G-protein coupled receptor activity in other organism
+envenomation resulting in positive regulation of G-protein coupled receptor activity in other organism
+envenomation resulting in positive regulation of glucagon-like peptide receptor 1 activity in other organism
+positive regulation of glucagon-like peptide receptor 1 activity in other organism
+modulation of vasoactive intestinal polypeptide receptor activity in other organism
+positive regulation of vasoactive intestinal polypeptide receptor activity in other organism
+envenomation resulting in modulation of vasoactive intestinal polypeptide receptor activity in other organism
+envenomation resulting in positive regulation of vasoactive intestinal polypeptide receptor activity in other organism
+envenomation resulting in muscle damage in other organism
+envenomation resulting in myocyte killing in other organism
+envenomation resulting in damage of muscle extracellular matrix in other organism
+protein sulfhydration
+peptidyl-cystine sulfhydration
+formation of peptidyl-cystine persulfide by sulphur transfer from free cysteine
+formation of peptidyl-cystine persulfide by sulphur transfer from H2S
+regulation of mitochondrial mRNA stability
+regulation of mitochondrial rRNA stability
+modulation of programmed cell death in other organism
+modulation of apoptotic process in other organism
+positive regulation of apoptotic process in other organism
+envenomation resulting in modulation of apoptotic process in other organism
+envenomation resulting in depletion of circulating fibrinogen in other organism
+regulation of circulating fibrinogen levels
+long-chain fatty acid import
+zymogen activation in other organism
+plasminogen activation in other organism
+envenomation resulting in zymogen activation in other organism
+envenomation resulting in plasminogen activation in other organism
+NLRP3 inflammasome complex assembly
+secondary metabolite biosynthetic process
+envenomation resulting in modulation of vasodilation in other organism
+modulation of vasodilation in other organism
+modulation of biological quality in other organism
+modulation of heart rate in other organism
+negative regulation of heart rate in other organism
+envenomation resulting in negative regulation of heart rate of other organism
+relaxation of smooth muscle
+uterine smooth muscle relaxation
+envenomation resulting in modulation of voltage-gated potassium channel activity in other organism
+envenomation resulting in modulation of ion channel activity in other organism
+modulation of ion channel activity in other organism
+envenomation resulting in negative regulation of voltage-gated potassium channel activity in other organism
+envenomation resulting in slowing of activation kinetics of voltage-gated potassium channel in other organism
+envenomation resulting in occlusion of the pore of voltage-gated potassium channel in other organism
+dendritic cell proliferation
+chondrocyte activation
+[2Fe-2S] cluster assembly
+[4Fe-4S] cluster assembly
+nitrogenase P cluster assembly
+starch utilization system complex assembly
+cellulosome assembly
+pentose catabolic process to ethanol
+xylose catabolic process to ethanol
+butyryl-CoA biosynthetic process
+butyryl-CoA biosynthetic process from acetyl-CoA
+butyryl-CoA catabolic process
+butyryl-CoA catabolic process to butyrate
+butyryl-CoA catabolic process to butanol
+response to amylopectin
+response to pullulan
+iron-sulfur-molybdenum cofactor assembly
+daunorubicin metabolic process
+doxorubicin metabolic process
+protein denucleotidylation
+protein deadenylylation
+disruption by symbiont of host endothelial cells
+peptidyl-L-threonine methyl ester biosynthetic process from peptidyl-threonine
+modulation of relaxation of muscle in other organism
+modulation of relaxation of smooth muscle in other organism
+modulation of relaxation of uterine smooth muscle in other organism
+positive regulation of relaxation of uterine smooth muscle in other organism
+modulation of cell migration in other organism
+negative regulation of cell migration in other organism
+positive regulation of cell migration in other organism
+envenomation resulting in modulation of cell migration in other organism
+envenomation resulting in negative regulation of cell migration in other organism
+envenomation resulting in positive regulation of cell migration in other organism
+"modulation of complement activation, classical pathway in other organism"
+"positive regulation of complement activation, classical pathway in other organism"
+"negative regulation of complement activation, classical pathway in other organism"
+"modulation of complement activation, lectin pathway in other organism"
+"positive regulation of complement activation, lectin pathway in other organism"
+"negative regulation of complement activation, lectin pathway in other organism"
+"modulation of complement activation, alternative pathway in other organism"
+"negative regulation of complement activation, alternative pathway in other organism"
+"positive regulation of complement activation, alternative pathway in other organism"
+"envenomation resulting in modulation of complement activation, classical pathway in other organism"
+"envenomation resulting in negative regulation of complement activation, classical pathway in other organism"
+"envenomation resulting in positive regulation of complement activation, classical pathway in other organism"
+"envenomation resulting in modulation of complement activation, lectin pathway in other organism"
+"envenomation resulting in negative regulation of complement activation, lectin pathway in other organism"
+"envenomation resulting in positive regulation of complement activation, lectin pathway in other organism"
+"envenomation resulting in modulation of complement activation, alternative pathway in other organism"
+"envenomation resulting in positive regulation of complement activation, alternative pathway in other organism"
+"envenomation resulting in negative regulation of complement activation, alternative pathway in other organism"
+modulation of complement activation in other organism
+envenomation resulting in modulation of complement activation in other organism
+histone H3-K4 dimethylation
+envenomation resulting in cytolysis in other organism
+adhesion of symbiont to host cell
+adhesion of symbiont to host epithelial cell
+adhesion of symbiont to host endothelial cell
+phagosome reneutralization
+regulation of post-lysosomal vacuole size
+pore formation in membrane of other organism during symbiotic interaction
+pore formation in membrane of host by symbiont
+cytolysis by virus via pore formation in host cell membrane
+disruption by virus of host cell
+disruption by virus of host cell membrane
+establishment or maintenance of cell type involved in phenotypic switching
+reversion of cell type to default state involved in phenotypic switching
+sorocarp spore cell differentiation
+methionine import
+tooth eruption
+pore-mediated entry of viral genome into host cell
+killing by virus of host cell by post-segregational killing
+morphogenesis of symbiont in host cell
+single-organism process
+single organism signaling
+response to stimulus by single organism
+single organism reproductive process
+multi-organism reproductive process
+single-organism reproductive behavior
+multi-organism reproductive behavior
+multi-multicellular organism process
+single-multicellular organism process
+single-organism behavior
+single-organism metabolic process
+single-organism biosynthetic process
+single-organism catabolic process
+siderophore transmembrane transport
+regulation of imaginal disc-derived wing size
+negative regulation of imaginal disc-derived wing size
+"protein import into peroxisome matrix, substrate release"
+renal phosphate excretion
+single-organism carbohydrate metabolic process
+single-organism carbohydrate catabolic process
+chromatin reprogramming in the zygote
+protection of DNA demethylation of female pronucleus
+DNA demethylation of male pronucleus
+DNA methylation or demethylation
+envenomation resulting in modulation of acid-sensing ion channel activity in other organism
+envenomation resulting in positive regulation of acid-sensing ion channel activity in other organism
+envenomation resulting in negative regulation of acid-sensing ion channel activity in other organism
+modulation of acid-sensing ion channel in other organism
+negative regulation of acid-sensing ion channel in other organism
+positive regulation of acid-sensing ion channel in other organism
+negative regulation of sensory perception of pain in other organism
+envenomation resulting in negative regulation of sensory perception of pain in other organism
+envenomation resulting in modulation of sensory perception of pain in other organism
+intracellular protein transmembrane import
+protein targeting to nucleus
+amino acid transmembrane import
+amino acid transmembrane export
+mature miRNA 3'-end processing
+high-affinity zinc II ion transmembrane import
+cellular response to human chorionic gonadotropin stimulus
+response to human chorionic gonadotropin
+pantothenate import into cell
+biotin import into cell
+dethiobiotin import into cell
+modulation by symbiont of host synaptic transmission
+negative regulation by symbiont of host synaptic transmission
+modulation by symbiont of host cholinergic synaptic transmission
+negative regulation by symbiont of host cholinergic synaptic transmission
+negative regulation by symbiont of host neurotransmitter secretion
+single-organism cellular process
+multi-organism cellular process
+single-organism transport
+multi-organism transport
+single-organism developmental process
+NMS complex interaction involved in chromosome segregation
+meiotic cell cycle phase transition
+mitotic DNA damage checkpoint
+mitotic DNA integrity checkpoint
+meiotic DNA integrity checkpoint
+meiotic spindle checkpoint
+G1 DNA damage checkpoint
+metaphase/anaphase transition of cell cycle
+metaphase/anaphase transition of meiotic cell cycle
+cell cycle DNA replication
+bacterial-type DNA replication
+modulation by host of viral process
+modulation by host of viral release from host cell
+negative regulation by host of viral release from host cell
+positive regulation by host of viral release from host cell
+negative regulation by host of viral process
+positive regulation by host of viral process
+trans-Golgi network to recycling endosome transport
+multi-organism membrane fusion
+single-organism membrane fusion
+single-organism membrane organization
+multi-organism membrane organization
+nucleophagy
+late nucleophagy
+G-quadruplex DNA unwinding
+macrophage migration inhibitory factor production
+Oncostatin M production
+chemokine (C-C motif) ligand 17 production
+Dma1-dependent checkpoint
+response to Dma1-dependent checkpoint signaling
+fermentative hydrogen production
+glycolytic fermentation via PFOR pathway
+glycolytic fermentation via PFL pathway
+hydrogen generation via biophotolysis
+mitotic G2/M transition checkpoint
+mitotic G1/S transition checkpoint
+mitotic telomere tethering at nuclear periphery
+meiotic telomere tethering at nuclear periphery
+viral genome integration into host DNA
+modulation by host of viral genome replication
+negative regulation by host of viral genome replication
+positive regulation by host of viral genome replication
+modulation by host of viral RNA genome replication
+modulation by virus of host cytokine production
+positive regulation by virus of host cytokine production
+modulation by virus of host protein transport
+hydrogen generation via nitrogenase
+D-xylose fermentation
+actomyosin contractile ring organization
+cell quiescence
+cell cycle G2/M phase transition
+cell cycle G1/S phase transition
+meiotic interphase II
+chain elongation of O-linked mannose residue
+negative regulation by symbiont of indole acetic acid levels in host
+iron acquisition by symbiont from host
+biological phase
+estrous cycle
+menstrual cycle
+hair cycle phase
+nonrepetitive DNA condensation
+plasma membrane raft assembly
+plasma membrane raft distribution
+plasma membrane raft localization
+plasma membrane raft organization
+plasma membrane raft polarization
+protein insertion into plasma membrane raft
+protein localization to plasma membrane raft
+protein transport into plasma membrane raft
+protein transport out of plasma membrane raft
+modulation by virus of host cell division
+positive regulation by virus of host cell division
+negative regulation by virus of host cell division
+modulation by host of viral exo-alpha-sialidase activity
+modulation by host of viral catalytic activity
+modulation by host of viral molecular function
+negative regulation by host of viral exo-alpha-sialidase activity
+modulation by host of viral glycoprotein metabolic process
+negative regulation by host of viral glycoprotein metabolic process
+lipoprotein localization
+lipoprotein localization to membrane
+lipoprotein localization to outer membrane
+double-strand break repair via single-strand annealing
+double-strand break repair via synthesis-dependent strand annealing
+DNA replication proofreading
+DNA-dependent DNA replication maintenance of fidelity
+DNA deamination
+depurination
+depyrimidination
+actin nucleation
+carbon catabolite repression of transcription
+negative regulation of transcription by glucose
+mitochondrial magnesium ion transport
+glycerolipid biosynthetic process
+"retrograde transport, vacuole to Golgi"
+negative regulation of nitric oxide biosynthetic process
+error-prone DNA repair
+error-free DNA repair
+error-free translesion synthesis
+early endosome to late endosome transport
+G0 to G1 transition
+plasma membrane fusion
+peroxisome inheritance
+neuroblast division
+sensory organ precursor cell division
+protein targeting to chloroplast
+protein import into chloroplast stroma
+protein import into chloroplast thylakoid membrane
+protein import into mitochondrial inner membrane
+protein import into mitochondrial outer membrane
+protein import into mitochondrial intermembrane space

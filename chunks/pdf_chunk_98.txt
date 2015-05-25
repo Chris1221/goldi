@@ -1,0 +1,387 @@
+positive regulation of stomatal complex development
+regulation of endocannabinoid signaling pathway
+regulation of octopamine or tyramine signaling pathway
+negative regulation of octopamine or tyramine signaling pathway
+positive regulation of octopamine or tyramine signaling pathway
+regulation of octopamine signaling pathway
+negative regulation of octopamine signaling pathway
+positive regulation of octopamine signaling pathway
+regulation of tyramine signaling pathway
+negative regulation of tyramine signaling pathway
+positive regulation of tyramine signaling pathway
+negative regulation of G1/S transition of mitotic cell cycle
+positive regulation of regulation of secondary heart field cardioblast proliferation
+regulation of cell proliferation involved in heart morphogenesis
+negative regulation of cell proliferation involved in heart morphogenesis
+positive regulation of cell proliferation involved in heart morphogenesis
+regulation of octopamine signaling pathway involved in response to food
+negative regulation of octopamine signaling pathway involved in response to food
+positive regulation of octopamine signaling pathway involved in response to food
+"regulation of DNA-templated transcription, initiation"
+"negative regulation of DNA-templated transcription, initiation"
+"positive regulation of DNA-templated transcription, initiation"
+regulation of cell motility
+negative regulation of cell motility
+positive regulation of cell motility
+regulation of planar cell polarity pathway involved in ventricular septum morphogenesis
+negative regulation of planar cell polarity pathway involved in ventricular septum morphogenesis
+regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis
+negative regulation of planar cell polarity pathway involved in cardiac muscle tissue morphogenesis
+regulation of ubiquitin-specific protease activity
+regulation of flagellar cell motility
+negative regulation of flagellar cell motility
+positive regulation of cilium-dependent cell motility
+"regulation of retrograde vesicle-mediated transport, Golgi to ER"
+negative regulation of ubiquitin-specific protease activity
+positive regulation of ubiquitin-specific protease activity
+regulation of planar cell polarity pathway involved in heart morphogenesis
+negative regulation of planar cell polarity pathway involved in heart morphogenesis
+regulation of planar cell polarity pathway involved in cardiac right atrium morphogenesis
+negative regulation of planar cell polarity pathway involved in cardiac right atrium morphogenesis
+regulation of planar cell polarity pathway involved in outflow tract morphogenesis
+negative regulation of planar cell polarity pathway involved in outflow tract morphogenesis
+regulation of planar cell polarity pathway involved in pericardium morphogenesis
+negative regulation of planar cell polarity pathway involved in pericardium morphogenesis
+regulation of planar cell polarity pathway involved in neural tube closure
+negative regulation of planar cell polarity pathway involved in neural tube closure
+regulation of peptidyl-cysteine S-nitrosylation
+positive regulation of peptidyl-cysteine S-nitrosylation
+negative regulation of dendrite development
+regulation of branching morphogenesis of a nerve
+negative regulation of branching morphogenesis of a nerve
+regulation of pro-T cell differentiation
+negative regulation of pro-T cell differentiation
+positive regulation of pro-T cell differentiation
+regulation of neural precursor cell proliferation
+negative regulation of neural precursor cell proliferation
+positive regulation of neural precursor cell proliferation
+negative regulation of androgen biosynthetic process
+negative regulation of blood vessel morphogenesis
+regulation of progesterone biosynthetic process
+negative regulation of progesterone biosynthetic process
+positive regulation of progesterone biosynthetic process
+regulation of phosphate transmembrane transport
+negative regulation of phosphate transmembrane transport
+positive regulation of phosphate transmembrane transport
+regulation of cholesterol homeostasis
+positive regulation of cholesterol homeostasis
+negative regulation of regulation of transcription from RNA polymerase II promoter by nuclear hormone receptor
+regulation of fatty acid transport
+negative regulation of fatty acid transport
+positive regulation of fatty acid transport
+regulation of female gonad development
+negative regulation of female gonad development
+positive regulation of female gonad development
+regulation of ribonucleoprotein complex localization
+negative regulation of ribonucleoprotein complex localization
+positive regulation of ribonucleoprotein complex localization
+regulation of ribosomal subunit export from nucleus
+negative regulation of ribosomal subunit export from nucleus
+positive regulation of ribosomal subunit export from nucleus
+regulation of ribosomal large subunit export from nucleus
+negative regulation of ribosomal large subunit export from nucleus
+positive regulation of ribosomal large subunit export from nucleus
+regulation of ribosomal small subunit export from nucleus
+negative regulation of ribosomal small subunit export from nucleus
+positive regulation of ribosomal small subunit export from nucleus
+regulation of anoikis
+positive regulation of anoikis
+regulation of glutamate metabolic process
+negative regulation of glutamate metabolic process
+positive regulation of glutamate metabolic process
+regulation of proline metabolic process
+negative regulation of proline metabolic process
+positive regulation of proline metabolic process
+regulation of invasive growth in response to glucose limitation
+negative regulation of invasive growth in response to glucose limitation
+positive regulation of invasive growth in response to glucose limitation
+regulation of pseudohyphal growth
+negative regulation of pseudohyphal growth
+positive regulation of pseudohyphal growth
+regulation of BMP signaling pathway involved in heart jogging
+regulation of testosterone biosynthetic process
+negative regulation of testosterone biosynthetic process
+regulation of pancreatic A cell differentiation
+negative regulation of pancreatic A cell differentiation
+positive regulation of pancreatic A cell differentiation
+regulation of pancreatic stellate cell proliferation
+negative regulation of pancreatic stellate cell proliferation
+positive regulation of pancreatic stellate cell proliferation
+regulation of rRNA processing
+negative regulation of rRNA processing
+positive regulation of rRNA processing
+regulation of tRNA processing
+negative regulation of tRNA processing
+positive regulation of tRNA processing
+regulation of tRNA export from nucleus
+negative regulation of tRNA export from nucleus
+positive regulation of tRNA export from nucleus
+regulation of reproductive process
+negative regulation of reproductive process
+positive regulation of reproductive process
+regulation of FtsZ-dependent cytokinesis
+negative regulation of FtsZ-dependent cytokinesis
+positive regulation of FtsZ-dependent cytokinesis
+positive regulation of establishment or maintenance of bipolar cell polarity regulating cell shape
+negative regulation of establishment or maintenance of neuroblast polarity
+regulation of actin cytoskeleton reorganization
+negative regulation of actin cytoskeleton reorganization
+positive regulation of actin cytoskeleton reorganization
+negative regulation of feeding behavior
+positive regulation of feeding behavior
+regulation of male germ cell proliferation
+negative regulation of male germ cell proliferation
+positive regulation of male germ cell proliferation
+regulation of protein activation cascade
+negative regulation of protein activation cascade
+positive regulation of protein activation cascade
+"regulation of blood coagulation, common pathway"
+"negative regulation of blood coagulation, common pathway"
+"positive regulation of blood coagulation, common pathway"
+"regulation of blood coagulation, extrinsic pathway"
+"negative regulation of blood coagulation, extrinsic pathway"
+"positive regulation of blood coagulation, extrinsic pathway"
+"regulation of blood coagulation, intrinsic pathway"
+"negative regulation of blood coagulation, intrinsic pathway"
+"positive regulation of blood coagulation, intrinsic pathway"
+regulation of fibroblast apoptotic process
+negative regulation of fibroblast apoptotic process
+positive regulation of fibroblast apoptotic process
+negative regulation of receptor activity
+positive regulation of receptor activity
+"regulation of epithelial cell migration, open tracheal system"
+regulation of oxidative phosphorylation uncoupler activity
+negative regulation of oxidative phosphorylation uncoupler activity
+positive regulation of oxidative phosphorylation uncoupler activity
+regulation of DNA biosynthetic process
+negative regulation of DNA biosynthetic process
+regulation of root development
+regulation of histone H3-T3 phosphorylation
+regulation of cellular amino acid biosynthetic process
+negative regulation of cellular amino acid biosynthetic process
+positive regulation of cellular amino acid biosynthetic process
+negative regulation of regulation of excitatory postsynaptic membrane potential
+receptor internalization involved in canonical Wnt signaling pathway
+positive regulation of myotome development
+positive regulation of myoblast proliferation
+regulation of photoreceptor cell axon guidance
+regulation of myotome development
+regulation of myoblast proliferation
+regulation of defecation
+negative regulation of defecation
+positive regulation of defecation
+regulation of hydrogen peroxide catabolic process
+negative regulation of hydrogen peroxide catabolic process
+negative regulation of synapse maturation
+regulation of Rho-dependent protein serine/threonine kinase activity
+negative regulation of Rho-dependent protein serine/threonine kinase activity
+regulation of synaptic vesicle exocytosis
+negative regulation of synaptic vesicle exocytosis
+positive regulation of synaptic vesicle exocytosis
+regulation of ceramide biosynthetic process
+positive regulation of ceramide biosynthetic process
+semaphorin-plexin signaling pathway involved in regulation of photoreceptor cell axon guidance
+positive regulation of photomorphogenesis
+regulation of tumor necrosis factor (ligand) superfamily member 11 production
+negative regulation of tumor necrosis factor (ligand) superfamily member 11 production
+positive regulation of tumor necrosis factor (ligand) superfamily member 11 production
+regulation of N-methyl-D-aspartate selective glutamate receptor activity
+regulation of alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionate selective glutamate receptor activity
+regulation of kainate selective glutamate receptor activity
+regulation of fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation
+negative regulation of fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation
+positive regulation of fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation
+regulation of T-helper 17 type immune response
+negative regulation of T-helper 17 type immune response
+positive regulation of T-helper 17 type immune response
+regulation of T-helper 17 cell differentiation
+negative regulation of T-helper 17 cell differentiation
+positive regulation of T-helper 17 cell differentiation
+regulation of glucocorticoid receptor signaling pathway
+negative regulation of glucocorticoid receptor signaling pathway
+positive regulation of glucocorticoid receptor signaling pathway
+regulation of ligand-dependent nuclear receptor transcription coactivator activity
+negative regulation of ligand-dependent nuclear receptor transcription coactivator activity
+positive regulation of ligand-dependent nuclear receptor transcription coactivator activity
+regulation of T-helper 17 cell lineage commitment
+negative regulation of T-helper 17 cell lineage commitment
+positive regulation of T-helper 17 cell lineage commitment
+regulation of terminal button organization
+regulation of blood microparticle formation
+negative regulation of blood microparticle formation
+positive regulation of blood microparticle formation
+regulation of endothelial microparticle formation
+negative regulation of endothelial microparticle formation
+positive regulation of endothelial microparticle formation
+regulation of chemokine (C-X-C motif) ligand 1 production
+negative regulation of chemokine (C-X-C motif) ligand 1 production
+positive regulation of chemokine (C-X-C motif) ligand 1 production
+regulation of chemokine (C-X-C motif) ligand 2 production
+negative regulation of chemokine (C-X-C motif) ligand 2 production
+positive regulation of chemokine (C-X-C motif) ligand 2 production
+positive regulation of acrosome reaction
+regulation of hepatocyte proliferation
+negative regulation of hepatocyte proliferation
+positive regulation of hepatocyte proliferation
+regulation of CD40 signaling pathway
+negative regulation of CD40 signaling pathway
+positive regulation of CD40 signaling pathway
+regulation of endothelial cell apoptotic process
+negative regulation of endothelial cell apoptotic process
+positive regulation of endothelial cell apoptotic process
+regulation of ovarian follicle development
+negative regulation of ovarian follicle development
+regulation of kidney smooth muscle cell differentiation
+negative regulation of kidney smooth muscle cell differentiation
+positive regulation of kidney smooth muscle cell differentiation
+regulation of binding of sperm to zona pellucida
+negative regulation of binding of sperm to zona pellucida
+regulation of prostaglandin-E synthase activity
+negative regulation of prostaglandin-E synthase activity
+positive regulation of prostaglandin-E synthase activity
+regulation of STAT protein import into nucleus
+negative regulation of STAT protein import into nucleus
+positive regulation of STAT protein import into nucleus
+regulation of acrosomal vesicle exocytosis
+positive regulation of acrosomal vesicle exocytosis
+regulation of clathrin-mediated endocytosis
+positive regulation of clathrin-mediated endocytosis
+regulation of DNA topoisomerase (ATP-hydrolyzing) activity
+negative regulation of DNA topoisomerase (ATP-hydrolyzing) activity
+positive regulation of DNA topoisomerase (ATP-hydrolyzing) activity
+regulation of mesoderm development
+negative regulation of mesoderm development
+positive regulation of mesoderm development
+regulation of ectoderm development
+negative regulation of ectoderm development
+positive regulation of ectoderm development
+positive regulation of ovarian follicle development
+regulation of antral ovarian follicle growth
+positive regulation of antral ovarian follicle growth
+regulation of neutrophil extravasation
+negative regulation of neutrophil extravasation
+positive regulation of neutrophil extravasation
+regulation of lamellipodium morphogenesis
+negative regulation of lamellipodium morphogenesis
+positive regulation of lamellipodium morphogenesis
+regulation of ubiquitin-dependent endocytosis
+negative regulation of ubiquitin-dependent endocytosis
+positive regulation of ubiquitin-dependent endocytosis
+regulation of thymocyte aggregation
+negative regulation of thymocyte aggregation
+positive regulation of thymocyte aggregation
+regulation of lymphocyte migration
+negative regulation of lymphocyte migration
+positive regulation of lymphocyte migration
+regulation of T cell migration
+negative regulation of T cell migration
+positive regulation of T cell migration
+regulation of T cell extravasation
+negative regulation of T cell extravasation
+positive regulation of T cell extravasation
+regulation of thymocyte migration
+negative regulation of thymocyte migration
+positive regulation of thymocyte migration
+regulation of fibronectin-dependent thymocyte migration
+negative regulation of fibronectin-dependent thymocyte migration
+positive regulation of fibronectin-dependent thymocyte migration
+regulation of eosinophil migration
+negative regulation of eosinophil migration
+positive regulation of eosinophil migration
+regulation of eosinophil extravasation
+negative regulation of eosinophil extravasation
+positive regulation of eosinophil extravasation
+regulation of eosinophil chemotaxis
+negative regulation of eosinophil chemotaxis
+positive regulation of eosinophil chemotaxis
+regulation of apoptotic cell clearance
+negative regulation of apoptotic cell clearance
+positive regulation of apoptotic cell clearance
+regulation of neutrophil aggregation
+negative regulation of neutrophil aggregation
+positive regulation of neutrophil aggregation
+"regulation of cytokinesis, actomyosin contractile ring assembly"
+"negative regulation of cytokinesis, actomyosin contractile ring assembly"
+"positive regulation of cytokinesis, actomyosin contractile ring assembly"
+regulation of protein neddylation
+negative regulation of protein neddylation
+positive regulation of protein neddylation
+regulation of monocyte extravasation
+negative regulation of monocyte extravasation
+positive regulation of monocyte extravasation
+regulation of toll-like receptor 15 signaling pathway
+negative regulation of toll-like receptor 15 signaling pathway
+positive regulation of toll-like receptor 15 signaling pathway
+regulation of toll-like receptor 21 signaling pathway
+negative regulation of toll-like receptor 21 signaling pathway
+positive regulation of toll-like receptor 21 signaling pathway
+regulation of macrophage migration inhibitory factor signaling pathway
+negative regulation of macrophage migration inhibitory factor signaling pathway
+positive regulation of macrophage migration inhibitory factor signaling pathway
+"regulation of CD8-positive, alpha-beta T cell extravasation"
+"negative regulation of CD8-positive, alpha-beta T cell extravasation"
+"positive regulation of CD8-positive, alpha-beta T cell extravasation"
+"regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation"
+"negative regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation"
+"positive regulation of CD8-positive, alpha-beta cytotoxic T cell extravasation"
+regulation of T-helper 17 cell extravasation
+negative regulation of T-helper 17 cell extravasation
+positive regulation of T-helper 17 cell extravasation
+regulation of astrocyte chemotaxis
+negative regulation of astrocyte chemotaxis
+regulation of eukaryotic cell surface binding
+negative regulation of eukaryotic cell surface binding
+positive regulation of eukaryotic cell surface binding
+positive regulation of excitatory postsynaptic membrane potential
+positive regulation of astrocyte chemotaxis
+regulation of glycogen (starch) synthase activity
+negative regulation of glycogen (starch) synthase activity
+positive regulation of glycogen (starch) synthase activity
+regulation of peroxidase activity
+negative regulation of peroxidase activity
+positive regulation of peroxidase activity
+regulation of hematopoietic stem cell migration
+negative regulation of hematopoietic stem cell migration
+positive regulation of hematopoietic stem cell migration
+regulation of opioid receptor signaling pathway
+negative regulation of opioid receptor signaling pathway
+positive regulation of opioid receptor signaling pathway
+regulation of metanephric glomerular visceral epithelial cell development
+positive regulation of metanephric glomerular visceral epithelial cell development
+regulation of cAMP-dependent protein kinase activity
+negative regulation of cAMP-dependent protein kinase activity
+positive regulation of cAMP-dependent protein kinase activity
+regulation of interleukin-8 secretion
+negative regulation of interleukin-8 secretion
+positive regulation of interleukin-8 secretion
+regulation of glutamine transport
+negative regulation of glutamine transport
+positive regulation of glutamine transport
+positive regulation of brassinosteroid biosynthetic process
+regulation of hepatic stellate cell activation
+negative regulation of hepatic stellate cell activation
+positive regulation of hepatic stellate cell activation
+regulation of interleukin-18-mediated signaling pathway
+negative regulation of interleukin-18-mediated signaling pathway
+positive regulation of interleukin-18-mediated signaling pathway
+regulation of cell proliferation involved in compound eye morphogenesis
+negative regulation of cell proliferation involved in compound eye morphogenesis
+positive regulation of cell proliferation involved in compound eye morphogenesis
+regulation of induction of apoptosis in response to chemical stimulus
+negative regulation of induction of apoptosis in response to chemical stimulus
+positive regulation of induction of apoptosis in response to chemical stimulus
+regulation of natural killer cell chemotaxis
+negative regulation of natural killer cell chemotaxis
+positive regulation of natural killer cell chemotaxis
+positive regulation of blood vessel remodeling
+regulation of energy homeostasis
+negative regulation of energy homeostasis
+positive regulation of energy homeostasis
+regulation of dendritic cell chemotaxis
+negative regulation of dendritic cell chemotaxis
+positive regulation of dendritic cell chemotaxis
+regulation of granzyme A production
+negative regulation of granzyme A production
+positive regulation of granzyme A production
+"regulation of CD4-positive, alpha-beta T cell activation"
+"negative regulation of CD4-positive, alpha-beta T cell activation"

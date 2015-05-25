@@ -1,0 +1,387 @@
+chemokine metabolic process
+fractalkine metabolic process
+thymidylate synthase biosynthetic process
+regulation of thymidylate synthase biosynthetic process
+positive regulation of thymidylate synthase biosynthetic process
+negative regulation of thymidylate synthase biosynthetic process
+depsipeptide metabolic process
+depsipeptide catabolic process
+depsipeptide biosynthetic process
+regulation of phagocytosis
+negative regulation of phagocytosis
+positive regulation of phagocytosis
+regulation of neurogenesis
+negative regulation of neurogenesis
+positive regulation of neurogenesis
+regulation of axonogenesis
+negative regulation of axonogenesis
+positive regulation of axonogenesis
+regulation of dendrite development
+negative regulation of dendrite morphogenesis
+positive regulation of dendrite morphogenesis
+regulation of immune response
+negative regulation of immune response
+positive regulation of immune response
+RNA destabilization
+cocaine metabolic process
+cocaine catabolic process
+detoxification of mercury ion
+sequestering of mercury
+regulation of biological process
+regulation of catalytic activity
+regulation of viral process
+regulation of developmental process
+regulation of cellular process
+regulation of behavior
+activated T cell proliferation
+cocaine biosynthetic process
+"circadian sleep/wake cycle, sleep"
+regulation of synapse structure or activity
+regulation of synaptic transmission
+negative regulation of synaptic transmission
+positive regulation of synaptic transmission
+regulation of synapse organization
+synapse organization
+epothilone metabolic process
+epothilone biosynthetic process
+coagulation
+regulation of coagulation
+positive regulation of coagulation
+molybdenum incorporation via L-cysteinyl copper sulfido molybdopterin cytosine dinucleotide
+"iron incorporation into iron-sulfur cluster via tris-L-cysteinyl S-adenosylmethion-N,O-diyl tetrairon tetrasulfide"
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl L-arginyl diiron disulfide
+peptide cross-linking via L-cysteinyl-L-selenocysteine
+peptidyl-5-hydroxy-L-lysine trimethylation
+"peptidyl-N6,N6,N6-trimethyl-lysine hydroxylation to peptidyl-N6,N6,N6-trimethyl-5-hydroxy-L-lysine"
+copper incorporation via L-cysteinyl copper sulfido molybdopterin cytosine dinucleotide
+S-adenosylmethionine catabolic process
+peptidyl-selenocysteine modification
+teichuronic acid biosynthetic process
+teichuronic acid metabolic process
+progesterone receptor signaling pathway
+regulation of calcium-mediated signaling
+negative regulation of calcium-mediated signaling
+positive regulation of calcium-mediated signaling
+antigen receptor-mediated signaling pathway
+B cell receptor signaling pathway
+regulation of antigen receptor-mediated signaling pathway
+regulation of B cell receptor signaling pathway
+positive regulation of antigen receptor-mediated signaling pathway
+negative regulation of antigen receptor-mediated signaling pathway
+negative regulation of B cell receptor signaling pathway
+negative regulation of T cell receptor signaling pathway
+positive regulation of B cell receptor signaling pathway
+regulation of T cell activation
+regulation of B cell activation
+regulation of cell activation
+negative regulation of cell activation
+positive regulation of cell activation
+negative regulation of T cell activation
+negative regulation of B cell activation
+positive regulation of T cell activation
+positive regulation of B cell activation
+white fat cell differentiation
+brown fat cell differentiation
+regulation of body fluid levels
+multicellular organismal movement
+regulation of blood vessel size
+musculoskeletal movement
+voluntary musculoskeletal movement
+"musculoskeletal movement, spinal reflex action"
+neuromuscular process controlling posture
+neuromuscular process controlling balance
+endocrine process
+determination of sensory modality
+determination of stimulus location
+determination of stimulus intensity
+cognition
+multicellular organismal water homeostasis
+intestinal absorption
+sensory processing
+determination of affect
+response to stimulus
+nitrile metabolic process
+nitrile catabolic process
+leukocyte migration
+leukocyte tethering or rolling
+leukocyte adhesive activation
+leukocyte activation-dependent arrest
+diapedesis
+neuromuscular process
+detection of stimulus involved in sensory perception
+detection of chemical stimulus involved in sensory perception
+detection of light stimulus involved in visual perception
+detection of mechanical stimulus involved in sensory perception of sound
+detection of chemical stimulus involved in sensory perception of smell
+sensory perception of bitter taste
+sensory perception of salty taste
+sensory perception of sour taste
+sensory perception of sweet taste
+sensory perception of umami taste
+positive chemotaxis
+negative chemotaxis
+regulation of chemotaxis
+positive regulation of chemotaxis
+negative regulation of chemotaxis
+regulation of negative chemotaxis
+positive regulation of negative chemotaxis
+negative regulation of negative chemotaxis
+regulation of positive chemotaxis
+positive regulation of positive chemotaxis
+negative regulation of positive chemotaxis
+induction of negative chemotaxis
+induction of positive chemotaxis
+pigment cell differentiation
+regulation of pigment cell differentiation
+early stripe melanocyte differentiation
+late stripe melanocyte differentiation
+iridophore differentiation
+xanthophore differentiation
+regulation of iridophore differentiation
+regulation of xanthophore differentiation
+regulation of early stripe melanocyte differentiation
+regulation of late stripe melanocyte differentiation
+negative regulation of pigment cell differentiation
+positive regulation of pigment cell differentiation
+negative regulation of iridophore differentiation
+negative regulation of xanthophore differentiation
+positive regulation of iridophore differentiation
+positive regulation of xanthophore differentiation
+negative regulation of early stripe melanocyte differentiation
+positive regulation of early stripe melanocyte differentiation
+negative regulation of late stripe melanocyte differentiation
+positive regulation of late stripe melanocyte differentiation
+sensory perception of temperature stimulus
+sensory perception of electrical stimulus
+sensory perception of light stimulus
+thermoception
+electroception
+equilibrioception
+magnetoreception
+echolocation
+detection of temperature stimulus involved in thermoception
+detection of temperature stimulus involved in sensory perception
+detection of light stimulus involved in sensory perception
+detection of electrical stimulus involved in sensory perception
+detection of electrical stimulus involved in electroception
+detection of temperature stimulus involved in sensory perception of pain
+detection of mechanical stimulus involved in sensory perception of pain
+detection of electrical stimulus involved in sensory perception of pain
+detection of chemical stimulus involved in sensory perception of pain
+detection of chemical stimulus involved in magnetoreception
+detection of electrical stimulus involved in magnetoreception
+detection of mechanical stimulus involved in magnetoreception
+detection of mechanical stimulus involved in echolocation
+detection of mechanical stimulus involved in equilibrioception
+detection of mechanical stimulus involved in sensory perception
+sensory perception of touch
+detection of mechanical stimulus involved in sensory perception of touch
+magnetoreception by sensory perception of chemical stimulus
+magnetoreception by sensory perception of electrical stimulus
+magnetoreception by sensory perception of mechanical stimulus
+detection of light stimulus involved in magnetoreception
+detection of electrical stimulus
+detection of mechanical stimulus
+peptidyl-serine sulfation
+peptidyl-threonine sulfation
+isopeptide cross-linking via N-(L-isoglutamyl)-glycine
+enzyme active site formation via O-sulfo-L-serine
+N-terminal peptidyl-methionine carboxylation
+N-terminal protein amino acid carboxylation
+N-terminal protein amino acid carbamoylation
+enzyme active site formation via O-sulfo-L-threonine
+dimethylallyl diphosphate biosynthetic process
+dimethylallyl diphosphate metabolic process
+regulation of lipid catabolic process
+negative regulation of lipid catabolic process
+positive regulation of lipid catabolic process
+regulation of nitric-oxide synthase activity
+positive regulation of nitric-oxide synthase activity
+negative regulation of nitric-oxide synthase activity
+regulation of lipoprotein lipase activity
+negative regulation of lipoprotein lipase activity
+positive regulation of lipoprotein lipase activity
+microtubule sliding
+regulation of immunoglobulin secretion
+positive regulation of immunoglobulin secretion
+negative regulation of immunoglobulin secretion
+chiasma assembly
+DNA transport
+mRNA transport
+rRNA transport
+snRNA transport
+tRNA transport
+regulation of endosome size
+regulation of transcription during meiosis
+negative regulation of transcription during meiosis
+positive regulation of transcription during meiosis
+regulation of calcium-independent cell-cell adhesion
+positive regulation of calcium-independent cell-cell adhesion
+negative regulation of calcium-independent cell-cell adhesion
+regulation of membrane protein ectodomain proteolysis
+positive regulation of membrane protein ectodomain proteolysis
+negative regulation of membrane protein ectodomain proteolysis
+regulation of secretion
+positive regulation of secretion
+negative regulation of secretion
+regulation of transport
+positive regulation of transport
+negative regulation of transport
+regulation of DNA metabolic process
+negative regulation of DNA metabolic process
+positive regulation of DNA metabolic process
+negative regulation of lipid biosynthetic process
+regulation of small GTPase mediated signal transduction
+positive regulation of small GTPase mediated signal transduction
+negative regulation of small GTPase mediated signal transduction
+galactomannan metabolic process
+galactomannan biosynthetic process
+"4,6-pyruvylated galactose residue metabolic process"
+"4,6-pyruvylated galactose residue biosynthetic process"
+protein tetramerization
+meiotic nuclear envelope disassembly
+meiosis I nuclear envelope disassembly
+meiosis II nuclear envelope disassembly
+nuclear envelope disassembly
+'de novo' cotranslational protein folding
+'de novo' posttranslational protein folding
+chaperone mediated protein folding requiring cofactor
+chaperone mediated protein folding independent of cofactor
+PMA-inducible membrane protein ectodomain proteolysis
+constitutive protein ectodomain proteolysis
+regulation of sequence-specific DNA binding transcription factor activity
+positive regulation of sequence-specific DNA binding transcription factor activity
+positive regulation of NF-kappaB transcription factor activity
+negative regulation of developmental process
+positive regulation of developmental process
+regulation of helicase activity
+positive regulation of helicase activity
+negative regulation of helicase activity
+regulation of binding
+positive regulation of binding
+negative regulation of binding
+regulation of DNA binding
+DNA ligation involved in DNA recombination
+DNA ligation involved in DNA repair
+DNA-dependent DNA replication DNA ligation
+regulation of DNA ligation
+positive regulation of DNA ligation
+negative regulation of DNA ligation
+"peptidyl-histidine uridylylation, to form peptidyl-1'-(phospho-5'-uridine)-L-histidine"
+peptidyl-histidine adenylylation
+"peptidyl-histidine adenylylation, to form peptidyl-1'-(phospho-5'-adenosine)-L-histidine"
+enzyme active site formation via 1'-(phospho-5'-adenosine)-L-histidine
+peptidyl-histidine uridylylation
+enzyme active site formation via 1'-(phospho-5'-uridine)-L-histidine
+hepoxilin metabolic process
+hepoxilin biosynthetic process
+RNA polymerase II transcriptional preinitiation complex assembly
+synaptic growth at neuromuscular junction
+regulation of actin nucleation
+negative regulation of actin nucleation
+positive regulation of actin nucleation
+regulation of cellular component organization
+negative regulation of cellular component organization
+positive regulation of cellular component organization
+NK T cell activation
+regulation of NK T cell activation
+negative regulation of NK T cell activation
+positive regulation of NK T cell activation
+regulation of NK T cell differentiation
+negative regulation of NK T cell differentiation
+positive regulation of NK T cell differentiation
+regulation of NK T cell proliferation
+negative regulation of NK T cell proliferation
+positive regulation of NK T cell proliferation
+propanediol metabolic process
+propanediol catabolic process
+smooth muscle cell differentiation
+striated muscle cell differentiation
+regulation of muscle cell differentiation
+negative regulation of muscle cell differentiation
+positive regulation of muscle cell differentiation
+regulation of smooth muscle cell differentiation
+negative regulation of smooth muscle cell differentiation
+positive regulation of smooth muscle cell differentiation
+regulation of striated muscle cell differentiation
+negative regulation of striated muscle cell differentiation
+positive regulation of striated muscle cell differentiation
+glucose 6-phosphate metabolic process
+arabitol catabolic process
+L-arabitol catabolic process
+D-arabitol catabolic process
+L-xylitol catabolic process
+arabitol metabolic process
+L-arabitol metabolic process
+D-arabitol metabolic process
+L-xylitol metabolic process
+"2,5-dihydroxypyridine metabolic process"
+"2,5-dihydroxypyridine catabolic process"
+xylulose 5-phosphate metabolic process
+nuclear export
+nuclear transport
+nuclear import
+regulation of nitrogen compound metabolic process
+negative regulation of nitrogen compound metabolic process
+positive regulation of nitrogen compound metabolic process
+regulation of phosphorus metabolic process
+negative regulation of sulfur metabolic process
+positive regulation of sulfur metabolic process
+meiotic sister chromatid cohesion
+meiotic chromosome decondensation
+localization
+coenzyme transport
+cofactor metabolic process
+cofactor catabolic process
+cofactor biosynthetic process
+regulation of cofactor metabolic process
+positive regulation of cofactor metabolic process
+negative regulation of cofactor metabolic process
+phytochromobilin metabolic process
+peptidyl-aspartic acid reduction to form L-aspartyl aldehyde
+protein insertion into mitochondrial membrane
+protein insertion into membrane
+silicate metabolic process
+release of sequestered calcium ion into cytosol
+isotropic cell growth
+anisotropic cell growth
+RNA virus induced gene silencing
+DNA virus induced gene silencing
+cartilage development
+molybdenum incorporation via L-aspartyl molybdenum bis(molybdopterin guanine dinucleotide)
+tungsten incorporation via L-selenocysteinyl tungsten bis(molybdopterin guanine dinucleotide)
+cytoplasmic sequestering of protein
+tungsten incorporation into metallo-sulfur cluster
+positive regulation of protein transport
+regulation of protein transport
+negative regulation of protein transport
+spindle assembly
+mitotic spindle disassembly
+meiotic spindle disassembly
+spindle disassembly
+spindle elongation
+meiotic spindle elongation
+establishment of localization
+maintenance of location
+establishment of RNA localization
+maintenance of RNA location
+sequestering of metal ion
+regulation of multicellular organismal process
+positive regulation of multicellular organismal process
+negative regulation of multicellular organismal process
+negative regulation of cellular defense response
+regulation of protein metabolic process
+positive regulation of protein metabolic process
+negative regulation of protein metabolic process
+regulation of lymphocyte activation
+negative regulation of lymphocyte activation
+positive regulation of lymphocyte activation
+regulation of RNA metabolic process
+negative regulation of RNA metabolic process
+positive regulation of RNA metabolic process
+spindle midzone assembly
+mitotic spindle midzone assembly
+meiotic spindle midzone assembly
+protein polymerization
+protein oligomerization
+protein depolymerization

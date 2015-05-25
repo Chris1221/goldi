@@ -86,7 +86,7 @@ for(n in 1:100){
 
   setTxtProgressBar(pb, n)
 
-  text_go <- paste0("pdf_chunk_", n, ".txt")
+  text_go <- paste0("chunks/pdf_chunk_", n, ".txt")
 
   raw_go <- readLines(text_go, skipNul = T)
   raw_go <- iconv(raw_go,"WINDOWS-1252","UTF-8") #this might not be a silver bullet, check the encoding

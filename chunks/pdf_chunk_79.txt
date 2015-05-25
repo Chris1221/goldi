@@ -1,0 +1,387 @@
+protein K63-linked deubiquitination
+histone H2A K63-linked deubiquitination
+response to platinum ion
+response to fatty acid
+response to linoleic acid
+histone H3-K36 demethylation
+negative regulation of translation involved in RNA interference
+rDNA condensation
+response to interleukin-1
+protein secretion by platelet
+vitamin D receptor signaling pathway
+regulation of vitamin D receptor signaling pathway
+negative regulation of vitamin D receptor signaling pathway
+positive regulation of vitamin D receptor signaling pathway
+regulation of neuron projection regeneration
+negative regulation of neuron projection regeneration
+positive regulation of neuron projection regeneration
+cadmium ion transmembrane transport
+peptide mating pheromone maturation involved in pheromone-induced unidirectional conjugation
+base J metabolic process
+rolling circle DNA replication
+theta DNA replication
+spore membrane bending pathway
+mitochondrion morphogenesis
+protein localization to mitochondrion
+cell-cell adhesion involved in gastrulation
+regulation of cell-cell adhesion involved in gastrulation
+calcium ion transmembrane transport
+cellular component macromolecule biosynthetic process
+spore wall biogenesis
+ascospore wall biogenesis
+cell wall polysaccharide biosynthetic process
+dendrite self-avoidance
+(1->3)-alpha-glucan metabolic process
+(1->3)-alpha-glucan biosynthetic process
+cell wall (1->3)-alpha-glucan metabolic process
+cell wall (1->3)-alpha-glucan biosynthetic process
+fungal-type cell wall (1->3)-alpha-glucan metabolic process
+fungal-type cell wall (1->3)-alpha-glucan biosynthetic process
+centromeric sister chromatid cohesion
+regulation of centromeric sister chromatid cohesion
+regulation of (1->3)-alpha-glucan metabolic process
+regulation of (1->3)-alpha-glucan biosynthetic process
+regulation of cell wall (1->3)-alpha-glucan metabolic process
+regulation of cell wall (1->3)-alpha-glucan biosynthetic process
+regulation of fungal-type cell wall (1->3)-alpha-glucan metabolic process
+regulation of fungal-type cell wall (1->3)-alpha-glucan biosynthetic process
+regulation of protein processing
+tungstate ion transport
+regulation of thiamine diphosphate biosynthetic process
+negative regulation of thiamine diphosphate biosynthetic process
+regulation of thiamine biosynthetic process
+negative regulation of thiamine biosynthetic process
+zymogen granule exocytosis
+ferrous iron import
+(1->4)-alpha-glucan metabolic process
+(1->4)-alpha-glucan biosynthetic process
+spindle pole body localization
+establishment of spindle pole body localization
+transepithelial transport
+transepithelial ammonium transport
+pyridine nucleoside metabolic process
+pyridine nucleoside catabolic process
+vitamin D2 metabolic process
+vitamin D3 metabolic process
+vitamin D4 metabolic process
+vitamin D5 metabolic process
+protein modification by small protein removal
+protein modification by small protein conjugation or removal
+formin-nucleated actin cable assembly
+actin filament bundle distribution
+nonfunctional rRNA decay
+sensory epithelium regeneration
+mechanosensory epithelium regeneration
+mechanoreceptor differentiation involved in mechanosensory epithelium regeneration
+neuromast regeneration
+neuromast hair cell differentiation involved in neuromast regeneration
+inner ear sensory epithelium regeneration
+inner ear receptor cell differentiation involved in inner ear sensory epithelium regeneration
+leukocyte proliferation
+mast cell proliferation
+regulation of leukocyte proliferation
+negative regulation of leukocyte proliferation
+positive regulation of leukocyte proliferation
+regulation of mast cell proliferation
+negative regulation of mast cell proliferation
+positive regulation of mast cell proliferation
+response to interleukin-2
+response to interleukin-4
+response to interleukin-12
+response to interleukin-15
+response to interleukin-18
+intralumenal vesicle formation
+asparaginyl-tRNAAsn biosynthesis via transamidation
+glutaminyl-tRNAGln biosynthesis via transamidation
+proteasome regulatory particle assembly
+seminal clot liquefaction
+L-threonine catabolic process to propionate
+L-threonine catabolic process to acetyl-CoA
+RNA dinucleotide insertion
+RNA cytidine insertion
+RNA guanosine insertion
+RNA uridine deletion
+RNA adenosine-uridine insertion
+RNA cytidine-uridine insertion
+RNA guanosine-cytidine insertion
+RNA guanosine-uridine insertion
+sodium-dependent organic cation transport
+mismatch repair involved in maintenance of fidelity involved in DNA-dependent DNA replication
+response to cholesterol
+cell wall assembly
+cellular macromolecule localization
+cyclic nucleotide transport
+cAMP transport
+cGMP transport
+histone H3-K27 methylation
+response to interleukin-6
+interleukin-35 biosynthetic process
+regulation of interleukin-35 biosynthetic process
+negative regulation of interleukin-35 biosynthetic process
+positive regulation of interleukin-35 biosynthetic process
+interleukin-35 production
+regulation of interleukin-35 production
+negative regulation of interleukin-35 production
+positive regulation of interleukin-35 production
+interleukin-35-mediated signaling pathway
+regulation of interleukin-35-mediated signaling pathway
+negative regulation of interleukin-35-mediated signaling pathway
+positive regulation of interleukin-35-mediated signaling pathway
+D-aspartate transport
+L-aspartate transport
+D-aspartate import
+response to biotin
+phosphatidylserine exposure on apoptotic cell surface
+growth of unicellular organism as a thread of attached cells
+regulation of growth of unicellular organism as a thread of attached cells
+negative regulation of growth of unicellular organism as a thread of attached cells
+positive regulation of growth of unicellular organism as a thread of attached cells
+conidiophore development
+conidiophore stalk development
+metula development
+phialide development
+cleistothecium development
+Hulle cell development
+regulation of conidiophore development
+negative regulation of conidiophore development
+positive regulation of conidiophore development
+regulation of cleistothecium development
+negative regulation of cleistothecium development
+positive regulation of cleistothecium development
+regulation of conidiophore stalk development
+negative regulation of conidiophore stalk development
+positive regulation of conidiophore stalk development
+regulation of metula development
+negative regulation of metula development
+positive regulation of metula development
+regulation of phialide development
+negative regulation of phialide development
+positive regulation of phialide development
+regulation of Hulle cell development
+negative regulation of Hulle cell development
+positive regulation of Hulle cell development
+glycerol-2-phosphate transport
+hydrogen sulfide metabolic process
+hydrogen sulfide biosynthetic process
+phosphorylation of RNA polymerase II C-terminal domain
+P-TEFb-cap methyltransferase complex localization
+chromatin maintenance
+heterochromatin organization
+heterochromatin maintenance
+tight junction assembly
+basement membrane assembly
+phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via N-dimethylethanolamine phosphate and CDP-choline
+phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via CDP-N-methylethanolamine
+phosphatidylcholine biosynthesis from phosphoryl-ethanolamine via N-dimethylethanolamine phosphate and CDP-N-dimethylethanolamine
+caveola assembly
+dehydroascorbic acid transport
+divalent metal ion transport
+divalent metal ion export
+inclusion body assembly
+aggresome assembly
+misfolded protein transport
+polyubiquitinated protein transport
+polyubiquitinated misfolded protein transport
+Hsp90 deacetylation
+response to epidermal growth factor
+regulation of bile acid biosynthetic process
+negative regulation of bile acid biosynthetic process
+positive regulation of bile acid biosynthetic process
+regulation of protein exit from endoplasmic reticulum
+negative regulation of protein exit from endoplasmic reticulum
+positive regulation of protein exit from endoplasmic reticulum
+heterochromatin organization involved in chromatin silencing
+heterochromatin assembly involved in chromatin silencing
+heterochromatin maintenance involved in chromatin silencing
+cell wall organization involved in conjugation with cellular fusion
+plasma membrane organization involved in conjugation with cellular fusion
+regulation of glycogen metabolic process
+negative regulation of glycogen metabolic process
+positive regulation of glycogen metabolic process
+fungal-type cell wall beta-glucan metabolic process
+fungal-type cell wall beta-glucan biosynthetic process
+regulation of proline transport
+regulation of calcineurin-NFAT signaling cascade
+negative regulation of calcineurin-NFAT signaling cascade
+positive regulation of calcineurin-NFAT signaling cascade
+platelet alpha granule organization
+transposon integration
+regulation of transposon integration
+negative regulation of transposon integration
+positive regulation of transposon integration
+DNA-templated transcriptional preinitiation complex assembly
+RNA polymerase III transcriptional preinitiation complex assembly
+mitochondrial tRNA wobble uridine modification
+mitochondrial tRNA modification
+mitochondrial tRNA methylation
+mitochondrial tRNA pseudouridine synthesis
+mitochondrial tRNA thio-modification
+transepithelial L-ascorbic acid transport
+cell wall macromolecule catabolic process involved in cell wall disassembly
+global genome nucleotide-excision repair
+UV-damage excision repair
+production of small RNA involved in gene silencing by RNA
+production of siRNA involved in chromatin silencing by small RNA
+regulation of production of small RNA involved in gene silencing by RNA
+regulation of production of siRNA involved in chromatin silencing by small RNA
+small RNA loading onto RISC
+siRNA loading onto RISC involved in chromatin silencing by small RNA
+heterochromatin assembly involved in chromatin silencing by small RNA
+organelle assembly
+regulation of ATP:ADP antiporter activity
+negative regulation of ATP:ADP antiporter activity
+"regulation of mRNA stability, ncRNA-mediated"
+trans-translation
+trans-translation-dependent protein tagging
+histone H3 deacetylation
+histone H4 deacetylation
+CRD-mediated mRNA stabilization
+3'-UTR-mediated mRNA stabilization
+protein K48-linked ubiquitination
+dephosphorylation of RNA polymerase II C-terminal domain
+eisosome assembly
+neutrophil mediated cytotoxicity
+neutrophil mediated killing of symbiont cell
+neutrophil mediated killing of bacterium
+neutrophil mediated killing of gram-negative bacterium
+neutrophil mediated killing of gram-positive bacterium
+neutrophil mediated killing of fungus
+regulation of neutrophil mediated cytotoxicity
+regulation of neutrophil mediated killing of symbiont cell
+regulation of neutrophil mediated killing of bacterium
+regulation of neutrophil mediated killing of gram-negative bacterium
+regulation of neutrophil mediated killing of gram-positive bacterium
+regulation of neutrophil mediated killing of fungus
+negative regulation of neutrophil mediated cytotoxicity
+negative regulation of neutrophil mediated killing of symbiont cell
+negative regulation of neutrophil mediated killing of bacterium
+negative regulation of neutrophil mediated killing of gram-negative bacterium
+negative regulation of neutrophil mediated killing of gram-positive bacterium
+negative regulation of neutrophil mediated killing of fungus
+positive regulation of neutrophil mediated cytotoxicity
+positive regulation of neutrophil mediated killing of symbiont cell
+positive regulation of neutrophil mediated killing of bacterium
+positive regulation of neutrophil mediated killing of gram-negative bacterium
+positive regulation of neutrophil mediated killing of gram-positive bacterium
+positive regulation of neutrophil mediated killing of fungus
+"nuclear-transcribed mRNA catabolic process, no-go decay"
+interleukin-2 secretion
+protein localization to endoplasmic reticulum
+protein localization to endoplasmic reticulum exit site
+bone maturation
+voltage-gated calcium channel complex assembly
+protein K11-linked ubiquitination
+biphenyl catabolic process
+L-asparagine biosynthetic process
+L-asparagine metabolic process
+dendrite guidance
+left/right axis specification
+demethylation
+oxidative demethylation
+detection of oxidative stress
+NADPH oxidation
+neuron death
+sensory perception of gravity
+detection of mechanical stimulus involved in sensory perception of gravity
+response to magnetism
+RNA surveillance
+cytoplasmic RNA surveillance
+nuclear RNA surveillance
+nuclear mRNA surveillance
+nuclear ncRNA surveillance
+nuclear mRNA surveillance of spliceosomal pre-mRNA splicing
+nuclear mRNA surveillance of mRNA 3'-end processing
+nuclear mRNA surveillance of mRNP export
+nuclear retention of pre-mRNA at the site of transcription
+CUT catabolic process
+nuclear polyadenylation-dependent rRNA catabolic process
+nuclear polyadenylation-dependent snoRNA catabolic process
+nuclear polyadenylation-dependent snRNA catabolic process
+nuclear polyadenylation-dependent tRNA catabolic process
+nuclear polyadenylation-dependent CUT catabolic process
+nuclear polyadenylation-dependent antisense transcript catabolic process
+antisense RNA transcript catabolic process
+nuclear polyadenylation-dependent mRNA catabolic process
+CUT metabolic process
+histone mRNA catabolic process
+nuclear histone mRNA catabolic process
+nuclear polyadenylation-dependent ncRNA catabolic process
+polyadenylation-dependent mRNA catabolic process
+nuclear retention of unspliced pre-mRNA at the site of transcription
+nuclear retention of pre-mRNA with aberrant 3'-ends at the site of transcription
+snoRNA polyadenylation
+polyadenylation-dependent snoRNA 3'-end processing
+sensory perception of wind
+detection of mechanical stimulus involved in sensory perception of wind
+regulation of phospholipid biosynthetic process
+negative regulation of phospholipid biosynthetic process
+positive regulation of phospholipid biosynthetic process
+RNA 3' uridylation
+DNA conformation change
+response to interleukin-9
+response to interleukin-11
+"adenosine 3',5'-bisphosphate transmembrane transport"
+response to parathyroid hormone
+protein K48-linked deubiquitination
+superior temporal gyrus development
+histone biotinylation
+resolution of recombination intermediates
+resolution of mitotic recombination intermediates
+regulation of cell cycle arrest
+negative regulation of cell cycle arrest
+positive regulation of cell cycle arrest
+DNA replication preinitiation complex assembly
+GINS complex assembly
+ribonucleoprotein complex localization
+ribonucleoprotein complex import into nucleus
+protein localization to chromatin
+establishment of protein localization to chromatin
+site-specific DNA replication termination
+site-specific DNA replication termination at RTS1 barrier
+spindle assembly checkpoint
+mitotic spindle checkpoint
+protein localization to juxtaparanode region of axon
+establishment of protein localization to juxtaparanode region of axon
+protein insertion into membrane raft
+protein targeting to vacuole involved in autophagy
+cellular response to 1-aminocyclopropane-1-carboxylic acid
+cellular response to abiotic stimulus
+cellular response to abscisic acid stimulus
+cellular response to biotic stimulus
+cellular response to external biotic stimulus
+cellular response to misfolded protein
+cellular response to molecule of bacterial origin
+cellular response to bacterial lipoprotein
+cellular response to bacterial lipopeptide
+cellular response to lipopolysaccharide
+cellular response to lipoteichoic acid
+cellular response to peptidoglycan
+cellular response to muramyl dipeptide
+cellular response to molecule of fungal origin
+cellular response to molecule of oomycetes origin
+cellular response to tumor cell
+cellular response to acid chemical
+cellular response to folic acid
+cellular response to histidine
+cellular response to leucine
+cellular response to phenylalanine
+cellular response to proline
+cellular response to antibiotic
+cellular response to bacteriocin
+cellular response to brefeldin A
+cellular response to streptomycin
+cellular response to food
+cellular response to inorganic substance
+cellular response to ammonium ion
+cellular response to arsenic-containing substance
+cellular response to carbon dioxide
+cellular response to carbon monoxide
+cellular response to chlorate
+cellular response to chromate
+cellular response to metal ion
+cellular response to nitrate
+cellular response to nitrite
+cellular response to silicon dioxide
+cellular response to sulfur dioxide
+CVT vesicle assembly
+cellular response to electrical stimulus

@@ -1,0 +1,387 @@
+cell proliferation involved in embryonic placenta development
+regulation of cell proliferation involved in embryonic placenta development
+regulation of coreceptor activity
+regulation of coreceptor activity involved in epidermal growth factor receptor signaling pathway
+positive regulation of coreceptor activity involved in epidermal growth factor receptor signaling pathway
+negative regulation of coreceptor activity involved in epidermal growth factor receptor signaling pathway
+intestinal epithelial structure maintenance
+regulation of intestinal epithelial structure maintenance
+positive regulation of intestinal epithelial structure maintenance
+positive regulation of inositol phosphate biosynthetic process
+regulation of eIF2 alpha phosphorylation by amino acid starvation
+regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation
+regulation of eIF2 alpha phosphorylation by dsRNA
+prostate gland growth
+prostate gland morphogenetic growth
+epithelial-mesenchymal signaling involved in prostate gland development
+mesenchymal-epithelial cell signaling involved in prostate gland development
+prostate gland epithelium morphogenesis
+prostate gland stromal morphogenesis
+epithelial cell differentiation involved in prostate gland development
+epithelial cell maturation involved in prostate gland development
+mammary gland branching involved in thelarche
+mammary gland branching involved in pregnancy
+parental behavior
+oral incubation
+tertiary branching involved in mammary gland duct morphogenesis
+mammary gland alveolus development
+epithelial cell proliferation involved in mammary gland duct elongation
+branch elongation involved in mammary gland duct branching
+intestinal phytosterol absorption
+regulation of mast cell chemotaxis
+positive regulation of mast cell chemotaxis
+negative regulation of mast cell chemotaxis
+foraging behavior
+adult foraging behavior
+foraging behavior by probing substrate
+regulation of response to cytokine stimulus
+positive regulation of response to cytokine stimulus
+negative regulation of response to cytokine stimulus
+regulation of branching involved in mammary gland duct morphogenesis
+mammary duct terminal end bud growth
+cell-cell signaling involved in mammary gland development
+regulation of androgen receptor signaling pathway
+negative regulation of androgen receptor signaling pathway
+epithelial cell proliferation involved in prostate gland development
+regulation of epithelial cell proliferation involved in prostate gland development
+positive regulation of epithelial cell proliferation involved in prostate gland development
+negative regulation of epithelial cell proliferation involved in prostate gland development
+phyllotactic patterning
+leaf phyllotactic patterning
+flower phyllotactic patterning
+auxin mediated signaling pathway involved in phyllotactic patterning
+planar cell polarity pathway involved in gastrula mediolateral intercalation
+simple leaf morphogenesis
+compound leaf morphogenesis
+primary leaflet morphogenesis
+secondary leaflet morphogenesis
+intercalary leaflet morphogenesis
+mesenchymal cell proliferation involved in prostate gland development
+regulation of mesenchymal cell proliferation involved in prostate gland development
+mesenchymal smoothened signaling pathway involved in prostate gland development
+regulation of cell proliferation involved in tissue homeostasis
+regulation of apoptosis involved in tissue homeostasis
+regulation of cell differentiation involved in tissue homeostasis
+positive regulation of posterior neural plate formation by fibroblast growth factor receptor signaling pathway
+ectodermal placode formation
+hair follicle placode formation
+tooth placode formation
+sebaceous gland placode formation
+sweat gland development
+sweat gland placode formation
+leaflet morphogenesis
+cell fate commitment involved in formation of primary germ layer
+regulation of transcription involved in primary germ layer cell fate commitment
+transforming growth factor beta receptor signaling pathway involved in primary germ layer cell fate commitment
+transforming growth factor beta receptor signaling pathway involved in mesodermal cell fate specification
+transforming growth factor beta receptor signaling pathway involved in endodermal cell fate specification
+regulation of cell differentiation involved in embryonic placenta development
+negative regulation of trophoblast cell differentiation by transforming growth factor beta signaling pathway
+epiblast cell-extraembryonic ectoderm cell signaling involved in anterior/posterior axis specification
+BMP signaling pathway involved in mesodermal cell fate specification
+positive regulation of Wnt signaling pathway by BMP signaling pathway
+negative regulation of trophoblast cell differentiation by transcription regulation from RNA polymerase II promoter
+negative regulation of cell differentiation involved in embryonic placenta development
+regulation of transcription from RNA polymerase II promoter involved in definitive endodermal cell fate specification
+positive regulation of mesodermal to mesenchymal transition involved in gastrulation
+mesodermal to mesenchymal transition involved in gastrulation
+intracellular mRNA localization involved in pattern specification process
+intracellular mRNA localization involved in anterior/posterior axis specification
+orthodenticle mRNA localization
+anterior mRNA localization involved in anterior/posterior axis specification
+posterior mRNA localization involved in anterior/posterior axis specification
+regulation of translation involved in anterior/posterior axis specification
+random inactivation of X chromosome
+inactivation of paternal X chromosome
+inactivation of paternal X chromosome by genetic imprinting
+inactivation of X chromosome by genetic imprinting
+inactivation of X chromosome by heterochromatin assembly
+inactivation of X chromosome by DNA methylation
+transforming growth factor beta receptor signaling pathway involved in axial mesodermal cell fate specification
+canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation
+retinoic acid receptor signaling pathway involved in neural plate anterior/posterior pattern formation
+fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation
+transforming growth factor beta receptor signaling pathway involved in neural plate anterior/posterior pattern formation
+regulation of canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation
+regulation of canonical Wnt signaling pathway
+negative regulation of canonical Wnt signaling pathway involved in neural plate anterior/posterior pattern formation
+ciliary receptor clustering involved in smoothened signaling pathway
+smoothened signaling pathway involved in dorsal/ventral neural tube patterning
+oocyte animal/vegetal axis specification
+Wnt signaling pathway involved in animal/vegetal axis specification
+oral/aboral axis specification
+transforming growth factor receptor beta signaling pathway involved in oral/aboral axis specification
+lymphatic endothelial cell differentiation
+blood vessel endothelial cell differentiation
+lymphatic endothelial cell fate commitment
+endothelial cell fate commitment
+artery development
+venous blood vessel development
+arterial endothelial cell differentiation
+venous endothelial cell differentiation
+arterial endothelial cell fate commitment
+venous endothelial cell fate commitment
+blood vessel endothelial cell fate commitment
+endothelial cell fate specification
+endothelial cell fate determination
+regulation of transcription involved in lymphatic endothelial cell fate commitment
+regulation of transcription involved in cell fate commitment
+vascular endothelial growth factor receptor signaling pathway involved in lymphatic endothelial cell fate commitment
+regulation of transcription involved in venous endothelial cell fate commitment
+Notch signaling pathway involved in arterial endothelial cell fate commitment
+patterning of lymph vessels
+venous endothelial cell migration involved in lymph vessel development
+establishment of blood-brain barrier
+establishment of glial blood-brain barrier
+vesicle-mediated transport involved in floral organ abscission
+regulation of vesicle-mediated transport involved in floral organ abscission
+regulation of floral organ abscission
+positive regulation of floral organ abscission
+negative regulation of floral organ abscission
+regulation of floral organ abscission by signal transduction
+positive regulation of floral organ abscission by small GTPase mediated signal transduction
+negative regulation of floral organ abscission by transmembrane receptor protein serine/threonine kinase signaling pathway
+leaf abscission
+fruit abscission
+regulation of vesicle-mediated transport involved in floral organ abscission by small GTPase mediated signal transduction
+transmembrane receptor protein serine/threonine kinase signaling pathway involved in floral organ abscission
+cell wall disassembly involved in floral organ abscission
+semicircular canal development
+anterior semicircular canal development
+posterior semicircular canal development
+lateral semicircular canal development
+semicircular canal formation
+regionalization involved in semicircular canal formation
+pouch outgrowth involved in semicircular canal formation
+semicircular canal fusion
+cell morphogenesis involved in semicircular canal fusion
+basal lamina disassembly
+basal lamina disassembly involved in semicircular canal fusion
+regulation of basal lamina disassembly involved in semicircular canal fusion by cell communication
+clearance of cells from fusion plate
+clearance of cells from fusion plate by apoptotic process
+clearance of cells from fusion plate by epithelial to mesenchymal transition
+limb epidermis development
+limb epidermis stratification
+limb basal epidermal cell differentiation
+limb spinous cell differentiation
+limb granular cell differentiation
+limb basal epidermal cell fate specification
+limb granular cell fate specification
+limb spinous cell fate specification
+retinoic acid receptor signaling pathway involved in spinal cord dorsal/ventral patterning
+neural plate pattern specification
+neural plate regionalization
+eye field cell fate commitment involved in camera-type eye formation
+regulation of transcription involved in eye field cell fate commitment of camera-type eye
+embryonic camera-type eye formation
+regulation of hair cycle by canonical Wnt signaling pathway
+regulation of hair cycle by BMP signaling pathway
+positive regulation of meiosis I
+regulation of protein folding in endoplasmic reticulum
+regulation of induction of conjugation upon nitrogen starvation
+negative regulation of chromatin silencing by small RNA
+positive regulation of macrophage cytokine production
+plasmid copy number maintenance
+regulation of DNA replication initiation involved in plasmid copy number maintenance
+negative regulation of DNA replication initiation involved in plasmid copy number maintenance
+cardiac cell fate commitment
+cardiac cell fate specification
+cardiac cell fate determination
+heart formation
+mesenchymal cell differentiation involved in lung development
+mesenchymal cell proliferation involved in lung development
+regulation of (1->6)-beta-D-glucan biosynthetic process
+auxin transport
+auxin influx
+cardiac pacemaker cell differentiation
+sinoatrial node cell differentiation
+atrioventricular node cell differentiation
+cardiac muscle cell fate commitment
+atrial cardiac muscle cell fate commitment
+ventricular cardiac muscle cell fate commitment
+cardiac pacemaker cell development
+cardiac pacemaker cell fate commitment
+atrioventricular node cell development
+atrioventricular node cell fate commitment
+sinoatrial node cell fate commitment
+sinoatrial node cell development
+His-Purkinje system cell differentiation
+His-Purkinje system cell development
+His-Purkinje system cell fate commitment
+cardiac fibroblast cell differentiation
+cardiac fibroblast cell development
+cardiac fibroblast cell fate commitment
+epicardium-derived cardiac fibroblast cell differentiation
+epicardium-derived cardiac fibroblast cell development
+epithelial to mesenchymal transition involved in cardiac fibroblast development
+epicardium-derived cardiac fibroblast cell fate commitment
+neural crest-derived cardiac fibroblast cell differentiation
+neural crest-derived cardiac fibroblast cell development
+neural crest-derived cardiac fibroblast cell fate commitment
+cardiac neuron differentiation
+cardiac blood vessel endothelial cell differentiation
+cardiac vascular smooth muscle cell differentiation
+cardiac vascular smooth muscle cell development
+cardiac vascular smooth muscle cell fate commitment
+cardiac glial cell differentiation
+neural crest-derived cardiac glial cell differentiation
+cardiac glial cell development
+cardiac glial cell fate commitment
+neural crest-derived cardiac glial cell development
+neural crest-derived cardiac glial cell fate commitment
+endocardial cell differentiation
+endocardial cell fate commitment
+endocardial cell development
+cardiac neuron development
+cardiac neuron fate commitment
+regulation of ribosomal protein gene transcription from RNA polymerase II promoter
+positive regulation of ribosomal protein gene transcription from RNA polymerase II promoter
+regulation of gene silencing by miRNA
+negative regulation of gene silencing by miRNA
+regulation of gene silencing by RNA
+negative regulation of gene silencing by RNA
+regulation of gene silencing
+negative regulation of gene silencing
+embryonic heart tube dorsal/ventral pattern formation
+embryonic heart tube left/right pattern formation
+left/right pattern formation
+cell migration involved in heart development
+cell migration involved in heart formation
+cardioblast migration to the midline involved in heart field formation
+coronary vasculature development
+coronary vasculature morphogenesis
+angiogenesis involved in coronary vascular morphogenesis
+vasculogenesis involved in coronary vascular morphogenesis
+cell migration involved in coronary vasculogenesis
+cell migration involved in coronary angiogenesis
+coronary artery morphogenesis
+epicardium-derived cardiac vascular smooth muscle cell differentiation
+epicardium-derived cardiac vascular smooth muscle cell development
+epicardium-derived cardiac vascular smooth muscle cell fate commitment
+endocrine hormone secretion
+lipid tube assembly
+lipid tube assembly involved in organelle fusion
+lipid tube assembly involved in organelle fission
+lipid tube assembly involved in cytokinesis
+response to fungicide
+kidney morphogenesis
+regulation of transcription from RNA polymerase II promoter involved in kidney development
+cell-cell signaling involved in kidney development
+dendritic spine development
+dendritic spine morphogenesis
+regulation of dendritic spine development
+positive regulation of dendritic spine development
+negative regulation of dendritic spine development
+regulation of dendritic spine morphogenesis
+negative regulation of dendritic spine morphogenesis
+positive regulation of dendritic spine morphogenesis
+pattern specification involved in kidney development
+cell differentiation involved in kidney development
+regulation of cell proliferation involved in kidney morphogenesis
+hepaticobiliary system process
+hepaticobiliary system development
+common bile duct development
+gall bladder development
+hepatic duct development
+regulation of mRNA catabolic process
+positive regulation of mRNA catabolic process
+snRNA import into nucleus
+snRNA import into Cajal body
+hepatoblast differentiation
+membrane organization
+cardiac muscle tissue regeneration
+umbilical cord development
+establishment of endothelial barrier
+eyelid development in camera-type eye
+epithelial cell differentiation involved in mammary gland alveolus development
+endodermal digestive tract morphogenesis
+visceral serous pericardium development
+secretion by lung epithelial cell involved in lung growth
+olfactory bulb mitral cell layer development
+regulation of cartilage development
+positive regulation of cartilage development
+negative regulation of cartilage development
+uterus morphogenesis
+female gonad morphogenesis
+regulation of wound healing
+vascular wound healing
+regulation of vascular wound healing
+negative regulation of vascular wound healing
+negative regulation of wound healing
+regulation of branching involved in lung morphogenesis
+positive regulation of branching involved in lung morphogenesis
+negative regulation of branching involved in lung morphogenesis
+cell growth involved in cardiac muscle cell development
+regulation of cell growth involved in cardiac muscle cell development
+positive regulation of cell growth involved in cardiac muscle cell development
+negative regulation of cell growth involved in cardiac muscle cell development
+somite development
+dermatome development
+myotome development
+sclerotome development
+peptidoglycan recognition protein signaling pathway
+regulation of peptidoglycan recognition protein signaling pathway
+positive regulation of peptidoglycan recognition protein signaling pathway
+negative regulation of peptidoglycan recognition protein signaling pathway
+muscle structure development
+regulation of nematode larval development
+positive regulation of nematode larval development
+negative regulation of nematode larval development
+regulation of dauer larval development
+positive regulation of dauer larval development
+negative regulation of dauer larval development
+urethra development
+male urethra development
+female urethra development
+urethra epithelium development
+iris morphogenesis
+ciliary body morphogenesis
+regulation of neural retina development
+positive regulation of neural retina development
+negative regulation of neural retina development
+chaperone-mediated protein folding
+positive regulation of prostaglandin secretion involved in immune response
+left horn of sinus venosus development
+right horn of sinus venosus development
+positive regulation of myeloid leukocyte cytokine production involved in immune response
+myeloid leukocyte cytokine production
+regulation of protein refolding
+negative regulation of protein refolding
+regulation of histone H3-K27 methylation
+negative regulation of histone H3-K27 methylation
+positive regulation of histone H3-K27 methylation
+regulation of sequestering of zinc ion
+negative regulation of sequestering of zinc ion
+positive regulation of sequestering of zinc ion
+regulation of phospholipid translocation
+positive regulation of phospholipid translocation
+negative regulation of phospholipid translocation
+regulation of turning behavior involved in mating
+positive regulation of turning behavior involved in mating
+negative regulation of turning behavior involved in mating
+regulation of protein tyrosine kinase activity
+positive regulation of protein tyrosine kinase activity
+negative regulation of protein tyrosine kinase activity
+lung neuroendocrine cell differentiation
+neuroendocrine cell differentiation
+stomach neuroendocrine cell differentiation
+carotid body glomus cell differentiation
+adrenal chromaffin cell differentiation
+regulation of stomach neuroendocrine cell differentiation
+negative regulation of stomach neuroendocrine cell differentiation
+seminal vesicle development
+seminal vesicle epithelium development
+dense core granule organization
+dense core granule biogenesis
+epithelial-mesenchymal cell signaling involved in lung development
+negative regulation of bud outgrowth involved in lung branching
+pancreas morphogenesis
+branching involved in pancreas morphogenesis
+lung proximal/distal axis specification
+ductus venosus closure
+negative regulation of heart growth
+regulation of positive chemotaxis to cAMP
+regulation of positive chemotaxis to cAMP by chlorinated alkylphenone
+regulation of positive chemotaxis to cAMP by DIF-1
+regulation of positive chemotaxis to cAMP by DIF-2

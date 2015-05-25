@@ -1,0 +1,387 @@
+ecdysone receptor-mediated signaling pathway
+ecdysone-mediated polytene chromosome puffing
+induction of programmed cell death by ecdysone
+polytene chromosome puffing
+heat shock-mediated polytene chromosome puffing
+induction of programmed cell death by hormones
+axoneme assembly
+siRNA loading onto RISC involved in RNA interference
+establishment or maintenance of apical/basal cell polarity
+establishment of apical/basal cell polarity
+maintenance of apical/basal cell polarity
+sperm chromatin condensation
+"spermatogenesis, exchange of chromosomal proteins"
+response to nicotine
+behavioral response to nicotine
+larval midgut cell programmed cell death
+hemocyte migration
+sterol regulatory element binding protein cleavage
+sterol regulatory element binding protein import into nucleus
+operant conditioning
+appendage morphogenesis
+limb morphogenesis
+imaginal disc-derived limb morphogenesis
+imaginal disc-derived appendage morphogenesis
+leg morphogenesis
+hindlimb morphogenesis
+leg joint morphogenesis
+embryonic skeletal limb joint morphogenesis
+genitalia morphogenesis
+embryonic appendage morphogenesis
+embryonic forelimb morphogenesis
+embryonic hindlimb morphogenesis
+embryonic pectoral fin morphogenesis
+embryonic pelvic fin morphogenesis
+post-embryonic appendage morphogenesis
+tail morphogenesis
+post-anal tail morphogenesis
+analia morphogenesis
+embryonic medial fin morphogenesis
+embryonic dorsal fin morphogenesis
+embryonic caudal fin morphogenesis
+embryonic anal fin morphogenesis
+post-embryonic genitalia morphogenesis
+post-embryonic limb morphogenesis
+post-embryonic forelimb morphogenesis
+post-embryonic hindlimb morphogenesis
+post-embryonic pectoral fin morphogenesis
+post-embryonic pelvic fin morphogenesis
+post-embryonic medial fin morphogenesis
+post-embryonic caudal fin morphogenesis
+post-embryonic dorsal fin morphogenesis
+post-embryonic anal fin morphogenesis
+forelimb morphogenesis
+pectoral fin morphogenesis
+pelvic fin morphogenesis
+medial fin morphogenesis
+dorsal fin morphogenesis
+caudal fin morphogenesis
+anal fin morphogenesis
+tube fusion
+"branch fusion, open tracheal system"
+tube formation
+"lumen formation, open tracheal system"
+regulation of tube size
+"regulation of tube size, open tracheal system"
+"regulation of tube architecture, open tracheal system"
+"epithelial cell type specification, open tracheal system"
+"terminal cell fate specification, open tracheal system"
+"negative regulation of terminal cell fate specification, open tracheal system"
+fusion cell fate specification
+negative regulation of fusion cell fate specification
+"regulation of tube diameter, open tracheal system"
+"regulation of tube length, open tracheal system"
+"maintenance of epithelial integrity, open tracheal system"
+imaginal disc lineage restriction
+embryonic hemopoiesis
+embryonic hemocyte differentiation
+embryonic plasmatocyte differentiation
+embryonic crystal cell differentiation
+post-embryonic hemopoiesis
+larval lymph gland hemopoiesis
+larval lymph gland hemocyte differentiation
+lymph gland plasmatocyte differentiation
+lymph gland crystal cell differentiation
+lamellocyte differentiation
+hemocyte proliferation
+social behavior
+larval foraging behavior
+turning behavior
+larval turning behavior
+larval wandering behavior
+larval burrowing behavior
+preblastoderm mitotic cell cycle
+syncytial blastoderm mitotic cell cycle
+hatching behavior
+hatching
+syncytial nuclear migration
+nuclear axial expansion
+nuclear cortical migration
+larval central nervous system remodeling
+posttranscriptional gene silencing by RNA
+gene silencing by miRNA
+salt aversion
+leg disc anterior/posterior pattern formation
+leg disc anterior/posterior lineage restriction
+tracheal pit formation in open tracheal system
+regulation of lamellocyte differentiation
+negative regulation of lamellocyte differentiation
+positive regulation of lamellocyte differentiation
+regulation of hemocyte proliferation
+negative regulation of hemocyte proliferation
+positive regulation of hemocyte proliferation
+pupal development
+prepupal development
+spermathecum morphogenesis
+cell competition in a multicellular organism
+clypeo-labral disc development
+eye-antennal disc development
+genital disc development
+haltere disc development
+labial disc development
+leg disc development
+prothoracic disc development
+wing disc development
+genital disc pattern formation
+wing disc pattern formation
+leg disc pattern formation
+genital disc anterior/posterior pattern formation
+determination of genital disc primordium
+regulation of glutamate-cysteine ligase activity
+negative regulation of glutamate-cysteine ligase activity
+positive regulation of glutamate-cysteine ligase activity
+cytoneme assembly
+germ cell attraction
+germ cell repulsion
+ectopic germ cell programmed cell death
+ionotropic glutamate receptor signaling pathway
+vitamin A biosynthetic process
+tube morphogenesis
+peptidyl-arginine C-methylation
+peptidyl-arginine N-methylation
+peptidyl-arginine omega-N-methylation
+"synaptic transmission, glutamatergic"
+internal genitalia morphogenesis
+external genitalia morphogenesis
+gonad morphogenesis
+genital disc sexually dimorphic development
+multicellular organism growth
+organ growth
+meristem growth
+protein mannosylation
+protein O-linked mannosylation
+endocrine system development
+ring gland development
+exocrine system development
+"spiracle morphogenesis, open tracheal system"
+negative regulation of translation involved in gene silencing by miRNA
+mRNA cleavage involved in gene silencing by miRNA
+miRNA loading onto RISC involved in gene silencing by miRNA
+pre-miRNA export from nucleus
+segmentation
+central nervous system segmentation
+brain segmentation
+appendage segmentation
+leg segmentation
+imaginal disc-derived leg segmentation
+head segmentation
+anterior head segmentation
+posterior head segmentation
+trunk segmentation
+"specification of segmental identity, intercalary segment"
+"specification of segmental identity, trunk"
+chitin-based larval cuticle pattern formation
+determination of wing disc primordium
+tube development
+regulation of tube diameter
+regulation of Malpighian tubule diameter
+regulation of Malpighian tubule size
+regulation of dephosphorylation
+regulation of protein dephosphorylation
+negative regulation of dephosphorylation
+positive regulation of dephosphorylation
+positive regulation of protein dephosphorylation
+negative regulation of protein dephosphorylation
+wing and notum subfield formation
+notum cell fate specification
+wing cell fate specification
+"wound healing, spreading of epidermal cells"
+scab formation
+hair cell differentiation
+non-sensory hair organization
+imaginal disc-derived wing hair organization
+imaginal disc-derived wing hair outgrowth
+imaginal disc-derived wing hair elongation
+imaginal disc-derived wing hair site selection
+maintenance of imaginal disc-derived wing hair orientation
+mesenchymal cell migration involved in limb bud formation
+hippo signaling
+regulation of hippo signaling
+negative regulation of hippo signaling
+positive regulation of hippo signaling
+"Notch receptor processing, ligand-dependent"
+"Notch receptor processing, ligand-independent"
+peptidyl-tyrosine dephosphorylation
+long-chain fatty-acyl-CoA metabolic process
+fatty-acyl-CoA metabolic process
+long-chain fatty-acyl-CoA biosynthetic process
+inosine transport
+regulation of inosine transport
+positive regulation of inosine transport
+negative regulation of inosine transport
+hypoxanthine transport
+regulation of hypoxanthine transport
+positive regulation of hypoxanthine transport
+negative regulation of hypoxanthine transport
+acetyl-CoA transmembrane transport
+coenzyme A transmembrane transport
+FAD transmembrane transport
+heme transmembrane transport
+NAD transmembrane transport
+nicotinamide mononucleotide transmembrane transport
+cellular triglyceride homeostasis
+peroxisome proliferator activated receptor signaling pathway
+regulation of peroxisome proliferator activated receptor signaling pathway
+negative regulation of peroxisome proliferator activated receptor signaling pathway
+positive regulation of peroxisome proliferator activated receptor signaling pathway
+protein-DNA ISRE complex assembly
+thymine transport
+regulation of thymine transport
+negative regulation of thymine transport
+positive regulation of thymine transport
+protein localization to microtubule
+sterol import
+transepithelial water transport
+carbon dioxide transmembrane transport
+sterol transmembrane transport
+thioester metabolic process
+thioester biosynthetic process
+Roundabout signaling pathway
+regulation of Roundabout signaling pathway
+negative regulation of Roundabout signaling pathway
+positive regulation of Roundabout signaling pathway
+establishment of chromatin silencing at silent mating-type cassette
+establishment of chromatin silencing at telomere
+maintenance of chromatin silencing at silent mating-type cassette
+maintenance of chromatin silencing at telomere
+chemokine (C-X-C motif) ligand 9 production
+regulation of chemokine (C-X-C motif) ligand 9 production
+negative regulation of chemokine (C-X-C motif) ligand 9 production
+positive regulation of chemokine (C-X-C motif) ligand 9 production
+helper T cell enhancement of adaptive immune response
+helper T cell enhancement of T cell mediated immune response
+helper T cell enhancement of B cell mediated immune response
+histone-serine phosphorylation
+histone-threonine phosphorylation
+histone-tyrosine phosphorylation
+histone H3-T11 phosphorylation
+histone H3-T6 phosphorylation
+histone H3-Y41 phosphorylation
+catenin import into nucleus
+regulation of catenin import into nucleus
+positive regulation of catenin import into nucleus
+negative regulation of catenin import into nucleus
+regulation of mitotic prometaphase
+positive regulation of mitotic prometaphase
+negative regulation of mitotic prometaphase
+protein localization to synapse
+activation of MAPK activity involved in innate immune response
+MAPK cascade involved in innate immune response
+activation of MAPKK activity involved in innate immune response
+activation of MAPKKK activity involved in innate immune response
+inactivation of MAPK activity involved in innate immune response
+MAPK import into nucleus involved in innate immune response
+autocrine signaling
+extracellular matrix-cell signaling
+hexose transmembrane transport
+gluconate transmembrane transport
+regulation of gluconate transmembrane transport
+negative regulation of gluconate transmembrane transport
+positive regulation of gluconate transmembrane transport
+acetate transmembrane transport
+copper ion transmembrane transport
+phosphate ion transmembrane transport
+triose phosphate transmembrane transport
+maintenance of protein localization in endoplasmic reticulum
+tuberculosinol biosynthetic process
+cell migration involved in vasculogenesis
+dipeptide transmembrane transport
+tripeptide transmembrane transport
+nickel cation transmembrane transport
+borate transmembrane transport
+response to interferon-alpha
+response to interferon-beta
+cellular response to interferon-alpha
+cellular response to interferon-beta
+cargo loading into vesicle
+vitamin transmembrane transport
+determination of left/right asymmetry in diencephalon
+transforming growth factor beta receptor signaling pathway involved in determination of left/right asymmetry
+regulation of transforming growth factor receptor beta signaling pathway involved in determination of left/right asymmetry
+regulation of transforming growth factor beta receptor signaling pathway involved in determination of lateral mesoderm left/right asymmetry
+regulation of nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry
+determination of pancreatic left/right asymmetry
+positive regulation of vascular wound healing
+luteinizing hormone signaling pathway involved in ovarian follicle development
+selective angioblast sprouting
+angioblast cell migration involved in selective angioblast sprouting
+angioblast cell migration
+regulation of angioblast cell migration involved in selective angioblast sprouting
+angioblast cell migration from lateral mesoderm to midline
+regulation of Notch signaling pathway involved in heart induction
+positive regulation of Notch signaling pathway involved in heart induction
+gastric motility
+gastric emptying
+regulation of leukotriene production involved in inflammatory response
+positive regulation of leukotriene production involved in inflammatory response
+negative regulation of leukotriene production involved in inflammatory response
+SNARE complex assembly
+SNARE complex disassembly
+regulation of SNARE complex disassembly
+carnosine metabolic process
+carnosine biosynthetic process
+metanephric part of ureteric bud development
+ureter part of ureteric bud development
+regulation of myosin light chain kinase activity
+positive regulation of myosin light chain kinase activity
+negative regulation of myosin light chain kinase activity
+regulation of myosin-light-chain-phosphatase activity
+positive regulation of myosin-light-chain-phosphatase activity
+negative regulation of myosin-light-chain-phosphatase activity
+DNA dealkylation
+oxidative DNA demethylation
+hydrolytic DNA demethylation
+oxidative RNA demethylation
+histone H2A monoubiquitination
+protein K29-linked ubiquitination
+monoubiquitinated protein deubiquitination
+monoubiquitinated histone deubiquitination
+monoubiquitinated histone H2A deubiquitination
+protein K29-linked deubiquitination
+proline transmembrane transport
+"retrograde transport, plasma membrane to Golgi"
+UDP-N-acetylglucosamine biosynthesis involved in chitin biosynthesis
+chemokine (C-C motif) ligand 6 production
+regulation of chemokine (C-C motif) ligand 6 production
+negative regulation of chemokine (C-C motif) ligand 6 production
+positive regulation of chemokine (C-C motif) ligand 6 production
+chemokine (C-C motif) ligand 6 secretion
+regulation of chemokine (C-C motif) ligand 6 secretion
+negative regulation of chemokine (C-C motif) ligand 6 secretion
+positive regulation of chemokine (C-C motif) ligand 6 secretion
+positive regulation of SNARE complex disassembly
+negative regulation of SNARE complex disassembly
+regulation of SNARE complex assembly
+positive regulation of SNARE complex assembly
+negative regulation of SNARE complex assembly
+determination of left/right asymmetry in nervous system
+interferon-beta secretion
+regulation of interferon-beta secretion
+negative regulation of interferon-beta secretion
+positive regulation of interferon-beta secretion
+protein initiator methionine removal involved in protein maturation
+oxidative single-stranded DNA demethylation
+oxidative single-stranded RNA demethylation
+termination of Roundabout signal transduction
+initiation of Roundabout signal transduction
+intracellular signal transduction involved in cell surface receptor linked signaling
+phosphatidylinositol 3-kinase cascade involved in insulin receptor signaling
+insulin receptor signaling pathway via phosphatidylinositol 3-kinase
+MAPKKK cascade involved in epidermal growth factor receptor signaling
+epidermal growth factor receptor signaling pathway via MAPK cascade
+regulation of chromatin binding
+negative regulation of chromatin binding
+positive regulation of chromatin binding
+regulation of kidney size
+regulation of pronephros size
+regulation of metanephros size
+non-canonical Wnt signaling pathway
+N-terminal peptidyl-proline methylation
+N-terminal peptidyl-proline trimethylation
+N-terminal peptidyl-serine methylation
+N-terminal peptidyl-serine monomethylation
+N-terminal peptidyl-serine dimethylation
+N-terminal peptidyl-serine trimethylation
+histone H4-K20 demethylation
+retinoic acid receptor signaling pathway involved in pronephric field specification
+sequestering of extracellular ligand from receptor

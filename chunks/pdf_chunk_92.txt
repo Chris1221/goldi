@@ -1,0 +1,387 @@
+negative regulation of mitochondrial DNA metabolic process
+positive regulation of mitochondrial DNA metabolic process
+regulation of muscle tissue development
+negative regulation of muscle tissue development
+positive regulation of muscle tissue development
+capsorubin metabolic process
+capsorubin catabolic process
+capsorubin biosynthetic process
+ecgonine methyl ester metabolic process
+ecgonine methyl ester catabolic process
+ecgonine methyl ester biosynthetic process
+ecgonone methyl ester metabolic process
+ecgonone methyl ester catabolic process
+ecgonone methyl ester biosynthetic process
+regulation of post-translational protein modification
+negative regulation of post-translational protein modification
+positive regulation of post-translational protein modification
+regulation of calcium ion binding
+negative regulation of calcium ion binding
+positive regulation of calcium ion binding
+regulation of protein depolymerization
+negative regulation of protein depolymerization
+positive regulation of protein depolymerization
+4-hydroxycoumarin metabolic process
+4-hydroxycoumarin catabolic process
+4-hydroxycoumarin biosynthetic process
+2-hydroxybenzoyl-CoA metabolic process
+2-hydroxybenzoyl-CoA catabolic process
+2-hydroxybenzoyl-CoA biosynthetic process
+regulation of cell junction assembly
+negative regulation of cell junction assembly
+positive regulation of cell junction assembly
+regulation of cell septum assembly
+negative regulation of cell septum assembly
+positive regulation of cell septum assembly
+regulation of calcium-transporting ATPase activity
+negative regulation of calcium-transporting ATPase activity
+positive regulation of calcium-transporting ATPase activity
+regulation of relaxation of cardiac muscle
+negative regulation of relaxation of cardiac muscle
+positive regulation of relaxation of cardiac muscle
+regulation of protein localization to cell division site
+regulation of protein localization to cell division site involved in cytokinesis
+tyrocidine metabolic process
+tyrocidine catabolic process
+tyrocidine biosynthetic process
+response to tamsulosin
+diadenosine pentaphosphate metabolic process
+diadenosine pentaphosphate catabolic process
+diadenosine hexaphosphate metabolic process
+diadenosine hexaphosphate catabolic process
+adenosine 5'-(hexahydrogen pentaphosphate) metabolic process
+adenosine 5'-(hexahydrogen pentaphosphate) catabolic process
+regulation of capsule organization
+negative regulation of capsule organization
+positive regulation of capsule organization
+regulation of exoribonuclease activity
+negative regulation of exoribonuclease activity
+positive regulation of exoribonuclease activity
+peptidyl-tyrosine dephosphorylation involved in activation of protein kinase activity
+phosphorylation of RNA polymerase II C-terminal domain involved in recruitment of 3'-end processing factors to RNA polymerase II holoenzyme complex
+regulation of sclerotium development
+negative regulation of sclerotium development
+positive regulation of sclerotium development
+negative regulation of protein import into nucleus during spindle assembly checkpoint
+cadinene metabolic process
+cadinene catabolic process
+cadinene biosynthetic process
+alpha-copaene metabolic process
+alpha-copaene catabolic process
+alpha-copaene biosynthetic process
+bicyclogermacrene metabolic process
+bicyclogermacrene catabolic process
+bicyclogermacrene biosynthetic process
+beta-caryophyllene metabolic process
+beta-caryophyllene catabolic process
+beta-caryophyllene biosynthetic process
+(-)-exo-alpha-bergamotene metabolic process
+(-)-exo-alpha-bergamotene catabolic process
+(-)-exo-alpha-bergamotene biosynthetic process
+(+)-epi-alpha-bisabolol metabolic process
+(+)-epi-alpha-bisabolol catabolic process
+(+)-epi-alpha-bisabolol biosynthetic process
+miltiradiene metabolic process
+miltiradiene catabolic process
+miltiradiene biosynthetic process
+"5alpha,9alpha,10beta-labda-8(20),13-dien-15-yl diphosphate metabolic process"
+"5alpha,9alpha,10beta-labda-8(20),13-dien-15-yl diphosphate catabolic process"
+"5alpha,9alpha,10beta-labda-8(20),13-dien-15-yl diphosphate biosynthetic process"
+dense core granule transport
+regulation of anterograde dense core granule transport
+negative regulation of anterograde dense core granule transport
+positive regulation of anterograde dense core granule transport
+regulation of retrograde dense core granule transport
+negative regulation of retrograde dense core granule transport
+positive regulation of retrograde dense core granule transport
+regulation of cutin biosynthetic process
+negative regulation of cutin biosynthetic process
+positive regulation of cutin biosynthetic process
+isobutanol metabolic process
+isobutanol biosynthetic process
+S-adenosyl-L-methionine transmembrane transport
+regulation of cell proliferation involved in outflow tract morphogenesis
+positive regulation of cell proliferation involved in outflow tract morphogenesis
+endoplasmic reticulum to chloroplast transport
+regulation of cellular response to iron ion starvation
+negative regulation of cellular response to iron ion starvation
+regulation of polynucleotide 3'-phosphatase activity
+positive regulation of polynucleotide 3'-phosphatase activity
+positive regulation of mitotic sister chromatid separation
+regulation of DNA-5-methylcytosine glycosylase activity
+positive regulation of DNA-5-methylcytosine glycosylase activity
+glycerate transmembrane transport
+regulation of cell cycle checkpoint
+negative regulation of cell cycle checkpoint
+positive regulation of cell cycle checkpoint
+regulation of inward rectifier potassium channel activity
+positive regulation of inward rectifier potassium channel activity
+regulation of protein acetylation
+negative regulation of protein acetylation
+positive regulation of protein acetylation
+response to ketamine
+regulation of cell cycle phase transition
+negative regulation of cell cycle phase transition
+positive regulation of cell cycle phase transition
+regulation of mitotic cell cycle phase transition
+negative regulation of mitotic cell cycle phase transition
+positive regulation of mitotic cell cycle phase transition
+regulation of meiotic cell cycle phase transition
+negative regulation of meiotic cell cycle phase transition
+positive regulation of meiotic cell cycle phase transition
+regulation of indoleacetic acid biosynthetic process via tryptophan
+negative regulation of indoleacetic acid biosynthetic process via tryptophan
+toxin transport
+homogentisate metabolic process
+homogentisate catabolic process
+fatty acid transmembrane transport
+protein phosphorylation involved in cellular protein catabolic process
+regulation of beta-amyloid formation
+positive regulation of beta-amyloid formation
+regulation of proline biosynthetic process
+negative regulation of proline biosynthetic process
+regulation of toxin transport
+negative regulation of toxin transport
+positive regulation of toxin transport
+negative regulation of translation in response to endoplasmic reticulum stress
+poly(ribitol phosphate) teichoic acid metabolic process
+poly(ribitol phosphate) teichoic acid biosynthetic process
+poly(glycerol phosphate) teichoic acid metabolic process
+poly(glycerol phosphate) teichoic acid biosynthetic process
+poly(glucopyranosyl N-acetylgalactosamine 1-phosphate) teichoic acid metabolic process
+poly(glucopyranosyl N-acetylgalactosamine 1-phosphate) teichoic acid biosynthetic process
+regulation of cilium-dependent cell motility
+negative regulation of cilium-dependent cell motility
+regulation of bacterial-type flagellum-dependent cell motility
+L-lysine transport
+L-arginine transport
+L-histidine transport
+nitrate import
+regulation of cartilage condensation
+positive regulation of cartilage condensation
+regulation of histone H3-K18 acetylation
+positive regulation of histone H3-K18 acetylation
+negative regulation of histone H3-K18 acetylation
+regulation of NADP metabolic process
+regulation of transcription from RNA polymerase II promoter involved in response to osmotic stress
+regulation of hematopoietic stem cell proliferation
+negative regulation of hematopoietic stem cell proliferation
+positive regulation of hematopoietic stem cell proliferation
+regulation of hematopoietic stem cell differentiation
+negative regulation of hematopoietic stem cell differentiation
+positive regulation of hematopoietic stem cell differentiation
+negative regulation of seed dormancy process
+positive regulation of seed dormancy process
+regulation of extrinsic apoptotic signaling pathway via death domain receptors
+negative regulation of extrinsic apoptotic signaling pathway via death domain receptors
+positive regulation of extrinsic apoptotic signaling pathway via death domain receptors
+regulation of Fas signaling pathway
+negative regulation of Fas signaling pathway
+positive regulation of Fas signaling pathway
+polyamine transmembrane transport
+neosartoricin metabolic process
+neosartoricin catabolic process
+neosartoricin biosynthetic process
+regulation of neosartoricin biosynthetic process
+negative regulation of neosartoricin biosynthetic process
+positive regulation of neosartoricin biosynthetic process
+(25S)-Delta(7)-dafachronate metabolic process
+(25S)-Delta(4)-dafachronate metabolic process
+regulation of sporocarp development involved in sexual reproduction
+negative regulation of sporocarp development involved in sexual reproduction
+positive regulation of sporocarp development involved in sexual reproduction
+betaine aldehyde metabolic process
+betaine aldehyde catabolic process
+betaine aldehyde biosynthetic process
+regulation of transcription from RNA polymerase II promoter involved in spermatogenesis
+response to L-glutamate
+regulation of cell wall pectin metabolic process
+silicic acid import
+regulation of sphingolipid mediated signaling pathway
+negative regulation of sphingolipid mediated signaling pathway
+positive regulation of sphingolipid mediated signaling pathway
+regulation of hypoxia-inducible factor-1alpha signaling pathway
+negative regulation of hypoxia-inducible factor-1alpha signaling pathway
+positive regulation of hypoxia-inducible factor-1alpha signaling pathway
+response to salt
+cellular response to salt
+regulation of lateral motor column neuron migration
+negative regulation of lateral motor column neuron migration
+positive regulation of lateral motor column neuron migration
+D-valine catabolic process
+regulation of calcium ion import into sarcoplasmic reticulum
+negative regulation of calcium ion import into sarcoplasmic reticulum
+positive regulation of calcium ion import into sarcoplasmic reticulum
+negative regulation of peptidyl-cysteine S-nitrosylation
+fumagillin metabolic process
+fumagillin catabolic process
+fumagillin biosynthetic process
+dimethylsulfoniopropionate catabolic process
+plant-type cell wall loosening involved in abscission
+cell wall polysaccharide catabolic process involved in lateral root development
+regulation of fumagillin biosynthetic process
+negative regulation of fumagillin biosynthetic process
+positive regulation of fumagillin biosynthetic process
+positive regulation of sperm motility
+regulation of cartilage homeostasis
+negative regulation of cartilage homeostasis
+positive regulation of cartilage homeostasis
+positive regulation of transcription from RNA polymerase II promoter involved in defense response to Gram-negative bacterium
+regulation of metaphase/anaphase transition of cell cycle
+negative regulation of metaphase/anaphase transition of cell cycle
+positive regulation of metaphase/anaphase transition of cell cycle
+regulation of metaphase/anaphase transition of meiotic cell cycle
+negative regulation of metaphase/anaphase transition of meiotic cell cycle
+positive regulation of metaphase/anaphase transition of meiotic cell cycle
+regulation of leukocyte differentiation
+negative regulation of leukocyte differentiation
+positive regulation of leukocyte differentiation
+regulation of mitochondrial membrane permeability involved in apoptotic process
+negative regulation of mitochondrial membrane permeability involved in apoptotic process
+positive regulation of mitochondrial membrane permeability involved in apoptotic process
+response to diethyl maleate
+cellular response to diethyl maleate
+nucleotide phosphorylation involved in DNA repair
+D-valine metabolic process
+regulation of organelle assembly
+negative regulation of organelle assembly
+positive regulation of organelle assembly
+regulation of meiotic spindle elongation
+negative regulation of meiotic spindle elongation
+(-)-pinoresinol catabolic process
+(+)-pinoresinol metabolic process
+(+)-pinoresinol catabolic process
+(+)-pinoresinol biosynthetic process
+(-)-lariciresinol metabolic process
+(-)-lariciresinol catabolic process
+(-)-lariciresinol biosynthetic process
+(+)-lariciresinol metabolic process
+(+)-lariciresinol catabolic process
+(+)-lariciresinol biosynthetic process
+(+)-secoisolariciresinol metabolic process
+(+)-secoisolariciresinol catabolic process
+(+)-secoisolariciresinol biosynthetic process
+(-)-secoisolariciresinol metabolic process
+(-)-secoisolariciresinol catabolic process
+(-)-secoisolariciresinol biosynthetic process
+response to inositol
+cellular response to inositol
+regulation of response to cell cycle checkpoint signaling
+positive regulation of response to cell cycle checkpoint signaling
+regulation of response to cytokinesis checkpoint signaling
+positive regulation of response to cytokinesis checkpoint signaling
+regulation of response to DNA integrity checkpoint signaling
+positive regulation of response to DNA integrity checkpoint signaling
+regulation of response to DNA damage checkpoint signaling
+positive regulation of response to DNA damage checkpoint signaling
+regulation of response to G1 DNA damage checkpoint signaling
+positive regulation of response to G1 DNA damage checkpoint signaling
+regulation of response to G2 DNA damage checkpoint signaling
+positive regulation of response to G2 DNA damage checkpoint signaling
+regulation of cyclic nucleotide-gated ion channel activity
+negative regulation of cyclic nucleotide-gated ion channel activity
+positive regulation of cyclic nucleotide-gated ion channel activity
+"regulation of DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator"
+"negative regulation of DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator"
+"positive regulation of DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator"
+regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+positive regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+response to catechin
+cellular response to catechin
+cellular response to reactive nitrogen species
+regulation of tocopherol cyclase activity
+regulation of keratinocyte apoptotic process
+negative regulation of keratinocyte apoptotic process
+positive regulation of keratinocyte apoptotic process
+regulation of oxidative stress-induced intrinsic apoptotic signaling pathway
+negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway
+positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway
+fibroblast growth factor receptor apoptotic signaling pathway
+verruculogen metabolic process
+verruculogen catabolic process
+verruculogen biosynthetic process
+shoot apical meristem development
+regulation of shoot apical meristem development
+negative regulation of shoot apical meristem development
+positive regulation of shoot apical meristem development
+regulation of viral release from host cell
+negative regulation of viral release from host cell
+positive regulation of viral release from host cell
+2-methylbutanoyl-CoA(4-) metabolic process
+2-methylbutanoyl-CoA(4-) catabolic process
+2-methylbutanoyl-CoA(4-) biosynthetic process
+2-methylbut-2-enoyl-CoA(4-) metabolic process
+2-methylbut-2-enoyl-CoA(4-) catabolic process
+2-methylbut-2-enoyl-CoA(4-) biosynthetic process
+isovaleryl-CoA(4-) metabolic process
+isovaleryl-CoA(4-) catabolic process
+isovaleryl-CoA(4-) biosynthetic process
+3-methylbut-2-enoyl-CoA(4-) metabolic process
+3-methylbut-2-enoyl-CoA(4-) catabolic process
+3-methylbut-2-enoyl-CoA(4-) biosynthetic process
+negative regulation of bacterial-type flagellum-dependent cell motility
+regulation of hepatocyte growth factor receptor signaling pathway
+negative regulation of hepatocyte growth factor receptor signaling pathway
+positive regulation of hepatocyte growth factor receptor signaling pathway
+regulation of interleukin-2-mediated signaling pathway
+negative regulation of interleukin-2-mediated signaling pathway
+positive regulation of interleukin-2-mediated signaling pathway
+negative regulation of bacterial-type flagellum assembly
+positive regulation of bacterial-type flagellum assembly
+regulation of prolactin signaling pathway
+negative regulation of prolactin signaling pathway
+positive regulation of prolactin signaling pathway
+regulation of interleukin-4-mediated signaling pathway
+negative regulation of interleukin-4-mediated signaling pathway
+positive regulation of interleukin-4-mediated signaling pathway
+erythrocyte apoptotic process
+regulation of intrinsic apoptotic signaling pathway in response to osmotic stress
+negative regulation of intrinsic apoptotic signaling pathway in response to osmotic stress
+positive regulation of intrinsic apoptotic signaling pathway in response to osmotic stress
+erythrose 4-phosphate/phosphoenolpyruvate family amino acid metabolic process
+erythrose 4-phosphate/phosphoenolpyruvate family amino acid catabolic process
+erythrose 4-phosphate/phosphoenolpyruvate family amino acid biosynthetic process
+ketone body metabolic process
+negative regulation of acrosome reaction
+regulation of macrophage colony-stimulating factor signaling pathway
+negative regulation of macrophage colony-stimulating factor signaling pathway
+positive regulation of macrophage colony-stimulating factor signaling pathway
+regulation of intrinsic apoptotic signaling pathway in response to DNA damage
+negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage
+positive regulation of intrinsic apoptotic signaling pathway in response to DNA damage
+regulation of positive thymic T cell selection
+negative regulation of positive thymic T cell selection
+positive regulation of positive thymic T cell selection
+regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway
+negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway
+positive regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway
+regulation of intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator
+negative regulation of intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator
+positive regulation of intrinsic apoptotic signaling pathway in response to osmotic stress by p53 class mediator
+copal-8-ol diphosphate(3-) metabolic process
+copal-8-ol diphosphate(3-) catabolic process
+copal-8-ol diphosphate(3-) biosynthetic process
+cis-abienol metabolic process
+cis-abienol catabolic process
+cis-abienol biosynthetic process
+geranylgeranyl diphosphate catabolic process
+regulation of erythrocyte apoptotic process
+negative regulation of erythrocyte apoptotic process
+positive regulation of erythrocyte apoptotic process
+regulation of intrinsic apoptotic signaling pathway by p53 class mediator
+negative regulation of intrinsic apoptotic signaling pathway by p53 class mediator
+positive regulation of intrinsic apoptotic signaling pathway by p53 class mediator
+regulation of apoptotic process involved in outflow tract morphogenesis
+negative regulation of apoptotic process involved in outflow tract morphogenesis
+positive regulation of apoptotic process involved in outflow tract morphogenesis
+regulation of delayed rectifier potassium channel activity
+negative regulation of delayed rectifier potassium channel activity
+positive regulation of delayed rectifier potassium channel activity
+apoptotic process involved in patterning of blood vessels
+apoptotic process involved in embryonic digit morphogenesis
+abscisic acid homeostasis
+cellular abscisic acid homeostasis
+regulation of polyamine transmembrane transport
+negative regulation of polyamine transmembrane transport
+positive regulation of polyamine transmembrane transport

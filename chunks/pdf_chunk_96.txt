@@ -1,0 +1,387 @@
+regulation of extracellular vesicular exosome assembly
+negative regulation of extracellular vesicular exosome assembly
+positive regulation of extracellular vesicular exosome assembly
+G-protein coupled receptor signaling pathway involved in defense response to Gram-negative bacterium
+regulation of tumor necrosis factor superfamily cytokine production
+negative regulation of tumor necrosis factor superfamily cytokine production
+positive regulation of tumor necrosis factor superfamily cytokine production
+3-cyano-L-alanine metabolic process
+3-cyano-L-alanine catabolic process
+3-cyano-L-alanine biosynthetic process
+microtubule bundle formation involved in mitotic spindle midzone assembly
+microtubule bundle formation involved in horsetail-astral microtubule organization
+regulation of protein localization to cilium
+negative regulation of protein localization to cilium
+positive regulation of protein localization to cilium
+regulation of protein localization to ciliary membrane
+negative regulation of protein localization to ciliary membrane
+positive regulation of protein localization to ciliary membrane
+regulation of protein kinase D signaling
+negative regulation of protein kinase D signaling
+positive regulation of protein kinase D signaling
+negative regulation of response to endoplasmic reticulum stress
+negative regulation of cellular response to amino acid starvation
+cornified envelope assembly
+response to L-arginine
+cellular response to L-arginine
+regulation of ATP metabolic process
+negative regulation of ATP metabolic process
+positive regulation of ATP metabolic process
+regulation of basophil degranulation
+negative regulation of basophil degranulation
+positive regulation of basophil degranulation
+regulation of histone deubiquitination
+negative regulation of histone deubiquitination
+positive regulation of histone deubiquitination
+regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+regulation of lysozyme activity
+negative regulation of lysozyme activity
+positive regulation of lysozyme activity
+regulation of histamine secretion by mast cell
+negative regulation of histamine secretion by mast cell
+positive regulation of histamine secretion by mast cell
+regulation of gap junction assembly
+negative regulation of gap junction assembly
+positive regulation of gap junction assembly
+positive regulation of mitochondrion degradation
+thermospermine metabolic process
+thermospermine catabolic process
+thermospermine biosynthetic process
+cytochrome metabolic process
+cytochrome biosynthetic process
+cytochrome c metabolic process
+cytochrome c biosynthetic process
+protein localization to cytoplasmic stress granule
+negative regulation of inward rectifier potassium channel activity
+regulation of calcium-dependent ATPase activity
+negative regulation of calcium-dependent ATPase activity
+positive regulation of calcium-dependent ATPase activity
+regulation of protein tyrosine phosphatase activity
+negative regulation of protein tyrosine phosphatase activity
+positive regulation of protein tyrosine phosphatase activity
+MAPK cascade involved in axon regeneration
+"positive regulation of mitotic cytokinesis, site selection"
+regulation of transdifferentiation
+negative regulation of transdifferentiation
+positive regulation of transdifferentiation
+protein localization to photoreceptor connecting cilium
+regulation of RNA polymerase III activity
+negative regulation of RNA polymerase III activity
+regulation of DNA catabolic process
+negative regulation of DNA catabolic process
+positive regulation of DNA catabolic process
+regulation of dUTP diphosphatase activity
+negative regulation of dUTP diphosphatase activity
+positive regulation of dUTP diphosphatase activity
+regulation of aminoacyl-tRNA ligase activity
+negative regulation of aminoacyl-tRNA ligase activity
+positive regulation of aminoacyl-tRNA ligase activity
+regulation of leucine-tRNA ligase activity
+negative regulation of leucine-tRNA ligase activity
+positive regulation of leucine-tRNA ligase activity
+regulation of protein import into mitochondrial outer membrane
+negative regulation of protein import into mitochondrial outer membrane
+positive regulation of protein import into mitochondrial outer membrane
+regulation of gastrin-induced gastric acid secretion
+negative regulation of gastrin-induced gastric acid secretion
+positive regulation of gastrin-induced gastric acid secretion
+regulation of recombination hotspot binding
+positive regulation of recombination hotspot binding
+regulation of chaperone-mediated protein folding
+negative regulation of chaperone-mediated protein folding
+positive regulation of chaperone-mediated protein folding
+negative regulation of chlorophyll catabolic process
+positive regulation of chlorophyll catabolic process
+regulation of cytoplasmic transport
+negative regulation of cytoplasmic transport
+positive regulation of cytoplasmic transport
+modulation by virus of host cytoplasmic transport
+modulation by symbiont of host cell motility
+phosphorylation of RNA polymerase II C-terminal domain serine 5 residues involved in positive regulation of transcription elongation from RNA polymerase II promoter
+phosphorylation of RNA polymerase II C-terminal domain serine 2 residues involved in positive regulation of transcription elongation from RNA polymerase II promoter
+regulation of type IV pilus biogenesis
+negative regulation of type IV pilus biogenesis
+positive regulation of type IV pilus biogenesis
+regulation of complement-dependent cytotoxicity
+negative regulation of complement-dependent cytotoxicity
+positive regulation of complement-dependent cytotoxicity
+L-altrarate metabolic process
+L-altrarate catabolic process
+regulation of asexual reproduction
+negative regulation of asexual reproduction
+positive regulation of asexual reproduction
+regulation of chemorepellent activity
+negative regulation of chemorepellent activity
+positive regulation of chemorepellent activity
+regulation of sprouting angiogenesis
+negative regulation of sprouting angiogenesis
+positive regulation of sprouting angiogenesis
+mitotic cleavage furrow formation
+regulation of cap-dependent translational initiation
+negative regulation of cap-dependent translational initiation
+positive regulation of cap-dependent translational initiation
+regulation of cap-independent translational initiation
+negative regulation of cap-independent translational initiation
+positive regulation of cap-independent translational initiation
+acinar cell of sebaceous gland differentiation
+regulation of epithelial cell-cell adhesion involved in epithelium migration
+negative regulation of epithelial cell-cell adhesion involved in epithelium migration
+positive regulation of epithelial cell-cell adhesion involved in epithelium migration
+regulation of border follicle cell migration
+negative regulation of border follicle cell migration
+positive regulation of border follicle cell migration
+"regulation of wound healing, spreading of epidermal cells"
+"negative regulation of wound healing, spreading of epidermal cells"
+"positive regulation of wound healing, spreading of epidermal cells"
+methionine import into cell
+regulation of mitotic G1 cell cycle arrest in response to nitrogen starvation
+positive regulation of mitotic G1 cell cycle arrest in response to nitrogen starvation
+MAPK cascade involved in ascospore formation
+protein localization to horsetail-astral microtubule array
+negative regulation of microvillus assembly
+positive regulation of microvillus assembly
+tarsal gland development
+caecum development
+substantia propria of cornea development
+esophagus development
+enterocyte differentiation
+negative regulation of production of siRNA involved in RNA interference
+positive regulation of production of siRNA involved in RNA interference
+regulation of hemopoiesis
+negative regulation of hemopoiesis
+positive regulation of hemopoiesis
+uterine gland development
+spermine transmembrane transport
+spermidine transmembrane transport
+cysteine transmembrane transport
+asparagine transmembrane transport
+isoleucine transmembrane transport
+regulation of aerobic respiration
+guanine transmembrane transport
+response to ammonia
+cellular response to ammonia
+regulation of I-kappaB phosphorylation
+negative regulation of I-kappaB phosphorylation
+positive regulation of I-kappaB phosphorylation
+regulation of centriole elongation
+negative regulation of centriole elongation
+positive regulation of centriole elongation
+regulation of phospholipid metabolic process
+negative regulation of phospholipid metabolic process
+positive regulation of phospholipid metabolic process
+luteal cell differentiation
+regulation of plasma membrane organization
+regulation of phosphatidate phosphatase activity
+positive regulation of phosphatidate phosphatase activity
+negative regulation of phosphatidate phosphatase activity
+regulation of anterograde synaptic vesicle transport
+negative regulation of anterograde synaptic vesicle transport
+positive regulation of anterograde synaptic vesicle transport
+negative regulation of pharyngeal pumping
+positive regulation of pharyngeal pumping
+regulation of establishment of protein localization to mitochondrion
+negative regulation of establishment of protein localization to mitochondrion
+positive regulation of establishment of protein localization to mitochondrion
+regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide
+negative regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide
+positive regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide
+negative regulation of p38MAPK cascade
+positive regulation of SUMO transferase activity
+regulation of transcription from RNA polymerase II promoter by histone modification
+positive regulation of transcription from RNA polymerase II promoter by histone modification
+negative regulation of transcription from RNA polymerase II promoter by histone modification
+signal transduction involved in regulation of aerobic respiration
+regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization
+negative regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization
+positive regulation of voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization
+regulation of potassium ion export across plasma membrane
+negative regulation of potassium ion export across plasma membrane
+positive regulation of potassium ion export across plasma membrane
+negative regulation of cell proliferation in bone marrow
+negative regulation of beta-galactosidase activity
+positive regulation of beta-galactosidase activity
+regulation of viral budding via host ESCRT complex
+negative regulation of viral budding via host ESCRT complex
+positive regulation of viral budding via host ESCRT complex
+regulation of DNA double-strand break processing
+"regulation of double-strand break repair via single-strand annealing, removal of nonhomologous ends"
+protein localization to vacuolar membrane
+regulation of cardiac conduction
+negative regulation of cardiac conduction
+positive regulation of cardiac conduction
+regulation of sodium ion import across plasma membrane
+negative regulation of sodium ion import across plasma membrane
+positive regulation of sodium ion import across plasma membrane
+L-valine transmembrane transport
+regulation of glutathione biosynthetic process
+negative regulation of glutathione biosynthetic process
+positive regulation of glutathione biosynthetic process
+regulation of amino acid transmembrane transport
+guanine nucleotide transmembrane transport
+uracil transmembrane transport
+negative regulation of anion transport
+positive regulation of anion transport
+regulation of inorganic anion transmembrane transport
+negative regulation of inorganic anion transmembrane transport
+positive regulation of inorganic anion transmembrane transport
+regulation of production of miRNAs involved in gene silencing by miRNA
+negative regulation of production of miRNAs involved in gene silencing by miRNA
+positive regulation of production of miRNAs involved in gene silencing by miRNA
+L-leucine import into cell
+L-glutamate(1-) import into cell
+L-glutamine import into cell
+glycine import into cell
+L-valine import into cell
+L-isoleucine import into cell
+L-threonine import into cell
+L-tyrosine import into cell
+L-proline import into cell
+L-histidine import into cell
+L-asparagine import into cell
+L-serine import into cell
+L-methionine import into cell
+regulation of collecting lymphatic vessel constriction
+negative regulation of collecting lymphatic vessel constriction
+positive regulation of collecting lymphatic vessel constriction
+negative regulation of voltage-gated potassium channel activity
+positive regulation of voltage-gated potassium channel activity
+detection of stimulus involved in cytokinesis after mitosis checkpoint
+signal transduction involved in cytokinesis after mitosis checkpoint
+detection of stimulus involved in morphogenesis checkpoint
+signal transduction involved in morphogenesis checkpoint
+telomere single strand break repair
+negative regulation of telomere single strand break repair
+organic acid transmembrane transport
+arginine transmembrane transport
+regulation of cellular protein localization
+negative regulation of cellular protein localization
+positive regulation of cellular protein localization
+magnesium ion transmembrane transport
+signal transduction involved in cellular response to ammonium ion
+regulation of cellular response to amino acid starvation
+positive regulation of cellular response to amino acid starvation
+regulation of APC-fizzy related complex activity
+positive regulation of APC-fizzy related complex activity
+regulation of mRNA 3'-UTR binding
+negative regulation of mRNA 3'-UTR binding
+positive regulation of mRNA 3'-UTR binding
+response to arsenite(3-)
+cellular response to arsenite(3-)
+response to arsenite ion
+cellular response to arsenite ion
+regulation of cellular response to transforming growth factor beta stimulus
+negative regulation of cellular response to transforming growth factor beta stimulus
+positive regulation of cellular response to transforming growth factor beta stimulus
+regulation of aorta morphogenesis
+negative regulation of aorta morphogenesis
+positive regulation of aorta morphogenesis
+regulation of cristae formation
+negative regulation of cristae formation
+positive regulation of cristae formation
+regulation of stress response to copper ion
+negative regulation of stress response to copper ion
+positive regulation of stress response to copper ion
+regulation of cytokinin dehydrogenase activity
+negative regulation of cytokinin dehydrogenase activity
+protein localization to old growing cell tip
+regulation of dendrite extension
+negative regulation of dendrite extension
+positive regulation of dendrite extension
+positive regulation of oxidative phosphorylation
+P granule assembly
+P granule disassembly
+palisade mesophyll development
+extraembryonic membrane development
+regulation of methylenetetrahydrofolate reductase (NAD(P)H) activity
+negative regulation of methylenetetrahydrofolate reductase (NAD(P)H) activity
+positive regulation of methylenetetrahydrofolate reductase (NAD(P)H) activity
+DNA recombinase mediator complex assembly
+regulation of DNA recombinase mediator complex assembly
+negative regulation of DNA recombinase mediator complex assembly
+ferrous iron transmembrane transport
+regulation of interleukin-17-mediated signaling pathway
+negative regulation of interleukin-17-mediated signaling pathway
+positive regulation of interleukin-17-mediated signaling pathway
+regulation of chemokine (C-C motif) ligand 20 production
+negative regulation of chemokine (C-C motif) ligand 20 production
+positive regulation of chemokine (C-C motif) ligand 20 production
+motile primary cilium assembly
+regulation of plant epidermal cell differentiation
+negative regulation of plant epidermal cell differentiation
+positive regulation of plant epidermal cell differentiation
+regulation of ATF6-mediated unfolded protein response
+negative regulation of ATF6-mediated unfolded protein response
+positive regulation of ATF6-mediated unfolded protein response
+regulation of IRE1-mediated unfolded protein response
+negative regulation of IRE1-mediated unfolded protein response
+positive regulation of IRE1-mediated unfolded protein response
+regulation of PERK-mediated unfolded protein response
+negative regulation of PERK-mediated unfolded protein response
+positive regulation of PERK-mediated unfolded protein response
+regulation of viral life cycle
+negative regulation of viral life cycle
+positive regulation of viral life cycle
+regulation of establishment of T cell polarity
+negative regulation of establishment of T cell polarity
+positive regulation of establishment of T cell polarity
+regulation of plasma membrane raft polarization
+negative regulation of plasma membrane raft polarization
+positive regulation of plasma membrane raft polarization
+regulation of receptor clustering
+negative regulation of receptor clustering
+positive regulation of receptor clustering
+negative regulation of endoplasmic reticulum stress-induced eIF2 alpha phosphorylation
+regulation of fusion of virus membrane with host plasma membrane
+negative regulation of fusion of virus membrane with host plasma membrane
+positive regulation of fusion of virus membrane with host plasma membrane
+regulation of endoplasmic reticulum stress-induced eIF2 alpha dephosphorylation
+positive regulation of endoplasmic reticulum stress-induced eIF2 alpha dephosphorylation
+regulation of actin filament severing
+negative regulation of actin filament severing
+positive regulation of actin filament severing
+regulation of protein processing in phagocytic vesicle
+negative regulation of protein processing in phagocytic vesicle
+positive regulation of protein processing in phagocytic vesicle
+response to bisphenol A
+cellular response to bisphenol A
+response to cyanide
+cellular response to cyanide
+primary palate development
+regulation of pyrimidine-containing compound salvage
+positive regulation of pyrimidine-containing compound salvage
+regulation of DNA primase activity
+negative regulation of DNA primase activity
+positive regulation of DNA primase activity
+response to sodium arsenite
+cellular response to sodium arsenite
+response to acrylamide
+cellular response to acrylamide
+regulation of TORC2 signaling
+negative regulation of TORC2 signaling
+negative regulation of respiratory gaseous exchange
+positive regulation of respiratory gaseous exchange
+regulation of hepatocyte apoptotic process
+negative regulation of hepatocyte apoptotic process
+positive regulation of hepatocyte apoptotic process
+negative regulation of ventricular cardiac muscle cell action potential
+positive regulation of ventricular cardiac muscle cell action potential
+negative regulation of atrial cardiac muscle cell action potential
+positive regulation of atrial cardiac muscle cell action potential
+negative regulation of AV node cell action potential
+positive regulation of AV node cell action potential
+positive regulation of protein targeting to mitochondrion
+regulation of anion transmembrane transport
+negative regulation of anion transmembrane transport
+positive regulation of anion transmembrane transport
+monounsaturated fatty acid metabolic process
+monounsaturated fatty acid catabolic process
+monounsaturated fatty acid biosynthetic process
+amyloid fibril formation
+inhibition of cysteine-type endopeptidase activity involved in apoptotic process
+retinal cell apoptotic process
+compound eye retinal cell apoptotic process
+protein storage vacuole organization
+RNA polymerase III complex localization to nucleus
+vasomotion

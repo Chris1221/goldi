@@ -1,0 +1,387 @@
+positive regulation of toll-like receptor 9 signaling pathway
+toll-like receptor 10 signaling pathway
+regulation of toll-like receptor 10 signaling pathway
+negative regulation of toll-like receptor 10 signaling pathway
+positive regulation of toll-like receptor 10 signaling pathway
+toll-like receptor 11 signaling pathway
+regulation of toll-like receptor 11 signaling pathway
+negative regulation of toll-like receptor 11 signaling pathway
+positive regulation of toll-like receptor 11 signaling pathway
+toll-like receptor 12 signaling pathway
+regulation of toll-like receptor 12 signaling pathway
+negative regulation of toll-like receptor 12 signaling pathway
+positive regulation of toll-like receptor 12 signaling pathway
+toll-like receptor 13 signaling pathway
+regulation of toll-like receptor 13 signaling pathway
+negative regulation of toll-like receptor 13 signaling pathway
+positive regulation of toll-like receptor 13 signaling pathway
+regulation of maintenance of mitotic sister chromatid cohesion
+negative regulation of maintenance of mitotic sister chromatid cohesion
+positive regulation of maintenance of mitotic sister chromatid cohesion
+D-galactonate metabolic process
+L-galactonate metabolic process
+D-galactonate catabolic process
+L-galactonate catabolic process
+acylglycerol transport
+triglyceride transport
+cellular response to amino acid starvation
+activation of protein kinase A activity
+response to oleic acid
+glycolipid translocation
+lipid translocation
+beta-amyloid formation
+steroid acetylation
+steroid deacetylation
+sterol acetylation
+sterol deacetylation
+quinolinate catabolic process
+protein hexamerization
+ascospore wall chitin biosynthetic process
+ascospore wall chitin metabolic process
+carbohydrate transmembrane transport
+ion transmembrane transport
+fungal-type cell wall chitin biosynthetic process
+regulation of cell wall chitin metabolic process
+regulation of ascospore wall chitin biosynthetic process
+cellular response to zinc ion starvation
+regulation of transcription from RNA polymerase II promoter in response to zinc ion starvation
+lysine import
+ethanolamine transport
+enkephalin processing
+islet amyloid polypeptide processing
+ascospore wall chitin catabolic process
+regulation of cell wall chitin catabolic process
+regulation of ascospore wall chitin catabolic process
+macrophage fusion
+regulation of macrophage fusion
+negative regulation of macrophage fusion
+positive regulation of macrophage fusion
+negative regulation of syncytium formation by plasma membrane fusion
+regulation of transcription elongation from RNA polymerase II promoter
+negative regulation of transcription elongation from RNA polymerase II promoter
+snoRNA splicing
+regulation of cellular amide metabolic process
+negative regulation of cellular amide metabolic process
+positive regulation of cellular amide metabolic process
+regulation of cellular amide catabolic process
+negative regulation of cellular amide catabolic process
+positive regulation of cellular amide catabolic process
+regulation of urea catabolic process
+regulation of urea metabolic process
+nicotinamide riboside transport
+autophagy in response to ER overload
+isopentenyl adenine metabolic process
+isopentenyl adenine biosynthetic process
+isopentenyl adenine catabolic process
+discadenine metabolic process
+discadenine biosynthetic process
+discadenine catabolic process
+kynurenic acid metabolic process
+kynurenic acid biosynthetic process
+response to monosaccharide
+response to disaccharide
+response to maltose
+detection of monosaccharide stimulus
+detection of disaccharide stimulus
+detection of maltose stimulus
+sexual sporulation
+sexual spore wall assembly
+basidiospore formation
+zygospore formation
+oidium formation
+arthrospore formation
+reproductive blastospore formation
+sporangiospore formation
+endospore formation
+akinete formation
+myxospore formation
+actinomycete-type spore formation
+regulation of asexual sporulation
+regulation of sexual sporulation
+regulation of ascospore formation
+primary alcohol metabolic process
+primary alcohol biosynthetic process
+primary alcohol catabolic process
+diol metabolic process
+diol biosynthetic process
+diol catabolic process
+Arp2/3 complex-mediated actin nucleation
+regulation of Arp2/3 complex-mediated actin nucleation
+negative regulation of Arp2/3 complex-mediated actin nucleation
+cell junction assembly
+cell junction organization
+cell junction maintenance
+adherens junction organization
+adherens junction assembly
+adherens junction maintenance
+RNA folding
+regulation of transcription from RNA polymerase II promoter by nuclear hormone receptor
+response to type I interferon
+response to interferon-gamma
+response to type III interferon
+type III interferon production
+regulation of type III interferon production
+negative regulation of type III interferon production
+positive regulation of type III interferon production
+glial cell apoptotic process
+regulation of glial cell apoptotic process
+negative regulation of glial cell apoptotic process
+positive regulation of glial cell apoptotic process
+'de novo' NAD biosynthetic process from tryptophan
+NAD salvage
+NAD biosynthesis via nicotinamide riboside salvage pathway
+macromolecular complex remodeling
+protein-lipid complex remodeling
+plasma lipoprotein particle remodeling
+triglyceride-rich lipoprotein particle remodeling
+chylomicron remodeling
+very-low-density lipoprotein particle remodeling
+intermediate-density lipoprotein particle remodeling
+low-density lipoprotein particle remodeling
+high-density lipoprotein particle remodeling
+conversion of discoidal high-density lipoprotein particle to spherical high-density lipoprotein particle
+plasma lipoprotein particle assembly
+chylomicron assembly
+very-low-density lipoprotein particle assembly
+high-density lipoprotein particle assembly
+plasma lipoprotein particle clearance
+chylomicron remnant clearance
+low-density lipoprotein particle clearance
+high-density lipoprotein particle clearance
+lipid particle organization
+smooth muscle cell apoptotic process
+regulation of smooth muscle cell apoptotic process
+negative regulation of smooth muscle cell apoptotic process
+positive regulation of smooth muscle cell apoptotic process
+protein localization to cell surface
+regulation of transcription from RNA polymerase II promoter in response to iron
+negative regulation of transcription from RNA polymerase II promoter in response to iron
+telomere localization
+telomere tethering at nuclear periphery
+chromatin organization involved in regulation of transcription
+recruitment of 3'-end processing factors to RNA polymerase II holoenzyme complex
+alignment of 3' and 5' splice sites of mRNA
+nucleobase-containing small molecule biosynthetic process
+response to fluid shear stress
+cell wall beta-glucan metabolic process
+cell wall (1->3)-beta-D-glucan metabolic process
+ascospore wall beta-glucan metabolic process
+ascospore wall (1->3)-beta-D-glucan metabolic process
+cell wall beta-glucan biosynthetic process
+cell wall (1->3)-beta-D-glucan biosynthetic process
+ascospore wall beta-glucan biosynthetic process
+ascospore wall (1->3)-beta-D-glucan biosynthetic process
+"tRNA 3'-trailer cleavage, endonucleolytic"
+"tRNA 3'-trailer cleavage, exonucleolytic"
+urate biosynthetic process
+co-translational protein acetylation
+post-translational protein acetylation
+"nuclear-transcribed mRNA catabolic process, exonucleolytic, 3'-5'"
+"nuclear-transcribed mRNA catabolic process, exonucleolytic, 5'-3'"
+tectobulbar tract morphogenesis
+steroid esterification
+sterol esterification
+cholesterol esterification
+glycoprotein transport
+lipoprotein amino acid oxidation
+lipoprotein lipid oxidation
+lipid oxidation
+plasma lipoprotein particle oxidation
+regulation of lipoprotein oxidation
+negative regulation of lipoprotein oxidation
+regulation of plasma lipoprotein particle oxidation
+negative regulation of plasma lipoprotein particle oxidation
+substrate adhesion-dependent cell spreading
+very-low-density lipoprotein particle clearance
+microtubule anchoring
+microtubule anchoring at centrosome
+uropod assembly
+uropod retraction
+small-subunit processome assembly
+90S preribosome assembly
+response to carbon monoxide
+ncRNA processing
+ncRNA 5'-end processing
+snRNA 3'-end processing
+U1 snRNA 3'-end processing
+U2 snRNA 3'-end processing
+U4 snRNA 3'-end processing
+U5 snRNA 3'-end processing
+U6 snRNA 3'-end processing
+phosphatidylglycerol catabolic process
+raffinose catabolic process
+vacuolar transmembrane transport
+vacuolar amino acid transmembrane transport
+basic amino acid transmembrane export from vacuole
+neutral amino acid transmembrane export from vacuole
+basic amino acid transmembrane import into vacuole
+neutral amino acid transmembrane import into vacuole
+multivesicular body membrane disassembly
+protein localization to pre-autophagosomal structure
+early endosome to Golgi transport
+late endosome to Golgi transport
+protein localization to kinetochore
+protein localization to chromosome
+protein localization to nucleolar rDNA repeats
+protein localization to nucleus
+tooth mineralization
+centromere complex assembly
+centromere separation
+mitochondrial unfolded protein response
+response to vitamin B6
+ribophagy
+mitochondrial respiratory chain complex III assembly
+respiratory chain complex II assembly
+mitochondrial respiratory chain complex II assembly
+21U-RNA metabolic process
+21U-RNA catabolic process
+piRNA metabolic process
+piRNA catabolic process
+hydroxyproline transport
+cellular response to oxidative stress
+cellular response to heat
+response to hermaphrodite contact
+turning behavior involved in mating
+vulval location
+spicule insertion
+response to tumor necrosis factor
+cellular protein localization
+cellular response to reactive oxygen species
+response to laminar fluid shear stress
+cellular response to unfolded protein
+cellular macromolecular complex assembly
+DNA recombinase assembly involved in gene conversion at mating-type locus
+"fatty acid elongation, monounsaturated fatty acid"
+"fatty acid elongation, polyunsaturated fatty acid"
+'de novo' NAD biosynthetic process
+'de novo' NAD biosynthetic process from aspartate
+cellular protein complex localization
+RITS complex localization
+microtubule anchoring at spindle pole body
+retinol transport
+glutathione transport
+strand invasion involved in gene conversion at mating-type locus
+cellular carbohydrate biosynthetic process
+phosphatidylcholine catabolic process
+establishment of mitochondrion localization by microtubule attachment
+cellular nitrogen compound metabolic process
+mitochondrion migration along actin filament
+"establishment of mitochondrion localization, microtubule-mediated"
+cellular response to UV
+cellular macromolecule biosynthetic process
+cortisol metabolic process
+cortisol biosynthetic process
+extrachromosomal circular DNA localization involved in cell aging
+retinoic acid catabolic process
+nucleobase-containing compound biosynthetic process
+nucleobase-containing compound catabolic process
+nucleobase-containing small molecule catabolic process
+isopropylmalate transport
+ncRNA metabolic process
+ncRNA catabolic process
+chemotaxis to arachidonic acid
+retinoic acid receptor signaling pathway involved in pronephros anterior/posterior pattern specification
+anterior/posterior pattern specification involved in pronephros development
+response to prostaglandin
+response to prostaglandin E
+response to prostaglandin F
+response to prostaglandin I
+response to gonadotropin
+response to luteinizing hormone
+histone H3-K4 demethylation
+"histone H3-K4 demethylation, trimethyl-H3-K4-specific"
+DNA replication-dependent nucleosome organization
+DNA replication-independent nucleosome organization
+DNA replication-dependent nucleosome disassembly
+DNA replication-independent nucleosome disassembly
+piecemeal microautophagy of nucleus
+histone H3-K79 methylation
+cellular hormone metabolic process
+iron ion transmembrane transport
+regulation of iron ion transport
+negative regulation of iron ion transport
+positive regulation of iron ion transport
+regulation of iron ion transmembrane transport
+negative regulation of iron ion transmembrane transport
+positive regulation of iron ion transmembrane transport
+regulation of transmembrane transport
+negative regulation of transmembrane transport
+positive regulation of transmembrane transport
+regulation of ion transmembrane transport
+negative regulation of ion transmembrane transport
+positive regulation of ion transmembrane transport
+basement membrane disassembly
+histone H4-K20 methylation
+histone H4-K20 monomethylation
+histone H4-K20 dimethylation
+histone H4-K20 trimethylation
+glutathione transmembrane transport
+response to histamine
+endothelin maturation
+box C/D snoRNA processing
+box H/ACA snoRNA processing
+intronic box C/D snoRNA processing
+intronic box H/ACA snoRNA processing
+histone lysine methylation
+histone arginine methylation
+histone H3-R2 methylation
+histone H3-R17 methylation
+histone H3-R26 methylation
+protein folding in endoplasmic reticulum
+response to endoplasmic reticulum stress
+mitochondrial protein processing
+peptidyl-lysine deacetylation
+microtubule organizing center attachment site organization
+"dorsal trunk growth, open tracheal system"
+"liquid clearance, open tracheal system"
+melanization defense response
+regulation of melanization defense response
+positive regulation of melanization defense response
+negative regulation of melanization defense response
+encapsulation of foreign target
+melanotic encapsulation of foreign target
+elongation of arista core
+elongation of arista lateral
+cuticle pattern formation
+adult chitin-based cuticle pattern formation
+somatic stem cell maintenance
+regulation of Rac protein signal transduction
+negative regulation of Rac protein signal transduction
+positive regulation of Rac protein signal transduction
+regulation of Rho protein signal transduction
+negative regulation of Rho protein signal transduction
+positive regulation of Rho protein signal transduction
+leading edge cell differentiation
+leading edge cell fate commitment
+leading edge cell fate determination
+"dorsal closure, leading edge cell fate commitment"
+sperm-egg recognition
+sperm entry
+female pronucleus assembly
+male pronucleus assembly
+sperm nuclear envelope removal
+sperm chromatin decondensation
+"fertilization, exchange of chromosomal proteins"
+male pronuclear envelope synthesis
+sperm aster formation
+sperm plasma membrane disassembly
+pronuclear migration
+centrosomal and pronuclear rotation
+splicing factor protein import into nucleus
+embryonic heart tube development
+cardiocyte differentiation
+dorsal vessel aortic cell fate commitment
+dorsal vessel heart proper cell fate commitment
+embryonic heart tube anterior/posterior pattern specification
+nonmotile primary cilium assembly
+nuclear speck organization
+regulation of histone acetylation
+positive regulation of histone acetylation
+negative regulation of histone acetylation
+larval midgut histolysis
+salivary gland histolysis
+salivary gland cell autophagic cell death
+ecdysone-mediated induction of salivary gland cell autophagic cell death
+pupariation
+pupation
+response to ecdysone

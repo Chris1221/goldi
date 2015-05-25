@@ -1,0 +1,387 @@
+antigen processing and presentation of exogenous peptide antigen
+"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent"
+"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent"
+"antigen processing and presentation of exogenous protein antigen via MHC class Ib, TAP-dependent"
+"antigen processing and presentation of exogenous protein antigen via MHC class Ib, TAP-independent"
+antigen processing and presentation of endogenous peptide antigen
+antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway
+"antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-dependent"
+"antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent"
+antigen processing and presentation of endogenous peptide antigen via MHC class I via endolysosomal pathway
+antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway
+"antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway, TAP-dependent"
+"antigen processing and presentation of endogenous peptide antigen via MHC class Ib via ER pathway, TAP-independent"
+antigen processing and presentation of endogenous peptide antigen via MHC class II
+peptide antigen assembly with MHC class Ib protein complex
+lipid antigen assembly with MHC class Ib protein complex
+lipid antigen transport
+antigen processing and presentation of peptide antigen via MHC class II
+proteolysis associated with antigen processing and presentation
+proteasomal proteolysis associated with antigen processing and presentation
+proteolysis within endoplasmic reticulum associated with antigen processing and presentation
+proteolysis within endosome associated with antigen processing and presentation
+proteolysis within lysosome associated with antigen processing and presentation
+peptide antigen assembly with MHC protein complex
+peptide antigen assembly with MHC class I protein complex
+peptide antigen assembly with MHC class II protein complex
+antigen processing and presentation of peptide or polysaccharide antigen via MHC class II
+antigen processing and presentation of polysaccharide antigen via MHC class II
+polysaccharide assembly with MHC class II protein complex
+tolerance induction
+central tolerance induction
+central tolerance induction to self antigen
+central B cell tolerance induction
+central B cell receptor editing
+central T cell tolerance induction
+tolerance induction to self antigen
+B cell tolerance induction
+B cell anergy
+B cell deletion
+T cell tolerance induction
+lymphocyte chemotaxis across high endothelial venule
+natural killer cell tolerance induction
+immune system development
+leukocyte differentiation
+leukocyte migration involved in immune response
+leukocyte migration involved in inflammatory response
+hypersensitivity
+acute inflammatory response to non-antigenic stimulus
+acute inflammatory response
+vasodilation involved in acute inflammatory response
+regulation of vascular permeability involved in acute inflammatory response
+regulation of plasma kallikrein-kinin cascade
+regulation of systemic arterial blood pressure involved in acute-phase response
+regulation of heart contraction involved in acute-phase response
+production of molecular mediator involved in inflammatory response
+lysosomal enzyme secretion involved in inflammatory response
+cytokine production involved in inflammatory response
+platelet activating factor secretion involved in inflammatory response
+respiratory burst involved in inflammatory response
+nitric oxide production involved in inflammatory response
+arachidonic acid metabolite production involved in inflammatory response
+prostaglandin production involved in inflammatory response
+leukotriene production involved in inflammatory response
+activation of plasma proteins involved in acute inflammatory response
+Factor XII activation
+activation of blood coagulation via clotting cascade
+chronic inflammatory response
+chronic inflammatory response to non-antigenic stimulus
+negative regulation of tissue kallikrein-kinin cascade
+positive regulation of tissue kallikrein-kinin cascade
+monocyte chemotaxis
+negative regulation of plasma kallikrein-kinin cascade
+positive regulation of plasma kallikrein-kinin cascade
+mast cell chemotaxis
+serotonin secretion by mast cell
+histamine secretion by mast cell
+serotonin secretion by platelet
+histamine secretion by platelet
+serotonin secretion by basophil
+histamine secretion by basophil
+type I hypersensitivity mediated by mast cells
+type I hypersensitivity mediated by basophils
+basophil mediated immunity
+basophil degranulation
+somatic diversification of immune receptors via germline recombination within a single locus
+somatic diversification of immune receptors via alternate splicing
+alternate splicing of immunoglobulin genes
+somatic diversification of immune receptors via gene conversion
+somatic diversification of immune receptors via somatic mutation
+somatic diversification of FREP-based immune receptors
+somatic diversification of T cell receptor genes
+somatic diversification of immune receptors by N region addition
+somatic diversification of immunoglobulin genes by N region addition
+somatic diversification of T cell receptor genes by N region addition
+pro-T cell differentiation
+myeloid leukocyte differentiation
+thrombocyte differentiation
+basophil chemotaxis
+platelet degranulation
+regulation of antigen processing and presentation
+negative regulation of antigen processing and presentation
+positive regulation of antigen processing and presentation
+regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II
+negative regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II
+positive regulation of antigen processing and presentation of peptide or polysaccharide antigen via MHC class II
+regulation of antigen processing and presentation of peptide antigen
+negative regulation of antigen processing and presentation of peptide antigen
+positive regulation of antigen processing and presentation of peptide antigen
+regulation of antigen processing and presentation of peptide antigen via MHC class II
+negative regulation of antigen processing and presentation of peptide antigen via MHC class II
+positive regulation of antigen processing and presentation of peptide antigen via MHC class II
+regulation of antigen processing and presentation of peptide antigen via MHC class I
+negative regulation of antigen processing and presentation of peptide antigen via MHC class I
+positive regulation of antigen processing and presentation of peptide antigen via MHC class I
+regulation of antigen processing and presentation via MHC class Ib
+negative regulation of antigen processing and presentation via MHC class Ib
+positive regulation of antigen processing and presentation via MHC class Ib
+regulation of antigen processing and presentation of peptide antigen via MHC class Ib
+negative regulation of antigen processing and presentation of peptide antigen via MHC class Ib
+positive regulation of antigen processing and presentation of peptide antigen via MHC class Ib
+regulation of antigen processing and presentation of lipid antigen via MHC class Ib
+negative regulation of antigen processing and presentation of lipid antigen via MHC class Ib
+positive regulation of antigen processing and presentation of lipid antigen via MHC class Ib
+regulation of antigen processing and presentation of polysaccharide antigen via MHC class II
+negative regulation of antigen processing and presentation of polysaccharide antigen via MHC class II
+positive regulation of antigen processing and presentation of polysaccharide antigen via MHC class II
+regulation of dendritic cell antigen processing and presentation
+negative regulation of dendritic cell antigen processing and presentation
+positive regulation of dendritic cell antigen processing and presentation
+regulation of myeloid dendritic cell antigen processing and presentation
+negative regulation of myeloid dendritic cell antigen processing and presentation
+positive regulation of myeloid dendritic cell antigen processing and presentation
+regulation of plasmacytoid dendritic cell antigen processing and presentation
+negative regulation of plasmacytoid dendritic cell antigen processing and presentation
+positive regulation of plasmacytoid dendritic cell antigen processing and presentation
+regulation of monocyte antigen processing and presentation
+negative regulation of monocyte antigen processing and presentation
+positive regulation of monocyte antigen processing and presentation
+regulation of macrophage antigen processing and presentation
+negative regulation of macrophage antigen processing and presentation
+positive regulation of macrophage antigen processing and presentation
+regulation of non-professional antigen presenting cell antigen processing and presentation
+negative regulation of non-professional antigen presenting cell antigen processing and presentation
+positive regulation of non-professional antigen presenting cell antigen processing and presentation
+regulation of B cell antigen processing and presentation
+negative regulation of B cell antigen processing and presentation
+positive regulation of B cell antigen processing and presentation
+regulation of T cell antigen processing and presentation
+negative regulation of T cell antigen processing and presentation
+positive regulation of T cell antigen processing and presentation
+regulation of proteolysis associated with antigen processing and presentation
+negative regulation of proteolysis associated with antigen processing and presentation
+positive regulation of proteolysis associated with antigen processing and presentation
+regulation of granuloma formation
+negative regulation of granuloma formation
+positive regulation of granuloma formation
+regulation of germinal center formation
+negative regulation of germinal center formation
+positive regulation of germinal center formation
+regulation of immunoglobulin production
+negative regulation of immunoglobulin production
+positive regulation of immunoglobulin production
+regulation of immunoglobulin biosynthetic process
+negative regulation of immunoglobulin biosynthetic process
+positive regulation of immunoglobulin biosynthetic process
+regulation of tolerance induction
+negative regulation of tolerance induction
+positive regulation of tolerance induction
+regulation of central tolerance induction
+negative regulation of central tolerance induction
+positive regulation of central tolerance induction
+regulation of tolerance induction to self antigen
+negative regulation of tolerance induction to self antigen
+positive regulation of tolerance induction to self antigen
+regulation of tolerance induction dependent upon immune response
+negative regulation of tolerance induction dependent upon immune response
+positive regulation of tolerance induction dependent upon immune response
+regulation of tolerance induction to nonself antigen
+negative regulation of tolerance induction to nonself antigen
+positive regulation of tolerance induction to nonself antigen
+regulation of peripheral tolerance induction
+negative regulation of peripheral tolerance induction
+positive regulation of peripheral tolerance induction
+regulation of B cell tolerance induction
+negative regulation of B cell tolerance induction
+positive regulation of B cell tolerance induction
+regulation of T cell tolerance induction
+negative regulation of T cell tolerance induction
+positive regulation of T cell tolerance induction
+regulation of T cell anergy
+negative regulation of T cell anergy
+positive regulation of T cell anergy
+regulation of B cell anergy
+negative regulation of B cell anergy
+positive regulation of B cell anergy
+regulation of acute inflammatory response
+negative regulation of acute inflammatory response
+positive regulation of acute inflammatory response
+regulation of chronic inflammatory response
+negative regulation of chronic inflammatory response
+positive regulation of chronic inflammatory response
+respiratory burst involved in defense response
+pro-T cell lineage commitment
+somatic recombination of T cell receptor gene segments
+regulation of immune system process
+negative regulation of immune system process
+positive regulation of immune system process
+regulation of leukocyte migration
+negative regulation of leukocyte migration
+positive regulation of leukocyte migration
+regulation of leukocyte chemotaxis
+negative regulation of leukocyte chemotaxis
+positive regulation of leukocyte chemotaxis
+regulation of cellular extravasation
+negative regulation of cellular extravasation
+positive regulation of cellular extravasation
+regulation of leukocyte activation
+negative regulation of leukocyte activation
+positive regulation of leukocyte activation
+regulation of immune effector process
+negative regulation of immune effector process
+positive regulation of immune effector process
+regulation of production of molecular mediator of immune response
+negative regulation of production of molecular mediator of immune response
+positive regulation of production of molecular mediator of immune response
+regulation of leukocyte mediated immunity
+negative regulation of leukocyte mediated immunity
+positive regulation of leukocyte mediated immunity
+regulation of lymphocyte mediated immunity
+negative regulation of lymphocyte mediated immunity
+positive regulation of lymphocyte mediated immunity
+regulation of T cell mediated immunity
+negative regulation of T cell mediated immunity
+positive regulation of T cell mediated immunity
+regulation of B cell mediated immunity
+negative regulation of B cell mediated immunity
+positive regulation of B cell mediated immunity
+regulation of natural killer cell mediated immunity
+negative regulation of natural killer cell mediated immunity
+positive regulation of natural killer cell mediated immunity
+regulation of cytokine production involved in immune response
+negative regulation of cytokine production involved in immune response
+positive regulation of cytokine production involved in immune response
+regulation of B cell cytokine production
+negative regulation of B cell cytokine production
+positive regulation of B cell cytokine production
+regulation of T cell cytokine production
+negative regulation of T cell cytokine production
+positive regulation of T cell cytokine production
+regulation of natural killer cell cytokine production
+negative regulation of natural killer cell cytokine production
+positive regulation of natural killer cell cytokine production
+regulation of dendritic cell cytokine production
+negative regulation of dendritic cell cytokine production
+positive regulation of dendritic cell cytokine production
+regulation of myeloid dendritic cell cytokine production
+negative regulation of myeloid dendritic cell cytokine production
+positive regulation of myeloid dendritic cell cytokine production
+regulation of plasmacytoid dendritic cell cytokine production
+negative regulation of plasmacytoid dendritic cell cytokine production
+positive regulation of plasmacytoid dendritic cell cytokine production
+regulation of cytokine secretion involved in immune response
+negative regulation of cytokine secretion involved in immune response
+positive regulation of cytokine secretion involved in immune response
+regulation of cytokine biosynthetic process involved in immune response
+negative regulation of cytokine biosynthetic process involved in immune response
+positive regulation of cytokine biosynthetic process involved in immune response
+antigen processing and presentation initiated by receptor mediated uptake of antigen
+antigen processing and presentation following pinocytosis
+antigen processing and presentation following phagocytosis
+antigen processing and presentation initiated by pattern recognition receptor mediated uptake of antigen
+antigen processing and presentation initiated by toll-like receptor mediated phagocytosis of antigen
+antigen processing and presentation following macropinocytosis
+antigen processing and presentation following receptor mediated endocytosis
+cell surface pattern recognition receptor signaling pathway
+cytoplasmic pattern recognition receptor signaling pathway
+intracellular vesicle pattern recognition receptor signaling pathway
+MyD88-dependent toll-like receptor signaling pathway
+MyD88-independent toll-like receptor signaling pathway
+immune response-activating signal transduction
+innate immune response-activating signal transduction
+regulation of antimicrobial humoral response
+positive regulation of antimicrobial humoral response
+regulation of myeloid leukocyte differentiation
+negative regulation of myeloid leukocyte differentiation
+positive regulation of myeloid leukocyte differentiation
+immune response-regulating signaling pathway
+immune response-inhibiting signal transduction
+innate immune response-inhibiting signal transduction
+immune response-inhibiting cell surface receptor signaling pathway
+immune response-regulating cell surface receptor signaling pathway
+natural killer cell inhibitory signaling pathway
+T cell inhibitory signaling pathway
+inhibitory killer cell immunoglobulin-like receptor signaling pathway
+inhibitory C-type lectin receptor signaling pathway
+B cell inhibitory signaling pathway
+Fc receptor mediated inhibitory signaling pathway
+antimicrobial peptide production
+antimicrobial peptide secretion
+antimicrobial peptide biosynthetic process
+antibacterial peptide production
+antibacterial peptide secretion
+antibacterial peptide biosynthetic process
+antifungal peptide production
+antifungal peptide secretion
+antifungal peptide biosynthetic process
+regulation of antimicrobial peptide production
+negative regulation of antimicrobial peptide production
+regulation of antibacterial peptide production
+negative regulation of antibacterial peptide production
+regulation of antifungal peptide production
+negative regulation of antifungal peptide production
+peptide secretion
+regulation of peptide secretion
+negative regulation of peptide secretion
+positive regulation of peptide secretion
+regulation of antimicrobial peptide secretion
+negative regulation of antimicrobial peptide secretion
+positive regulation of antimicrobial peptide secretion
+regulation of antibacterial peptide secretion
+negative regulation of antibacterial peptide secretion
+positive regulation of antibacterial peptide secretion
+regulation of antifungal peptide secretion
+negative regulation of antifungal peptide secretion
+positive regulation of antifungal peptide secretion
+positive regulation of antibacterial peptide production
+positive regulation of antifungal peptide production
+regulation of antimicrobial peptide biosynthetic process
+negative regulation of antimicrobial peptide biosynthetic process
+positive regulation of antimicrobial peptide biosynthetic process
+regulation of antibacterial peptide biosynthetic process
+negative regulation of antibacterial peptide biosynthetic process
+regulation of antifungal peptide biosynthetic process
+negative regulation of antifungal peptide biosynthetic process
+biosynthetic process of antibacterial peptides active against Gram-negative bacteria
+regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria
+negative regulation of biosynthetic process of antibacterial peptides active against Gram-negative bacteria
+biosynthetic process of antibacterial peptides active against Gram-positive bacteria
+regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria
+negative regulation of biosynthetic process of antibacterial peptides active against Gram-positive bacteria
+intracellular defense response
+regulation of adaptive immune response
+negative regulation of adaptive immune response
+positive regulation of adaptive immune response
+regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+negative regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+regulation of T-helper 1 type immune response
+negative regulation of T-helper 1 type immune response
+positive regulation of T-helper 1 type immune response
+regulation of type 2 immune response
+negative regulation of type 2 immune response
+positive regulation of type 2 immune response
+regulation of response to biotic stimulus
+negative regulation of response to biotic stimulus
+positive regulation of response to biotic stimulus
+regulation of response to tumor cell
+negative regulation of response to tumor cell
+positive regulation of response to tumor cell
+regulation of immune response to tumor cell
+negative regulation of immune response to tumor cell
+positive regulation of immune response to tumor cell
+regulation of T cell mediated immune response to tumor cell
+negative regulation of T cell mediated immune response to tumor cell
+positive regulation of T cell mediated immune response to tumor cell
+regulation of tolerance induction to tumor cell
+negative regulation of tolerance induction to tumor cell
+positive regulation of tolerance induction to tumor cell
+regulation of T cell tolerance induction to tumor cell
+negative regulation of T cell tolerance induction to tumor cell
+positive regulation of T cell tolerance induction to tumor cell
+regulation of peripheral T cell tolerance induction
+negative regulation of peripheral T cell tolerance induction
+positive regulation of peripheral T cell tolerance induction
+regulation of T cell mediated cytotoxicity directed against tumor cell target
+negative regulation of T cell mediated cytotoxicity directed against tumor cell target
+positive regulation of T cell mediated cytotoxicity directed against tumor cell target
+regulation of natural killer cell mediated immune response to tumor cell
+negative regulation of natural killer cell mediated immune response to tumor cell
+positive regulation of natural killer cell mediated immune response to tumor cell
+regulation of natural killer cell mediated cytotoxicity directed against tumor cell target
+negative regulation of natural killer cell mediated cytotoxicity directed against tumor cell target
+positive regulation of natural killer cell mediated cytotoxicity directed against tumor cell target
+regulation of inflammatory response to antigenic stimulus
+negative regulation of inflammatory response to antigenic stimulus
+positive regulation of inflammatory response to antigenic stimulus
+regulation of acute inflammatory response to antigenic stimulus

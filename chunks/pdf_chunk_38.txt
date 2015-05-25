@@ -1,0 +1,387 @@
+R8 cell fate commitment
+R1/R6 cell fate commitment
+R2/R5 cell fate commitment
+R3/R4 cell fate commitment
+R7 cell fate commitment
+regulation of rhodopsin gene expression
+antennal development
+prothoracic disc morphogenesis
+prothoracic morphogenesis
+wing disc morphogenesis
+wing disc proximal/distal pattern formation
+imaginal disc-derived wing vein specification
+apposition of dorsal and ventral imaginal disc-derived wing surfaces
+imaginal disc-derived wing morphogenesis
+notum development
+leg disc morphogenesis
+leg disc proximal/distal pattern formation
+imaginal disc-derived leg morphogenesis
+haltere disc morphogenesis
+haltere development
+genital disc morphogenesis
+imaginal disc-derived genitalia development
+imaginal disc-derived male genitalia development
+imaginal disc-derived female genitalia development
+analia development
+histoblast morphogenesis
+maintenance of imaginal histoblast diploidy
+tergite morphogenesis
+sternite morphogenesis
+endoderm development
+endodermal cell fate determination
+midgut development
+visceral mesoderm-endoderm interaction involved in midgut development
+anterior midgut development
+posterior midgut development
+mesoderm development
+ectoderm and mesoderm interaction
+mesodermal cell fate determination
+mesodermal cell fate specification
+digestive tract mesoderm development
+fat body development
+larval fat body development
+adult fat body development
+gonadal mesoderm development
+heart development
+larval heart development
+mesoderm migration involved in gastrulation
+cardioblast cell fate determination
+adult heart development
+lymph gland development
+lymph node development
+hemocyte development
+muscle organ development
+myoblast fate determination
+skeletal muscle tissue development
+myoblast fusion
+muscle cell fate determination
+visceral muscle development
+larval visceral muscle development
+adult visceral muscle development
+somatic muscle development
+larval somatic muscle development
+adult somatic muscle development
+neuromuscular junction development
+establishment of synaptic specificity at neuromuscular junction
+sex determination
+mating type determination
+"regulation of mating-type specific transcription, DNA-templated"
+mating type switching
+gene conversion at mating-type locus
+donor selection
+activation of recombination (HML)
+inactivation of recombination (HML)
+primary sex determination
+"primary sex determination, soma"
+"sex determination, establishment of X:A ratio"
+"sex determination, primary response to X:A ratio"
+"primary sex determination, germ-line"
+"sex determination, somatic-gonadal interaction"
+processes downstream of sex determination signal
+somatic processes downstream of sex determination signal
+germ-line processes downstream of sex determination signal
+sex differentiation
+dosage compensation
+establishment of dosage compensation
+maintenance of dosage compensation
+metamorphosis
+regulation of ecdysteroid metabolic process
+regulation of ecdysteroid biosynthetic process
+regulation of ecdysteroid secretion
+regulation of juvenile hormone metabolic process
+regulation of juvenile hormone biosynthetic process
+regulation of juvenile hormone secretion
+histolysis
+imaginal disc morphogenesis
+imaginal disc eversion
+eclosion
+regulation of eclosion
+regulation of chitin-based cuticle tanning
+female pregnancy
+embryo implantation
+parturition
+aging
+cell aging
+age dependent accumulation of genetic damage
+age-dependent general metabolic decline
+age dependent decreased translational activity
+age dependent increased protein content
+cell aging (sensu Saccharomyces)
+nucleolar size increase
+nucleolar fragmentation
+autophagic death (sensu Saccharomyces)
+autophagic cell death
+aging dependent sterility (sensu Saccharomyces)
+chromatin silencing at silent mating-type cassette
+senescence factor accumulation
+extrachromosomal circular DNA accumulation involved in cell aging
+age-dependent yeast cell size increase
+killer activity
+natural killer cell mediated cytotoxicity
+response to nutrient
+respiratory gaseous exchange
+digestion
+excretion
+body fluid secretion
+fat body metabolic process (sensu Insecta)
+storage protein import into fat body
+"molting cycle, chitin-based cuticle"
+protein-based cuticle development
+collagen and cuticulin-based cuticle development
+chitin-based cuticle development
+chitin-based cuticle sclerotization
+puparial adhesion
+lactation
+"blood coagulation, intrinsic pathway"
+"blood coagulation, extrinsic pathway"
+hemostasis
+sensory perception
+visual perception
+phototransduction
+"phototransduction, visible light"
+"phototransduction, UV"
+sensory perception of sound
+sensory perception of chemical stimulus
+taste perception
+sensory perception of taste
+detection of chemical stimulus involved in sensory perception of taste
+sensory perception of smell
+behavior
+learning or memory
+learning
+memory
+short-term memory
+anesthesia-resistant memory
+long-term memory
+mating behavior
+mating
+courtship behavior
+copulation
+negative regulation of female receptivity
+rhythmic behavior
+circadian rhythm
+ultradian rhythm
+grooming behavior
+locomotory behavior
+larval behavior (sensu Insecta)
+larval behavior
+adult walking behavior
+flight behavior
+jump response
+feeding behavior
+visual behavior
+pattern orientation
+optokinetic behavior
+chemosensory behavior
+chemosensory jump behavior
+proboscis extension reflex
+mechanosensory behavior
+homeostasis of number of meristem cells
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules
+blood circulation
+regulation of heart contraction
+regulation of insulin secretion
+regulation of steroid biosynthetic process
+regulation of acyl-CoA biosynthetic process
+tRNA processing
+cell recognition
+neuron recognition
+synaptic target recognition
+adult behavior (sensu Insecta)
+adult behavior
+motor neuron axon guidance
+male courtship behavior
+female courtship behavior
+sensory organ boundary specification
+mitochondrial fusion
+negative regulation of cyclin-dependent protein serine/threonine kinase by cyclin degradation
+ocellus pigment biosynthetic process
+ocellus development
+eye pigment granule organization
+ocellus pigment granule organization
+eclosion rhythm
+Toll signaling pathway
+regulation of actin polymerization or depolymerization
+establishment of blood-nerve barrier
+"dorsal/ventral axis specification, ovarian follicular epithelium"
+"maternal determination of dorsal/ventral axis, ovarian follicular epithelium, germ-line encoded"
+"maternal determination of dorsal/ventral axis, ovarian follicular epithelium, soma encoded"
+mesodermal cell migration
+"phototransduction, visible light, light adaptation"
+axon cargo transport
+anterograde axon cargo transport
+retrograde axon cargo transport
+decapentaplegic signaling pathway
+oocyte microtubule cytoskeleton polarization
+asymmetric protein localization
+"negative regulation of DNA-templated transcription, elongation"
+biological_process
+para-aminobenzoic acid biosynthetic process
+actin polymerization or depolymerization
+larval behavior (sensu Drosophila)
+negative regulation of DNA replication
+"positive regulation of DNA-templated transcription, elongation"
+carbamate resistance
+response to carbamate
+cyclodiene resistance
+response to cyclodiene
+DDT resistance
+response to DDT
+organophosphorus resistance
+response to organophosphorus
+pyrethroid resistance
+response to pyrethroid
+viral replication
+viral genome replication
+sigma virus replication
+negative regulation of apoptotic process
+steroid metabolic process
+cholesterol metabolic process
+ergosterol metabolic process
+ecdysone metabolic process
+bile acid metabolic process
+C21-steroid hormone metabolic process
+C21-steroid hormone catabolic process
+androgen metabolic process
+estrogen metabolic process
+glucocorticoid metabolic process
+mineralocorticoid metabolic process
+protein alkylation
+protein dealkylation
+spermine metabolic process
+spermidine metabolic process
+regulation of blood pressure
+bioluminescence
+cell death
+necrosis
+programmed cell death
+cytolysis
+necrotic cell death
+defense response to Gram-positive bacterium
+defense response to Gram-negative bacterium
+opsonization
+RNA splicing
+head involution
+transforming growth factor beta ligand binding to type I receptor
+sulfate transport
+regulation of G-protein coupled receptor protein signaling pathway
+cell proliferation
+positive regulation of cell proliferation
+negative regulation of cell proliferation
+insulin receptor signaling pathway
+acetylcholine metabolic process
+acetylcholine biosynthetic process
+torso signaling pathway
+spermidine biosynthetic process
+intracellular mRNA localization
+isoprenoid biosynthetic process
+isoprenoid catabolic process
+"female germline ring canal formation, actin assembly"
+associative learning
+gurken signaling pathway
+meiotic G2/MI transition
+larval feeding behavior
+endosome to lysosome transport
+histone mRNA metabolic process
+female germline ring canal stabilization
+determination of adult lifespan
+response to cocaine (sensu Insecta)
+behavioral response to cocaine
+larval feeding behavior (sensu Insecta)
+adult feeding behavior
+adult locomotory behavior
+larval locomotory behavior
+larval walking behavior
+glial cell migration
+negative regulation of antimicrobial humoral response
+microtubule severing
+germ cell migration
+olfactory learning
+asymmetric cell division
+"maternal determination of anterior/posterior axis, embryo"
+regulation of bicoid mRNA localization
+regulation of cell shape
+regulation of cell size
+chitin-based embryonic cuticle biosynthetic process
+larval chitin-based cuticle development
+pupal chitin-based cuticle development
+adult chitin-based cuticle development
+axon ensheathment
+light-induced release of internally sequestered calcium ion
+gonad development
+chaeta morphogenesis
+negative regulation of coagulation
+cAMP metabolic process
+respiratory chain complex IV assembly
+regulation of proteasomal protein catabolic process
+visual learning
+fibroblast growth factor receptor signaling pathway
+epidermis development
+microtubule/chromatin interaction
+actin filament-based movement
+membrane fusion
+regulation of synaptic growth at neuromuscular junction
+mystery cell differentiation
+male gonad development
+female gonad development
+imaginal disc-derived wing vein morphogenesis
+imaginal disc-derived wing margin morphogenesis
+release of cytoplasmic sequestered NF-kappaB
+regulation of smoothened signaling pathway
+"regulation of Wnt signaling pathway, calcium modulating pathway"
+regulation of Toll signaling pathway
+regulation of Notch signaling pathway
+photoreceptor cell morphogenesis
+"anterior/posterior axis specification, embryo"
+attachment of spindle microtubules to kinetochore
+lipid biosynthetic process
+ether lipid biosynthetic process
+pyridoxine metabolic process
+pyridoxine biosynthetic process
+queuosine biosynthetic process
+guanosine metabolic process
+7-methylguanosine metabolic process
+extrinsic apoptotic signaling pathway via death domain receptors
+granzyme-mediated apoptotic signaling pathway
+intrinsic apoptotic signaling pathway in response to osmotic stress
+hormone-mediated apoptotic signaling pathway
+intrinsic apoptotic signaling pathway in response to DNA damage
+intrinsic apoptotic signaling pathway in response to oxidative stress
+activation of pro-apoptotic gene products
+negative regulation of survival gene product expression
+activation of cysteine-type endopeptidase activity involved in apoptotic process by cytochrome c
+activation of caspase activity by protein phosphorylation
+apoptotic mitochondrial changes
+carbohydrate transport
+hexose transport
+high-affinity hexose transport
+low-affinity hexose transport
+positive regulation of vasodilation
+positive regulation of smooth muscle contraction
+positive regulation of saliva secretion
+actin filament polymerization
+cellular amino acid biosynthetic process
+lipopolysaccharide metabolic process
+phospholipid biosynthetic process
+pyrimidine-containing compound salvage
+enterobactin biosynthetic process
+siroheme biosynthetic process
+tRNA thio-modification
+dosage compensation by hyperactivation of X chromosome
+dosage compensation by inactivation of X chromosome
+glycopeptide catabolic process
+"pentose-phosphate shunt, oxidative branch"
+"pentose-phosphate shunt, non-oxidative branch"
+catabolic process
+macromolecule catabolic process
+biosynthetic process
+macromolecule biosynthetic process
+aerobic respiration
+anaerobic respiration
+fatty acid catabolic process
+cellular amino acid catabolic process
+glutamine family amino acid metabolic process
+glutamine family amino acid catabolic process
+aspartate family amino acid metabolic process
+aspartate family amino acid biosynthetic process
+aspartate family amino acid catabolic process

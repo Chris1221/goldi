@@ -1,0 +1,387 @@
+"negative regulation of synaptic transmission, dopaminergic"
+"regulation of synaptic transmission, GABAergic"
+"negative regulation of synaptic transmission, GABAergic"
+"positive regulation of synaptic transmission, GABAergic"
+regulation of actin filament bundle assembly
+negative regulation of actin filament bundle assembly
+positive regulation of actin filament bundle assembly
+regulation of calcium ion transport via store-operated calcium channel activity
+negative regulation of calcium ion transport via store-operated calcium channel activity
+positive regulation of calcium ion transport via store-operated calcium channel activity
+activation of store-operated calcium channel activity
+adenosine transport
+regulation of nucleobase-containing compound transport
+negative regulation of nucleobase-containing compound transport
+positive regulation of nucleobase-containing compound transport
+regulation of nucleoside transport
+negative regulation of nucleoside transport
+positive regulation of nucleoside transport
+regulation of purine nucleoside transport
+regulation of pyrimidine nucleoside transport
+negative regulation of purine nucleoside transport
+positive regulation of purine nucleoside transport
+regulation of adenosine transport
+negative regulation of adenosine transport
+positive regulation of adenosine transport
+secretory granule localization
+dense core granule localization
+establishment of secretory granule localization
+maintenance of secretory granule location
+establishment of dense core granule localization
+maintenance of dense core granule location
+CVT pathway
+methylation
+response to jasmonic acid stimulus involved in jasmonic acid and ethylene-dependent systemic resistance
+purine nucleotide salvage
+pyrimidine nucleotide salvage
+GMP salvage
+IMP salvage
+XMP salvage
+regulation of cellular protein metabolic process
+negative regulation of cellular protein metabolic process
+positive regulation of cellular protein metabolic process
+regulation of protein polymerization
+negative regulation of protein polymerization
+positive regulation of protein polymerization
+gonadotropin secretion
+luteinizing hormone secretion
+regulation of gonadotropin secretion
+negative regulation of gonadotropin secretion
+positive regulation of gonadotropin secretion
+non-myelinated axon ensheathment
+central nervous system myelin maintenance
+peripheral nervous system myelin maintenance
+myelin assembly
+central nervous system myelin formation
+peripheral nervous system myelin formation
+axon ensheathment in central nervous system
+peripheral nervous system axon ensheathment
+non-myelinated axon ensheathment in central nervous system
+peripheral nervous system non-myelinated axon ensheathment
+ensheathment of neuronal cell bodies
+negative regulation of DNA-dependent DNA replication initiation
+positive regulation of DNA-dependent DNA replication initiation
+regulation of icosanoid secretion
+negative regulation of icosanoid secretion
+positive regulation of icosanoid secretion
+regulation of prostaglandin secretion
+negative regulation of prostaglandin secretion
+positive regulation of prostaglandin secretion
+icosanoid secretion
+prostaglandin secretion
+ubiquinone catabolic process
+lipoate catabolic process
+molybdopterin cofactor biosynthetic process
+molybdopterin cofactor catabolic process
+Mo-molybdopterin cofactor catabolic process
+W-molybdopterin cofactor catabolic process
+alanine transport
+serine transport
+regulation of chondrocyte differentiation
+negative regulation of chondrocyte differentiation
+positive regulation of chondrocyte differentiation
+activin secretion
+inhibin secretion
+regulation of activin secretion
+negative regulation of activin secretion
+positive regulation of activin secretion
+regulation of inhibin secretion
+negative regulation of inhibin secretion
+positive regulation of inhibin secretion
+aldosterone metabolic process
+aldosterone biosynthetic process
+aldosterone catabolic process
+regulation of aldosterone metabolic process
+negative regulation of aldosterone metabolic process
+positive regulation of aldosterone metabolic process
+regulation of aldosterone biosynthetic process
+negative regulation of aldosterone biosynthetic process
+positive regulation of aldosterone biosynthetic process
+regulation of hormone metabolic process
+negative regulation of hormone metabolic process
+positive regulation of hormone metabolic process
+negative regulation of hormone biosynthetic process
+response to follicle-stimulating hormone
+response to estradiol
+provirus excision
+pyridoxal phosphate catabolic process
+obsolete FAD catabolic process
+FMN catabolic process
+oxygen homeostasis
+intracellular lipid transport
+intracellular sterol transport
+intracellular cholesterol transport
+regulation of lipid transport
+negative regulation of lipid transport
+positive regulation of lipid transport
+regulation of sterol transport
+negative regulation of sterol transport
+positive regulation of sterol transport
+regulation of cholesterol transport
+negative regulation of cholesterol transport
+positive regulation of cholesterol transport
+regulation of intracellular lipid transport
+negative regulation of intracellular lipid transport
+positive regulation of intracellular lipid transport
+regulation of intracellular sterol transport
+negative regulation of intracellular sterol transport
+positive regulation of intracellular sterol transport
+regulation of intracellular cholesterol transport
+negative regulation of intracellular cholesterol transport
+positive regulation of intracellular cholesterol transport
+regulation of intracellular transport
+negative regulation of intracellular transport
+positive regulation of intracellular transport
+DNA geometric change
+melanosome localization
+establishment of melanosome localization
+melanosome transport
+regulation of transporter activity
+negative regulation of transporter activity
+positive regulation of transporter activity
+regulation of ion transmembrane transporter activity
+negative regulation of ion transmembrane transporter activity
+positive regulation of ion transmembrane transporter activity
+regulation of sodium:proton antiporter activity
+negative regulation of sodium:proton antiporter activity
+positive regulation of sodium:proton antiporter activity
+lysosome localization
+regulation of mismatch repair
+negative regulation of mismatch repair
+positive regulation of mismatch repair
+regulation of phospholipase A2 activity
+positive regulation of phospholipase A2 activity
+activation of phospholipase A2 activity
+regulation of proteasomal ubiquitin-dependent protein catabolic process
+negative regulation of proteasomal ubiquitin-dependent protein catabolic process
+positive regulation of proteasomal ubiquitin-dependent protein catabolic process
+melanosome organization
+endosome localization
+regulation of ergosterol biosynthetic process
+fructose import
+protein modification by small protein conjugation
+protein urmylation
+nerve growth factor processing
+endocytic recycling
+fast endocytic recycling
+slow endocytic recycling
+regulation of protein oligomerization
+negative regulation of protein oligomerization
+positive regulation of protein oligomerization
+regulation of protein homooligomerization
+negative regulation of protein homooligomerization
+positive regulation of protein homooligomerization
+regulation of cytokinesis
+negative regulation of cytokinesis
+positive regulation of cytokinesis
+Golgi calcium ion homeostasis
+endoplasmic reticulum calcium ion homeostasis
+positive regulation of endoplasmic reticulum calcium ion concentration
+negative regulation of endoplasmic reticulum calcium ion concentration
+Golgi calcium ion transport
+otolith morphogenesis
+otolith formation
+regulation of type I interferon production
+negative regulation of type I interferon production
+positive regulation of type I interferon production
+Rab protein signal transduction
+regulation of Rab protein signal transduction
+Ral protein signal transduction
+regulation of Ral protein signal transduction
+Rap protein signal transduction
+regulation of Rap protein signal transduction
+Cdc42 protein signal transduction
+regulation of Cdc42 protein signal transduction
+detection of molecule of bacterial origin
+detection of molecule of fungal origin
+detection of molecule of oomycetes origin
+response to bacterial lipoprotein
+response to peptidoglycan
+response to muramyl dipeptide
+response to lipopolysaccharide
+detection of lipopolysaccharide
+detection of muramyl dipeptide
+detection of peptidoglycan
+multicellular organismal process
+developmental process
+multicellular organism reproduction
+reproduction of a single-celled organism
+cytokinetic process
+maintenance of protein location in cell
+DNA duplex unwinding
+endosome transport via multivesicular body sorting pathway
+endosome to lysosome transport via multivesicular body sorting pathway
+late endosome to vacuole transport via multivesicular body sorting pathway
+regulation of protein phosphatase type 2B activity
+negative regulation of protein phosphatase type 2B activity
+positive regulation of protein phosphatase type 2B activity
+negative regulation of phosphoprotein phosphatase activity
+positive regulation of phosphoprotein phosphatase activity
+nutrient export
+somite rostral/caudal axis specification
+response to retinoic acid
+protein exit from endoplasmic reticulum
+microvillus organization
+follicle cell microvillus organization
+regulation of microvillus organization
+regulation of follicle cell microvillus organization
+regulation of microvillus length
+regulation of follicle cell microvillus length
+regulation of microvillus assembly
+regulation of cellular component size
+regulation of cell projection size
+host-seeking behavior
+regulation of host-seeking behavior
+negative regulation of host-seeking behavior
+positive regulation of host-seeking behavior
+mitochondrial translation
+plastid translation
+response to progesterone
+response to vitamin K
+response to menaquinone
+response to phylloquinone
+ER-dependent peroxisome organization
+protein transport within lipid bilayer
+B cell receptor transport within lipid bilayer
+protein transport into membrane raft
+B cell receptor transport into membrane raft
+B cell receptor transport into immunological synapse
+protein transport out of membrane raft
+chemokine receptor transport out of membrane raft
+connective tissue growth factor production
+chemokine production
+fractalkine production
+granulocyte macrophage colony-stimulating factor production
+hepatocyte growth factor production
+type I interferon production
+interferon-alpha production
+interferon-beta production
+interferon-gamma production
+interleukin-1 alpha production
+interleukin-1 beta production
+interleukin-1 production
+interleukin-10 production
+interleukin-11 production
+interleukin-12 production
+interleukin-13 production
+interleukin-14 production
+interleukin-15 production
+interleukin-16 production
+interleukin-17 production
+interleukin-18 production
+interleukin-19 production
+interleukin-2 production
+interleukin-20 production
+interleukin-21 production
+interleukin-22 production
+interleukin-23 production
+interleukin-24 production
+interleukin-25 production
+interleukin-26 production
+interleukin-27 production
+interleukin-3 production
+interleukin-4 production
+interleukin-5 production
+interleukin-6 production
+interleukin-7 production
+interleukin-8 production
+interleukin-9 production
+TRAIL production
+tumor necrosis factor production
+lymphotoxin A production
+regulation of chemokine production
+regulation of connective tissue growth factor production
+regulation of fractalkine production
+regulation of granulocyte macrophage colony-stimulating factor production
+regulation of hepatocyte growth factor production
+regulation of interferon-alpha production
+regulation of interferon-beta production
+regulation of interferon-gamma production
+regulation of interleukin-1 alpha production
+regulation of interleukin-1 beta production
+regulation of interleukin-1 production
+regulation of interleukin-10 production
+regulation of interleukin-11 production
+regulation of interleukin-12 production
+regulation of interleukin-13 production
+regulation of interleukin-14 production
+regulation of interleukin-15 production
+regulation of interleukin-16 production
+regulation of interleukin-17 production
+regulation of interleukin-18 production
+regulation of interleukin-19 production
+regulation of interleukin-2 production
+regulation of interleukin-20 production
+regulation of interleukin-21 production
+regulation of interleukin-22 production
+regulation of interleukin-23 production
+regulation of interleukin-24 production
+regulation of interleukin-25 production
+regulation of interleukin-26 production
+regulation of interleukin-27 production
+regulation of interleukin-3 production
+regulation of interleukin-4 production
+regulation of interleukin-5 production
+regulation of interleukin-6 production
+regulation of interleukin-7 production
+regulation of interleukin-8 production
+regulation of interleukin-9 production
+regulation of TRAIL production
+regulation of tumor necrosis factor production
+regulation of lymphotoxin A production
+negative regulation of chemokine production
+negative regulation of connective tissue growth factor production
+negative regulation of fractalkine production
+negative regulation of granulocyte macrophage colony-stimulating factor production
+negative regulation of hepatocyte growth factor production
+negative regulation of interferon-alpha production
+negative regulation of interferon-beta production
+negative regulation of interferon-gamma production
+negative regulation of interleukin-1 alpha production
+negative regulation of interleukin-1 beta production
+negative regulation of interleukin-1 production
+negative regulation of interleukin-10 production
+negative regulation of interleukin-11 production
+negative regulation of interleukin-12 production
+negative regulation of interleukin-13 production
+negative regulation of interleukin-14 production
+negative regulation of interleukin-15 production
+negative regulation of interleukin-16 production
+negative regulation of interleukin-17 production
+negative regulation of interleukin-18 production
+negative regulation of interleukin-19 production
+negative regulation of interleukin-2 production
+negative regulation of interleukin-20 production
+negative regulation of interleukin-21 production
+negative regulation of interleukin-22 production
+negative regulation of interleukin-23 production
+negative regulation of interleukin-24 production
+negative regulation of interleukin-25 production
+negative regulation of interleukin-26 production
+negative regulation of interleukin-27 production
+negative regulation of interleukin-3 production
+negative regulation of interleukin-4 production
+negative regulation of interleukin-5 production
+negative regulation of interleukin-6 production
+negative regulation of interleukin-7 production
+negative regulation of interleukin-8 production
+negative regulation of interleukin-9 production
+negative regulation of TRAIL production
+negative regulation of tumor necrosis factor production
+negative regulation of lymphotoxin A production
+positive regulation of chemokine production
+positive regulation of connective tissue growth factor production
+positive regulation of fractalkine production
+positive regulation of granulocyte macrophage colony-stimulating factor production
+positive regulation of hepatocyte growth factor production
+positive regulation of interferon-alpha production
+positive regulation of interferon-beta production
+positive regulation of interferon-gamma production
+positive regulation of interleukin-1 alpha production
+positive regulation of interleukin-1 beta production
+positive regulation of interleukin-1 production
+positive regulation of interleukin-10 production
+positive regulation of interleukin-11 production
+positive regulation of interleukin-12 production
+positive regulation of interleukin-13 production
+positive regulation of interleukin-14 production

@@ -1,0 +1,387 @@
+positive regulation of interleukin-15 production
+positive regulation of interleukin-16 production
+positive regulation of interleukin-17 production
+positive regulation of interleukin-18 production
+positive regulation of interleukin-19 production
+positive regulation of interleukin-2 production
+positive regulation of interleukin-20 production
+positive regulation of interleukin-21 production
+positive regulation of interleukin-22 production
+positive regulation of interleukin-23 production
+positive regulation of interleukin-24 production
+positive regulation of interleukin-25 production
+positive regulation of interleukin-26 production
+positive regulation of interleukin-27 production
+positive regulation of interleukin-3 production
+positive regulation of interleukin-4 production
+positive regulation of interleukin-5 production
+positive regulation of interleukin-6 production
+positive regulation of interleukin-7 production
+positive regulation of interleukin-8 production
+positive regulation of interleukin-9 production
+positive regulation of TRAIL production
+positive regulation of tumor necrosis factor production
+positive regulation of lymphotoxin A production
+mast cell cytokine production
+regulation of mast cell cytokine production
+negative regulation of mast cell cytokine production
+positive regulation of mast cell cytokine production
+regulation of monooxygenase activity
+negative regulation of monooxygenase activity
+positive regulation of monooxygenase activity
+regulation of monophenol monooxygenase activity
+negative regulation of monophenol monooxygenase activity
+positive regulation of monophenol monooxygenase activity
+RNA biosynthetic process
+DNA methylation on adenine
+DNA methylation on cytosine
+negative regulation of ATPase activity
+positive regulation of ATPase activity
+bile acid secretion
+monocarboxylic acid metabolic process
+saturated monocarboxylic acid metabolic process
+unsaturated monocarboxylic acid metabolic process
+ribosome disassembly
+negative regulation of CREB transcription factor activity
+positive regulation of CREB transcription factor activity
+uropod organization
+low-density lipoprotein receptor particle metabolic process
+receptor biosynthetic process
+receptor catabolic process
+low-density lipoprotein particle receptor catabolic process
+regulation of low-density lipoprotein particle receptor catabolic process
+negative regulation of low-density lipoprotein particle receptor catabolic process
+positive regulation of low-density lipoprotein particle receptor catabolic process
+lacrimal gland development
+negative regulation of epinephrine secretion
+positive regulation of epinephrine secretion
+regulation of natural killer cell activation
+negative regulation of natural killer cell activation
+positive regulation of natural killer cell activation
+regulation of natural killer cell proliferation
+negative regulation of natural killer cell proliferation
+positive regulation of natural killer cell proliferation
+regulation of natural killer cell proliferation involved in immune response
+negative regulation of natural killer cell proliferation involved in immune response
+positive regulation of natural killer cell proliferation involved in immune response
+regulation of natural killer cell differentiation
+negative regulation of natural killer cell differentiation
+positive regulation of natural killer cell differentiation
+regulation of natural killer cell differentiation involved in immune response
+negative regulation of natural killer cell differentiation involved in immune response
+positive regulation of natural killer cell differentiation involved in immune response
+"regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"
+"negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"
+"positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation"
+"regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"
+"negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"
+"positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response"
+glomerulus development
+glomerular basement membrane development
+distributive segregation
+regulation of homeostatic process
+negative regulation of homeostatic process
+positive regulation of homeostatic process
+regulation of cellular pH reduction
+negative regulation of cellular pH reduction
+positive regulation of cellular pH reduction
+response to insulin
+cellular response to insulin stimulus
+cellular response to hormone stimulus
+regulation of karyogamy
+regulation of stress-activated MAPK cascade
+negative regulation of stress-activated MAPK cascade
+positive regulation of stress-activated MAPK cascade
+regulation of DNA endoreduplication
+negative regulation of DNA endoreduplication
+positive regulation of DNA endoreduplication
+regulation of establishment or maintenance of cell polarity
+regulation of localization
+regulation of protein localization
+regulation of polysaccharide metabolic process
+regulation of chitin metabolic process
+regulation of chitin biosynthetic process
+regulation of cell wall chitin biosynthetic process
+regulation of polysaccharide biosynthetic process
+regulation of microtubule-based process
+regulation of spindle elongation
+regulation of mitotic spindle elongation
+"regulation of vacuole fusion, non-autophagic"
+regulation of organic acid transport
+negative regulation of organic acid transport
+positive regulation of organic acid transport
+regulation of gluconate transport
+negative regulation of gluconate transport
+positive regulation of gluconate transport
+negative regulation of viral transcription
+neurotrophin production
+regulation of neurotrophin production
+negative regulation of neurotrophin production
+positive regulation of neurotrophin production
+nerve growth factor production
+regulation of nerve growth factor production
+negative regulation of nerve growth factor production
+transforming growth factor beta1 production
+transforming growth factor beta2 production
+transforming growth factor beta3 production
+regulation of transforming growth factor beta1 production
+regulation of transforming growth factor beta2 production
+regulation of transforming growth factor beta3 production
+negative regulation of transforming growth factor beta1 production
+negative regulation of transforming growth factor beta2 production
+negative regulation of transforming growth factor beta3 production
+positive regulation of transforming growth factor beta1 production
+positive regulation of transforming growth factor beta2 production
+positive regulation of transforming growth factor beta3 production
+polyamine acetylation
+spermidine acetylation
+spermine acetylation
+putrescine acetylation
+circadian regulation of gene expression
+organic phosphonate biosynthetic process
+activin receptor signaling pathway
+regulation of activin receptor signaling pathway
+negative regulation of activin receptor signaling pathway
+positive regulation of activin receptor signaling pathway
+regulation of superoxide anion generation
+negative regulation of superoxide anion generation
+positive regulation of superoxide anion generation
+negative regulation of astral microtubule depolymerization
+SREBP signaling pathway
+negative regulation of translation in response to oxidative stress
+positive regulation of translation in response to oxidative stress
+secretion by cell
+secretion by tissue
+mononuclear cell proliferation
+regulation of mononuclear cell proliferation
+negative regulation of mononuclear cell proliferation
+positive regulation of mononuclear cell proliferation
+regulation of alpha-glucan metabolic process
+regulation of alpha-glucan biosynthetic process
+regulation of beta-glucan metabolic process
+regulation of beta-glucan biosynthetic process
+regulation of (1->3)-beta-D-glucan metabolic process
+regulation of (1->3)-beta-D-glucan biosynthetic process
+regulation of cytokinetic process
+regulation of barrier septum assembly
+regulation of actin cytoskeleton organization
+inositol trisphosphate metabolic process
+inositol phosphate biosynthetic process
+inositol trisphosphate biosynthetic process
+regulation of inositol trisphosphate biosynthetic process
+negative regulation of inositol trisphosphate biosynthetic process
+positive regulation of inositol trisphosphate biosynthetic process
+collagen metabolic process
+collagen biosynthetic process
+regulation of collagen biosynthetic process
+negative regulation of collagen biosynthetic process
+positive regulation of collagen biosynthetic process
+positive regulation of transcription elongation from RNA polymerase II promoter
+regulation of actin filament-based process
+regulation of muscle filament sliding
+regulation of muscle filament sliding speed
+amino acid export
+amino acid transmembrane export from vacuole
+amino acid transmembrane import into vacuole
+release of matrix enzymes from mitochondria
+protein insertion into membrane from inner side
+protein insertion into mitochondrial membrane from inner side
+keratinocyte activation
+mitochondrial respiratory chain complex I assembly
+macromolecular complex disassembly
+protein-carbohydrate complex disassembly
+protein-DNA complex disassembly
+protein-lipid complex disassembly
+ribonucleoprotein complex disassembly
+cellular component morphogenesis
+cell part morphogenesis
+regulation of fungal-type cell wall biogenesis
+muscle cell proliferation
+regulation of mast cell activation
+negative regulation of mast cell activation
+positive regulation of mast cell activation
+regulation of mast cell activation involved in immune response
+negative regulation of mast cell activation involved in immune response
+positive regulation of mast cell activation involved in immune response
+tetrapyrrole metabolic process
+tetrapyrrole biosynthetic process
+tetrapyrrole catabolic process
+cyclopentanol metabolic process
+cyclopentanol biosynthetic process
+cyclopentanol catabolic process
+mast cell homeostasis
+mast cell apoptotic process
+regulation of mast cell apoptotic process
+negative regulation of mast cell apoptotic process
+positive regulation of mast cell apoptotic process
+myeloid cell apoptotic process
+regulation of neutrophil apoptotic process
+negative regulation of neutrophil apoptotic process
+positive regulation of neutrophil apoptotic process
+regulation of myeloid cell apoptotic process
+negative regulation of myeloid cell apoptotic process
+positive regulation of myeloid cell apoptotic process
+macromolecule localization
+polysaccharide localization
+regulation of organelle organization
+regulation of chromosome organization
+regulation of sister chromatid segregation
+negative regulation of sister chromatid segregation
+regulation of mitotic sister chromatid segregation
+negative regulation of mitotic sister chromatid segregation
+clavulanic acid metabolic process
+clavulanic acid biosynthetic process
+aminophosphonate metabolic process
+cyanoamino acid metabolic process
+D-glutamine metabolic process
+D-glutamate metabolic process
+D-arginine metabolic process
+D-ornithine metabolic process
+multicellular organismal reproductive behavior
+directional locomotion
+cellular pigmentation
+ocellus pigmentation
+macrolide metabolic process
+macrolide biosynthetic process
+ansamycin metabolic process
+ansamycin biosynthetic process
+vancomycin metabolic process
+vancomycin biosynthetic process
+pinene metabolic process
+pinene catabolic process
+isoquinoline alkaloid biosynthetic process
+isoquinoline alkaloid metabolic process
+T cell differentiation in thymus
+extrathymic T cell differentiation
+immature T cell proliferation
+immature T cell proliferation in thymus
+regulation of T cell differentiation in thymus
+regulation of extrathymic T cell differentiation
+regulation of immature T cell proliferation
+regulation of immature T cell proliferation in thymus
+negative regulation of T cell differentiation in thymus
+negative regulation of extrathymic T cell differentiation
+negative regulation of immature T cell proliferation
+negative regulation of immature T cell proliferation in thymus
+positive regulation of T cell differentiation in thymus
+positive regulation of extrathymic T cell differentiation
+positive regulation of immature T cell proliferation
+positive regulation of immature T cell proliferation in thymus
+protein secretion by the type VI secretion system
+mitochondrial respiratory chain complex assembly
+cortical actin cytoskeleton stabilization
+negative regulation of RNA splicing
+positive regulation of RNA splicing
+regulation of purine nucleotide catabolic process
+negative regulation of purine nucleotide catabolic process
+positive regulation of purine nucleotide catabolic process
+obsolete regulation of GTP catabolic process
+regulation of GTPase activity
+obsolete negative regulation of GTP catabolic process
+obsolete positive regulation of GTP catabolic process
+positive regulation of GTPase activity
+regulation of histone phosphorylation
+negative regulation of histone phosphorylation
+positive regulation of histone phosphorylation
+regulation of glucokinase activity
+negative regulation of glucokinase activity
+positive regulation of glucokinase activity
+regulation of peptidyl-serine phosphorylation
+serine phosphorylation of STAT3 protein
+negative regulation of peptidyl-serine phosphorylation
+positive regulation of peptidyl-serine phosphorylation
+regulation of peptidyl-serine phosphorylation of STAT protein
+negative regulation of peptidyl-serine phosphorylation of STAT protein
+positive regulation of peptidyl-serine phosphorylation of STAT protein
+regulation of intracellular steroid hormone receptor signaling pathway
+negative regulation of intracellular steroid hormone receptor signaling pathway
+positive regulation of intracellular steroid hormone receptor signaling pathway
+regulation of intracellular estrogen receptor signaling pathway
+negative regulation of intracellular estrogen receptor signaling pathway
+positive regulation of intracellular estrogen receptor signaling pathway
+V(D)J recombination
+immunoglobulin V(D)J recombination
+T cell receptor V(D)J recombination
+oligogalacturonide transport
+regulation of intracellular protein transport
+"regulation of protein import into nucleus, translocation"
+"negative regulation of protein import into nucleus, translocation"
+"positive regulation of protein import into nucleus, translocation"
+conversion of ds siRNA to ss siRNA involved in RNA interference
+histone H3-K9 demethylation
+calcineurin-NFAT signaling cascade
+regulation of histone ubiquitination
+negative regulation of histone ubiquitination
+positive regulation of histone ubiquitination
+response to vitamin A
+response to hydroperoxide
+response to alkyl hydroperoxide
+response to vitamin E
+response to ATP
+meiotic cytokinesis
+tumor necrosis factor-mediated signaling pathway
+leptin-mediated signaling pathway
+adiponectin-activated signaling pathway
+iron assimilation
+iron assimilation by capture and transport
+iron assimilation by chelation and transport
+iron assimilation by reduction and transport
+ferric iron import
+regulation of transcription from RNA polymerase II promoter in response to iron ion starvation
+2-aminoethylphosphonate transport
+dsRNA transport
+cysteine export
+carbohydrate export
+regulation of protein sumoylation
+negative regulation of protein sumoylation
+positive regulation of protein sumoylation
+regulation of cellular amine metabolic process
+negative regulation of cellular amine metabolic process
+positive regulation of cellular amine metabolic process
+regulation of cellular amine catabolic process
+negative regulation of cellular amine catabolic process
+positive regulation of cellular amine catabolic process
+regulation of penicillin metabolic process
+negative regulation of penicillin metabolic process
+positive regulation of penicillin metabolic process
+regulation of penicillin catabolic process
+negative regulation of penicillin catabolic process
+positive regulation of penicillin catabolic process
+regulation of beta-lactamase activity
+regulation of penicillinase activity
+plastid DNA metabolic process
+plastid DNA replication
+nuclear DNA replication
+regulation of S phase
+cell cycle phase transition
+regulation of nuclear cell cycle DNA replication
+myo-inositol phosphate transport
+myo-inositol hexakisphosphate transport
+response to vitamin
+response to vitamin B2
+actin-myosin filament sliding
+abortive mitotic cell cycle
+cell proliferation in midbrain
+response to vitamin D
+T-tubule organization
+contractile vacuole organization
+secretion of lysosomal enzymes
+cell cycle comprising mitosis without cytokinesis
+quercetin O-glucoside metabolic process
+quercetin O-glucoside biosynthetic process
+chlorophyll a metabolic process
+chlorophyll a biosynthetic process
+phytol metabolic process
+phytol salvage
+hydroxyectoine transport
+chlorophyll a catabolic process
+chlorophyll a biosynthetic process via phytyl diphosphate
+chlorophyll a biosynthetic process via geranylgeranyl-chlorophyll a
+meiotic cell cycle checkpoint
+mitotic DNA replication checkpoint
+meiotic DNA replication checkpoint
+meiotic spindle assembly checkpoint
+pantothenate biosynthetic process from valine
+pantothenate biosynthetic process from 2-dehydropantolactone
+UDP-D-xylose metabolic process
+UDP-D-xylose biosynthetic process

@@ -1,0 +1,388 @@
+telomerase inhibitor activity
+Hsp27 protein regulator activity
+Hsp27 protein binding
+misfolded protein binding
+Hsp27 protein inhibitor activity
+nitrate efflux transmembrane transporter activity
+Hsp90 protein regulator activity
+Hsp90 protein binding
+Hsp90 protein inhibitor activity
+metalloenzyme regulator activity
+metalloenzyme activator activity
+acetyltransferase activator activity
+serum response element binding
+promoter binding
+transcription regulatory region DNA binding
+recombination hotspot binding
+cyclase regulator activity
+cyclase inhibitor activity
+cyclase activator activity
+adenylate cyclase regulator activity
+adenylate cyclase inhibitor activity
+adenylate cyclase activator activity
+calcium-dependent protein kinase activity
+calcium-dependent protein kinase regulator activity
+calcium-dependent cysteine-type endopeptidase inhibitor activity
+proteasome regulator activity
+endopeptidase regulator activity
+thyroid hormone receptor activator activity
+NADPH pyrophosphatase activity
+CoA pyrophosphatase activity
+anaphase-promoting complex binding
+polyferredoxin
+high-potential iron-sulfur carrier
+heme-copper terminal oxidase activity
+copper electron carrier
+small blue copper electron carrier
+azurin
+plastocyanin
+"electron transporter, transferring electrons from cytochrome b6/f complex of photosystem II activity"
+"electron carrier, chlorophyll electron transport system"
+[heparan sulfate]-glucosamine N-sulfotransferase activity
+glypican
+galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase activity
+heparan-alpha-glucosaminide N-acetyltransferase activity
+glucuronosyltransferase activity
+heparin-sulfate lyase activity
+syndecan
+glucuronate-2-sulfatase activity
+GPI-anchored membrane-bound receptor
+coreceptor activity
+internalization receptor activity
+cytochrome P450 activity
+oxygen binding
+protein disulfide oxidoreductase activity
+peptide disulfide oxidoreductase activity
+NADPH-adrenodoxin reductase activity
+"electron transfer flavoprotein, group I"
+"electron transfer flavoprotein, group II"
+trypanothione-disulfide reductase activity
+leghemoglobin reductase activity
+rubredoxin-NAD+ reductase activity
+rubredoxin-NAD(P)+ reductase activity
+rubredoxin-NADP reductase activity
+NADPH-cytochrome-c2 reductase activity
+phthalate dioxygenase reductase activity
+methane monooxygenase activity
+X-opioid receptor activity
+beta3-adrenergic receptor activity
+opsin
+retinal binding
+"3,4-didehydroretinal binding"
+gastrin receptor activity
+secretin receptor activity
+corticotrophin-releasing factor receptor activity
+thrombin receptor activity
+epidermal growth factor-like module containing hormone receptor activity
+blue-sensitive opsin
+green-sensitive opsin
+red-sensitive opsin
+violet-sensitive opsin
+long-wave-sensitive opsin
+UV-sensitive opsin
+uridine nucleotide receptor activity
+alpha-amylase inhibitor activity
+amidinotransferase activity
+glycine amidinotransferase activity
+scyllo-inosamine-4-phosphate amidinotransferase activity
+toxin activity
+toxin receptor binding
+"phosphatidylinositol 3-kinase, class I, catalyst activity"
+1-phosphatidylinositol-3-kinase activity
+1-phosphatidylinositol-4-phosphate 3-kinase activity
+"phosphatidylinositol-4,5-bisphosphate 3-kinase activity"
+"phosphatidylinositol 3-kinase, class I, regulator activity"
+1-phosphatidylinositol-3-kinase regulator activity
+ion transmembrane transporter activity
+heavy metal ion transporter activity
+monovalent inorganic cation transmembrane transporter activity
+hydrogen ion transmembrane transporter activity
+potassium ion transmembrane transporter activity
+silver ion transmembrane transporter activity
+sodium ion transmembrane transporter activity
+aluminum ion transmembrane transporter activity
+calcium ion transmembrane transporter activity
+copper uptake transmembrane transporter activity
+high-affinity copper ion transmembrane transporter activity
+low-affinity iron ion transmembrane transporter activity
+ferric iron transmembrane transporter activity
+high-affinity ferric uptake transmembrane transporter activity
+ferrous iron transmembrane transporter activity
+magnesium ion transmembrane transporter activity
+manganese resistance permease activity
+mercury ion transmembrane transporter activity
+molybdate ion transmembrane transporter activity
+vanadium ion transmembrane transporter activity
+organic cation transmembrane transporter activity
+inorganic anion transmembrane transporter activity
+antimonite transmembrane transporter activity
+arsenite transmembrane transporter activity
+bicarbonate transmembrane transporter activity
+chlorate transmembrane transporter activity
+chloride transmembrane transporter activity
+chromate transmembrane transporter activity
+cyanate transmembrane transporter activity
+iodide transmembrane transporter activity
+nitrate transmembrane transporter activity
+nitrite transmembrane transporter activity
+phosphate ion transmembrane transporter activity
+silicate transmembrane transporter activity
+sulfate transmembrane transporter activity
+thiosulfate transmembrane transporter activity
+tellurite transmembrane transporter activity
+hexose phosphate transmembrane transporter activity
+phosphoglycerate transmembrane transporter activity
+phosphoenolpyruvate:phosphate antiporter activity
+acetate transmembrane transporter activity
+allantoate transmembrane transporter activity
+bile acid transmembrane transporter activity
+canalicular bile acid transmembrane transporter activity
+bilirubin transmembrane transporter activity
+gluconate transmembrane transporter activity
+lactate transmembrane transporter activity
+mevalonate transmembrane transporter activity
+oxaloacetate transmembrane transporter activity
+prostaglandin transmembrane transporter activity
+uronic acid transmembrane transporter activity
+hexuronate transmembrane transporter activity
+glucuronate transmembrane transporter activity
+sialic acid transmembrane transporter activity
+citrate transmembrane transporter activity
+fumarate transmembrane transporter activity
+alpha-ketoglutarate transmembrane transporter activity
+malate transmembrane transporter activity
+succinate transmembrane transporter activity
+urate transmembrane transporter activity
+carbohydrate transmembrane transporter activity
+monosaccharide transmembrane transporter activity
+pentose transmembrane transporter activity
+L-arabinose transmembrane transporter activity
+D-xylose transmembrane transporter activity
+hexose transmembrane transporter activity
+fucose transmembrane transporter activity
+alpha-glucoside transmembrane transporter activity
+glucose-6-phosphate transmembrane transporter activity
+rhamnose transmembrane transporter activity
+disaccharide transmembrane transporter activity
+lactose transmembrane transporter activity
+melibiose transmembrane transporter activity
+oligosaccharide transmembrane transporter activity
+raffinose transmembrane transporter activity
+polysaccharide transmembrane transporter activity
+beta-glucan transmembrane transporter activity
+capsular polysaccharide transmembrane transporter activity
+teichoic acid transmembrane transporter activity
+glucuronoside transmembrane transporter activity
+pyrimidine nucleotide-sugar transmembrane transporter activity
+polyol transmembrane transporter activity
+arabitol transmembrane transporter activity
+glycerol transmembrane transporter activity
+glycerol-3-phosphate transmembrane transporter activity
+propanediol transmembrane transporter activity
+acidic amino acid transmembrane transporter activity
+aromatic amino acid transmembrane transporter activity
+basic amino acid transmembrane transporter activity
+neutral amino acid transmembrane transporter activity
+holin
+L-amino acid transmembrane transporter activity
+L-alanine transmembrane transporter activity
+arginine transmembrane transporter activity
+L-asparagine transmembrane transporter activity
+L-aspartate transmembrane transporter activity
+L-cystine transmembrane transporter activity
+gamma-aminobutyric acid transmembrane transporter activity
+L-glutamine transmembrane transporter activity
+glycine transmembrane transporter activity
+L-lysine transmembrane transporter activity
+L-leucine transmembrane transporter activity
+L-methionine transmembrane transporter activity
+L-phenylalanine transmembrane transporter activity
+L-proline transmembrane transporter activity
+L-serine transmembrane transporter activity
+L-threonine transmembrane transporter activity
+peptide transporter activity
+oligopeptide transporter activity
+amino-acid betaine transmembrane transporter activity
+methylammonium transmembrane transporter activity
+polyamine transmembrane transporter activity
+urea transmembrane transporter activity
+nucleobase transmembrane transporter activity
+adenine transmembrane transporter activity
+guanine transmembrane transporter activity
+cytosine transmembrane transporter activity
+uracil transmembrane transporter activity
+purine nucleoside transmembrane transporter activity
+cytidine transmembrane transporter activity
+uridine transmembrane transporter activity
+pyrimidine nucleoside transmembrane transporter activity
+nucleotide transmembrane transporter activity
+purine nucleotide transmembrane transporter activity
+ADP transmembrane transporter activity
+pyrimidine nucleotide transmembrane transporter activity
+protein-DNA complex transmembrane transporter activity
+choline transmembrane transporter activity
+lipopolysaccharide transmembrane transporter activity
+serotonin transmembrane transporter activity
+vitamin or cofactor transporter activity
+vitamin transporter activity
+cofactor transporter activity
+biopterin transporter activity
+biotin transporter activity
+carnitine transmembrane transporter activity
+acyl carnitine transmembrane transporter activity
+coenzyme A transmembrane transporter activity
+L-ascorbic acid transporter activity
+FAD transmembrane transporter activity
+5-formyltetrahydrofolate transporter activity
+heme transporter activity
+pantothenate transmembrane transporter activity
+thiamine transmembrane transporter activity
+cobalamin transporter activity
+drug transmembrane transporter activity
+amiloride transporter activity
+aminotriazole transporter activity
+benomyl transporter activity
+cycloheximide transporter activity
+fluconazole transporter activity
+fatty acid transporter activity
+fatty-acyl group transporter activity
+aminophospholipid transporter activity
+sterol transporter activity
+water channel activity
+ammonium channel activity
+hydrogen ion channel activity
+sugar/polyol channel activity
+sugar transmembrane transporter activity
+glycerol channel activity
+propanediol channel activity
+monocarboxylate channel activity
+organic anion channel activity
+gluconate channel activity
+glutamate channel activity
+isethionate channel activity
+lactate channel activity
+taurine channel activity
+amine/amide/polyamine channel activity
+amide transmembrane transporter activity
+methylammonium channel activity
+urea channel activity
+protein channel activity
+channel activity
+calcium-activated potassium channel activity
+outward rectifier potassium channel activity
+ATP-activated inward rectifier potassium channel activity
+organellar voltage-gated chloride channel activity
+"stretch-activated, cation-selective, calcium channel activity"
+ligand-gated ion channel activity
+kainate selective glutamate receptor activity
+calcium-release channel activity
+store-operated calcium channel activity
+ligand-gated sodium channel activity
+NADPH oxidase-associated cytochrome b558 hydrogen channel activity
+apoptogenic cytochrome c release channel activity
+fructose uniporter activity
+porin activity
+pore-forming toxin activity
+uniporter activity
+symporter activity
+solute:cation symporter activity
+solute:proton symporter activity
+anion:cation symporter activity
+antiporter activity
+solute:cation antiporter activity
+solute:proton antiporter activity
+anion:anion antiporter activity
+"galactose, glucose uniporter activity"
+glucose uniporter activity
+galactose uniporter activity
+"lactose, galactose:proton symporter activity"
+galactose:proton symporter activity
+lactose:proton symporter activity
+sialate:cation symporter activity
+drug:proton antiporter activity
+amiloride:proton antiporter activity
+cycloheximide:proton antiporter activity
+benomyl:proton antiporter activity
+monoamine:proton antiporter activity
+polyamine:proton antiporter activity
+fluconazole:proton antiporter activity
+aminotriazole:proton antiporter activity
+organophosphate:inorganic phosphate antiporter activity
+nitrite/nitrate porter activity
+inorganic solute uptake transmembrane transporter activity
+sodium:inorganic phosphate symporter activity
+phosphate ion carrier activity
+sodium-dependent phosphate transmembrane transporter activity
+secondary active oligopeptide transmembrane transporter activity
+type V protein secretor activity
+peptide-acetyl-CoA secondary active transmembrane transporter activity
+acetyl-CoA:CoA antiporter activity
+cystine:glutamate antiporter activity
+cystine secondary active transmembrane transporter activity
+high-affinity glutamine transmembrane transporter activity
+asparagine/glutamine permease activity
+leucine/valine/isoleucine permease activity
+peptide:proton symporter activity
+high-affinity oligopeptide transporter activity
+heavy metal ion:hydrogen symporter activity
+high affinity metal ion uptake transporter activity
+low affinity metal ion uptake transporter activity
+"cobalt, zinc uptake permease activity"
+uptake transmembrane transporter activity
+"zinc, cadmium uptake permease activity"
+zinc efflux active transmembrane transporter activity
+"zinc, iron permease activity"
+siderophore transmembrane transporter activity
+siderophore uptake transmembrane transporter activity
+ferric enterobactin:proton symporter activity
+ferric triacetylfusarinine C:proton symporter activity
+sodium-independent organic anion transmembrane transporter activity
+prostaglandin/thromboxane transporter activity
+thyroid hormone transmembrane transporter activity
+methotrexate transporter activity
+bilirubin secondary active transmembrane transporter activity
+secondary active sterol transmembrane transporter activity
+secondary active monocarboxylate transmembrane transporter activity
+"monocarboxylate (lactate, pyruvate, mevalonate) uptake/efflux porter activity"
+efflux transmembrane transporter activity
+pyruvate transmembrane transporter activity
+amino acid/choline transmembrane transporter activity
+acetate:proton symporter activity
+low-affinity sodium:dicarboxylate symporter activity
+high-affinity sodium:dicarboxylate symporter activity
+dicarboxylate (succinate/fumarate/malate) antiporter activity
+dicarboxylate:inorganic phosphate antiporter activity
+malate:proton symporter activity
+calcium:cation antiporter activity
+calcium:proton antiporter activity
+solute:sodium symporter activity
+galactose:sodium symporter activity
+glutamate/aspartate:sodium symporter activity
+monovalent anion:sodium symporter activity
+"neutral, basic amino acid:sodium:chloride symporter activity"
+glycine:sodium symporter activity
+betaine/GABA:sodium symporter activity
+cation:chloride symporter activity
+sodium:chloride symporter activity
+potassium:chloride symporter activity
+high-affinity sulfate transmembrane transporter activity
+sodium:sulfate symporter activity
+sulfate:bicarbonate antiporter activity
+sodium:proton antiporter activity
+potassium:proton antiporter activity
+potassium:proton symporter activity
+potassium uptake transmembrane transporter activity
+pyrimidine- and adenine-specific:sodium symporter activity
+purine-specific nucleoside:sodium symporter activity
+nucleobase:cation symporter activity
+uracil/uridine permease activity
+uridine:hydrogen ion symporter activity
+"nucleoside transmembrane transporter activity, down a concentration gradient"
+high-affinity secondary active ammonium transmembrane transporter activity
+primary active transmembrane transporter activity
+low-affinity secondary active ammonium transmembrane transporter activity
+urea:sodium symporter activity
+thiamine uptake transmembrane transporter activity
+P-P-bond-hydrolysis-driven transmembrane transporter activity
+ABC-type uptake permease activity
+monosaccharide-transporting ATPase activity

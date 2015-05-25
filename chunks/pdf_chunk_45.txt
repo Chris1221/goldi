@@ -1,0 +1,387 @@
+N-terminal peptidyl-proline dimethylation
+N-terminal peptidyl-glutamine methylation
+peptidyl-glutamic acid methylation
+peptidyl-histidine methylation
+peptidyl-lysine methylation
+peptidyl-lysine trimethylation
+peptidyl-lysine monomethylation
+peptidyl-lysine dimethylation
+peptidyl-lysine myristoylation
+peptidyl-lysine palmitoylation
+protein amidation
+protein C-terminal amidation
+C-terminal peptidyl-alanine amidation
+C-terminal peptidyl-arginine amidation
+C-terminal peptidyl-asparagine amidation
+C-terminal peptidyl-aspartic acid amidation
+C-terminal peptidyl-cysteine amidation
+C-terminal peptidyl-glutamine amidation
+C-terminal peptidyl-glutamic acid amidation
+C-terminal peptidyl-glycine amidation
+C-terminal peptidyl-histidine amidation
+C-terminal peptidyl-isoleucine amidation
+C-terminal peptidyl-leucine amidation
+C-terminal peptidyl-lysine amidation
+C-terminal peptidyl-methionine amidation
+C-terminal peptidyl-phenylalanine amidation
+C-terminal peptidyl-proline amidation
+C-terminal peptidyl-serine amidation
+C-terminal peptidyl-threonine amidation
+C-terminal peptidyl-tryptophan amidation
+C-terminal peptidyl-tyrosine amidation
+C-terminal peptidyl-valine amidation
+peptidyl-lysine biotinylation
+peptidyl-lysine lipoylation
+peptidyl-lysine oxidation
+"N-terminal protein amino acid deamination, from amino carbon"
+N-terminal peptidyl-serine deamination
+N-terminal peptidyl-cysteine deamination
+peptidyl-L-3-phenyllactic acid biosynthetic process from peptidyl-phenylalanine
+peptidyl-tryptophan succinylation
+cytochrome c-heme linkage
+protein-cofactor linkage
+"peptidyl-L-3',4'-dihydroxyphenylalanine biosynthetic process from peptidyl-tyrosine"
+"peptidyl-L-2',4',5'-topaquinone biosynthetic process from peptidyl-tyrosine"
+peptide cross-linking via 4'-(L-tryptophan)-L-tryptophyl quinone
+peptidyl-serine phosphopantetheinylation
+peptidyl-L-glutamyl 5-glycerylphosphorylethanolamine biosynthetic process from peptidyl-glutamic acid
+protein bromination
+peptidyl-histidine bromination
+peptidyl-phenylalanine bromination
+N-terminal peptidyl-lysine acetylation
+protein iodination
+peptidyl-thyronine iodination
+protein halogenation
+peptidyl-tryptophan bromination
+peptide cross-linking via lanthionine or 3-methyl-lanthionine
+peptidyl-(Z)-dehydrobutyrine biosynthetic process from peptidyl-threonine
+peptidyl-L-3-oxoalanine biosynthetic process from peptidyl-cysteine or peptidyl-serine
+peptidyl-lactic acid biosynthetic process from peptidyl-serine
+peptidyl-L-amino acid racemization
+alanine racemization
+peptidyl-D-alanine racemization
+peptidyl-asparagine racemization
+protein polyglycylation
+protein polyglutamylation
+peptide cross-linking via S-(2-aminovinyl)-D-cysteine
+protein-chromophore linkage via peptidyl-S-4-hydroxycinnamyl-L-cysteine
+protein citrullination
+peptidyl-arginine hydroxylation to peptidyl-4-hydroxy-L-arginine
+protein C-linked glycosylation
+peptidoglycan-protein cross-linking
+peptidyl-serine phosphorylation
+peptidyl-histidine phosphorylation
+peptidyl-threonine phosphorylation
+peptidyl-tyrosine phosphorylation
+peptidyl-arginine phosphorylation
+peptidyl-S-diphytanylglycerol diether-L-cysteine biosynthetic process from peptidyl-cysteine
+peptidyl-lysine adenylylation
+protein adenylylation
+peptidyl-L-cysteine glutathione disulfide biosynthetic process from peptidyl-cysteine
+peptidyl-cysteine S-nitrosylation
+peptidyl-arginine ADP-ribosylation
+peptidyl-asparagine ADP-ribosylation
+peptidyl-cysteine ADP-ribosylation
+peptide cross-linking via 5'-(N6-L-lysine)-L-topaquinone
+peptidyl-cysteine methylation
+protein hydroxylation
+heterocycle biosynthetic process
+oxazole or thiazole biosynthetic process
+peptide cross-linking via L-cysteine oxazolecarboxylic acid
+peptide cross-linking via L-cysteine oxazolinecarboxylic acid
+peptide cross-linking via glycine oxazolecarboxylic acid
+peptide cross-linking via glycine thiazolecarboxylic acid
+peptide cross-linking via L-serine thiazolecarboxylic acid
+peptide cross-linking via L-phenylalanine thiazolecarboxylic acid
+peptide cross-linking via L-cysteine thiazolecarboxylic acid
+peptide cross-linking via L-lysine thiazolecarboxylic acid
+protein-DNA covalent cross-linking
+nucleic acid-protein covalent cross-linking
+RNA-protein covalent cross-linking
+protein-DNA covalent cross-linking via peptidyl-serine
+keratan sulfate biosynthetic process
+molybdenum incorporation via L-selenocysteinyl molybdenum bis(molybdopterin guanine dinucleotide)
+RNA-protein covalent cross-linking via peptidyl-tyrosine
+peptide cross-linking
+peptide cross-linking via 3-(3'-L-histidyl)-L-tyrosine
+peptide cross-linking via L-histidyl-L-tyrosine
+peptide cross-linking via 3'-(1'-L-histidyl)-L-tyrosine
+isopeptide cross-linking via N6-(L-isoglutamyl)-L-lysine
+"peptide cross-linking via (2R,6R)-lanthionine"
+"peptide cross-linking via sn-(2S,6R)-lanthionine"
+"peptide cross-linking via (2S,3S,6R)-3-methyl-lanthionine"
+peptide cross-linking via an oxazole or thiazole
+protein oxidation
+peptidyl-methionine oxidation
+peptidyl-pyrromethane cofactor linkage
+dipyrrin biosynthetic process
+peptide cross-linking via S-(2-aminovinyl)-3-methyl-D-cysteine
+protein-DNA covalent cross-linking via the 5'-end to peptidyl-tyrosine
+protein-DNA covalent cross-linking via peptidyl-threonine
+peptidyl-tyrosine uridylylation
+C-terminal protein-tyrosinylation
+protein-phycoerythrobilin linkage via phycoerythrobilin-bis-L-cysteine
+protein-phycoerythrobilin linkage via S-phycoerythrobilin-L-cysteine
+C-terminal peptidyl-polyglutamic acid amidation
+peptidyl-cysteine oxidation
+"peptidyl-L-3',4',5'-trihydroxyphenylalanine biosynthetic process from peptidyl-tyrosine"
+peptidyl-1-thioglycine biosynthetic process from peptidyl-glycine
+protein-heme P460 linkage
+protein nucleotidylation
+protein uridylylation
+peptidyl-threonine adenylylation
+peptidyl-cysteine desulfurization
+protein desulfurization
+peptidyl-arginine C5-methylation
+protein-heme linkage via 3'-L-histidine
+enzyme active site formation via S-selenyl-L-cysteine
+protein polyamination
+poly-N-methyl-propylamination
+peroxidase-heme linkage
+molybdenum incorporation via L-cysteinyl molybdopterin guanine dinucleotide
+peptidyl-proline di-hydroxylation
+pyrroloquinoline quinone biosynthetic process
+protein octanoylation
+peptidyl-serine octanoylation
+enzyme active site formation via L-cysteine persulfide
+peptidyl-amino acid modification
+peptidyl-alanine modification
+peptidyl-arginine modification
+peptidyl-asparagine modification
+peptidyl-aspartic acid modification
+peptidyl-cysteine modification
+peptidyl-glutamine modification
+peptidyl-glutamic acid modification
+peptidyl-glycine modification
+peptidyl-histidine modification
+peptidyl-isoleucine modification
+peptidyl-leucine modification
+peptidyl-lysine modification
+peptidyl-methionine modification
+peptidyl-phenylalanine modification
+peptidyl-proline modification
+peptidyl-serine modification
+peptidyl-threonine modification
+peptidyl-tryptophan modification
+peptidyl-tyrosine modification
+peptidyl-valine modification
+protein carboxylation
+protein phosphopantetheinylation
+peptidyl-arginine methylation
+peptidyl-aspartic acid phosphorylation
+peptidyl-cysteine phosphorylation
+peptidyl-cysteine S-acetylation
+peptidyl-threonine palmitoylation
+peptidyl-serine palmitoylation
+peptidyl-L-cysteine methyl disulfide biosynthetic process from peptidyl-cysteine
+peptidyl-S-farnesyl-L-cysteine biosynthetic process from peptidyl-cysteine
+peptidyl-S-12-hydroxyfarnesyl-L-cysteine biosynthetic process from peptidyl-cysteine
+peptidyl-S-geranylgeranyl-L-cysteine biosynthetic process from peptidyl-cysteine
+peptidyl-L-cysteine methyl ester biosynthetic process from peptidyl-cysteine
+peptidyl-L-cysteine S-palmitoylation
+peptidyl-S-diacylglycerol-L-cysteine biosynthetic process from peptidyl-cysteine
+peptide cross-linking via S-(L-isoglutamyl)-L-cysteine
+peptide cross-linking via 2'-(S-L-cysteinyl)-L-histidine
+peptide cross-linking via 3'-(S-L-cysteinyl)-L-tyrosine
+peptidyl-lysine carboxylation
+peptidyl-lysine carboxyethylation
+protein S-linked glycosylation via cysteine
+protein O-linked glycosylation via hydroxylysine
+protein O-linked glycosylation via serine
+protein O-linked glycosylation via threonine
+protein N-linked glycosylation via tryptophan
+protein O-linked glycosylation via tyrosine
+protein-coenzyme A linkage
+protein-phosphoribosyl dephospho-coenzyme A linkage
+enzyme active site formation via S-sulfo-L-cysteine
+protein dehydration
+peptidyl-dehydroalanine biosynthetic process from peptidyl-tyrosine or peptidyl-serine
+peptidyl-tyrosine dehydrogenation
+peptide cross-linking via L-seryl-5-imidazolinone glycine
+peptide cross-linking via 5-imidazolinone glycine
+peptidyl-tyrosine adenylylation
+peptide cross-linking via S-glycyl-L-cysteine
+protein formylation
+peptidyl-lysine formylation
+protein O-linked glycosylation via hydroxyproline
+RNA-protein covalent cross-linking via peptidyl-serine
+protein guanylylation
+peptidyl-lysine guanylylation
+isopeptide cross-linking
+isopeptide cross-linking via N-(L-isoaspartyl)-L-cysteine
+isopeptide cross-linking via N-(L-isoaspartyl)-glycine
+GPI anchor biosynthetic process via N-asparaginyl-glycosylphosphatidylinositolethanolamine
+GPI anchor biosynthetic process via N-aspartyl-glycosylphosphatidylinositolethanolamine
+GPI anchor biosynthetic process via N-cysteinyl-glycosylphosphatidylinositolethanolamine
+GPI anchor biosynthetic process via N-glycyl-glycosylphosphatidylinositolethanolamine
+GPI anchor biosynthetic process via N-seryl-glycosylphosphatidylinositolethanolamine
+GPI anchor biosynthetic process via N-alanyl-glycosylphosphatidylinositolethanolamine
+protein-pyridoxal-5-phosphate linkage via peptidyl-N6-pyridoxal phosphate-L-lysine
+protein-chromophore linkage via peptidyl-N6-retinal-L-lysine
+peptide cross-linking via L-lysinoalanine
+N-terminal peptidyl-cysteine acetylation
+isopeptide cross-linking via N6-glycyl-L-lysine
+protein deamination
+N-terminal peptidyl-threonine deamination
+protein N-linked glycosylation via asparagine
+protein S-linked glycosylation
+GSI anchor biosynthetic process via N-seryl-glycosylsphingolipidinositolethanolamine
+metal incorporation into metallo-sulfur cluster
+iron incorporation into metallo-sulfur cluster
+iron incorporation into protein via tetrakis-L-cysteinyl iron
+iron incorporation into iron-sulfur cluster via tetrakis-L-cysteinyl diiron disulfide
+iron incorporation into iron-sulfur cluster via hexakis-L-cysteinyl triiron trisulfide
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl triiron tetrasulfide
+iron incorporation into iron-sulfur cluster via tetrakis-L-cysteinyl tetrairon tetrasulfide
+molybdenum incorporation into metallo-sulfur cluster
+iron and molybdenum incorporation into iron-molybdenum-sulfur cluster via L-cysteinyl homocitryl molybdenum-heptairon-nonasulfide
+molybdenum incorporation into iron-sulfur cluster
+molybdenum incorporation via L-cysteinyl molybdopterin
+protein-FAD linkage
+protein-FAD linkage via S-(8alpha-FAD)-L-cysteine
+protein-FAD linkage via 3'-(8alpha-FAD)-L-histidine
+protein-FAD linkage via O4'-(8alpha-FAD)-L-tyrosine
+protein-FAD linkage via 1'-(8alpha-FAD)-L-histidine
+protein-chromophore linkage
+iron incorporation into the Rieske iron-sulfur cluster via bis-L-cysteinyl bis-L-histidino diiron disulfide
+iron incorporation into iron-sulfur cluster via hexakis-L-cysteinyl hexairon hexasulfide
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-cysteine persulfido-bis-L-glutamato-L-histidino tetrairon
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-N1'-histidino tetrairon tetrasulfide
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-N3'-histidino tetrairon tetrasulfide
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-aspartato tetrairon tetrasulfide
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl-L-serinyl tetrairon tetrasulfide
+iron incorporation into iron-sulfur cluster via bis-L-cysteinyl-L-N3'-histidino-L-serinyl tetrairon tetrasulfide
+enzyme active site formation
+enzyme active site formation via N6-pyruvic acid 2-iminyl-L-lysine
+protein-FMN linkage
+protein-FMN linkage via S-(6-FMN)-L-cysteine
+peptidyl-N4-hydroxymethyl-L-asparagine biosynthetic process from peptidyl-asparagine
+peptidyl-serine ADP-ribosylation
+peptide cross-linking via L-alanyl-5-imidazolinone glycine
+protein-pyrroloquinoline-quinone linkage
+molybdenum incorporation into molybdenum-molybdopterin complex
+peptide cross-linking via L-cystine
+protein C-linked glycosylation via tryptophan
+enzyme active site formation via S-methyl-L-cysteine
+protein glucuronylation
+protein tyrosinylation
+enzyme active site formation via L-cysteine sulfinic acid
+enzyme active site formation via L-cysteine sulfenic acid
+enzyme active site formation via S-phospho-L-cysteine
+enzyme active site formation via S-acetyl-L-cysteine
+enzyme active site formation via 1'-phospho-L-histidine
+enzyme active site formation via 3'-phospho-L-histidine
+enzyme active site formation via N6-(phospho-5'-adenosine)-L-lysine
+enzyme active site formation via N6-(phospho-5'-guanosine)-L-lysine
+enzyme active site formation via O-phospho-L-serine
+enzyme active site formation via O-(phospho-5'-adenosine)-L-threonine
+enzyme active site formation via O-phospho-L-threonine
+enzyme active site formation via O4'-phospho-L-tyrosine
+protein succinylation
+peptidyl-tyrosine hydroxylation
+"enzyme active site formation via L-2',4',5'-topaquinone"
+protein amino acid cinnamylation
+peptidyl-L-beta-methylthioaspartic acid biosynthetic process from peptidyl-aspartic acid
+peptidyl-O-(sn-1-glycerophosphoryl)-L-serine biosynthetic process from peptidyl-serine
+peptidyl-lysine modification to peptidyl-N6-pyruvic acid 2-iminyl-L-lysine
+protein palmitoylation
+protein esterification
+peptidyl-cysteine esterification
+protein-pyridoxal-5-phosphate linkage
+protein-phycocyanobilin linkage via S-phycocyanobilin-L-cysteine
+protein-phosphoribosyl dephospho-coenzyme A linkage via O-(phosphoribosyl dephospho-coenzyme A)-L-serine
+protein-phycobiliviolin linkage via S-phycobiliviolin-L-cysteine
+protein-phycourobilin linkage via phycourobilin-bis-L-cysteine
+protein-phytochromobilin linkage via S-phytochromobilin-L-cysteine
+protein-heme P460 linkage via heme P460-bis-L-cysteine-L-tyrosine
+protein-heme P460 linkage via heme P460-bis-L-cysteine-L-lysine
+peptidyl-glutamine 2-methylation
+peroxidase-heme linkage via dihydroxyheme-L-aspartyl ester-L-glutamyl ester
+peroxidase-heme linkage via dihydroxyheme-L-aspartyl ester-L-glutamyl ester-L-methionine sulfonium
+peptidyl-glutamine methylation
+chiral amino acid racemization
+free L-amino acid racemization
+peptidyl-asparagine hydroxylation to form L-erythro-beta-hydroxyasparagine
+protein myristoylation
+cytochrome c-heme linkage via heme-L-cysteine
+cytochrome c-heme linkage via heme-bis-L-cysteine
+N-terminal peptidyl-cysteine condensation with pyruvate to form N-pyruvic acid 2-iminyl-L-cysteine
+N-terminal peptidyl-amino acid deamination to pyruvic acid
+N-terminal peptidyl-valine condensation with pyruvate to form N-pyruvic acid 2-iminyl-L-valine
+N-terminal peptidyl-valine deamination
+peptidyl-L-glutamic acid 5-methyl ester biosynthetic process from peptidyl-glutamic acid or peptidyl-glutamine
+C-terminal peptidyl-glutamic acid tyrosinylation
+internal peptidyl-lysine acetylation
+peptidyl-lysine acetylation
+peptidyl-lysine hydroxylation to 5-hydroxy-L-lysine
+peptidyl-lysine hydroxylation to 4-hydroxy-L-lysine
+peptidyl-phenylalanine bromination to L-2'-bromophenylalanine
+peptidyl-phenylalanine bromination to L-3'-bromophenylalanine
+peptidyl-phenylalanine bromination to L-4'-bromophenylalanine
+peptidyl-proline hydroxylation to 3-hydroxy-L-proline
+peptidyl-proline hydroxylation to 4-hydroxy-L-proline
+protein-chondroitin sulfate linkage via chondroitin sulfate D-glucuronyl-D-galactosyl-D-galactosyl-D-xylosyl-L-serine
+protein-dermatan sulfate linkage via dermatan 4-sulfate D-glucuronyl-D-galactosyl-D-galactosyl-D-xylosyl-L-serine
+protein-heparan sulfate linkage via heparan sulfate D-glucuronyl-D-galactosyl-D-galactosyl-D-xylosyl-L-serine
+protein-keratan sulfate linkage via keratan sulfate D-glucuronyl-D-galactosyl-D-galactosyl-D-xylosyl-L-threonine
+protein C-linked glycosylation via 2'-alpha-mannosyl-L-tryptophan
+"peptidyl-thyronine iodination to form 3',3'',5'-triiodo-L-thyronine"
+"peptidyl-thyronine iodination to form 3',3'',5',5''-tetraiodo-L-thyronine"
+C-terminal protein amino acid modification
+protein glucuronidation
+protein O-glucuronidation
+peptidyl-serine O-glucuronidation
+nickel incorporation into metallo-sulfur cluster
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl L-cysteine persulfido bis-L-glutamato L-histidino nickel triiron disulfide trioxide
+nickel incorporation into iron-sulfur cluster via tris-L-cysteinyl L-cysteine persulfido bis-L-glutamato L-histidino nickel triiron disulfide trioxide
+iron incorporation into iron-sulfur cluster via tris-L-cysteinyl L-cysteine persulfido L-glutamato L-histidino L-serinyl nickel triiron disulfide trioxide
+nickel incorporation into iron-sulfur cluster via tris-L-cysteinyl L-cysteine persulfido L-glutamato L-histidino L-serinyl nickel triiron disulfide trioxide
+protein catenane formation
+peptide cross-linking via N6-(L-isoaspartyl)-L-lysine
+peptidyl-glutamic acid poly-ADP-ribosylation
+O3-(N-acetylglucosamine-1-phosphoryl)-L-serine biosynthetic process
+O3-(phosphoglycosyl-D-mannose-1-phosphoryl)-L-serine biosynthetic process
+copper incorporation into metallo-sulfur cluster
+copper incorporation into copper-sulfur cluster
+copper incorporation into copper-sulfur cluster via heptakis-L-histidino tetracopper mu4-sulfide hydroxide
+peptidyl-L-leucine methyl ester biosynthetic process from peptidyl-leucine
+iron incorporation into iron-sulfur cluster via hexakis-L-cysteinyl L-serinyl octairon heptasulfide
+peptidyl-glutamic acid esterification
+enzyme active site formation via L-aspartic 4-phosphoric anhydride
+peptidyl-cysteine acetylation
+acetylene metabolic process
+acrylonitrile metabolic process
+adamantanone metabolic process
+alpha-pinene metabolic process
+2-aminobenzenesulfonate metabolic process
+anaerobic 2-aminobenzoate metabolic process
+1-aminocyclopropane-1-carboxylate metabolic process
+arsonoacetate metabolic process
+atrazine metabolic process
+benzoate metabolic process
+anaerobic benzoate metabolic process
+benzonitrile metabolic process
+"beta-1,2,3,4,5,6-hexachlorocyclohexane metabolic process"
+"aerobic beta-1,2,3,4,5,6-hexachlorocyclohexane metabolic process"
+biphenyl metabolic process
+4-chlorobiphenyl metabolic process
+bromoxynil metabolic process
+(+)-camphor metabolic process
+caprolactam metabolic process
+carbazole metabolic process
+carbon tetrachloride metabolic process
+anaerobic carbon tetrachloride metabolic process
+4-carboxy-4'-sulfoazobenzene metabolic process
+3-chloroacrylic acid metabolic process
+2-chloro-N-isopropylacetanilide metabolic process
+cyanamide metabolic process
+cyclohexanol metabolic process
+cyclohexylsulfamate metabolic process
+dibenzofuran metabolic process
+dibenzo-p-dioxin metabolic process
+dibenzothiophene metabolic process
+dibenzothiophene catabolic process
+dibenzothiophene desulfurization
+"2,4-dichlorobenzoate metabolic process"
+"1,2-dichloroethane metabolic process"
+dichloromethane metabolic process

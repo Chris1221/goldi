@@ -1,0 +1,387 @@
+positive regulation by organism of entry into other organism involved in symbiotic interaction
+positive regulation of ascospore formation
+negative regulation of ascospore formation
+regulation of zygospore formation
+positive regulation of zygospore formation
+negative regulation of zygospore formation
+cell differentiation involved in spore germination
+regulation of basidiospore formation
+positive regulation of basidiospore formation
+negative regulation of basidiospore formation
+modulation of growth or development of symbiont on or near host
+regulation of conidium formation
+positive regulation of conidium formation
+negative regulation of conidium formation
+negative regulation of growth or development of symbiont on or near host surface
+regulation of sporangium development
+positive regulation of sporangium development
+negative regulation of sporangium development
+basidium development
+regulation of basidium development
+positive regulation of basidium development
+negative regulation of basidium development
+ascus development
+regulation of ascus development
+positive regulation of ascus development
+negative regulation of ascus development
+oomycete sporangium development
+regulation of oomycete sporangium development
+positive regulation of oomycete sporangium development
+negative regulation of oomycete sporangium development
+spore dispersal on or near host
+active spore dispersal on or near host
+passive spore dispersal on or near host
+formation by symbiont of arbuscule for nutrient acquisition from host
+regulation of arbuscule formation for nutrient acquisition from host
+positive regulation of arbuscule formation for nutrient acquisition from host
+negative regulation of arbuscule formation for nutrient acquisition from host
+modulation by host of symbiont adenylate cyclase-mediated signal transduction
+positive regulation by host of symbiont adenylate cyclase-mediated signal transduction
+modulation of symbiont adenylate cyclase-mediated signal transduction in response to host
+positive regulation of symbiont adenylate cyclase-mediated signal transduction in response to host
+negative regulation of symbiont adenylate cyclase-mediated signal transduction in response to host
+positive regulation of growth or development of symbiont on or near host surface
+modulation of growth or development of symbiont during interaction with host
+positive regulation of growth or development of symbiont during interaction with host
+negative regulation of growth or development of symbiont during interaction with host
+disruption by symbiont of host cell PML body
+modulation by symbiont of abscisic acid levels in host
+modulation by symbiont of host protein levels
+modification by symbiont of host protein
+modification by symbiont of host protein by ubiquitination
+endosome membrane permeabilization involved in viral entry into host cell
+fusion of virus membrane with host macropinosome membrane
+macropinosomal membrane permeabilization involved in viral entry into host cell
+entry of intact viral capsid into host nucleus through nuclear pore complex
+entry of viral genome into host nucleus through nuclear pore complex via importin
+entry of viral genome into host nucleus via docking of viral capsid to the nuclear pore complex and injection of viral genome
+entry of viral genome into host nucleus via retainment of capsid in nuclear pore complex and release of genome into nucleoplasm
+endocytosis involved in viral entry into host cell
+macropinocytosis involved in viral entry into host cell
+macropinosome lysis involved in viral entry into host cell
+clathrin-mediated endocytosis of virus by host cell
+caveolin-mediated endocytosis of virus by host cell
+endosome lysis involved in viral entry into host cell
+viral entry into host cell via caveolin-mediated endocytosis followed by genetic injection through the endosome membrane
+microtubule-dependent intracellular transport of viral material
+actin-dependent intracellular transport of virus
+microtubule-dependent intracellular transport of viral material towards nucleus
+IRES-dependent viral translational initiation
+viral translational frameshifting
+ribosomal skipping
+viral translational termination-reinitiation
+cap snatching
+viral RNA editing
+modulation by virus of host immune response
+establishment of latency as a circular episome
+establishment of latency as a linear episome
+transport of viral material towards nucleus
+viral entry into host cell via clathrin-mediated endocytosis followed by genetic injection through the endosome membrane
+establishment of integrated proviral latency
+establishment of episomal latency
+viral penetration into host nucleus
+intracellular transport of virus
+mucilage extrusion from seed coat
+thalianol metabolic process
+photosystem stoichiometry adjustment
+internode patterning
+mRNA methylation
+regulation of oxygen and reactive oxygen species metabolic process
+regulation of oxygen metabolic process
+regulation of reactive oxygen species metabolic process
+regulation of coenzyme A biosynthetic process
+response to benzoic acid
+primary root development
+indolebutyric acid metabolic process
+response to indolebutyric acid
+response to herbivore
+nitrile biosynthetic process
+cellular response to boron-containing substance levels
+response to nitrite
+"host response to induction by symbiont of tumor, nodule or growth in host"
+2-hydroxy-but-3-enyl glucosinolate biosynthetic process
+regulation of cytokinin-activated signaling pathway
+negative regulation of cytokinin-activated signaling pathway
+positive regulation of cytokinin-activated signaling pathway
+positive regulation of cellular response to phosphate starvation
+regulation of seed development
+cutin transport
+response to histidine
+response to phenylalanine
+low-affinity nitrate transport
+petal vascular tissue pattern formation
+sepal vascular tissue pattern formation
+protein deglutathionylation
+integument development
+"4,4-dimethyl-9beta,19-cyclopropylsterol oxidation"
+4-alpha-methyl-delta7-sterol oxidation
+stamen filament development
+spermidine hydroxycinnamate conjugate biosynthetic process
+regulation of primary metabolic process
+regulation of raffinose metabolic process
+regulation of pollen tube growth
+regulation of photorespiration
+response to trehalose-6-phosphate
+sporopollenin biosynthetic process
+DNA demethylation
+seed growth
+regulation of seed growth
+positive regulation of glycine hydroxymethyltransferase activity
+secondary growth
+ER body organization
+CAAX-box protein maturation
+AMP transport
+multicellular structure septum development
+ovary septum development
+fruit septum development
+anther septum development
+proteasome core complex assembly
+regulation of response to stress
+regulation of cellular response to stress
+priming of cellular response to stress
+regulation of jasmonic acid metabolic process
+regulation of jasmonic acid biosynthetic process
+regulation of salicylic acid biosynthetic process
+regulation of amino acid export
+amino acid homeostasis
+cysteine homeostasis
+root hair cell development
+negative regulation of response to water deprivation
+sucrose induced translational repression
+positive regulation of salicylic acid mediated signaling pathway
+regulation of reductive pentose-phosphate cycle
+negative regulation of reductive pentose-phosphate cycle
+regulation of fertilization
+regulation of double fertilization forming a zygote and endosperm
+mitochondrial mRNA modification
+regulation of plant-type cell wall organization or biogenesis
+chloroplast ribulose bisphosphate carboxylase complex biogenesis
+zygote elongation
+selenate transport
+intracellular auxin transport
+regulation of protein serine/threonine phosphatase activity
+regulation of nitric oxide metabolic process
+callose deposition in phloem sieve plate
+stomium development
+response to karrikin
+abscisic acid transport
+cellular response to boron-containing substance deprivation
+hydrogen peroxide transmembrane transport
+lytic vacuole organization
+petal epidermis patterning
+male-female gamete recognition during double fertilization
+phragmoplast microtubule organization
+plastoglobule organization
+5-carbamoylmethyluridine metabolic process
+1-methylguanosine metabolic process
+2-methylguanosine metabolic process
+lateral root branching
+histone H3-K4 trimethylation
+response to photooxidative stress
+response to phenylpropanoid
+effector dependent induction by symbiont of host immune response
+developmental vegetative growth
+floral organ senescence
+RNA-directed DNA methylation
+primary growth
+lateral growth
+secondary thickening
+primary thickening
+diffuse secondary thickening
+modification by symbiont of host morphology or physiology via protein secreted by type V secretion system
+formation by symbiont of stylet for nutrient acquisition from host
+interaction with host mediated by secreted substance released by symbiont from symbiotic structure
+interaction with host via secreted substance released from stylet
+interaction with host via secreted substance released from haustorium
+interaction with host via secreted substance released from invasive hyphae
+interaction with host mediated by symbiont secreted substance released from symbiont-containing vacuole
+interaction with host via secreted substance released from rhoptry
+interaction with host via secreted substance released from microneme
+interaction with host mediated by symbiont secreted substance released from Maurer's cleft
+interaction with host mediated by secreted substance entering host via endocytosis
+interaction with host via protein secreted by Sec complex
+interaction with host via protein secreted by Tat complex
+interaction with host via protein secreted by type VII secretion system
+dormancy entry of symbiont in host
+dormancy maintenance of symbiont in host
+dormancy exit of symbiont in host
+symbiont entry into host cell forming a symbiont-containing vacuole
+maintenance of symbiont-containing vacuole by host
+formation by symbiont of a tubovesicular network for nutrient acquisition from host
+protein K6-linked ubiquitination
+modification by symbiont of host morphology or physiology via protein secreted by type I secretion system
+modification by symbiont of host morphology or physiology via protein secreted by type VI secretion system
+modification by symbiont of host morphology or physiology via protein secreted by type VII secretion system
+modification by symbiont of host morphology or physiology via protein secreted by Sec complex
+modification by symbiont of host morphology or physiology via protein secreted by Tat complex
+entry into host via enzymatic degradation of host anatomical structure
+entry into host via enzymatic degradation of host cuticle
+extracellular matrix assembly
+mutualism
+commensalism
+modulation by symbiont of host I-kappaB kinase/NF-kappaB cascade
+positive regulation by symbiont of host I-kappaB kinase/NF-kappaB cascade
+negative regulation by symbiont of host I-kappaB kinase/NF-kappaB cascade
+disassembly by symbiont of host cuticle
+cardiac muscle cell action potential
+cardiac muscle cell action potential involved in contraction
+cardiac muscle cell contraction
+regulation of cardiac muscle cell contraction
+ventricular cardiac muscle cell action potential
+membrane repolarization
+membrane depolarization during action potential
+membrane repolarization during action potential
+membrane depolarization during cardiac muscle cell action potential
+membrane repolarization during cardiac muscle cell action potential
+atrial cardiac muscle cell action potential
+SA node cell action potential
+Purkinje myocyte action potential
+SA node cell to atrial cardiac muscle cell signalling
+cell-cell signaling involved in cardiac conduction
+SA node cell to atrial cardiac muscle cell communication by electrical coupling
+SA node cell-atrial cardiac muscle cell adhesion involved in cell communication
+adrenergic receptor signaling pathway involved in heart process
+adrenergic receptor signaling pathway involved in positive regulation of heart rate
+atrial cardiac muscle cell to AV node cell signaling
+AV node cell to bundle of His cell signaling
+bundle of His cell to Purkinje myocyte signaling
+Purkinje myocyte to ventricular cardiac muscle cell signaling
+adrenergic receptor signaling pathway involved in cardiac muscle relaxation
+G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate
+regulation of cardiac muscle cell membrane potential
+cardiac muscle cell-cardiac muscle cell adhesion
+bundle of His cell action potential
+atrial cardiac muscle cell to AV node cell communication by electrical coupling
+membrane depolarization during AV node cell action potential
+membrane depolarization during SA node cell action potential
+membrane depolarization during Purkinje myocyte cell action potential
+membrane depolarization during bundle of His cell action potential
+membrane repolarization during AV node cell action potential
+membrane repolarization during bundle of His cell action potential
+membrane repolarization during Purkinje myocyte action potential
+membrane repolarization during SA node cell action potential
+AV node cell to bundle of His cell communication by electrical coupling
+bundle of His cell to Purkinje myocyte communication by electrical coupling
+Purkinje myocyte to ventricular cardiac muscle cell communication by electrical coupling
+cell communication by electrical coupling involved in cardiac conduction
+cell communication involved in cardiac conduction
+atrial cardiac muscle cell to AV node cell communication
+AV node cell to bundle of His cell communication
+Purkinje myocyte to ventricular cardiac muscle cell communication
+bundle of His cell to Purkinje myocyte communication
+SA node cell to atrial cardiac muscle cell communication
+atrial cardiac muscle cell-AV node cell adhesion involved in cell communication
+AV node cell-bundle of His cell adhesion involved in cell communication
+bundle of His cell-Purkinje myocyte adhesion involved in cell communication
+Purkinje myocyte-ventricular cardiac muscle cell adhesion involved in cell communication
+regulation of heart rate by cardiac conduction
+regulation of the force of heart contraction by cardiac conduction
+G-protein coupled acetylcholine receptor signaling pathway involved in involved in heart process
+positive regulation of ryanodine-sensitive calcium-release channel activity by adrenergic receptor signaling pathway involved in positive regulation of cardiac muscle contraction
+positive regulation of IKACh channel activity by G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate
+adenylate cyclase-inhibiting adrenergic receptor signaling pathway involved in heart process
+phospholipase C-activating angiotensin-activated signaling pathway
+angiotensin-activated signaling pathway involved in heart process
+phospholipase C-activating angiotensin-activated signaling pathway involved in heart process
+endothelin receptor signaling pathway
+endothelin receptor signaling pathway involved in heart process
+adenylate cyclase-inhibiting G-protein coupled acetylcholine receptor signaling pathway involved in negative regulation of heart rate
+G-protein coupled receptor signaling pathway involved in heart process
+protein kinase D signaling
+L-aspartate transmembrane export from vacuole
+L-glutamate transmembrane export from vacuole
+protein localization to outer membrane
+L-ornithine transmembrane export from vacuole
+L-lysine transmembrane export from vacuole
+L-histidine transmembrane export from vacuole
+L-histidine transmembrane transport
+L-glutamate transmembrane transport
+L-aspartate transmembrane transport
+amino acid import across plasma membrane
+phosphoenolpyruvate transmembrane transport
+replication fork arrest at tRNA locus
+establishment of protein localization to plasma membrane
+regulation of establishment of protein localization to plasma membrane
+positive regulation of establishment of protein localization to plasma membrane
+negative regulation of establishment of protein localization to plasma membrane
+regulation of linear element assembly
+regulation of mitotic anaphase
+hypoblast development
+primitive streak formation
+transforming growth factor beta receptor signaling pathway involved in primitive streak formation
+Wnt signaling pathway involved in primitive streak formation
+negative regulation of transforming growth factor beta receptor signaling pathway involved in primitive streak formation
+regulation of transforming growth factor beta receptor signaling pathway involved in primitive streak formation
+leaflet formation
+positive regulation of leaflet formation by auxin mediated signaling pathway
+regulation of leaflet formation
+anterior neural plate formation
+posterior neural plate formation
+regulation of transcription involved in anterior neural plate formation
+regulation of transcription involved in posterior neural plate formation
+positive regulation of posterior neural plate formation by Wnt signaling pathway
+regulation of neutrophil chemotaxis
+positive regulation of neutrophil chemotaxis
+negative regulation of neutrophil chemotaxis
+regulation of monocyte chemotaxis
+positive regulation of monocyte chemotaxis
+negative regulation of monocyte chemotaxis
+positive regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion
+negative regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion
+regulation of steroid hormone biosynthetic process
+positive regulation of steroid hormone biosynthetic process
+negative regulation of steroid hormone biosynthetic process
+positive regulation of filamentous growth
+regulation of chaperone-mediated protein complex assembly
+positive regulation of chaperone-mediated protein complex assembly
+regulation of protein kinase C signaling
+positive regulation of protein kinase C signaling
+negative regulation of protein kinase C signaling
+tubulin deacetylation
+regulation of tubulin deacetylation
+positive regulation of tubulin deacetylation
+positive regulation of deacetylase activity
+regulation of transcription regulator activity
+positive regulation of transcription regulator activity
+negative regulation of transcription regulator activity
+regulation of cell migration involved in sprouting angiogenesis
+positive regulation of cell migration involved in sprouting angiogenesis
+negative regulation of cell migration involved in sprouting angiogenesis
+regulation of chromatin silencing at centromere
+positive regulation of chromatin silencing at centromere
+regulation of chromatin silencing at silent mating-type cassette
+positive regulation of chromatin silencing at silent mating-type cassette
+regulation of chlorophyll metabolic process
+root radial pattern formation
+metaxylem development
+protoxylem development
+regulation of metaxylem development
+regulation of trehalose metabolic process
+positive regulation of microtubule nucleation
+activation of microtubule nucleation
+regulation of production of siRNA involved in RNA interference
+regulation of anatomical structure size
+regulation of thalamus size
+positive regulation of cell cycle process
+regulation of ribosome biogenesis
+positive regulation of ribosome biogenesis
+negative regulation of ribosome biogenesis
+positive regulation of sodium ion transport via voltage-gated sodium channel activity
+positive regulation of protein homodimerization activity
+negative regulation of protein homodimerization activity
+relaxation of muscle
+relaxation of skeletal muscle
+foam cell differentiation
+smooth muscle derived foam cell differentiation
+positive regulation of MAPKKK cascade by fibroblast growth factor receptor signaling pathway
+regulation of heart induction by regulation of canonical Wnt signaling pathway
+positive regulation of heart induction by negative regulation of canonical Wnt signaling pathway
+regulation of inclusion body assembly
+negative regulation of inclusion body assembly
+regulation of protein deubiquitination
+negative regulation of protein deubiquitination
+regulation of peptide transport
+regulation of oligopeptide transport
+regulation of dipeptide transport
+negative regulation of canonical Wnt signaling pathway
+positive regulation of extracellular matrix disassembly

@@ -1,0 +1,387 @@
+"ornithine catabolic process, by decarboxylation"
+nopaline catabolic process
+octopine catabolic process
+4-hydroxyproline catabolic process
+4-hydroxyproline metabolic process
+4-hydroxyproline biosynthetic process
+"L-lysine catabolic process to glutarate, by acetylation"
+L-lysine catabolic process to acetyl-CoA
+L-lysine catabolic process to acetate
+D-lysine catabolic process
+L-lysine catabolic process
+D-amino acid catabolic process
+L-alanine oxidation to D-lactate and ammonia
+L-alanine oxidation to pyruvate via D-alanine
+"L-alanine catabolic process, by transamination"
+beta-alanine metabolic process
+beta-alanine biosynthetic process
+beta-alanine catabolic process
+beta-alanine catabolic process to L-alanine
+"beta-alanine catabolic process to mevalonate semialdehyde, by transamination"
+anaerobic acetylene catabolic process
+ribitol catabolic process to xylulose 5-phosphate
+methylgallate metabolic process
+2-aminobenzenesulfonate desulfonation
+ectoine biosynthetic process
+proline salvage
+arginine catabolic process to proline
+proline catabolic process to 2-oxoglutarate
+serine-isocitrate lyase pathway
+hexachlorocyclohexane metabolic process
+n-octane oxidation
+cyanide metabolic process
+cyanide catabolic process
+arsonoacetate catabolic process
+stachydrine metabolic process
+stachydrine biosynthetic process
+stachydrine catabolic process
+resorcinol metabolic process
+phenylmercury acetate catabolic process
+pyridine metabolic process
+"2,5-dihydroxypyridine catabolic process to fumarate"
+L-methionine biosynthetic process from methylthioadenosine
+S-adenosylhomocysteine catabolic process
+peptidyl-proline hydroxylation
+lactose catabolic process via tagatose-6-phosphate
+"lactose catabolic process, using glucoside 3-dehydrogenase"
+lactose hydrolysis
+lactose catabolic process via UDP-galactose
+lactate oxidation
+L-threonine catabolic process to D-lactate
+L-threonine catabolic process to glycine
+pentitol metabolic process
+aldonic acid metabolic process
+D-gluconate metabolic process
+ketogluconate metabolic process
+L-idonate metabolic process
+keto-D-gluconate catabolic process
+keto-D-gluconate metabolic process
+pentitol biosynthetic process
+pentitol catabolic process
+D-arabitol catabolic process to xylulose 5-phosphate
+taurine catabolic process
+taurine metabolic process
+oxalate transport
+cellobiose transport
+vibriobactin metabolic process
+vibriobactin biosynthetic process
+protein metabolic process
+siderophore biosynthetic process from hydroxamic acid
+siderophore biosynthetic process from catechol
+propionate metabolic process
+propionate biosynthetic process
+propionate catabolic process
+arginine catabolic process to glutamate
+arginine catabolic process to succinate
+arginine deiminase pathway
+arginine catabolic process to ornithine
+arginine catabolic process to spermine
+glutamate catabolic process to succinate via succinate semialdehyde
+glutamate catabolic process to aspartate
+glutamate catabolic process to 2-oxoglutarate
+glutamate catabolic process via 2-hydroxyglutarate
+glutamate catabolic process via L-citramalate
+glutamate catabolic process to oxaloacetate
+glutamate catabolic process to ornithine
+histidine catabolic process to glutamate and formamide
+histidine catabolic process to glutamate and formate
+histidine catabolic process to 2-oxoglutarate
+histidine catabolic process to imidazol-5-yl-lactate
+histidine catabolic process to hydantoin-5-propionate
+anaerobic phenylalanine oxidation
+phenylalanine catabolic process to phosphoenolpyruvate
+glycerol catabolic process
+aerobic glycerol catabolic process
+arabinose metabolic process
+arabinose biosynthetic process
+arabinose catabolic process
+L-arabinose catabolic process to xylulose 5-phosphate
+L-arabinose catabolic process to 2-oxoglutarate
+D-arabinose catabolic process
+L-arabinose catabolic process
+D-arabinose catabolic process to xylulose 5-phosphate
+sucrose catabolic process via 3'-ketosucrose
+"sucrose catabolic process, using beta-fructofuranosidase"
+sucrose catabolic process to fructose-6-phosphate and glucose-6-phosphate
+aerobic fructose catabolic process
+aldaric acid metabolic process
+aldaric acid biosynthetic process
+aldaric acid catabolic process
+galactarate metabolic process
+galactonate metabolic process
+galactonate catabolic process
+glucuronate metabolic process
+galacturonate metabolic process
+anaerobic glycerol catabolic process
+"anaerobic glycerol catabolic process to propane-1,3-diol"
+L-arabitol catabolic process to xylulose 5-phosphate
+mannitol catabolic process
+mannitol biosynthetic process
+mannitol metabolic process
+non-phosphorylated glucose catabolic process
+mandelate catabolic process
+(R)-mandelate catabolic process to benzoate
+(R)-mandelate catabolic process to catechol
+(R)-4-hydroxymandelate catabolic process
+toluene oxidation
+toluene oxidation via 2-hydroxytoluene
+toluene oxidation via 3-hydroxytoluene
+toluene oxidation via 4-hydroxytoluene
+toluene oxidation to catechol
+butyrate metabolic process
+2-oxobutyrate catabolic process
+phenylethylamine catabolic process
+nicotine catabolic process
+3-hydroxyphenylacetate metabolic process
+3-hydroxyphenylacetate catabolic process
+4-toluenecarboxylate metabolic process
+4-toluenecarboxylate catabolic process
+catechol-containing compound catabolic process
+"catechol catabolic process, ortho-cleavage"
+"catechol catabolic process, meta-cleavage"
+"protocatechuate catabolic process, meta-cleavage"
+"protocatechuate catabolic process, ortho-cleavage"
+protocatechuate catabolic process
+aerobic benzoate metabolic process
+creatinine catabolic process to formate
+3-(3-hydroxy)phenylpropionate catabolic process
+atrazine catabolic process to urea
+atrazine catabolic process to isopropylamine
+atrazine catabolic process to cyanuric acid
+short-chain fatty acid catabolic process
+urea metabolic process
+urate catabolic process
+"propionate catabolic process, 2-methylcitrate cycle"
+quinate metabolic process
+quinate catabolic process
+shikimate metabolic process
+shikimate catabolic process
+organic phosphonate metabolic process
+2-aminoethylphosphonate catabolic process
+phosphonoacetate metabolic process
+organophosphate metabolic process
+6-hydroxycineole metabolic process
+6-hydroxycineole catabolic process
+glucuronate catabolic process to xylulose 5-phosphate
+reductive tricarboxylic acid cycle
+anaerobic electron transport chain
+aerobic electron transport chain
+formaldehyde assimilation via ribulose monophosphate cycle
+formaldehyde assimilation via xylulose monophosphate cycle
+formaldehyde assimilation
+glycolytic fermentation to butanediol
+citrate catabolic process to diacetyl
+lactate fermentation to propionate and acetate
+anaerobic purine nucleobase catabolic process
+acetate fermentation
+glycolytic fermentation to ethanol
+glucose catabolic process to D-lactate and ethanol
+glycolytic fermentation to propionate
+glucose catabolic process to lactate and acetate
+glucose catabolic process to lactate
+glycolytic fermentation
+glucose catabolic process to lactate via pyruvate
+non-glycolytic fermentation
+glucose catabolic process to mixed acids
+anaerobic amino acid catabolic process
+nitrogenous compound fermentation
+anaerobic L-alanine catabolic process
+anaerobic catabolism of pairs of amino acids
+anaerobic glycine catabolic process
+anaerobic glutamate catabolic process
+glutamate catabolic process via mesaconate and citramalate
+ethanol-acetate fermentation to butyrate and caproate
+GDP-mannose metabolic process
+NAD metabolic process
+NAD phosphorylation and dephosphorylation
+ammonia assimilation cycle
+NAD catabolic process
+"propionate metabolic process, methylmalonyl pathway"
+"propionate metabolic process, methylcitrate cycle"
+L-methylmalonyl-CoA biosynthetic process
+acetyl-CoA assimilation pathway
+glyceraldehyde-3-phosphate metabolic process
+glyceraldehyde-3-phosphate catabolic process
+"photosynthesis, light reaction"
+"photosynthesis, dark reaction"
+purine nucleoside interconversion
+pyruvate biosynthetic process from acetate
+purine deoxyribonucleoside interconversion
+pyrimidine nucleoside interconversion
+pyrimidine deoxyribonucleoside interconversion
+deoxyribose phosphate metabolic process
+ribose phosphate metabolic process
+alkanesulfonate metabolic process
+choline metabolic process
+"toluene oxidation via toluene-cis-1,2-dihydrodiol"
+L-xylitol catabolic process to xylulose 5-phosphate
+D-galacturonate catabolic process
+organic phosphonate catabolic process
+peptidyl-arginine N5-methylation
+coenzyme A-peptidyl-cysteine covalent linking
+peptidyl-S-myristoyl-L-cysteine biosynthetic process from peptidyl-cysteine
+peptidyl-glycine cholesteryl ester biosynthesis from peptidyl-glycine
+iron incorporation into iron-sulfur cluster via pentakis-L-cysteinyl L-histidino nickel tetrairon pentasulfide
+peptidyl-asparagine methylation
+peptidyl-beta-carboxyaspartic acid biosynthetic process from peptidyl-aspartic acid
+peptidyl-L-glutamic acid 5-methyl ester biosynthetic process from glutamic acid
+peptidyl-L-glutamic acid 5-methyl ester biosynthetic process from glutamine
+peptidyl-glutamine esterification
+peptidyl-aspartic acid hydroxylation to form L-erythro-beta-hydroxyaspartic acid
+N-terminal peptidyl-alanine monomethylation
+Mo-molybdopterin cofactor metabolic process
+B cell mediated immunity
+cellular homeostasis
+peptidyl-allysine oxidation to 2-aminoadipic acid
+peptide cross-linking via 2-imino-glutaminyl-5-imidazolinone glycine
+antimicrobial humoral response
+antibacterial humoral response
+antifungal humoral response
+peptidyl-sarcosine incorporation
+nitrogen utilization
+pentacyclic triterpenoid catabolic process
+pentacyclic triterpenoid metabolic process
+hopanoid catabolic process
+hopanoid metabolic process
+pentacyclic triterpenoid biosynthetic process
+hopanoid biosynthetic process
+regulation of isoprenoid metabolic process
+secondary metabolic process
+"cytoskeleton-dependent cytoplasmic transport, nurse cell to oocyte"
+chloroplast localization
+polyol metabolic process
+carboxylic acid metabolic process
+one-carbon compound transport
+cyanogenic glycoside biosynthetic process
+glycosinolate metabolic process
+glycosinolate biosynthetic process
+glycosinolate catabolic process
+glucosinolate metabolic process
+glucosinolate biosynthetic process
+glucosinolate catabolic process
+nonprotein amino acid metabolic process
+nonprotein amino acid biosynthetic process
+nonprotein amino acid catabolic process
+peptide cross-linking via chondroitin 4-sulfate glycosaminoglycan
+cyclization of asparagine involved in intein-mediated protein splicing
+cyclization of glutamine involved in intein-mediated protein splicing
+peptidyl-aspartic acid carboxylation
+quinolinate biosynthetic process
+stem cell maintenance
+cadmium sensitivity/resistance
+response to cadmium ion
+chromate sensitivity/resistance
+response to chromate
+mercuric sensitivity/resistance
+response to mercury ion
+herbicide susceptibility/resistance
+negative regulation of neurotransmitter secretion
+L-ascorbic acid metabolic process
+L-ascorbic acid biosynthetic process
+L-ascorbic acid catabolic process
+pyrimidine nucleobase biosynthetic process
+5-methylcytosine metabolic process
+cytosine metabolic process
+thymine metabolic process
+uracil metabolic process
+streptomycin biosynthetic process
+tellurium sensitivity/resistance
+response to tellurium ion
+nylon catabolic process
+diaminopimelate biosynthetic process
+lysine biosynthetic process via aminoadipic acid
+peptidyl-thyronine biosynthetic process from peptidyl-tyrosine
+bacteriocin susceptibility/resistance
+response to bacteriocin
+streptomycin susceptibility/resistance
+response to streptomycin
+antigen processing and presentation
+antigen processing and presentation of endogenous antigen
+antigen processing and presentation of exogenous antigen
+antigen processing and presentation of endogenous peptide antigen via MHC class I
+antigen processing and presentation of exogenous peptide antigen via MHC class II
+pteridine metabolic process
+axon transport of mitochondrion
+lipid storage
+"peptidyl-D-alanine racemization, direct"
+peptidyl-D-alanine racemization via peptidyl-L-serine
+"peptidyl-arginine methylation, to symmetrical-dimethyl arginine"
+"peptidyl-arginine methylation, to asymmetrical-dimethyl arginine"
+"peptidyl-1-thioglycine biosynthetic process, internal"
+"peptidyl-1-thioglycine biosynthetic process, carboxy-terminal"
+protein-chromophore linkage via peptidyl-cysteine
+alpha-1-microglobulin-chromophore linkage
+peptidyl-tryptophan oxidation to tryptophyl quinone
+peptide cross-linking via 4'-(S-L-cysteinyl)-L-tryptophyl quinone
+peptide cross-linking via 3-(S-L-cysteinyl)-L-aspartic acid
+peptide cross-linking via 4-(S-L-cysteinyl)-L-glutamic acid
+"cis-14-hydroxy-10,13-dioxo-7-heptadecenoic acid peptidyl-aspartate ester biosynthetic process from peptidyl-aspartic acid"
+protein-chromophore linkage via peptidyl-N6-3-dehydroretinal-L-lysine
+second-messenger-mediated signaling
+cAMP-mediated signaling
+cGMP-mediated signaling
+cyclic-nucleotide-mediated signaling
+inositol phospholipid-mediated signaling
+inositol phosphate-mediated signaling
+inositol lipid-mediated signaling
+"protein catenane formation via N6-(L-isoaspartyl)-L-lysine, autocatalytic"
+"peptide cross-linking via N6-(L-isoaspartyl)-L-lysine, presumed catalytic"
+peptidyl-S-palmitoleyl-L-cysteine biosynthetic process from peptidyl-cysteine
+SUMO-dependent protein catabolic process
+NEDD8 class-dependent protein catabolic process
+protein neddylation
+SMT3-dependent protein catabolic process
+Smt3-protein conjugation
+sexual reproduction
+asexual reproduction
+translesion synthesis
+negative regulation of anti-apoptosis
+charged-tRNA amino acid modification
+pteridine catabolic process
+septate junction assembly
+evasion or tolerance of host immune response
+modulation by symbiont of host erythrocyte aggregation
+schizogony
+immortalization of host cell
+hemoglobin metabolic process
+hemoglobin import
+antigenic variation
+"cytoadherence to microvasculature, mediated by symbiont protein"
+prechordal plate formation
+neural fold elevation formation
+neural fold bending
+neural fold hinge point formation
+neural fold folding
+anterior neuropore closure
+posterior neuropore closure
+floor plate formation
+roof plate formation
+spinal cord development
+spinal cord patterning
+spinal cord anterior/posterior patterning
+spinal cord dorsal/ventral patterning
+ventral spinal cord interneuron differentiation
+cell differentiation in spinal cord
+dorsal spinal cord development
+ventral spinal cord development
+spinal cord commissural neuron specification
+spinal cord association neuron specification
+spinal cord motor neuron cell fate specification
+ventral spinal cord interneuron specification
+spinal cord motor neuron differentiation
+somatic motor neuron differentiation
+visceral motor neuron differentiation
+lateral motor column neuron differentiation
+medial motor column neuron differentiation
+spinal cord association neuron differentiation
+commissural neuron differentiation in spinal cord
+spinal cord oligodendrocyte cell differentiation
+spinal cord oligodendrocyte cell fate specification
+spinal cord radial glial cell differentiation
+neural tube patterning
+cell differentiation in hindbrain
+cell proliferation in hindbrain
+cell migration in hindbrain
+diencephalon development
+telencephalon development
+epithalamus development

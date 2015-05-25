@@ -1,0 +1,387 @@
+"positive regulation of CD4-positive, alpha-beta T cell activation"
+regulation of T-helper 1 cell activation
+negative regulation of T-helper 1 cell activation
+positive regulation of T-helper 1 cell activation
+regulation of immunological synapse formation
+negative regulation of immunological synapse formation
+positive regulation of immunological synapse formation
+regulation of T cell costimulation
+negative regulation of T cell costimulation
+positive regulation of T cell costimulation
+positive regulation of glycoprotein biosynthetic process involved in immunological synapse formation
+regulation of myeloid dendritic cell chemotaxis
+negative regulation of myeloid dendritic cell chemotaxis
+positive regulation of myeloid dendritic cell chemotaxis
+positive regulation of regulation of insulin secretion involved in cellular response to glucose stimulus
+regulation of fatty acid biosynthetic process by regulation of transcription from RNA polymerase II promoter
+regulation of renal albumin absorption
+negative regulation of renal albumin absorption
+positive regulation of renal albumin absorption
+regulation of entry of bacterium into host cell
+negative regulation of entry of bacterium into host cell
+regulation of B cell chemotaxis
+positive regulation of B cell chemotaxis
+regulation of protein geranylgeranylation
+negative regulation of protein geranylgeranylation
+positive regulation of protein geranylgeranylation
+negative regulation of gastrulation
+positive regulation of gastrulation
+regulation of endothelial cell chemotaxis to fibroblast growth factor
+negative regulation of endothelial cell chemotaxis to fibroblast growth factor
+positive regulation of endothelial cell chemotaxis to fibroblast growth factor
+regulation of dendritic cell dendrite assembly
+negative regulation of dendritic cell dendrite assembly
+positive regulation of dendritic cell dendrite assembly
+negative regulation of B cell chemotaxis
+regulation of T-helper 2 cell cytokine production
+negative regulation of T-helper 2 cell cytokine production
+positive regulation of T-helper 2 cell cytokine production
+regulation of T-helper 1 cell cytokine production
+negative regulation of T-helper 1 cell cytokine production
+positive regulation of T-helper 1 cell cytokine production
+regulation of immunoglobulin production in mucosal tissue
+positive regulation of immunoglobulin production in mucosal tissue
+regulation of CD24 biosynthetic process
+positive regulation of CD24 biosynthetic process
+"regulation of CD4-positive, alpha-beta T cell proliferation"
+"negative regulation of CD4-positive, alpha-beta T cell proliferation"
+"positive regulation of CD4-positive, alpha-beta T cell proliferation"
+"regulation of CD8-positive, alpha-beta T cell proliferation"
+"negative regulation of CD8-positive, alpha-beta T cell proliferation"
+"positive regulation of CD8-positive, alpha-beta T cell proliferation"
+regulation of memory T cell activation
+positive regulation of memory T cell activation
+regulation of T-helper 2 cell activation
+positive regulation of T-helper 2 cell activation
+regulation of interleukin-4-dependent isotype switching to IgE isotypes
+positive regulation of interleukin-4-dependent isotype switching to IgE isotypes
+positive regulation of DNA biosynthetic process
+regulation of microtubule motor activity
+negative regulation of microtubule motor activity
+positive regulation of microtubule motor activity
+"regulation of ATP-dependent microtubule motor activity, minus-end-directed"
+"negative regulation of ATP-dependent microtubule motor activity, minus-end-directed"
+"positive regulation of ATP-dependent microtubule motor activity, minus-end-directed"
+"regulation of ATP-dependent microtubule motor activity, plus-end-directed"
+"negative regulation of ATP-dependent microtubule motor activity, plus-end-directed"
+"positive regulation of ATP-dependent microtubule motor activity, plus-end-directed"
+regulation of platelet-derived growth factor receptor-alpha signaling pathway
+negative regulation of platelet-derived growth factor receptor-alpha signaling pathway
+positive regulation of platelet-derived growth factor receptor-alpha signaling pathway
+regulation of platelet-derived growth factor receptor-beta signaling pathway
+negative regulation of platelet-derived growth factor receptor-beta signaling pathway
+positive regulation of platelet-derived growth factor receptor-beta signaling pathway
+regulation of metanephric mesenchymal cell migration
+negative regulation of metanephric mesenchymal cell migration
+positive regulation of metanephric mesenchymal cell migration
+regulation of metanephric DCT cell differentiation
+negative regulation of metanephric DCT cell differentiation
+positive regulation of metanephric DCT cell differentiation
+regulation of optic nerve formation
+negative regulation of optic nerve formation
+positive regulation of optic nerve formation
+regulation of cyclin catabolic process
+negative regulation of cyclin catabolic process
+positive regulation of cyclin catabolic process
+positive regulation of Arp2/3 complex-mediated actin nucleation
+regulation of interphase of mitotic cell cycle
+regulation of secondary growth
+negative regulation of secondary growth
+positive regulation of secondary growth
+regulation of cell proliferation involved in mesonephros development
+negative regulation of cell proliferation involved in mesonephros development
+positive regulation of cell proliferation involved in mesonephros development
+regulation of thyroid hormone generation
+negative regulation of thyroid hormone generation
+positive regulation of thyroid hormone generation
+regulation of thyroid-stimulating hormone secretion
+negative regulation of thyroid-stimulating hormone secretion
+positive regulation of thyroid-stimulating hormone secretion
+regulation of histone H3-K9 acetylation
+negative regulation of histone H3-K9 acetylation
+positive regulation of histone H3-K9 acetylation
+regulation of histone H4-K16 acetylation
+negative regulation of histone H4-K16 acetylation
+positive regulation of histone H4-K16 acetylation
+regulation of DNA replication termination
+"regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay"
+"negative regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay"
+"positive regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay"
+regulation of miRNA catabolic process
+negative regulation of miRNA catabolic process
+positive regulation of miRNA catabolic process
+regulation of miRNA metabolic process
+negative regulation of miRNA metabolic process
+positive regulation of miRNA metabolic process
+regulation of pre-miRNA processing
+negative regulation of pre-miRNA processing
+positive regulation of pre-miRNA processing
+regulation of primary miRNA processing
+negative regulation of primary miRNA processing
+positive regulation of primary miRNA processing
+positive regulation of gene silencing by miRNA
+regulation of SREBP signaling pathway
+negative regulation of SREBP signaling pathway
+positive regulation of SREBP signaling pathway
+regulation of early endosome to late endosome transport
+negative regulation of early endosome to late endosome transport
+positive regulation of early endosome to late endosome transport
+regulation of receptor catabolic process
+negative regulation of receptor catabolic process
+positive regulation of receptor catabolic process
+negative regulation of stem cell proliferation
+positive regulation of stem cell proliferation
+regulation of sodium ion transmembrane transporter activity
+negative regulation of sodium ion transmembrane transporter activity
+positive regulation of sodium ion transmembrane transporter activity
+regulation of secondary cell wall biogenesis
+regulation of genetic imprinting
+regulation of cellular response to testosterone stimulus
+negative regulation of cellular response to testosterone stimulus
+regulation of apolipoprotein binding
+negative regulation of apolipoprotein binding
+positive regulation of apolipoprotein binding
+regulation of interleukin-1-mediated signaling pathway
+negative regulation of interleukin-1-mediated signaling pathway
+positive regulation of interleukin-1-mediated signaling pathway
+regulation of interleukin-5 secretion
+negative regulation of interleukin-5 secretion
+positive regulation of interleukin-5 secretion
+regulation of interleukin-13 secretion
+negative regulation of interleukin-13 secretion
+positive regulation of interleukin-13 secretion
+regulation of dendritic cell apoptotic process
+negative regulation of dendritic cell apoptotic process
+positive regulation of dendritic cell apoptotic process
+regulation of motor neuron apoptotic process
+negative regulation of motor neuron apoptotic process
+positive regulation of motor neuron apoptotic process
+regulation of type B pancreatic cell apoptotic process
+negative regulation of type B pancreatic cell apoptotic process
+positive regulation of type B pancreatic cell apoptotic process
+regulation of transcription regulatory region DNA binding
+negative regulation of transcription regulatory region DNA binding
+positive regulation of transcription regulatory region DNA binding
+regulation of rubidium ion transport
+negative regulation of rubidium ion transport
+positive regulation of rubidium ion transport
+regulation of cellular response to X-ray
+negative regulation of cellular response to X-ray
+positive regulation of cellular response to X-ray
+regulation of rubidium ion transmembrane transporter activity
+negative regulation of rubidium ion transmembrane transporter activity
+positive regulation of rubidium ion transmembrane transporter activity
+actomyosin contractile ring assembly actin filament organization
+regulation of cardiac muscle cell myoblast differentiation
+negative regulation of cardiac muscle cell myoblast differentiation
+negative regulation of seed maturation
+positive regulation of seed maturation
+regulation of phragmoplast microtubule organization
+regulation of epithelial cell differentiation involved in kidney development
+negative regulation of epithelial cell differentiation involved in kidney development
+positive regulation of epithelial cell differentiation involved in kidney development
+fibroblast growth factor receptor signaling pathway involved in ureteric bud formation
+positive regulation of cardiac muscle cell myoblast differentiation
+glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation
+regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation
+negative regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation
+positive regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation
+regulation of dense core granule biogenesis
+negative regulation of dense core granule biogenesis
+positive regulation of dense core granule biogenesis
+myosin filament organization involved in cytokinetic actomyosin contractile ring assembly
+"regulation of maintenance of meiotic sister chromatid cohesion, centromeric"
+"negative regulation of maintenance of meiotic sister chromatid cohesion, centromeric"
+"positive regulation of maintenance of meiotic sister chromatid cohesion, centromeric"
+"regulation of maintenance of meiotic sister chromatid cohesion, arms"
+"negative regulation of maintenance of meiotic sister chromatid cohesion, arms"
+"positive regulation of maintenance of meiotic sister chromatid cohesion, arms"
+"regulation of maintenance of mitotic sister chromatid cohesion, arms"
+"negative regulation of maintenance of mitotic sister chromatid cohesion, arms"
+"positive regulation of maintenance of mitotic sister chromatid cohesion, arms"
+"regulation of maintenance of mitotic sister chromatid cohesion, centromeric"
+"negative regulation of maintenance of mitotic sister chromatid cohesion, centromeric"
+"positive regulation of maintenance of mitotic sister chromatid cohesion, centromeric"
+positive regulation of transcription from RNA polymerase II promoter involved in smooth muscle cell differentiation
+regulation of cardiac vascular smooth muscle cell differentiation
+negative regulation of cardiac vascular smooth muscle cell differentiation
+positive regulation of cardiac vascular smooth muscle cell differentiation
+regulation of cardiac muscle cell differentiation
+negative regulation of cardiac muscle cell differentiation
+positive regulation of cardiac muscle cell differentiation
+regulation of mRNA export from nucleus in response to heat stress
+positive regulation of mesenchymal cell proliferation involved in ureter development
+regulation of termination of RNA polymerase I transcription
+negative regulation of termination of RNA polymerase I transcription
+positive regulation of termination of RNA polymerase I transcription
+regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation
+negative regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation
+positive regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation
+regulation of stem cell differentiation
+negative regulation of stem cell differentiation
+positive regulation of stem cell differentiation
+regulation of mesenchymal stem cell differentiation
+negative regulation of mesenchymal stem cell differentiation
+positive regulation of mesenchymal stem cell differentiation
+regulation of anterior head development
+negative regulation of anterior head development
+positive regulation of anterior head development
+positive regulation of transcription from RNA polymerase III promoter involved in smooth muscle cell differentiation
+regulation of defecation rhythm
+negative regulation of defecation rhythm
+positive regulation of defecation rhythm
+positive regulation of chromatin silencing at rDNA
+negative regulation of establishment or maintenance of bipolar cell polarity regulating cell shape
+histone H3-T3 phosphorylation involved in chromosome passenger complex localization to kinetochore
+regulation of glucosylceramide catabolic process
+positive regulation of glucosylceramide catabolic process
+regulation of sphingomyelin catabolic process
+positive regulation of sphingomyelin catabolic process
+regulation of peptidyl-lysine acetylation
+negative regulation of peptidyl-lysine acetylation
+positive regulation of peptidyl-lysine acetylation
+regulation of N-terminal peptidyl-lysine acetylation
+negative regulation of N-terminal peptidyl-lysine acetylation
+positive regulation of N-terminal peptidyl-lysine acetylation
+regulation of phenylpropanoid metabolic process
+positive regulation of transcription from RNA polymerase II promoter involved in norepinephrine biosynthetic process
+positive regulation of semaphorin-plexin signaling pathway involved in outflow tract morphogenesis
+regulation of cytoplasmic translation
+negative regulation of cytoplasmic translation
+positive regulation of cytoplasmic translation
+positive regulation of nephron tubule epithelial cell differentiation
+regulation of establishment or maintenance of cell polarity regulating cell shape
+negative regulation of establishment or maintenance of cell polarity regulating cell shape
+positive regulation of establishment or maintenance of cell polarity regulating cell shape
+regulation of cellular senescence
+negative regulation of cellular senescence
+positive regulation of cellular senescence
+histone H3-S10 phosphorylation involved in chromosome condensation
+histone H4 acetylation involved in response to DNA damage stimulus
+positive regulation of proteasomal ubiquitin-dependent protein catabolic process involved in cellular response to hypoxia
+positive regulation of interleukin-6 secretion
+regulation of double-strand break repair
+negative regulation of double-strand break repair
+positive regulation of double-strand break repair
+regulation of establishment of cell polarity regulating cell shape
+negative regulation of establishment of cell polarity regulating cell shape
+positive regulation of establishment of cell polarity regulating cell shape
+regulation of autophagic vacuole assembly
+positive regulation of autophagic vacuole assembly
+regulation of venous endothelial cell fate commitment
+negative regulation of venous endothelial cell fate commitment
+positive regulation of venous endothelial cell fate commitment
+regulation of mesenchymal cell proliferation involved in lung development
+negative regulation of mesenchymal cell proliferation involved in lung development
+positive regulation of mesenchymal cell proliferation involved in lung development
+cell proliferation involved in heart valve development
+regulation of epithelial cell proliferation involved in lung morphogenesis
+negative regulation of epithelial cell proliferation involved in lung morphogenesis
+Notch signaling pathway involved in negative regulation of venous endothelial cell fate commitment
+regulation of amniotic stem cell differentiation
+negative regulation of amniotic stem cell differentiation
+positive regulation of amniotic stem cell differentiation
+regulation of endocardial cushion to mesenchymal transition involved in heart valve formation
+negative regulation of endocardial cushion to mesenchymal transition involved in heart valve formation
+positive regulation of endocardial cushion to mesenchymal transition involved in heart valve formation
+endosomal signal transduction
+"regulation of termination of RNA polymerase II transcription, poly(A)-coupled"
+"negative regulation of termination of RNA polymerase II transcription, poly(A)-coupled"
+"positive regulation of termination of RNA polymerase II transcription, poly(A)-coupled"
+regulation of synaptic vesicle clustering
+negative regulation of synaptic vesicle clustering
+positive regulation of synaptic vesicle clustering
+regulation of tight junction assembly
+negative regulation of anoikis
+regulation of barbed-end actin filament capping
+negative regulation of barbed-end actin filament capping
+positive regulation of barbed-end actin filament capping
+regulation of mRNA stability involved in response to oxidative stress
+negative regulation of mitotic sister chromatid separation
+regulation of histone H3-T3 phosphorylation involved in chromosome passenger complex localization to kinetochore
+negative regulation of myoblast proliferation
+regulation of nucleotide-excision repair
+negative regulation of transcription from RNA polymerase II promoter involved in smooth muscle cell differentiation
+regulation of grooming behavior
+regulation of behavioral fear response
+regulation of androgen receptor activity
+negative regulation of androgen receptor activity
+positive regulation of androgen receptor activity
+regulation of heart morphogenesis
+mitochondrial RNA surveillance
+regulation of parathyroid hormone secretion
+negative regulation of parathyroid hormone secretion
+positive regulation of parathyroid hormone secretion
+regulation of steroid hormone secretion
+negative regulation of steroid hormone secretion
+positive regulation of steroid hormone secretion
+regulation of androgen secretion
+negative regulation of androgen secretion
+positive regulation of androgen secretion
+regulation of androstenedione secretion
+negative regulation of androstenedione secretion
+positive regulation of androstenedione secretion
+regulation of dehydroepiandrosterone secretion
+negative regulation of dehydroepiandrosterone secretion
+positive regulation of dehydroepiandrosterone secretion
+regulation of testosterone secretion
+negative regulation of testosterone secretion
+positive regulation of testosterone secretion
+regulation of corticosteroid hormone secretion
+negative regulation of corticosteroid hormone secretion
+positive regulation of corticosteroid hormone secretion
+regulation of glucocorticoid secretion
+negative regulation of glucocorticoid secretion
+positive regulation of glucocorticoid secretion
+regulation of corticosterone secretion
+negative regulation of corticosterone secretion
+positive regulation of corticosterone secretion
+regulation of mineralocorticoid secretion
+negative regulation of mineralocorticoid secretion
+positive regulation of mineralocorticoid secretion
+regulation of aldosterone secretion
+negative regulation of aldosterone secretion
+positive regulation of aldosterone secretion
+regulation of estrogen secretion
+negative regulation of estrogen secretion
+positive regulation of estrogen secretion
+regulation of estradiol secretion
+negative regulation of estradiol secretion
+positive regulation of estradiol secretion
+regulation of estrone secretion
+negative regulation of estrone secretion
+positive regulation of estrone secretion
+regulation of progesterone secretion
+negative regulation of progesterone secretion
+positive regulation of progesterone secretion
+regulation of histone H4 acetylation involved in response to DNA damage stimulus
+regulation of glyoxylate cycle
+negative regulation of glyoxylate cycle
+positive regulation of glyoxylate cycle
+negative regulation of oligopeptide transport
+positive regulation of oligopeptide transport
+negative regulation of dipeptide transport
+positive regulation of dipeptide transport
+regulation of starch catabolic process
+negative regulation of starch catabolic process
+positive regulation of starch catabolic process
+glucomannan catabolic process
+galactoglucomannan catabolic process
+glucuronoxylan catabolic process
+glucuronoarabinoxylan catabolic process
+arabinoxylan-containing compound catabolic process
+cellodextrin metabolic process
+cellodextrin catabolic process
+cellobiose metabolic process
+cellobiose catabolic process
+cellotriose metabolic process
+cellotriose catabolic process
+hemicellulose catabolic process
+amylopectin metabolic process
+amylopectin catabolic process
+regulation of glucomannan catabolic process
+xyloglucan catabolic process
+cyclodextrin metabolic process
+cyclodextrin catabolic process
+cellooligosaccharide metabolic process
+cellooligosaccharide catabolic process

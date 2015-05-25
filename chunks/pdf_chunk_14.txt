@@ -1,0 +1,388 @@
+T cell receptor binding
+receptor agonist activity
+MHC protein complex binding
+MHC class I protein complex binding
+MHC class Ib protein complex binding
+MHC class II protein complex binding
+"MHC class I protein binding, via antigen binding groove"
+"MHC class I protein binding, via lateral surface"
+MHC class Ib protein binding
+"MHC class Ib protein binding, via antigen binding groove"
+"MHC class Ib protein binding, via lateral surface"
+bioactive lipid receptor activity
+complement factor H activity
+tryptase activity
+extracellular matrix structural constituent conferring tensile strength
+extracellular matrix structural constituent conferring compression resistance
+adhesive extracellular matrix constituent
+extracellular matrix binding
+DNA unwinding factor
+FK506-sensitive peptidyl-prolyl cis-trans isomerase
+parvulin
+immunophilin
+amine dehydrogenase activity
+aralkylamine dehydrogenase (azurin) activity
+L-malate dehydrogenase activity
+cytochrome b6
+respiratory chain cytochrome b6
+MHC class I receptor activity
+HLA-A specific inhibitory MHC class I receptor activity
+HLA-A specific activating MHC class I receptor activity
+HLA-B specific inhibitory MHC class I receptor activity
+HLA-C specific inhibitory MHC class I receptor activity
+glial cell line-derived neurotrophic factor receptor binding
+"alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase activity"
+manganese ion binding
+molybdenum ion binding
+protein xylosyltransferase activity
+receptor signaling complex scaffold activity
+GKAP/Homer scaffold activity
+calpain inhibitor activity
+PDZ domain binding
+low-density lipoprotein particle binding
+pyridoxal phosphate binding
+voltage-gated proton channel activity
+troponin C binding
+nitric oxide transmembrane transporter activity
+chaperone regulator activity
+chaperone activator activity
+chaperone inhibitor activity
+Hsp70/Hsc70 protein inhibitor activity
+Hsp70/Hsc70 protein regulator activity
+cyanide hydratase activity
+"extracellular matrix constituent, lubricant activity"
+semaphorin receptor binding
+apolipoprotein receptor activity
+apolipoprotein E receptor activity
+very-low-density lipoprotein particle receptor activity
+lipoprotein particle receptor activity
+deoxynucleotide transmembrane transporter activity
+enzyme regulator activity
+nitric-oxide synthase regulator activity
+polysaccharide binding
+cellulose binding
+guanylate cyclase regulator activity
+guanylate cyclase activator activity
+guanylate cyclase inhibitor activity
+quinate 3-dehydrogenase (NAD+) activity
+glyoxylate reductase (NADP) activity
+methylenetetrahydromethanopterin dehydrogenase activity
+tetrahydromethanopterin S-methyltransferase activity
+formylmethanofuran-tetrahydromethanopterin N-formyltransferase activity
+chymase activity
+5-formyltetrahydrofolate cyclo-ligase activity
+melanin-concentrating hormone receptor activity
+LIM domain binding
+LRR domain binding
+clathrin binding
+structural constituent of epidermis
+structural constituent of cutaneous appendage
+testosterone dehydrogenase [NAD(P)] activity
+estrogen receptor activity
+sphingolipid activator protein activity
+protein serine/threonine kinase inhibitor activity
+protein tyrosine kinase inhibitor activity
+receptor signaling protein tyrosine kinase inhibitor activity
+protein kinase activator activity
+protein tyrosine kinase activator activity
+receptor signaling protein tyrosine kinase activator activity
+stromelysin 2 activity
+trypsin inhibitor activity
+heparanase activity
+ADP-ribosylation factor binding
+estrogen receptor binding
+cyclin binding
+DNA polymerase processivity factor activity
+CMP-N-acetylneuraminate monooxygenase activity
+fatty-acyl-ethyl-ester synthase activity
+hyaluronate lyase activity
+chondroitin AC lyase activity
+"1-alpha,25-dihydroxyvitamin D3 24-hydroxylase activity"
+vitamin D3 25-hydroxylase activity
+structural constituent of tooth enamel
+protein phosphatase 2B binding
+syntaxin-3 binding
+iron-responsive element binding
+"inositol-1,3,4,5,6-pentakisphosphate 3-phosphatase activity"
+"inositol-1,4,5,6-tetrakisphosphate 6-phosphatase activity"
+fibroblast growth factor receptor antagonist activity
+melanin-concentrating hormone activity
+small nucleolar ribonucleoprotein
+small cytoplasmic ribonucleoprotein
+protein phosphatase type 2B regulator activity
+protein phosphatase type 4 regulator activity
+pre-mRNA cleavage factor activity
+cleavage and polyadenylylation specificity factor activity
+cleavage stimulation factor activity
+molybdopterin synthase activity
+interleukin-17 receptor binding
+interleukin-17 receptor activity
+ICAM-3 receptor activity
+intercellular adhesion molecule-3 receptor binding
+translation repressor activity
+high molecular weight B cell growth factor receptor binding
+high molecular weight B cell growth factor receptor activity
+ligand-dependent nuclear receptor transcription coactivator activity
+thyroid hormone receptor coactivator activity
+urokinase plasminogen activator receptor activity
+serine racemase activity
+"neurotensin receptor activity, non-G-protein coupled"
+interleukin-17E receptor binding
+ferredoxin:thioredoxin reductase activity
+fructosamine-3-kinase activity
+lactose binding
+protease substrate recruitment factor activity
+transcription antiterminator activity
+matrilysin-2 activity
+collagenase 4 activity
+collagenase 3 activity
+matrix metalloproteinase 19 activity
+matrix metalloproteinase 25 activity
+formimidoyltransferase activity
+glycine formimidoyltransferase activity
+glutamate formimidoyltransferase activity
+nicotianamine synthase activity
+scytalone dehydratase activity
+formimidoyltetrahydrofolate cyclodeaminase activity
+competence pheromone activity
+carboxypeptidase A inhibitor activity
+kynureninase activity
+"inositol-4,5-bisphosphate 5-phosphatase activity"
+hemoglobin binding
+inorganic diphosphate transmembrane transporter activity
+ankyrin binding
+spectrin binding
+thiol-disulfide exchange intermediate activity
+snoRNA binding
+snoRNP binding
+dihydrolipoamide S-acyltransferase activity
+structural constituent of chromatin
+transcription regulator activity
+Hsp70 protein binding
+receptor regulator activity
+receptor activator activity
+receptor inhibitor activity
+acetylcholine receptor regulator activity
+acetylcholine receptor activator activity
+acetylcholine receptor inhibitor activity
+cyclic nucleotide binding
+cAMP binding
+cGMP binding
+adenyl nucleotide binding
+rRNA modification guide activity
+tRNA modification guide activity
+RNA pseudouridylation guide activity
+rRNA pseudouridylation guide activity
+tRNA pseudouridylation guide activity
+RNA 2'-O-ribose methylation guide activity
+rRNA 2'-O-ribose methylation guide activity
+snRNA 2'-O-ribose methylation guide activity
+tRNA 2'-O-ribose methylation guide activity
+snRNA pseudouridylation guide activity
+snRNA modification guide activity
+thrombin activator activity
+plasmin inhibitor activity
+chymotrypsin inhibitor activity
+pectate lyase activity
+phosphatidyltransferase activity
+quinone cofactor methyltransferase activity
+phosphoenolpyruvate carboxykinase (diphosphate) activity
+[methionine synthase] reductase activity
+NAD DNA ADP-ribosyltransferase activity
+alpha-L-rhamnosidase activity
+RNA glycosylase activity
+rRNA N-glycosylase activity
+pectinesterase activity
+feruloyl esterase activity
+aminopeptidase B activity
+chymosin activity
+oxaloacetase activity
+1-deoxy-D-xylulose-5-phosphate reductoisomerase activity
+arsenate reductase activity
+arsenate reductase (thioredoxin) activity
+"oxidoreductase activity, acting on phosphorus or arsenic in donors"
+"oxidoreductase activity, acting on phosphorus or arsenic in donors, disulfide as acceptor"
+U1 snRNA binding
+U2 snRNA binding
+U4 snRNA binding
+U4atac snRNA binding
+U5 snRNA binding
+U6atac snRNA binding
+U11 snRNA binding
+U12 snRNA binding
+pre-mRNA 5'-splice site binding
+pre-mRNA 3'-splice site binding
+U6 snRNA 3'-end binding
+Rac guanyl-nucleotide exchange factor activity
+caspase activity
+GTPase regulator activity
+tRNA (m5U54) methyltransferase activity
+S-adenosylmethionine-dependent tRNA (m5U54) methyltransferase activity
+"5,10-methylenetetrahydrofolate-dependent tRNA (m5U54) methyltransferase activity"
+glycine reductase activity
+NAD+-dinitrogen-reductase ADP-D-ribosyltransferase activity
+acetoacetate-CoA ligase activity
+guanidinoacetate N-methyltransferase activity
+methionine S-methyltransferase activity
+fatty acid O-methyltransferase activity
+polysaccharide O-methyltransferase activity
+carnosine N-methyltransferase activity
+phenol O-methyltransferase activity
+iodophenol O-methyltransferase activity
+tyramine N-methyltransferase activity
+O-demethylpuromycin O-methyltransferase activity
+inositol 3-methyltransferase activity
+inositol 1-methyltransferase activity
+GTP-dependent protein binding
+rRNA (adenosine-2'-O-)-methyltransferase activity
+luteolin O-methyltransferase activity
+dimethylhistidine N-methyltransferase activity
+isoflavone 4'-O-methyltransferase activity
+indolepyruvate C-methyltransferase activity
+amine N-methyltransferase activity
+loganate O-methyltransferase activity
+putrescine N-methyltransferase activity
+licodione 2'-O-methyltransferase activity
+5-hydroxyfuranocoumarin 5-O-methyltransferase activity
+8-hydroxyfuranocoumarin 8-O-methyltransferase activity
+apigenin 4'-O-methyltransferase activity
+quercetin 3-O-methyltransferase activity
+isoorientin 3'-O-methyltransferase activity
+3-methylquercitin 7-O-methyltransferase activity
+"3,7-dimethylquercitin 4'-O-methyltransferase activity"
+methylquercetagetin 6-O-methyltransferase activity
+pyridine N-methyltransferase activity
+8-hydroxyquercitin 8-O-methyltransferase activity
+tetrahydrocolumbamine 2-O-methyltransferase activity
+isobutyraldoxime O-methyltransferase activity
+11-O-demethyl-17-O-deacetylvindoline O-methyltransferase activity
+3-hydroxyanthranilate 4-C-methyltransferase activity
+"16-methoxy-2,3-dihydro-3-hydroxytabersonine N-methyltransferase activity"
+macrocin O-methyltransferase activity
+demethylmacrocin O-methyltransferase activity
+N-benzoyl-4-hydroxyanthranilate 4-O-methyltransferase activity
+tryptophan 2-C-methyltransferase activity
+6-hydroxymellein O-methyltransferase activity
+anthranilate N-methyltransferase activity
+glucuronoxylan 4-O-methyltransferase activity
+"(RS)-1-benzyl-1,2,3,4-tetrahydroisoquinoline N-methyltransferase activity"
+(S)-scoulerine 9-O-methyltransferase activity
+columbamine O-methyltransferase activity
+10-hydroxydihydrosanguinarine 10-O-methyltransferase activity
+12-hydroxydihydrochelirubine 12-O-methyltransferase activity
+6-O-methylnorlaudanosoline 5'-O-methyltransferase activity
+(S)-tetrahydroprotoberberine N-methyltransferase activity
+[cytochrome c]-methionine S-methyltransferase activity
+3'-hydroxy-N-methyl-(S)-coclaurine 4'-O-methyltransferase activity
+[ribulose-bisphosphate carboxylase]-lysine N-methyltransferase activity
+(RS)-norcoclaurine 6-O-methyltransferase activity
+inositol 4-methyltransferase activity
+precorrin-2 C20-methyltransferase activity
+precorrin-3B C17-methyltransferase activity
+chlorophenol O-methyltransferase activity
+arsenite methyltransferase activity
+methylarsonite methyltransferase activity
+3'-demethylstaurosporine O-methyltransferase activity
+(S)-coclaurine-N-methyltransferase activity
+jasmonate O-methyltransferase activity
+cycloartenol 24-C-methyltransferase activity
+24-methylenesterol C-methyltransferase activity
+trans-aconitate 2-methyltransferase activity
+threo-3-hydroxyaspartate ammonia-lyase activity
+beta-2-microglobulin binding
+lipid antigen binding
+endogenous lipid antigen binding
+exogenous lipid antigen binding
+actin-dependent ATPase activity
+calcium-dependent ATPase activity
+TPR domain binding
+chloroplast targeting sequence binding
+endoplasmic reticulum signal peptide binding
+mitochondrion targeting sequence binding
+DDEL sequence binding
+"protein tyrosine phosphatase activity, via thiol-phosphate intermediate"
+"protein tyrosine phosphatase activity, metal-dependent"
+potassium ion binding
+Tat protein binding
+molybdate ion binding
+thiamine binding
+thiamine pyrophosphate binding
+taurine binding
+mismatched DNA binding
+kininogen binding
+high molecular weight kininogen binding
+low molecular weight kininogen binding
+high molecular weight kininogen receptor binding
+filamin binding
+troponin I binding
+troponin T binding
+cysteine desulfurase activity
+cholesterol 26-hydroxylase activity
+histone deacetylase activity (H3-K14 specific)
+picornain 3C activity
+"alpha-(1,2)-fucosyltransferase activity"
+serine 3-dehydrogenase activity
+histone methyltransferase activity (H3-K79 specific)
+ornithine N5-monooxygenase activity
+"endo-1,4-beta-xylanase activity"
+phosphopantetheine binding
+POZ domain binding
+phosphatidylcholine binding
+neopullulanase activity
+"glucan 1,4-beta-glucosidase activity"
+"arabinogalactan endo-1,4-beta-galactosidase activity"
+levanase activity
+maltodextrin phosphorylase activity
+denatured protein binding
+amine-transporting ATPase activity
+small GTPase binding
+"alpha-1,2-galactosyltransferase activity"
+taurine-pyruvate aminotransferase activity
+hexitol dehydrogenase activity
+Pro-X metallocarboxypeptidase activity
+translation initiation factor binding
+eukaryotic initiation factor 4G binding
+sodium ion binding
+lithium ion binding
+chloride ion binding
+lipoic acid binding
+carboxylic acid binding
+pigment binding
+L-ascorbic acid binding
+cobalamin binding
+alkali metal ion binding
+hexon binding
+titin binding
+telethonin binding
+mitogen-activated protein kinase kinase binding
+mitogen-activated protein kinase kinase kinase binding
+betaine-transporting ATPase activity
+glycine betaine-transporting ATPase activity
+myosin III binding
+myosin V binding
+chromatin DNA binding
+nucleosome binding
+nucleosomal DNA binding
+nucleosomal histone binding
+far-red light photoreceptor activity
+red light photoreceptor activity
+gonadotropin-releasing hormone receptor binding
+thyrotropin-releasing hormone receptor binding
+peptidyl-proline dioxygenase activity
+peptidyl-proline 3-dioxygenase activity
+peptidyl-proline 4-dioxygenase activity
+brain-derived neurotrophic factor receptor binding
+oxidosqualene cyclase activity
+polyubiquitin binding
+ubiquitin conjugating enzyme binding
+ubiquitin protein ligase binding
+beta-endorphin binding
+opioid receptor binding
+replication fork barrier binding
+NADH dehydrogenase (plastoquinone) activity
+G-protein beta-subunit binding
+G-protein gamma-subunit binding
+G-protein beta/gamma-subunit complex binding
+adenosine receptor binding
+A1 adenosine receptor binding
+A2A adenosine receptor binding

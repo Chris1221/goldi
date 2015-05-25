@@ -1,0 +1,387 @@
+de-etiolation
+benzyl isoquinoline alkaloid biosynthetic process
+terpenoid indole alkaloid biosynthetic process
+tropane alkaloid biosynthetic process
+purine alkaloid biosynthetic process
+catechol-containing compound metabolic process
+catechol-containing compound biosynthetic process
+chalcone metabolic process
+chalcone biosynthetic process
+flavonoid phytoalexin biosynthetic process
+isoflavonoid biosynthetic process
+anthocyanin-containing compound biosynthetic process
+response to endogenous stimulus
+detection of hormone stimulus
+detection of auxin stimulus
+detection of cytokinin stimulus
+response to ethylene
+detection of abscisic acid stimulus
+response to hormone
+detection of endogenous stimulus
+detection of ethylene stimulus
+detection of gibberellic acid stimulus
+detection of brassinosteroid stimulus
+detection of carbohydrate stimulus
+detection of sucrose stimulus
+detection of hexose stimulus
+response to auxin
+auxin-activated signaling pathway
+response to cytokinin
+cytokinin-activated signaling pathway
+response to abscisic acid
+abscisic acid-activated signaling pathway
+response to gibberellin
+gibberellic acid mediated signaling pathway
+response to brassinosteroid
+brassinosteroid mediated signaling pathway
+response to carbohydrate
+response to sucrose
+sucrose mediated signaling
+response to hexose
+hexokinase-dependent signaling
+hexokinase-independent signaling
+response to glucose
+response to fructose
+response to salicylic acid
+detection of salicylic acid stimulus
+response to jasmonic acid
+detection of jasmonic acid stimulus
+hormone-mediated signaling pathway
+carbohydrate mediated signaling
+hexose mediated signaling
+carbohydrate utilization
+indole glucosinolate biosynthetic process
+C4 photosynthesis
+CAM photosynthesis
+NADP-malic enzyme C4 photosynthesis
+NAD-malic enzyme C4 photosynthesis
+PEP carboxykinase C4 photosynthesis
+"photosynthesis, light harvesting"
+primary charge separation
+"photosynthesis, light harvesting in photosystem I"
+"photosynthesis, light harvesting in photosystem II"
+primary charge separation in photosystem I
+primary charge separation in photosystem II
+photosynthetic electron transport in photosystem II
+photosynthetic electron transport in photosystem I
+photosynthetic phosphorylation
+cyclic photosynthetic phosphorylation
+noncyclic photosynthetic phosphorylation
+photosynthetic NADP+ reduction
+photosynthetic water oxidation
+blue light signaling pathway
+regulation of asymmetric cell division
+regulation of abscisic acid-activated signaling pathway
+negative regulation of abscisic acid-activated signaling pathway
+positive regulation of abscisic acid-activated signaling pathway
+post-embryonic development
+embryo development ending in birth or egg hatching
+embryo development ending in seed dormancy
+"regulation of mitotic cell cycle, embryonic"
+axis specification
+specification of symmetry
+cinnamic acid biosynthetic process
+cinnamic acid ester metabolic process
+cinnamic acid ester biosynthetic process
+cinnamic acid metabolic process
+coumarin metabolic process
+coumarin biosynthetic process
+lignan metabolic process
+lignan biosynthetic process
+lignin metabolic process
+lignin biosynthetic process
+stilbene metabolic process
+stilbene biosynthetic process
+flavonoid metabolic process
+flavonoid biosynthetic process
+"defense response, incompatible interaction"
+"defense response to bacterium, incompatible interaction"
+"defense response to fungus, incompatible interaction"
+"defense response to protozoan, incompatible interaction"
+alkaloid metabolic process
+alkaloid biosynthetic process
+alkaloid catabolic process
+cytokinin catabolic process
+multidimensional cell growth
+unidimensional cell growth
+plant-type cell wall modification
+plant-type cell wall loosening
+cell wall modification involved in fruit ripening
+cell wall modification involved in abscission
+plant-type cell wall modification involved in multidimensional cell growth
+plant-type cell wall biogenesis
+plant-type primary cell wall biogenesis
+plant-type secondary cell wall biogenesis
+fruit ripening
+"fruit ripening, climacteric"
+"fruit ripening, non-climacteric"
+abscission
+germination
+seed germination
+pollen germination
+spore germination
+indoleacetic acid biosynthetic process via tryptophan
+tryptophan-independent indoleacetic acid biosynthetic process
+auxin metabolic process
+auxin biosynthetic process
+auxin catabolic process
+photorespiration
+oxidative photosynthetic carbon pathway
+determination of bilateral symmetry
+pollination
+compatible pollen-pistil interaction
+pollen hydration
+pollen tube growth
+jasmonic acid and ethylene-dependent systemic resistance
+"systemic acquired resistance, salicylic acid mediated signaling pathway"
+salicylic acid mediated signaling pathway
+"induced systemic resistance, jasmonic acid mediated signaling pathway"
+pollen tube adhesion
+"induced systemic resistance, ethylene mediated signaling pathway"
+jasmonic acid mediated signaling pathway
+"jasmonic acid and ethylene-dependent systemic resistance, jasmonic acid mediated signaling pathway"
+incompatible pollen-pistil interaction
+"defense response signaling pathway, resistance gene-dependent"
+"jasmonic acid and ethylene-dependent systemic resistance, ethylene mediated signaling pathway"
+gametophytic self-incompatibility
+ethylene-activated signaling pathway
+sporophytic self-incompatibility
+pollen-pistil interaction
+pollen adhesion
+nodulation
+nodule morphogenesis
+determination of radial symmetry
+post-embryonic morphogenesis
+regulation of biosynthetic process
+negative regulation of biosynthetic process
+positive regulation of biosynthetic process
+negative regulation of metabolic process
+positive regulation of metabolic process
+regulation of catabolic process
+negative regulation of catabolic process
+positive regulation of catabolic process
+dehiscence
+anther dehiscence
+chloroplast relocation
+chloroplast avoidance movement
+chloroplast accumulation movement
+"response to photoperiod, blue light"
+"response to photoperiod, red light"
+flower development
+regulation of flower development
+negative regulation of flower development
+positive regulation of flower development
+auditory receptor cell fate commitment
+epidermal cell differentiation
+hormone transport
+phloem sucrose loading
+cytokinesis (sensu Viridiplantae)
+cell plate formation involved in plant-type cell wall biogenesis
+auxin polar transport
+cell tip growth
+meristem structural organization
+regulation of meristem structural organization
+nutrient import
+regulation of gibberellic acid mediated signaling pathway
+negative regulation of gibberellic acid mediated signaling pathway
+positive regulation of gibberellic acid mediated signaling pathway
+longitudinal axis specification
+adaxial/abaxial axis specification
+polarity specification of adaxial/abaxial axis
+radial axis specification
+proximal/distal axis specification
+centrolateral axis specification
+anterior/posterior axis specification
+polarity specification of anterior/posterior axis
+dorsal/ventral axis specification
+polarity specification of dorsal/ventral axis
+anterior/posterior pattern specification
+dorsal/ventral pattern formation
+proximal/distal pattern formation
+adaxial/abaxial pattern specification
+radial pattern formation
+epidermal cell fate specification
+positive gravitropism
+negative gravitropism
+endosperm development
+response to 1-aminocyclopropane-1-carboxylic acid
+regulation of flavonoid biosynthetic process
+positive regulation of flavonoid biosynthetic process
+negative regulation of flavonoid biosynthetic process
+leaf morphogenesis
+regulation of signal transduction
+positive regulation of signal transduction
+negative regulation of signal transduction
+xyloglucan biosynthetic process
+cellular response to sulfate starvation
+anastral spindle assembly involved in male meiosis
+cytidine deamination
+AMP metabolic process
+cellular process
+cell-cell recognition
+cell-matrix recognition
+contact guidance
+response to extracellular stimulus
+cellular water homeostasis
+oocyte differentiation
+soluble molecule recognition
+negative regulation of cell fate specification
+negative regulation of cardioblast cell fate specification
+negative regulation of retinal cone cell fate specification
+negative regulation of auditory receptor cell fate specification
+glial cell differentiation
+cardioblast differentiation
+gastrulation involving germ band extension
+meristem initiation
+root morphogenesis
+shoot system morphogenesis
+red or far-red light signaling pathway
+far-red light signaling pathway
+chloroplast-nucleus signaling pathway
+chloroplast fission
+amylopectin biosynthetic process
+meristem determinacy
+proanthocyanidin biosynthetic process
+phytochromobilin biosynthetic process
+wax biosynthetic process
+trichome differentiation
+thylakoid membrane organization
+xanthophyll cycle
+regulation of seed germination
+positive regulation of seed germination
+circumnutation
+meiotic chromosome condensation
+response to organic substance
+response to acetate
+response to inorganic substance
+response to boron-containing substance
+response to carbon dioxide
+response to iron ion
+response to iron(II) ion
+response to iron(III) ion
+response to manganese ion
+response to zinc ion
+response to aluminum ion
+response to nickel cation
+response to mycotoxin
+fruit dehiscence
+vernalization response
+acquisition of reproductive competence
+vegetative phase change
+xylem and phloem pattern formation
+guard cell differentiation
+root epidermal cell differentiation
+trichoblast differentiation
+atrichoblast differentiation
+atrichoblast fate specification
+trichoblast fate specification
+regulation of atrichoblast fate specification
+positive regulation of atrichoblast fate specification
+negative regulation of atrichoblast fate specification
+regulation of trichoblast fate specification
+negative regulation of trichoblast fate specification
+positive regulation of trichoblast fate specification
+embryonic shoot morphogenesis
+primary meristem tissue development
+ground meristem histogenesis
+procambium histogenesis
+protoderm histogenesis
+zygote asymmetric cytokinesis in embryo sac
+zygote asymmetric cell division
+root meristem specification
+primary shoot apical meristem specification
+meristem maintenance
+maintenance of meristem identity
+regulation of meristem growth
+maintenance of floral meristem identity
+maintenance of inflorescence meristem identity
+maintenance of root meristem identity
+maintenance of vegetative meristem identity
+regulation of floral meristem growth
+regulation of inflorescence meristem growth
+regulation of root meristem growth
+regulation of vegetative meristem growth
+specification of organ axis polarity
+polarity specification of proximal/distal axis
+embryonic root morphogenesis
+phloem or xylem histogenesis
+phloem development
+xylem development
+trichome morphogenesis
+trichome branching
+specification of organ identity
+specification of floral organ identity
+specification of carpel identity
+specification of petal identity
+specification of sepal identity
+specification of stamen identity
+suspensor development
+regulation of photomorphogenesis
+negative regulation of photomorphogenesis
+post-embryonic root morphogenesis
+lateral root morphogenesis
+stomatal complex morphogenesis
+regulation of ethylene-activated signaling pathway
+negative regulation of ethylene-activated signaling pathway
+cellular response to iron ion starvation
+potassium ion import
+detection of glutamine
+regulation of photosynthesis
+"regulation of photosynthesis, dark reaction"
+glyoxysome organization
+regulation of systemic acquired resistance
+negative regulation of systemic acquired resistance
+response to red light
+regulation of abscisic acid biosynthetic process
+positive regulation of abscisic acid biosynthetic process
+photoprotection
+stomatal movement
+regulation of stomatal movement
+camalexin biosynthetic process
+arginine catabolic process to proline via ornithine
+arginine catabolic process to alanine via ornithine
+"acetate catabolic process to butyrate, ethanol, acetone and butanol"
+phenylacetate catabolic process
+mycothiol biosynthetic process
+mycothiol metabolic process
+mycothiol-dependent detoxification
+benzoate catabolic process via CoA ligation
+anaerobic cyclohexane-1-carboxylate catabolic process
+anaerobic ethylbenzene catabolic process
+"sucrose catabolic process, using invertase or sucrose synthase"
+dhurrin biosynthetic process
+proline catabolic process to glutamate
+sulfate assimilation via adenylyl sulfate reduction
+ureide metabolic process
+ureide catabolic process
+ureide biosynthetic process
+pyrimidine ribonucleotide salvage
+pyrimidine deoxyribonucleotide salvage
+"adenine, hypoxanthine and their nucleoside salvage"
+hypoxanthine salvage
+"guanine, xanthine and their nucleoside salvage"
+"farnesyl diphosphate biosynthetic process, mevalonate pathway"
+cutin biosynthetic process
+pyridoxal phosphate biosynthetic process from pyridoxamine
+fructan metabolic process
+fructan biosynthetic process
+fructan catabolic process
+transpiration
+senescence
+leaf senescence
+chloroplast elongation
+pollen maturation
+polar cell elongation
+monopolar cell growth
+bipolar cell growth
+fruit development
+regulation of proton transport
+sporocyte morphogenesis
+sporocyte differentiation
+response to chlorate
+abaxial cell fate specification
+specification of organ position
+formation of organ boundary
+red light signaling pathway
+seed dormancy process
+high-affinity potassium ion import

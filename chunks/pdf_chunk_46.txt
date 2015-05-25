@@ -1,0 +1,387 @@
+"2,4-dichlorophenoxyacetic acid metabolic process"
+"1,3-dichloro-2-propanol metabolic process"
+"1,3-dichloropropene metabolic process"
+ether metabolic process
+dimethyl ether metabolic process
+methyl tert-butyl ether metabolic process
+dimethyl sulfoxide metabolic process
+organosulfide cycle
+dodecyl sulfate metabolic process
+benzene metabolic process
+"1,2,4-trichlorobenzene metabolic process"
+"1,4-dichlorobenzene metabolic process"
+anaerobic ethylbenzene metabolic process
+chlorobenzene metabolic process
+ethylbenzene metabolic process
+nitrobenzene metabolic process
+fluorene metabolic process
+gallate metabolic process
+"gamma-1,2,3,4,5,6-hexachlorocyclohexane metabolic process"
+glyphosate metabolic process
+3-hydroxybenzyl alcohol metabolic process
+iprodione metabolic process
+limonene metabolic process
+mandelate metabolic process
+m-cresol metabolic process
+methanesulfonic acid metabolic process
+methionine and threonine metabolic process
+methyl ethyl ketone metabolic process
+methyl fluoride metabolic process
+3-methylquinoline metabolic process
+naphthalene metabolic process
+nicotine metabolic process
+nitrilotriacetate metabolic process
+aerobic nitrilotriacetate metabolic process
+anaerobic nitrilotriacetate metabolic process
+nitroglycerin metabolic process
+2-nitropropane metabolic process
+n-octane metabolic process
+orcinol metabolic process
+organomercury metabolic process
+organometal metabolic process
+organotin metabolic process
+tri-n-butyltin metabolic process
+organosilicon metabolic process
+aerobic organosilicon metabolic process
+anaerobic organosilicon metabolic process
+xylene metabolic process
+m-xylene metabolic process
+o-xylene metabolic process
+p-xylene metabolic process
+parathion metabolic process
+p-cymene metabolic process
+pentaerythritol tetranitrate metabolic process
+phenanthrene metabolic process
+"phenanthrene catabolic process via trans-9(R),10(R)-dihydrodiolphenanthrene"
+"phenanthrene catabolic process via trans-9(S),10(S)-dihydrodiolphenanthrene"
+phenol-containing compound metabolic process
+aerobic phenol-containing compound metabolic process
+4-nitrophenol metabolic process
+pentachlorophenol metabolic process
+3-phenylpropionate metabolic process
+phthalate metabolic process
+propylene metabolic process
+s-triazine compound metabolic process
+styrene metabolic process
+tetrachloroethylene metabolic process
+tetrahydrofuran metabolic process
+thiocyanate metabolic process
+toluene metabolic process
+anaerobic toluene metabolic process
+toluene-4-sulfonate metabolic process
+trinitrotoluene metabolic process
+"2,4,6-trinitrotoluene metabolic process"
+"anaerobic 2,4,6-trinitrotoluene metabolic process"
+"1,2,3-tribromopropane metabolic process"
+"1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane metabolic process"
+"anaerobic 1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane metabolic process"
+trichloroethylene metabolic process
+"2,4,5-trichlorophenoxyacetic acid metabolic process"
+triethanolamine metabolic process
+vanillin metabolic process
+Z-phenylacetaldoxime metabolic process
+naphthalenesulfonate metabolic process
+pronuclear envelope synthesis
+"molting cycle, protein-based cuticle"
+"molting cycle, collagen and cuticulin-based cuticle"
+apolysis
+"ecdysis, chitin-based cuticle"
+oviposition
+germ-line sex determination
+somatic sex determination
+fusion of virus membrane with host plasma membrane
+modulation by virus of host translation
+viral latency
+establishment of viral latency
+maintenance of viral latency
+latent virus replication
+release from viral latency
+modulation by virus of host morphology or physiology
+evasion or tolerance of host defenses by virus
+suppression by virus of host apoptotic process
+induction by virus of host apoptotic process
+modulation by virus of host process
+modification by virus of host cell cycle regulation
+modulation by virus of host transcription
+viral life cycle
+initiation of viral infection
+viral entry into host cell
+intracellular transport of viral protein in host cell
+uncoating of virus
+virion attachment to host cell
+receptor-mediated endocytosis of virus by host cell
+translocation of virus into host cell
+virion assembly
+viral capsid assembly
+viral genome maturation
+viral DNA cleavage involved in viral genome maturation
+viral genome packaging
+viral DNA genome packaging
+viral RNA genome packaging
+virus maturation
+viral release from host cell
+lytic viral budding
+viral gene expression
+viral translation
+viral protein processing
+viral transcription
+middle viral transcription
+early viral transcription
+late viral transcription
+transformation of host cell by virus
+immortalization of host cell by virus
+transmission of virus
+mitochondrial rRNA export from mitochondrion
+mitochondrial lrRNA export from mitochondrion
+mitochondrial srRNA export from mitochondrion
+mitochondrial RNA localization
+pole plasm mRNA localization
+pole plasm mitochondrial rRNA localization
+pole plasm mitochondrial lrRNA localization
+pole plasm mitochondrial srRNA localization
+reproductive behavior
+female germ-line sex determination
+male germ-line sex determination
+female somatic sex determination
+male somatic sex determination
+peptidoglycan-protein cross-linking via N6-mureinyl-L-lysine
+peptidyl-methionine racemization
+peptidyl-isoleucine racemization
+peptidyl-phenylalanine racemization
+peptidyl-serine racemization
+peptidyl-tryptophan racemization
+peptidyl-leucine racemization
+nonribosomal peptide biosynthetic process
+regulation of liquid surface tension
+regulation of lipid metabolic process
+regulation of fatty acid metabolic process
+regulation of steroid metabolic process
+regulation of nucleobase-containing compound metabolic process
+regulation of phosphate metabolic process
+cytokine-mediated signaling pathway
+regulation of metabolic process
+transmission of nerve impulse
+neuronal action potential propagation
+neuronal action potential
+regulation of vasoconstriction
+proprioception
+perception of static position
+perception of rate of movement
+sensory perception of pain
+sensory perception of fast pain
+sensory perception of slow pain
+response to pheromone
+citrulline biosynthetic process
+citrulline catabolic process
+methylglyoxal biosynthetic process
+methylglyoxal catabolic process to D-lactate
+lactate biosynthetic process from pyruvate
+D(-)-lactate biosynthetic process from pyruvate
+L(+)-lactate biosynthetic process from pyruvate
+lactate racemization
+D-lactate biosynthetic process from methylglyoxal via (R)-lactaldehyde
+lactate biosynthetic process
+aerobic cobalamin biosynthetic process
+anaerobic cobalamin biosynthetic process
+starch biosynthetic process
+reductive pentose-phosphate cycle
+"carnitine metabolic process, CoA-linked"
+glucose 1-phosphate metabolic process
+acrylonitrile catabolic process
+4-nitrotoluene metabolic process
+4-nitrotoluene catabolic process
+"1,2-dichloroethane catabolic process"
+"1,4-dichlorobenzene catabolic process"
+N-acetylneuraminate catabolic process
+adamantanone catabolic process
+glycine biosynthetic process from serine
+"glycine biosynthetic process, by transamination of glyoxylate"
+asparagine biosynthetic process from oxaloacetate
+asparagine biosynthetic process from cysteine
+"glutamate biosynthetic process, using glutamate dehydrogenase (NAD(P)+)"
+"glutamate biosynthetic process, using glutamate synthase (NADPH)"
+aerobactin biosynthetic process
+aerobactin transport
+L-alanine biosynthetic process from pyruvate
+L-alanine biosynthetic process via ornithine
+UDP-N-acetylgalactosamine metabolic process
+UDP-N-acetylgalactosamine biosynthetic process
+UDP-N-acetylgalactosamine catabolic process
+L-methionine biosynthetic process from L-homoserine via cystathionine
+L-methionine biosynthetic process from homoserine via O-acetyl-L-homoserine and cystathionine
+L-methionine biosynthetic process from homoserine via O-succinyl-L-homoserine and cystathionine
+L-methionine biosynthetic process from O-phospho-L-homoserine and cystathionine
+L-methionine biosynthetic process from S-adenosylmethionine
+glycine betaine biosynthetic process from choline
+glycine betaine biosynthetic process from glycine
+"isopentenyl diphosphate biosynthetic process, mevalonate pathway"
+"isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway"
+rhizobactin 1021 biosynthetic process
+siderophore biosynthetic process
+tyrosine biosynthetic process from chorismate via 4-hydroxyphenylpyruvate
+"tyrosine biosynthetic process, by oxidation of phenylalanine"
+keto-3-deoxy-D-manno-octulosonic acid biosynthetic process
+coenzyme M biosynthetic process
+coenzyme M metabolic process
+coenzyme B metabolic process
+coenzyme B biosynthetic process
+rhamnose metabolic process
+rhamnose biosynthetic process
+rhamnose catabolic process
+D-ribose biosynthetic process
+D-ribose catabolic process
+anaerobic rhamnose catabolic process
+dTDP-rhamnose biosynthetic process
+GDP-D-rhamnose biosynthetic process
+mannose biosynthetic process
+dTDP-mannose biosynthetic process
+mannose catabolic process
+inositol catabolic process
+sorbose metabolic process
+L-sorbose metabolic process
+allose metabolic process
+D-allose metabolic process
+D-allose biosynthetic process
+D-allose catabolic process
+fucose catabolic process
+hexose metabolic process
+hexose biosynthetic process
+hexose catabolic process
+pentose metabolic process
+pentose biosynthetic process
+pentose catabolic process
+L-lyxose metabolic process
+anaerobic fructose catabolic process
+nitrotoluene metabolic process
+lead sulfide oxidation
+anaerobic gallate catabolic process
+ammonia oxidation
+aldoxime metabolic process
+"anaerobic respiration, using ammonium as electron donor"
+"aerobic respiration, using nitrite as electron donor"
+denitrification pathway
+p-cymene catabolic process
+3-methylquinoline catabolic process
+phenol-containing compound catabolic process
+tetrachloroethylene catabolic process
+pentachlorophenol catabolic process
+parathion catabolic process
+dibenzofuran catabolic process
+dibenzo-p-dioxin catabolic process
+trypanothione biosynthetic process
+cysteine biosynthetic process via cystathionine
+cysteine biosynthetic process
+cysteine biosynthetic process via S-sulfo-L-cysteine
+transsulfuration
+GDP-alpha-D-mannosylchitobiosyldiphosphodolichol biosynthetic process
+dolichol metabolic process
+ribitol metabolic process
+teichoic acid biosynthetic process
+dethiobiotin biosynthetic process
+protoporphyrinogen IX biosynthetic process from glycine
+protoporphyrinogen IX biosynthetic process from glutamate
+nicotinamide nucleotide biosynthetic process from aspartate
+nicotinate nucleotide biosynthetic process from tryptophan
+nicotinate nucleotide biosynthetic process
+nicotinate nucleotide salvage
+nicotinamide nucleotide biosynthetic process
+nicotinamide nucleotide biosynthetic process from niacinamide
+2'-(5''-triphosphoribosyl)-3'-dephospho-CoA biosynthetic process
+pyridine nucleotide metabolic process
+pyridine nucleotide biosynthetic process
+pyridine nucleotide catabolic process
+pyridine nucleotide salvage
+"fatty acid elongation, saturated fatty acid"
+"fatty acid elongation, unsaturated fatty acid"
+arachidonic acid metabolic process
+leukotriene biosynthetic process
+cyclooxygenase pathway
+lipoxygenase pathway
+epoxygenase P450 pathway
+galactolipid metabolic process
+galactolipid biosynthetic process
+galactolipid catabolic process
+glycolipid catabolic process
+"sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin)"
+3-phenylpropionate catabolic process
+atrazine catabolic process
+carbon tetrachloride catabolic process
+(+)-camphor catabolic process
+caprolactam catabolic process
+"methanogenesis, from acetate"
+"methanogenesis, from carbon dioxide"
+"methanogenesis, from methanol"
+galactose catabolic process
+glucuronoside metabolic process
+glucuronoside biosynthetic process
+glucuronoside catabolic process
+glucarate metabolic process
+glucarate biosynthetic process
+glucarate catabolic process
+fatty acid oxidation
+gallate catabolic process
+"gallate catabolic process via 2-pyrone-4,6-dicarboxylate"
+gallate catabolic process via gallate dioxygenase activity
+cyclohexanol oxidation
+alditol metabolic process
+alditol biosynthetic process
+galactitol metabolic process
+galactitol biosynthetic process
+galactitol catabolic process
+alditol catabolic process
+hexitol biosynthetic process
+hexitol catabolic process
+dolichol biosynthetic process
+"aerobic respiration, using ammonia as electron donor"
+"aerobic respiration, using carbon monoxide as electron donor"
+"aerobic respiration, using ferrous ions as electron donor"
+"aerobic respiration, using hydrogen as electron donor"
+acetate biosynthetic process
+"aerobic respiration, using sulfur or sulfate as electron donor"
+acetate biosynthetic process from carbon monoxide
+polythionate oxidation
+sulfur oxidation
+sulfide oxidation
+sulfate reduction
+dissimilatory sulfate reduction
+disproportionation of elemental sulfur
+"sulfur oxidation, ferric ion-dependent"
+"sulfide oxidation, using siroheme sulfite reductase"
+bisulfite reduction
+acetyl-CoA biosynthetic process from acetate
+allantoin biosynthetic process
+fluorene catabolic process
+removal of superoxide radicals
+acetyl-CoA biosynthetic process from ethanol
+triglyceride biosynthetic process
+triglyceride catabolic process
+sophorosyloxydocosanoate metabolic process
+sophorosyloxydocosanoate biosynthetic process
+sophorosyloxydocosanoate catabolic process
+aromatic compound biosynthetic process
+aromatic compound catabolic process
+tryptophan catabolic process to indole-3-acetate
+tryptophan catabolic process to kynurenine
+tryptophan catabolic process to acetyl-CoA
+"tryptophan catabolic process, using tryptophanase"
+tryptophan catabolic process to catechol
+tyrosine catabolic process to fumarate
+tyrosine catabolic process to phosphoenolpyruvate
+D-cysteine catabolic process
+L-cysteine catabolic process
+L-cysteine catabolic process to hypotaurine
+L-cysteine catabolic process to pyruvate
+"L-cysteine catabolic process to pyruvate, using cysteine dioxygenase"
+L-cysteine catabolic process to taurine
+L-cysteine catabolic process via cystine
+"L-cysteine catabolic process via cystine, using glutathione-cystine transhydrogenase"
+"L-cysteine catabolic process via cystine, using cystine reductase"
+"L-cysteine catabolic process via cystine, using cysteine transaminase"
+methionine catabolic process to succinyl-CoA
+methionine catabolic process via 2-oxobutanoate
+glutamine catabolic process to fumarate
+"glutamine catabolic process to fumarate, using glutamate synthase (NADPH)"
+"glutamine catabolic process to fumarate, using glutaminase"
+glycine catabolic process to creatine
+aspartate transamidation
+ornithine catabolic process via proline
