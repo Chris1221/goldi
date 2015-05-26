@@ -204,17 +204,19 @@ for(n in 1:100){
     }
   }
 
-  writeLines(as.character(terms), paste0("chunks/terms_all", n, ".txt"), sep = "\n")
+  writeLines(as.character(terms), paste0(".tmp/terms_all", n, ".txt"), sep = "\n")
 
 }
 
 close(pb)
 cat("\n Just cleaning things up...\n")
 
-command <- "cat chunks/terms_all*.txt > out.txt"
+command <- "cat .tmp/terms_all*.txt > out.txt"
 system(command)
 
-command <- "rm chunks/terms_all*.txt"
+command <- "rm -rf .tmp/"
 system(command)
+
+command <- paste0("rm ", pdf_name, ".txt ", pdf_name, ".temp.txt")
 
 cat("Text miner has finished. Have a nice day!")
