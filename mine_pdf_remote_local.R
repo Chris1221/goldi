@@ -211,7 +211,7 @@ for(n in 1:100){
 close(pb)
 cat("\n Just cleaning things up...\n")
 
-command <- "cat .tmp/terms_all*.txt > out.txt"
+command <- "cat .tmp/terms_all*.txt > out_s.txt"
 system(command)
 
 command <- "rm -rf .tmp/"
