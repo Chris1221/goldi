@@ -16,6 +16,8 @@ install.packages("SnowballC", repos = "http://cran.utstat.utoronto.ca/", quiet =
 #library(wordcloud)
 
 setwd("/Users/yvesmarcel/Documents/PDF_Mine")
+command <- "mkdir .tmp"
+system(command)
 
 args<-commandArgs(TRUE)
 
@@ -25,7 +27,7 @@ pdf_name <- "new_paper.pdf"
 #text_go <- "/Users/yvesmarcel/Desktop/GO_terms.txt"
 
 command <- paste0("bash /Users/yvesmarcel/Documents/scripts/R/pdf_mine/format_pdf.sh ", pdf_name)
-system(command)
+#system(command)
 #command <- paste0("pdftotext ", pdf_name, " ", pdf_name,".txt")
 #system(command)
 #command <- paste0("iconv -f WINDOWS-1252 -t UTF-8 ", pdf_name, ".txt > ", pdf_name, ".temp.txt")
@@ -153,7 +155,7 @@ for(n in 1:100){
 
     } else if(row == 4){
 
-      if(any(sums == 3)){
+      if(any(sums == 4)){
         terms <- c(terms, paste(name, sum(sums == 3, na.rm = TRUE)))
       }
 
@@ -177,19 +179,19 @@ for(n in 1:100){
 
     } else if(row == 8){
 
-      if(any(sums == 6)){
+      if(any(sums == 7)){
         terms <- c(terms, paste(name, sum(sums == 5, na.rm = TRUE)))
       }
 
     } else if(row == 9){
 
-      if(any(sums == 7)){
+      if(any(sums == 8)){
         terms <- c(terms, paste(name, sum(sums == 6, na.rm = TRUE)))
       }
 
     } else if(row == 10){
 
-      if(any(sums == 8)){
+      if(any(sums == 9)){
         terms <- c(terms, paste(name, sum(sums == 7, na.rm = TRUE)))
       }
 
@@ -202,9 +204,17 @@ for(n in 1:100){
     }
   }
 
-  writeLines(as.character(terms), paste0("terms_all", n, ".txt"), sep = "\n")
+  writeLines(as.character(terms), paste0("chunks/terms_all", n, ".txt"), sep = "\n")
 
 }
 
 close(pb)
-cat("Text miner has finished")
+cat("\n Just cleaning things up...\n")
+
+command <- "cat chunks/terms_all*.txt > out.txt"
+system(command)
+
+command <- "rm chunks/terms_all*.txt"
+system(command)
+
+cat("Text miner has finished. Have a nice day!")
