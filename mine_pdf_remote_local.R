@@ -21,7 +21,7 @@ system(command)
 
 args<-commandArgs(TRUE)
 
-pdf_name <- "new_paper.pdf"
+pdf_name <- "papers/new_paper.pdf"
 #pdf_name <- "/Users/yvesmarcel/Desktop/ubiq.pdf"
 #text_go <- "head_terms.txt"
 #text_go <- "/Users/yvesmarcel/Desktop/GO_terms.txt"
