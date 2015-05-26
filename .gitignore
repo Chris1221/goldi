@@ -13,3 +13,4 @@ vignettes/*.html
 vignettes/*.pdf
 
 .tmp/
+BP_terms.txt
