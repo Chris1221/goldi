@@ -11,7 +11,7 @@ cat("\n\nLoading required packages...\n")
 
 
 install.packages("dplyr", repos = "http://cran.utstat.utoronto.ca/", quiet = T, verbose = F);library(dplyr, quietly = T, verbose = F, warn.conflicts = F)
-install.packages("tm", repos = "http://cran.utstat.utoronto.ca/", quiet = T, verbose = F);library(tm, quietly = T, verbose = F, warn.conflicts = F)
+install.packages("tm", repos = "http://cran.utstat.utoronto.ca/", quiet = T, verbose = F, type = "source");library(tm, quietly = T, verbose = F, warn.conflicts = F)
 install.packages("SnowballC", repos = "http://cran.utstat.utoronto.ca/", quiet = T, verbose = F);library(SnowballC, quietly = T, verbose = F, warn.conflicts = F)
 #library(wordcloud)
 
@@ -211,7 +211,7 @@ for(n in 1:100){
 close(pb)
 cat("\n Just cleaning things up...\n")
 
-command <- "cat .tmp/terms_all*.txt > out_s.txt"
+command <- "cat .tmp/terms_all*.txt > results/out_s.txt"
 system(command)
 
 command <- "rm -rf .tmp/"
