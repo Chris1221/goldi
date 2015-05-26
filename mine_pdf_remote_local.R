@@ -161,37 +161,37 @@ for(n in 1:100){
 
     } else if(row == 5){
 
-      if(any(sums == 4)){
+      if(any(sums == 5)){
         terms <- c(terms, paste(name, sum(sums == 3, na.rm = TRUE)))
       }
 
     } else if(row == 6){
 
-      if(any(sums == 5)){
+      if(any(sums == 6)){
         terms <- c(terms, paste(name, sum(sums == 4, na.rm = TRUE)))
       }
 
     } else if(row == 7){
 
-      if(any(sums == 6)){
+      if(any(sums == 7)){
         terms <- c(terms, paste(name, sum(sums == 4, na.rm = TRUE)))
       }
 
     } else if(row == 8){
 
-      if(any(sums == 7)){
+      if(any(sums == 8)){
         terms <- c(terms, paste(name, sum(sums == 5, na.rm = TRUE)))
       }
 
     } else if(row == 9){
 
-      if(any(sums == 8)){
+      if(any(sums == 9)){
         terms <- c(terms, paste(name, sum(sums == 6, na.rm = TRUE)))
       }
 
     } else if(row == 10){
 
-      if(any(sums == 9)){
+      if(any(sums == 10)){
         terms <- c(terms, paste(name, sum(sums == 7, na.rm = TRUE)))
       }
 
@@ -218,5 +218,6 @@ command <- "rm -rf .tmp/"
 system(command)
 
 command <- paste0("rm ", pdf_name, ".txt ", pdf_name, ".temp.txt")
+system(command)
 
 cat("Text miner has finished. Have a nice day!")
