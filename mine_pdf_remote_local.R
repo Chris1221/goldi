@@ -9,7 +9,7 @@ cat("|----------------------|\n")
 
 cat("\n\nLoading required packages...\n")
 
-
+install.packages("Rcpp", repos = "http://cran.utstat.utoronto.ca/", quiet = T, verbose = F);library(Rcpp, quietly = T, verbose = F, warn.conflicts = F)
 install.packages("dplyr", repos = "http://cran.utstat.utoronto.ca/", quiet = T, verbose = F);library(dplyr, quietly = T, verbose = F, warn.conflicts = F)
 install.packages("tm", repos = "http://cran.utstat.utoronto.ca/", quiet = T, verbose = F, type = "source");library(tm, quietly = T, verbose = F, warn.conflicts = F)
 install.packages("SnowballC", repos = "http://cran.utstat.utoronto.ca/", quiet = T, verbose = F);library(SnowballC, quietly = T, verbose = F, warn.conflicts = F)
@@ -21,13 +21,13 @@ system(command)
 
 args<-commandArgs(TRUE)
 
-pdf_name <- "papers/new_paper.pdf"
+pdf_name <- "papers/parkinson_mitochondria.pdf"
 #pdf_name <- "/Users/yvesmarcel/Desktop/ubiq.pdf"
 #text_go <- "head_terms.txt"
 #text_go <- "/Users/yvesmarcel/Desktop/GO_terms.txt"
 
 command <- paste0("bash /Users/yvesmarcel/Documents/scripts/R/pdf_mine/format_pdf.sh ", pdf_name)
-#system(command)
+system(command)
 #command <- paste0("pdftotext ", pdf_name, " ", pdf_name,".txt")
 #system(command)
 #command <- paste0("iconv -f WINDOWS-1252 -t UTF-8 ", pdf_name, ".txt > ", pdf_name, ".temp.txt")
