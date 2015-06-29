@@ -155,43 +155,43 @@ for(n in 1:100){
 
     } else if(row == 4){
 
-      if(any(sums == 4)){
+      if(any(sums == 3)){
         terms <- c(terms, paste(name, sum(sums == 3, na.rm = TRUE)))
       }
 
     } else if(row == 5){
 
-      if(any(sums == 5)){
+      if(any(sums == 4)){
         terms <- c(terms, paste(name, sum(sums == 3, na.rm = TRUE)))
       }
 
     } else if(row == 6){
 
-      if(any(sums == 6)){
+      if(any(sums == 5)){
         terms <- c(terms, paste(name, sum(sums == 4, na.rm = TRUE)))
       }
 
     } else if(row == 7){
 
-      if(any(sums == 7)){
+      if(any(sums == 5)){
         terms <- c(terms, paste(name, sum(sums == 4, na.rm = TRUE)))
       }
 
     } else if(row == 8){
 
-      if(any(sums == 8)){
+      if(any(sums == 6)){
         terms <- c(terms, paste(name, sum(sums == 5, na.rm = TRUE)))
       }
 
     } else if(row == 9){
 
-      if(any(sums == 9)){
+      if(any(sums == 7)){
         terms <- c(terms, paste(name, sum(sums == 6, na.rm = TRUE)))
       }
 
     } else if(row == 10){
 
-      if(any(sums == 10)){
+      if(any(sums == 8)){
         terms <- c(terms, paste(name, sum(sums == 7, na.rm = TRUE)))
       }
 
@@ -211,7 +211,7 @@ for(n in 1:100){
 close(pb)
 cat("\n Just cleaning things up...\n")
 
-command <- "cat .tmp/terms_all*.txt > results/out_s.txt"
+command <- "cat .tmp/terms_all*.txt > results/out.txt"
 system(command)
 
 command <- "rm -rf .tmp/"
