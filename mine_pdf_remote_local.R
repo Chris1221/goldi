@@ -15,13 +15,13 @@ install.packages("tm", repos = "http://cran.utstat.utoronto.ca/", quiet = T, ver
 install.packages("SnowballC", repos = "http://cran.utstat.utoronto.ca/", quiet = T, verbose = F);library(SnowballC, quietly = T, verbose = F, warn.conflicts = F)
 #library(wordcloud)
 
-setwd("/Users/yvesmarcel/Documents/PDF_Mine")
+setwd("/Users/yvesmarcel/Documents/mineR")
 command <- "mkdir .tmp"
 system(command)
 
 args<-commandArgs(TRUE)
 
-pdf_name <- "papers/parkinson_mitochondria.pdf"
+pdf_name <- "papers/wang.pdf"
 #pdf_name <- "/Users/yvesmarcel/Desktop/ubiq.pdf"
 #text_go <- "head_terms.txt"
 #text_go <- "/Users/yvesmarcel/Desktop/GO_terms.txt"
@@ -211,13 +211,13 @@ for(n in 1:100){
 close(pb)
 cat("\n Just cleaning things up...\n")
 
-command <- "cat .tmp/terms_all*.txt > results/out.txt"
+command <- paste0("cat .tmp/terms_all*.txt > results/", pdf_name, "_out.txt")
 system(command)
 
 command <- "rm -rf .tmp/"
 system(command)
 
-command <- paste0("rm ", pdf_name, ".txt ", pdf_name, ".temp.txt")
+command <- paste0("rm ", pdf_name, ".txt ", basename(pdf_name), ".temp.txt")
 system(command)
 
 cat("Text miner has finished. Have a nice day!")
