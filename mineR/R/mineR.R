@@ -31,12 +31,11 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	# assume iconv and sed are installed, mention this in the docs. 
 
 	if(!local){
-		system(paste0("pdftotext ", doc, " ", doc, ".txt")
+		system(paste0("pdftotext ", doc, " ", doc, ".txt"))
 		system(paste0("iconv -f WINDOWS-1252 -t UTF-8 ", doc, ".txt > ", doc, ".temp.txt"))
-		system(paste0("sed -e $'s/\\\./\\\n/g' ", doc, ".temp.txt > ", doc, "txt"))
+		#note: doubled the \ here to make it work in R
+		system(paste0("sed -e $'s/\\\\\\./\\\\\\n/g' ", doc, ".temp.txt > ", doc, "txt"))
 		system(paste0("rm ", doc, ".temp.txt"))
-
-
 	} else if(local) {
 		stop("Unhandled exception, see documentation.")
 	} else {
@@ -93,7 +92,7 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 	  raw_go <- readLines(paste0(wd, "/", terms), skipNul = T)
 
-	} if(local){
+	} else if(local){
 		stop("Unhandled excpetion, see documentation.")
 	}
 
@@ -150,7 +149,7 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
     }
 
   if(!local){
-		writeLines(as.character(terms), ouput), sep = "\n")
+		writeLines(as.character(terms), output, sep = "\n")
 	}
 
 	# clean up 
