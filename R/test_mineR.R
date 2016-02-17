@@ -9,10 +9,12 @@ test_mineR <- function(){
     	lim[[i]] <- i
 	}
 
-	lim <<- lim
+	assign("chunk", system.file("extdata", "pdf_chunk_1.txt", package = "mineR"), envir = .GlobalEnv)
 
-	system.file("extdata", "pdf_chunk_1.txt", package = "mineR") ->> chunk
+	assign("pdf2", system.file("extdata", "parkinson_mitochondria.pdf", package = "mineR"), envir = .GlobalEnv)
 
-	system.file("extdata", "parkinson_mitochondria.pdf", package = "mineR") ->> pdf2
+	assign("lim", lim, env = .GlobalEnv)
+
+	mineR(doc = pdf2, terms = chunk, local = FALSE, lims = lim, output = "test.txt")
 
 }

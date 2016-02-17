@@ -112,61 +112,61 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 		stop("Unhandled excpetion, see documentation.")
 	}
 
-  raw_go <- iconv(raw_go,"WINDOWS-1252","UTF-8") #this might not be a silver bullet, check the encoding
-  raw_go <- raw_go[which(raw_go!="")]
+	raw_go <- iconv(raw_go,"WINDOWS-1252","UTF-8") #this might not be a silver bullet, check the encoding
+	raw_go <- raw_go[which(raw_go!="")]
 
-  doc.vec <- VectorSource(raw_go)
-  doc.corpus <- Corpus(doc.vec)
-  raw.corpus <- doc.corpus # for use later
+	doc.vec <- VectorSource(raw_go)
+	doc.corpus <- Corpus(doc.vec)
+	raw.corpus <- doc.corpus # for use later
 
-  doc.corpus <- tm_map(doc.corpus, content_transformer(tolower), mc.cores = 1)
-  doc.corpus <- tm_map(doc.corpus, content_transformer(replaceExpressions), mc.cores = 1)
-  doc.corpus <- tm_map(doc.corpus, removePunctuation, mc.cores = 1)
-  doc.corpus <- tm_map(doc.corpus, removeNumbers, mc.cores = 1)
-  doc.corpus <- tm_map(doc.corpus, removeWords, stopwords("english"), mc.cores = 1)
-  doc.corpus <- tm_map(doc.corpus, stemDocument)
-  doc.corpus <- tm_map(doc.corpus, stripWhitespace)
+	doc.corpus <- tm_map(doc.corpus, content_transformer(tolower), mc.cores = 1)
+	doc.corpus <- tm_map(doc.corpus, content_transformer(replaceExpressions), mc.cores = 1)
+	doc.corpus <- tm_map(doc.corpus, removePunctuation, mc.cores = 1)
+	doc.corpus <- tm_map(doc.corpus, removeNumbers, mc.cores = 1)
+	doc.corpus <- tm_map(doc.corpus, removeWords, stopwords("english"), mc.cores = 1)
+	doc.corpus <- tm_map(doc.corpus, stemDocument)
+	doc.corpus <- tm_map(doc.corpus, stripWhitespace)
 
-  TermDocumentMatrix(doc.corpus) %>% as.matrix() %>% as.data.frame() -> TDM.go.df
+	TermDocumentMatrix(doc.corpus) %>% as.matrix() %>% as.data.frame() -> TDM.go.df
 
-  #make the headers of the data frame the same as the terms
-  sub <- gsub(" ", "_", x = raw_go)
-  sub <- gsub("-", "_", x = sub)
+	#make the headers of the data frame the same as the terms
+	sub <- gsub(" ", "_", x = raw_go)
+	sub <- gsub("-", "_", x = sub)
 
-  colnames(TDM.go.df) <- sub
+	colnames(TDM.go.df) <- sub
 
-  #error, not picking up ER as a word, figure this out.
+	#error, not picking up ER as a word, figure this out.
 
-  ## when subsetting, picking up terms with numbers AND actual sentences, so changing col names to be easily subsetable
+	## when subsetting, picking up terms with numbers AND actual sentences, so changing col names to be easily subsetable
 
-  TDM.df$words <- NULL
-  TDM.df$counts <- NULL
-  colnames(TDM.df) <- paste0("PDF_Sentence_", 1:ncol(TDM.df))
+	TDM.df$words <- NULL
+	TDM.df$counts <- NULL
+	colnames(TDM.df) <- paste0("PDF_Sentence_", 1:ncol(TDM.df))
 
-  merge(x = TDM.go.df, y = TDM.df, by = 'row.names') -> out
+	merge(x = TDM.go.df, y = TDM.df, by = 'row.names') -> out
 
-  out[out == 1 | out == 2 | out == 3 | out == 4 | out == 5] <- 1
+	out[out == 1 | out == 2 | out == 3 | out == 4 | out == 5] <- 1
 
-  terms <- list()
+	terms <- list()
 
-  for(name in colnames(TDM.go.df)){
+	for(name in colnames(TDM.go.df)){
 
-   out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(matches("PDF_Sentence_*")) -> out.test
+	  	out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(matches("PDF_Sentence_*")) -> out.test
 
-    row <- sum(TDM.go.df[,name] != 0)
-    sums <- colSums(out.test)
+	    row <- sum(TDM.go.df[,name] != 0)
+	    sums <- colSums(out.test)
 
-    for(i in 1:length(lims)){
-    	if(row == i){
-    		if(any(sums == lims[[i]])){
-    			terms <- c(terms, paste(name, sum(sums == lims[[i]], na.rm = TRUE)))
-    		}
-    	}
-    }
+	    for(i in 1:length(lims)){
+	    	if(row == i){
+	    		if(any(sums == lims[[i]])){
+	    			terms <- c(terms, paste(name, sum(sums == lims[[i]], na.rm = TRUE)))
+	    		}
+	    	}
+	    }
 
-}
+	}
 
-  if(!local){
+	if(!local){
 		writeLines(as.character(terms), output, sep = "\n")
 	}
 
