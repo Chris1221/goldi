@@ -1,0 +1,13 @@
+language: r
+warnings_are_errors: false
+sudo: required
+r_binary_packages:
+  - dplyr
+  - rmarkdown
+  - Rcpp
+  - tm
+  - SnowballC
+notifications:
+  email:
+    on_success: change
+    on_failure: always
