@@ -4,7 +4,7 @@
 \alias{test_mineR}
 \title{Set up for tests}
 \usage{
-test_mineR()
+test_mineR(length = 10)
 }
 \description{
 Set up for tests

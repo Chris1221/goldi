@@ -2,7 +2,7 @@
 #'
 #' @export
 
-test_mineR <- function(){
+test_mineR <- function(length = 10){
 	
 	lim <- list()
 	for(i in 1:10){
@@ -15,6 +15,6 @@ test_mineR <- function(){
 
 	assign("lim", lim, env = .GlobalEnv)
 
-	mineR(doc = pdf2, terms = chunk, local = FALSE, lims = lim, output = "test.txt")
+	mineR(doc = pdf2, terms = chunk, local = FALSE, length = length, output = "test.txt")
 
 }

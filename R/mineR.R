@@ -8,6 +8,7 @@
 #' @param lims parameters for acceptance of identification (see FILL_IN)
 #' @param output path to output file
 #' @param wd working directory if different than getwd()
+#' @param length maximum length of term in words that you would like to search for.
 #'
 #' @return A text document at wd/output if local == FALSE, or an R object if local == TRUE.
 #'
@@ -16,7 +17,7 @@
 #' @export
 
 
-mineR <- function(doc = character(), terms = character(), local = FALSE, lims = list(), output = character(), wd = getwd()){
+mineR <- function(doc = character(), terms = character(), local = FALSE, lims = "interactive", output = character(), length = 10, wd = getwd()){
 
 	# error check input for missingness
 
@@ -32,8 +33,20 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 		stop("Please specify output file path")
 	}
 
+
+	#decide between interactive or given list
+	if(lims == "interactive" || lims == "i"){
+		lims <- make.lim()
+	} else if(type(lims) == "character"){
+		stop("Please enter lims as a list or vector")
+	} else if(type(lims) == "vector" || type(lims) == "double"){
+		lims <- as.list(lims)
+		message("Using alternate format for list...")
+	}
+
 	# library calls quietly
 
+	message("Loading required libraries...")
 
 	library(Rcpp, quietly = T, verbose = F, warn.conflicts = F)
 	library(dplyr, quietly = T, verbose = F, warn.conflicts = F)
@@ -45,6 +58,9 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	# system calls to format pdf 
 	# assume if its in R then its already formatted
 	# assume iconv and sed are installed, mention this in the docs. 
+
+	message("System calls...")
+
 
 	if(!local){
 		system(paste0("pdftotext ", doc, " ", doc, ".txt"))
@@ -66,7 +82,7 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 	# read in
 
-
+	message("Reading in input document and formatting...")
 	
 	if(!local){
 		text <- paste0(doc, ".txt")
@@ -81,6 +97,8 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 	doc.vec <- VectorSource(raw)
 	doc.corpus <- Corpus(doc.vec)
+
+	message("Quality control and constructing TDM...")
 
 	doc.corpus <- tm_map(doc.corpus, content_transformer(tolower), mc.cores = 1)
 	doc.corpus <- tm_map(doc.corpus, content_transformer(replaceExpressions), mc.cores = 1)
@@ -104,6 +122,8 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 	TDM.df %>% select(words,counts) -> freq.table
 
+	message("Reading in term list and formatting...")
+
 	if(!local){
 
 	  raw_go <- readLines(paste0(terms), skipNul = T)
@@ -118,6 +138,8 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	doc.vec <- VectorSource(raw_go)
 	doc.corpus <- Corpus(doc.vec)
 	raw.corpus <- doc.corpus # for use later
+
+	message("Quality control and constructing TDM...")
 
 	doc.corpus <- tm_map(doc.corpus, content_transformer(tolower), mc.cores = 1)
 	doc.corpus <- tm_map(doc.corpus, content_transformer(replaceExpressions), mc.cores = 1)
@@ -149,6 +171,8 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 	terms <- list()
 
+	message("Matching terms...")
+
 	for(name in colnames(TDM.go.df)){
 
 	  	out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(matches("PDF_Sentence_*")) -> out.test
@@ -166,6 +190,9 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 	}
 
+
+	message(paste0("Writing output to ", output))
+
 	if(!local){
 		writeLines(as.character(terms), output, sep = "\n")
 	}
@@ -174,6 +201,7 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	# system(paste0("cat .tmp/terms_all*.txt > out.txt"))
 	# system("rm -rf .tmp/")
 	# system(paste0("rm ", doc, ".txt ", basename(doc), ".temp.txt"))
+
 
 
 }

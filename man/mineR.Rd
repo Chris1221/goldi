@@ -5,7 +5,7 @@
 \title{Text Miner}
 \usage{
 mineR(doc = character(), terms = character(), local = FALSE,
-  lims = list(), output = character(), wd = getwd())
+  lims = "interactive", output = character(), length = 10, wd = getwd())
 }
 \arguments{
 \item{doc}{document which will be mined for keywords as a file path (character()).}
@@ -17,6 +17,8 @@ mineR(doc = character(), terms = character(), local = FALSE,
 \item{lims}{parameters for acceptance of identification (see FILL_IN)}
 
 \item{output}{path to output file}
+
+\item{length}{maximum length of term in words that you would like to search for.}
 
 \item{wd}{working directory if different than getwd()}
 }
