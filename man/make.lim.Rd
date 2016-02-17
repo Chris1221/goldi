@@ -4,14 +4,14 @@
 \alias{make.lim}
 \title{Construct Constraint Limits for Fuzzy Identification}
 \usage{
-make.lim(i = TRUE, list = NULL, length = 10)
+make.lim(int = TRUE, list = NULL, length = 10)
 }
 \arguments{
-\item{i}{interactive (TRUE) or specified list (FALSE)}
-
 \item{list}{preconstructed list if i is FALSE}
 
 \item{length}{number of parameters you wish to enter. Defaults to 5.}
+
+\item{i}{interactive (TRUE) or specified list (FALSE)}
 }
 \description{
 Construct Constraint Limits for Fuzzy Identification
