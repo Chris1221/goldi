@@ -9,6 +9,6 @@ library(devtools)
 install_github("Chris1221/mineR")
 ```
 
-For FAQ and tutorials, see the wiki.
+For FAQ and tutorials, see the wiki. **Now with Synonyms!**
 
 Any problems or questions should be [raised as issues](https://github.com/Chris1221/mineR/issues/new)
