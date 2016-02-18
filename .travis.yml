@@ -7,6 +7,7 @@ r_binary_packages:
   - Rcpp
   - tm
   - SnowballC
+  - devtools
 notifications:
   email:
     on_success: change
