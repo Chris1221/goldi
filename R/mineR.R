@@ -175,10 +175,11 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 	for(name in colnames(TDM.go.df)){
 
+		# going to have to add in another step here
 	  	out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(matches("PDF_Sentence_*")) -> out.test
 
-	    row <- sum(TDM.go.df[,name] != 0)
-	    sums <- colSums(out.test)
+	    row <- sum(TDM.go.df[,name] != 0) # n words in term
+	    sums <- colSums(out.test) # n words from go.df that match
 
 	    for(i in 1:length(lims)){
 	    	if(row == i){
