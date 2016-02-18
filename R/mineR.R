@@ -37,9 +37,9 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	#decide between interactive or given list
 	if(lims == "interactive" || lims == "i"){
 		lims <- make.lim()
-	} else if(type(lims) == "character"){
+	} else if(typeof(lims) == "character"){
 		stop("Please enter lims as a list or vector")
-	} else if(type(lims) == "vector" || type(lims) == "double"){
+	} else if(typeof(lims) == "vector" || typeof(lims) == "double"){
 		lims <- as.list(lims)
 		message("Using alternate format for list...")
 	}
