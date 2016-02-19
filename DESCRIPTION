@@ -8,11 +8,11 @@ Encoding: UTF-8
 Maintainer: Christopher B. Cole <chris.c.1221@gmail.com>
 Description: Blah
 Imports:
-	dplyr
-	rmarkdown
-	Rcpp
-	tm
-	SnowballC
+	dplyr,
+	rmarkdown,
+	Rcpp,
+	tm,
+	SnowballC,
 	devtools
 Suggests:
 	wordcloud

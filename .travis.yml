@@ -1,14 +1,27 @@
 # Sample .travis.yml for R projects
 
 language: r
-warnings_are_errors: true
+warnings_are_errors: false
 sudo: required
 
 env:
  global:
    - CRAN: http://cran.rstudio.com
 
+r_binary_packages:
+  - dplyr
+  - rmarkdown
+  - Rcpp
+  - tm
+  - SnowballC
+  - devtools
+
 notifications:
   email:
     on_success: change
     on_failure: change
+
+before_install:
+  - brew update
+  - brew install Caskroom/cask/pdftotext
+  - apt-get install pdftotext
