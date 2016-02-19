@@ -28,7 +28,4 @@ A text document at wd/output if local == FALSE, or an R object if local == TRUE.
 \description{
 Fuzzy identification of key phrases from natural language
 }
-\examples{
-demo(mineR)
-}
 
