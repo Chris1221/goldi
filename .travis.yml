@@ -20,8 +20,3 @@ notifications:
   email:
     on_success: change
     on_failure: change
-
-before_install:
-  - brew update
-  - brew install Caskroom/cask/pdftotext
-  - apt-get install pdftotext
