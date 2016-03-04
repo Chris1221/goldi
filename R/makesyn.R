@@ -38,9 +38,14 @@ make.syn <- function(return = TRUE) {
 				syn[[i]] <- c(syn[[i]], syn2)
 
 			}
+			
+			j <- j + 1
+
 		}
 
 		i = i+1
 	}
 
+
+	syn <<- syn
 }
