@@ -23,7 +23,7 @@ make.syn <- function(return = TRUE) {
 		syn[[i]] <- as.character(readline(prompt = paste0("Enter the word you would like to add a synonym too: ")))
 		
 		# check for breaks 
-		if(is.na(syn[[i]]) || is.null(syn[[i]])i || syn[[i]] == "") {
+		if(is.na(syn[[i]]) || is.null(syn[[i]]) || syn[[i]] == "") {
 			
 			#stop if null or na
 			stop("Incorrect input, please enter a character string.")
