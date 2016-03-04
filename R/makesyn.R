@@ -4,6 +4,14 @@
 #'
 #' @export
 
+
+#NOTES
+
+# errors so far
+# 	1. need to go back and remove the -9 after exiting the outer loop
+# 	2. add exception for empty input
+
+
 make.syn <- function(return = TRUE) {
 	
 	# c is continue, i is number of synononyms
@@ -15,7 +23,7 @@ make.syn <- function(return = TRUE) {
 		syn[[i]] <- as.character(readline(prompt = paste0("Enter the word you would like to add a synonym too: ")))
 		
 		# check for breaks 
-		if(is.na(syn[[i]]) || is.null(syn[[i]])) {
+		if(is.na(syn[[i]]) || is.null(syn[[i]])i || syn[[i]] == "") {
 			
 			#stop if null or na
 			stop("Incorrect input, please enter a character string.")
