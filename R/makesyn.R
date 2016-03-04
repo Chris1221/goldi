@@ -4,6 +4,8 @@
 #'
 #' @export
 
+# NOTE: this isnt incorporated yet... look at issue #8
+
 make.syn <- function(return = TRUE) {
 	
 	# c is continue, i is number of synononyms
