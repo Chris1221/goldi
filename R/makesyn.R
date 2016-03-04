@@ -48,11 +48,11 @@ make.syn <- function(return = TRUE) {
 
 	return <- as.character(readline(prompt = "Would you like to save your synonyms to a global object? (y/n): ") # ask for assignment, make this a default later
 
-	if(return == "y" || return == "yes" || return == "Y" || return == "YES"){
-		name <- as.character(readline(prompt = "What would you like your variable to be called (defaults to syn): ")
-		assign(name, syn, envir = .GlobalEnv)	
-	} else if(return == "n" || return == "no" || return == "N" || return == "NO"){
-		cat(syn)
-		stop("Thanks for using mineR!")
-	}
+	#if(return == "y" || return == "yes" || return == "Y" || return == "YES"){
+	#	name <- as.character(readline(prompt = "What would you like your variable to be called (defaults to syn): ")
+	#	assign(name, syn, envir = .GlobalEnv)	
+	#} else if(return == "n" || return == "no" || return == "N" || return == "NO"){
+	#	cat(syn)
+#		stop("Thanks for using mineR!")
+#	}
 }
