@@ -27,7 +27,9 @@ make.syn <- function(return = TRUE) {
 			stop("Incorrect input, please enter a character string.")
 		} else if(syn[[i]] == "stop" || syn[[i]] == "Stop" || syn[[i]] == "-9" || syn[[i]] == ""){
 			#stop if user directed stop
+			syn[[i]] <- NULL
 			break
+			
 		} 
 
 		# enter into synonym loop, this adds synonyms as elemetns of the list at syn[[i]]
