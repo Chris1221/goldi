@@ -9,8 +9,6 @@
 
 # errors so far
 # 	1. need to go back and remove the -9 after exiting the outer loop
-# 	2. add exception for empty input
-
 
 make.syn <- function(return = TRUE) {
 	
@@ -23,11 +21,11 @@ make.syn <- function(return = TRUE) {
 		syn[[i]] <- as.character(readline(prompt = paste0("Enter the word you would like to add a synonym too: ")))
 		
 		# check for breaks 
-		if(is.na(syn[[i]]) || is.null(syn[[i]]) || syn[[i]] == "") {
+		if(is.na(syn[[i]]) || is.null(syn[[i]])) {
 			
 			#stop if null or na
 			stop("Incorrect input, please enter a character string.")
-		} else if(syn[[i]] == "stop" || syn[[i]] == "Stop" || syn[[i]] == "-9"){
+		} else if(syn[[i]] == "stop" || syn[[i]] == "Stop" || syn[[i]] == "-9" || syn[[i]] == ""){
 			#stop if user directed stop
 			break
 		} 
