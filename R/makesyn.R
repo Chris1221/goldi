@@ -4,12 +4,6 @@
 #'
 #' @export
 
-
-#NOTES
-
-# errors so far
-# 	1. need to go back and remove the -9 after exiting the outer loop
-
 make.syn <- function(return = TRUE) {
 	
 	# c is continue, i is number of synononyms
