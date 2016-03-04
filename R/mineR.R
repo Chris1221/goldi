@@ -164,7 +164,9 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	colnames(TDM.df) <- paste0("PDF_Sentence_", 1:ncol(TDM.df))
 
 	merge(x = TDM.go.df, y = TDM.df, by = 'row.names') -> out
-
+		
+		# if word happens more than once jsut count it as once
+		# jsut for simplicity
 	out[out == 1 | out == 2 | out == 3 | out == 4 | out == 5] <- 1
 
 	terms <- list()
@@ -174,9 +176,13 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	for(name in colnames(TDM.go.df)){
 
 		# going to have to add in another step here
+		# maybe only have to alter this?????
 	  	out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(matches("PDF_Sentence_*")) -> out.test
 
+		# this shouldnt change 
 	    row <- sum(TDM.go.df[,name] != 0) # n words in term
+	    
+		# will need to alter this to add in the syns !!!! #
 	    sums <- colSums(out.test) # n words from go.df that match
 
 	    for(i in 1:length(lims)){
