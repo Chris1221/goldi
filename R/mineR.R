@@ -171,6 +171,35 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 	terms <- list()
 
+	####### Synonym recognition here ########
+
+	### note this isnt incorpoaroated yet, see issue #8
+
+	if(syn){
+		
+		# check if user provided syn list
+		if(is.null(syn.list)){
+			syn.list <- make.syn(return = T)
+		} else if(!is.null(syn.list)){
+			if(typeof(syn.list) == "list"){
+			# syn list stays as is
+			} else {
+				stop("Please enter syn.list as a list")			
+			}	
+		}
+
+
+
+
+
+	} else if(!syn){
+		# leave null
+	}
+
+
+
+
+
 	message("Matching terms...")
 
 	for(name in colnames(TDM.go.df)){
