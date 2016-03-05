@@ -177,6 +177,8 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 	if(syn){
 		
+
+		message("Formating synonyms...")
 		# check if user provided syn list
 		if(is.null(syn.list)){
 			syn.list <- make.syn(return = T)
@@ -188,42 +190,80 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 			}	
 		}
 
+		# read in as corpus 
+		syn.corp <- VectorSource(syn.list)
+		syn.corp <- Corpus(syn.corp)
+
+		syn.corp <- tm_map(syn.corp, content_transformer(tolower), mc.cores = 1)
+		syn.corp <- tm_map(syn.corp, content_transformer(replaceExpressions), mc.cores = 1)
+		syn.corp <- tm_map(syn.corp, removePunctuation, mc.cores = 1)
+		syn.corp <- tm_map(syn.corp, removeNumbers, mc.cores = 1)
+		syn.corp <- tm_map(syn.corp, removeWords, stopwords("english"), mc.cores = 1)
+		syn.corp <- tm_map(syn.corp, stemDocument)
+		syn.corp <- tm_map(syn.corp, stripWhitespace)
+
+
+
+
+
+		message("Matching terms with synonyms...")
+
+		for(name in colnames(TDM.go.df)){
+
+		  	# do qc on synonyms
+			
+
+
+			
+			out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(matches("PDF_Sentence_*")) -> out.test
+
+			# this shouldnt change 
+		    row <- sum(TDM.go.df[,name] != 0) # n words in term
+		    
+			# will need to alter this to add in the syns !!!! #
+		    sums <- colSums(out.test) # n words from go.df that match
+
+		    for(i in 1:length(lims)){
+		    	if(row == i){
+		    		if(any(sums == lims[[i]])){
+		    			terms <- c(terms, paste(name, sum(sums == lims[[i]], na.rm = TRUE)))
+		    		}
+		    	}
+		    }
+
+		}
+
 
 
 
 
 	} else if(!syn){
-		# leave null
-	}
 
+		message("Matching terms...")
 
+		for(name in colnames(TDM.go.df)){
 
+			# going to have to add in another step here
+			# maybe only have to alter this?????
+		  	out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(matches("PDF_Sentence_*")) -> out.test
 
+			# this shouldnt change 
+		    row <- sum(TDM.go.df[,name] != 0) # n words in term
+		    
+			# will need to alter this to add in the syns !!!! #
+		    sums <- colSums(out.test) # n words from go.df that match
 
-	message("Matching terms...")
+		    for(i in 1:length(lims)){
+		    	if(row == i){
+		    		if(any(sums == lims[[i]])){
+		    			terms <- c(terms, paste(name, sum(sums == lims[[i]], na.rm = TRUE)))
+		    		}
+		    	}
+		    }
 
-	for(name in colnames(TDM.go.df)){
-
-		# going to have to add in another step here
-		# maybe only have to alter this?????
-	  	out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(matches("PDF_Sentence_*")) -> out.test
-
-		# this shouldnt change 
-	    row <- sum(TDM.go.df[,name] != 0) # n words in term
-	    
-		# will need to alter this to add in the syns !!!! #
-	    sums <- colSums(out.test) # n words from go.df that match
-
-	    for(i in 1:length(lims)){
-	    	if(row == i){
-	    		if(any(sums == lims[[i]])){
-	    			terms <- c(terms, paste(name, sum(sums == lims[[i]], na.rm = TRUE)))
-	    		}
-	    	}
-	    }
+		}
 
 	}
-
 
 	message(paste0("Writing output to ", output))
 
