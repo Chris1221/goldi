@@ -1,8 +1,8 @@
 #' Text Miner
-#' 
-#' Fuzzy identification of key phrases from natural language 
 #'
-#' @param doc document which will be mined for keywords as a file path (character()). 
+#' Fuzzy identification of key phrases from natural language
+#'
+#' @param doc document which will be mined for keywords as a file path (character()).
 #' @param terms list of \n seperated key phrases of varying lengths to be identified.
 #' @param local currently only F is supported.
 #' @param lims parameters for acceptance of identification (see FILL_IN)
@@ -18,6 +18,8 @@
 mineR <- function(doc = character(), terms = character(), local = FALSE, lims = "interactive", output = character(), syn = FALSE, syn.list = NULL, length = 10, wd = getwd()){
 
 	# error check input for missingness
+
+  message("Checking format of input variables...")
 
 	if(is.null(doc)){
 		stop("Please input a file path (local = FALSE) or R object (local = TRUE) as your input object.")
@@ -40,6 +42,8 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	} else if(typeof(lims) == "vector" || typeof(lims) == "double"){
 		lims <- as.list(lims)
 		message("Using alternate format for list...")
+	} else if(typeof(lims) == "list"){
+	  message("Using custom list...")
 	}
 
 	# library calls quietly
@@ -53,9 +57,9 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 
 
-	# system calls to format pdf 
+	# system calls to format pdf
 	# assume if its in R then its already formatted
-	# assume iconv and sed are installed, mention this in the docs. 
+	# assume iconv and sed are installed, mention this in the docs.
 
 	message("System calls...")
 
@@ -81,7 +85,7 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	# read in
 
 	message("Reading in input document and formatting...")
-	
+
 	if(!local){
 		text <- paste0(doc, ".txt")
 		raw <- readLines(text, warn = F, encoding = "WINDOWS-1252")
@@ -162,20 +166,17 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	TDM.df$counts <- NULL
 	colnames(TDM.df) <- paste0("PDF_Sentence_", 1:ncol(TDM.df))
 
-	merge(x = TDM.go.df, y = TDM.df, by = 'row.names') -> out
-		
-		# if word happens more than once jsut count it as once
-		# jsut for simplicity
-	out[out == 1 | out == 2 | out == 3 | out == 4 | out == 5] <- 1
-
-	terms <- list()
+		# maybe put this after the synonyms
+	# merge(x = TDM.go.df, y = TDM.df, by = 'row.names') -> out
+	# out[out == 1 | out == 2 | out == 3 | out == 4 | out == 5] <- 1
+	# terms <- list()
 
 	####### Synonym recognition here ########
 
 	### note this isnt incorpoaroated yet, see issue #8
 
 	if(syn){ # if the user wants synonyns
-		
+
 		# check if user provided syn list
 		if(is.null(syn.list)){
 			syn.list <- make.syn(T)
@@ -183,11 +184,11 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 			if(typeof(syn.list) == "list"){
 			# syn list stays as is
 			} else {
-				stop("Please enter syn.list as a list")			
-			}	
+				stop("Please enter syn.list as a list")
+			}
 		}
 
-		# read in as corpus 
+		# read in as corpus
 		syn.corp <- VectorSource(syn.list)
 		syn.corp <- Corpus(syn.corp)
 
@@ -199,13 +200,41 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 		syn.corp <- tm_map(syn.corp, stemDocument)
 		syn.corp <- tm_map(syn.corp, stripWhitespace)
 
+	#now find the first
+		#for long synonym lists this would be REAAAALLLY slow
+
+		for(i in 1:ncol(TDM.df)){
+  		for(j in 1:length(syn.corp)){
+  			for(k in 2:length(syn.corp[[j]]$content)){
+
+  			  if(syn.corp[[j]]$content[1] %in% row.names(TDM.df) && syn.corp[[j]]$content[k] %in% row.names(TDM.df)){
+    			  if(TDM.df[syn.corp[[j]]$content[k], i] != 0){
+              TDM.df[syn.corp[[j]]$content[1], i] <- 1
+
+    			  }
+  			  }
+  			}
+  		}
+		}
+
+		merge(x = TDM.go.df, y = TDM.df, by = 'row.names') -> out
+
+		out[out == 1 | out == 2 | out == 3 | out == 4 | out == 5] <- 1
+
+		terms <- list()
+
 	} else if(!syn){
-		# leave null
+
+		#no change in this
+		merge(x = TDM.go.df, y = TDM.df, by = 'row.names') -> out
+
+			# if word happens more than once jsut count it as once
+			# jsut for simplicity
+		out[out == 1 | out == 2 | out == 3 | out == 4 | out == 5] <- 1
+
+		terms <- list()
+
 	}
-
-
-
-
 
 	message("Matching terms...")
 
@@ -215,9 +244,9 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 		# maybe only have to alter this?????
 	  	out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(matches("PDF_Sentence_*")) -> out.test
 
-		# this shouldnt change 
+		# this shouldnt change
 	    row <- sum(TDM.go.df[,name] != 0) # n words in term
-	    
+
 		# will need to alter this to add in the syns !!!! #
 	    sums <- colSums(out.test) # n words from go.df that match
 
@@ -238,11 +267,14 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 		writeLines(as.character(terms), output, sep = "\n")
 	}
 
-	# clean up 
+	# clean up
 	# system(paste0("cat .tmp/terms_all*.txt > out.txt"))
 	# system("rm -rf .tmp/")
 	# system(paste0("rm ", doc, ".txt ", basename(doc), ".temp.txt"))
 
-
+  #TEMPORARY
+	TDM.df <<- TDM.df
+	out <<- out
+	syn.corp <<- syn.corp
 
 }
