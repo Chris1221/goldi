@@ -11,4 +11,14 @@ install_github("Chris1221/mineR")
 
 For FAQ and tutorials, see the wiki. **Now with Synonyms!**
 
+A basic run would consist of
+
+```{R}
+library(mineR)
+doc <- "my_file.pdf" #declare your input document
+terms <- "my_term_list.txt" #declare your term list
+
+mineR(doc = doc, terms = terms, length = 10) #run the function
+```
+
 Any problems or questions should be [raised as issues](https://github.com/Chris1221/mineR/issues/new)
