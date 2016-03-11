@@ -15,7 +15,7 @@
 #' @export
 
 
-mineR <- function(doc = character(), terms = character(), local = FALSE, lims = "interactive", output = character(), length = 10, wd = getwd()){
+mineR <- function(doc = character(), terms = character(), local = FALSE, lims = "interactive", output = character(), syn = FALSE, syn.list = NULL, length = 10, wd = getwd()){
 
 	# error check input for missingness
 
@@ -178,7 +178,7 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 		
 		# check if user provided syn list
 		if(is.null(syn.list)){
-			syn.list <- make.syn(return = T)
+			syn.list <- make.syn(T)
 		} else if(!is.null(syn.list)){
 			if(typeof(syn.list) == "list"){
 			# syn list stays as is

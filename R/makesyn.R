@@ -6,7 +6,7 @@
 
 # NOTE: this isnt incorporated yet... look at issue #8
 
-make.syn <- function(return = TRUE) {
+make.syn <- function(return = FALSE) {
 	
 	# c is continue, i is number of synononyms
 	c <- TRUE; i <- 1 # set up initials
@@ -50,29 +50,28 @@ make.syn <- function(return = TRUE) {
 		i = i+1
 	}
 
-	#if(return){
-	
-	#} else if(!return)
+	if(return){
+		return(syn)
+	} else if(!return){
 
+		.return <- as.character(readline(prompt = "Would you like to save your synonyms to a global object? (y/n): ")) # ask for assignment, make this a default later
 
+		if(.return == "y" || .return == "yes" || .return == "Y" || .return == "YES"){
+			name <- as.character(readline(prompt = "What would you like your variable to be called (defaults to syn): "))
 
+			# make default
+			if(is.na(name) || is.null(name) || name == ""){
+				name <- "syn"
+			}
 
-	return <- as.character(readline(prompt = "Would you like to save your synonyms to a global object? (y/n): ")) # ask for assignment, make this a default later
-
-	if(return == "y" || return == "yes" || return == "Y" || return == "YES"){
-		name <- as.character(readline(prompt = "What would you like your variable to be called (defaults to syn): "))
-
-		# make default
-		if(is.na(name) || is.null(name) || name == ""){
-			name <- "syn"
+			# asign to global env
+			assign(name, syn, envir = .GlobalEnv)
+		
+		} else if(.return == "n" || .return == "no" || .return == "N" || .return == "NO"){
+			cat("This is your output. You can copy paste and make this an object anywhere.\n\n")
+			dput(syn) #so user can copy paste
+			message("Thanks for using mineR!")
 		}
 
-		# asign to global env
-		assign(name, syn, envir = .GlobalEnv)
-	
-	} else if(return == "n" || return == "no" || return == "N" || return == "NO"){
-		cat("This is your output. You can copy paste and make this an object anywhere.")
-		dput(syn) #so user can copy paste
-		print("Thanks for using mineR!")
 	}
 }
