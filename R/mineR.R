@@ -15,7 +15,7 @@
 #' @export
 
 
-mineR <- function(doc = character(), terms = character(), local = FALSE, lims = "interactive", output = character(), length = 10, wd = getwd()){
+mineR <- function(doc = character(), terms = character(), local = FALSE, lims = "interactive", output = character(), syn = FALSE, syn.list = NULL, length = 10, wd = getwd()){
 
 	# error check input for missingness
 
@@ -60,7 +60,7 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	message("System calls...")
 
 
-	if(!local){
+	if(!local) {
 		system(paste0("pdftotext ", doc, " ", doc, ".txt"))
 		system(paste0("iconv -f WINDOWS-1252 -t UTF-8 ", doc, ".txt > ", doc, ".temp.txt"))
 		#note: doubled the \ here to make it work in R
@@ -69,7 +69,7 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	} else if(local) {
 		stop("Unhandled exception, see documentation.")
 	} else {
-		stop("Uhandled exception, see documentation.")
+		stop("Unhandled exception, see documentation.")
 	}
 
 	# after formating, bring in to R
@@ -155,7 +155,6 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 	colnames(TDM.go.df) <- sub
 
-	#error, not picking up ER as a word, figure this out.
 
 	## when subsetting, picking up terms with numbers AND actual sentences, so changing col names to be easily subsetable
 
@@ -175,7 +174,7 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 	### note this isnt incorpoaroated yet, see issue #8
 
-	if(syn){
+	if(syn){ # if the user wants synonyns
 		
 
 		message("Formating synonyms...")
@@ -204,78 +203,3 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 
 
-
-
-		message("Matching terms with synonyms...")
-
-		for(name in colnames(TDM.go.df)){
-
-		  	# do qc on synonyms
-			
-
-
-			
-			out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(matches("PDF_Sentence_*")) -> out.test
-
-			# this shouldnt change 
-		    row <- sum(TDM.go.df[,name] != 0) # n words in term
-		    
-			# will need to alter this to add in the syns !!!! #
-		    sums <- colSums(out.test) # n words from go.df that match
-
-		    for(i in 1:length(lims)){
-		    	if(row == i){
-		    		if(any(sums == lims[[i]])){
-		    			terms <- c(terms, paste(name, sum(sums == lims[[i]], na.rm = TRUE)))
-		    		}
-		    	}
-		    }
-
-		}
-
-
-
-
-
-	} else if(!syn){
-
-		message("Matching terms...")
-
-		for(name in colnames(TDM.go.df)){
-
-			# going to have to add in another step here
-			# maybe only have to alter this?????
-		  	out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(matches("PDF_Sentence_*")) -> out.test
-
-			# this shouldnt change 
-		    row <- sum(TDM.go.df[,name] != 0) # n words in term
-		    
-			# will need to alter this to add in the syns !!!! #
-		    sums <- colSums(out.test) # n words from go.df that match
-
-		    for(i in 1:length(lims)){
-		    	if(row == i){
-		    		if(any(sums == lims[[i]])){
-		    			terms <- c(terms, paste(name, sum(sums == lims[[i]], na.rm = TRUE)))
-		    		}
-		    	}
-		    }
-
-		}
-
-	}
-
-	message(paste0("Writing output to ", output))
-
-	if(!local){
-		writeLines(as.character(terms), output, sep = "\n")
-	}
-
-	# clean up 
-	# system(paste0("cat .tmp/terms_all*.txt > out.txt"))
-	# system("rm -rf .tmp/")
-	# system(paste0("rm ", doc, ".txt ", basename(doc), ".temp.txt"))
-
-
-
-}

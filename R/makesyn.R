@@ -50,6 +50,13 @@ make.syn <- function(return = TRUE) {
 		i = i+1
 	}
 
+	#if(return){
+	
+	#} else if(!return)
+
+
+
+
 	return <- as.character(readline(prompt = "Would you like to save your synonyms to a global object? (y/n): ")) # ask for assignment, make this a default later
 
 	if(return == "y" || return == "yes" || return == "Y" || return == "YES"){
