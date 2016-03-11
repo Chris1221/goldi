@@ -15,7 +15,7 @@
 #' @export
 
 
-mineR <- function(doc = character(), terms = character(), local = FALSE, lims = "interactive", output = character(), syn = FALSE, syn.list = NULL, length = 10, wd = getwd()){
+mineR <- function(doc = character(), terms = character(), local = FALSE, lims = "interactive", output = character(), length = 10, wd = getwd()){
 
 	# error check input for missingness
 
@@ -203,3 +203,5 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 
 
+
+}
