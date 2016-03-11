@@ -9,7 +9,7 @@ library(devtools)
 install_github("Chris1221/mineR")
 ```
 
-For FAQ and tutorials, see the wiki.
+For FAQ and tutorials, see the wiki. **Now with Synonyms!**
 
 A basic run would consist of
 

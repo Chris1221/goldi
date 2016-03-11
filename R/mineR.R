@@ -1,8 +1,8 @@
 #' Text Miner
-#' 
-#' Fuzzy identification of key phrases from natural language 
 #'
-#' @param doc document which will be mined for keywords as a file path (character()). 
+#' Fuzzy identification of key phrases from natural language
+#'
+#' @param doc document which will be mined for keywords as a file path (character()).
 #' @param terms list of \n seperated key phrases of varying lengths to be identified.
 #' @param local currently only F is supported.
 #' @param lims parameters for acceptance of identification (see FILL_IN)
@@ -12,14 +12,14 @@
 #'
 #' @return A text document at wd/output if local == FALSE, or an R object if local == TRUE.
 #'
-#' @examples demo(mineR)
-#'
 #' @export
 
 
-mineR <- function(doc = character(), terms = character(), local = FALSE, lims = "interactive", output = character(), length = 10, wd = getwd()){
+mineR <- function(doc = character(), terms = character(), local = FALSE, lims = "interactive", output = character(), syn = FALSE, syn.list = NULL, length = 10, wd = getwd()){
 
 	# error check input for missingness
+
+  message("Checking format of input variables...")
 
 	if(is.null(doc)){
 		stop("Please input a file path (local = FALSE) or R object (local = TRUE) as your input object.")
@@ -37,11 +37,13 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	#decide between interactive or given list
 	if(lims == "interactive" || lims == "i"){
 		lims <- make.lim()
-	} else if(type(lims) == "character"){
+	} else if(typeof(lims) == "character"){
 		stop("Please enter lims as a list or vector")
-	} else if(type(lims) == "vector" || type(lims) == "double"){
+	} else if(typeof(lims) == "vector" || typeof(lims) == "double"){
 		lims <- as.list(lims)
 		message("Using alternate format for list...")
+	} else if(typeof(lims) == "list"){
+	  message("Using custom list...")
 	}
 
 	# library calls quietly
@@ -55,14 +57,14 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 
 
-	# system calls to format pdf 
+	# system calls to format pdf
 	# assume if its in R then its already formatted
-	# assume iconv and sed are installed, mention this in the docs. 
+	# assume iconv and sed are installed, mention this in the docs.
 
 	message("System calls...")
 
 
-	if(!local){
+	if(!local) {
 		system(paste0("pdftotext ", doc, " ", doc, ".txt"))
 		system(paste0("iconv -f WINDOWS-1252 -t UTF-8 ", doc, ".txt > ", doc, ".temp.txt"))
 		#note: doubled the \ here to make it work in R
@@ -71,7 +73,7 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	} else if(local) {
 		stop("Unhandled exception, see documentation.")
 	} else {
-		stop("Uhandled exception, see documentation.")
+		stop("Unhandled exception, see documentation.")
 	}
 
 	# after formating, bring in to R
@@ -83,7 +85,7 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	# read in
 
 	message("Reading in input document and formatting...")
-	
+
 	if(!local){
 		text <- paste0(doc, ".txt")
 		raw <- readLines(text, warn = F, encoding = "WINDOWS-1252")
@@ -157,7 +159,6 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 	colnames(TDM.go.df) <- sub
 
-	#error, not picking up ER as a word, figure this out.
 
 	## when subsetting, picking up terms with numbers AND actual sentences, so changing col names to be easily subsetable
 
@@ -165,20 +166,89 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	TDM.df$counts <- NULL
 	colnames(TDM.df) <- paste0("PDF_Sentence_", 1:ncol(TDM.df))
 
-	merge(x = TDM.go.df, y = TDM.df, by = 'row.names') -> out
+		# maybe put this after the synonyms
+	# merge(x = TDM.go.df, y = TDM.df, by = 'row.names') -> out
+	# out[out == 1 | out == 2 | out == 3 | out == 4 | out == 5] <- 1
+	# terms <- list()
 
-	out[out == 1 | out == 2 | out == 3 | out == 4 | out == 5] <- 1
+	####### Synonym recognition here ########
 
-	terms <- list()
+	### note this isnt incorpoaroated yet, see issue #8
+
+	if(syn){ # if the user wants synonyns
+
+		# check if user provided syn list
+		if(is.null(syn.list)){
+			syn.list <- make.syn(T)
+		} else if(!is.null(syn.list)){
+			if(typeof(syn.list) == "list"){
+			# syn list stays as is
+			} else {
+				stop("Please enter syn.list as a list")
+			}
+		}
+
+		# read in as corpus
+		syn.corp <- VectorSource(syn.list)
+		syn.corp <- Corpus(syn.corp)
+
+		syn.corp <- tm_map(syn.corp, content_transformer(tolower), mc.cores = 1)
+		syn.corp <- tm_map(syn.corp, content_transformer(replaceExpressions), mc.cores = 1)
+		syn.corp <- tm_map(syn.corp, removePunctuation, mc.cores = 1)
+		syn.corp <- tm_map(syn.corp, removeNumbers, mc.cores = 1)
+		syn.corp <- tm_map(syn.corp, removeWords, stopwords("english"), mc.cores = 1)
+		syn.corp <- tm_map(syn.corp, stemDocument)
+		syn.corp <- tm_map(syn.corp, stripWhitespace)
+
+	#now find the first
+		#for long synonym lists this would be REAAAALLLY slow
+
+		for(i in 1:ncol(TDM.df)){
+  		for(j in 1:length(syn.corp)){
+  			for(k in 2:length(syn.corp[[j]]$content)){
+
+  			  if(syn.corp[[j]]$content[1] %in% row.names(TDM.df) && syn.corp[[j]]$content[k] %in% row.names(TDM.df)){
+    			  if(TDM.df[syn.corp[[j]]$content[k], i] != 0){
+              TDM.df[syn.corp[[j]]$content[1], i] <- 1
+
+    			  }
+  			  }
+  			}
+  		}
+		}
+
+		merge(x = TDM.go.df, y = TDM.df, by = 'row.names') -> out
+
+		out[out == 1 | out == 2 | out == 3 | out == 4 | out == 5] <- 1
+
+		terms <- list()
+
+	} else if(!syn){
+
+		#no change in this
+		merge(x = TDM.go.df, y = TDM.df, by = 'row.names') -> out
+
+			# if word happens more than once jsut count it as once
+			# jsut for simplicity
+		out[out == 1 | out == 2 | out == 3 | out == 4 | out == 5] <- 1
+
+		terms <- list()
+
+	}
 
 	message("Matching terms...")
 
 	for(name in colnames(TDM.go.df)){
 
+		# going to have to add in another step here
+		# maybe only have to alter this?????
 	  	out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(matches("PDF_Sentence_*")) -> out.test
 
-	    row <- sum(TDM.go.df[,name] != 0)
-	    sums <- colSums(out.test)
+		# this shouldnt change
+	    row <- sum(TDM.go.df[,name] != 0) # n words in term
+
+		# will need to alter this to add in the syns !!!! #
+	    sums <- colSums(out.test) # n words from go.df that match
 
 	    for(i in 1:length(lims)){
 	    	if(row == i){
@@ -197,11 +267,14 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 		writeLines(as.character(terms), output, sep = "\n")
 	}
 
-	# clean up 
+	# clean up
 	# system(paste0("cat .tmp/terms_all*.txt > out.txt"))
 	# system("rm -rf .tmp/")
 	# system(paste0("rm ", doc, ".txt ", basename(doc), ".temp.txt"))
 
-
+  #TEMPORARY
+	TDM.df <<- TDM.df
+	out <<- out
+	syn.corp <<- syn.corp
 
 }

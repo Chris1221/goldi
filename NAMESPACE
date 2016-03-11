@@ -3,6 +3,7 @@
 S3method(replaceExpressions,PlainTextDocument)
 S3method(replaceExpressions,character)
 export(make.lim)
+export(make.syn)
 export(mineR)
 export(replaceExpressions)
 export(test_mineR)
