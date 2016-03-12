@@ -16,7 +16,7 @@ Imports:
 	devtools
 Suggests:
 	wordcloud,
-    testthat
+	testthat
 License: GPS (>= 2) | file LICENSE
 BugReports: https://github.com/Chris1221/mineR/issues
 URL: https://github.com/Chris1221/mineR
