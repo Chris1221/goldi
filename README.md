@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/Chris1221/mineR.svg?branch=master)](https://travis-ci.org/Chris1221/mineR)
 
+[![codecov.io](https://codecov.io/github/Chris1221/mineR/coverage.svg?branch=master)](https://codecov.io/github/Chris1221/mineR?branch=master)
+
 To install
 
 ```{R}
