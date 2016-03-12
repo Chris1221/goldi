@@ -14,8 +14,7 @@
 #'
 #' @export
 
-
-mineR <- function(doc = character(), terms = character(), local = FALSE, lims = "interactive", output = character(), syn = FALSE, syn.list = NULL, length = 10, wd = getwd()){
+mineR <- function(doc = character(), terms = character(), local = FALSE, lims = "interactive", output = character(), syn = FALSE, syn.list = NULL, length = 10, wd = getwd(), return.as.list = FALSE){
 
 	# error check input for missingness
 
@@ -70,9 +69,10 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 		#note: doubled the \ here to make it work in R
 		system(paste0("sed -e $'s/\\\\\\./\\\\\\n/g' ", doc, ".temp.txt > ", doc, "txt"))
 		system(paste0("rm ", doc, ".temp.txt"))
-	} #else if(local) {
-		stop("Unhandled exception, see documentation.")
-	} #else {
+	}
+	#else if(local) {
+		#stop("Unhandled exception, see documentation.")
+	#} #else {
 	#	stop("Unhandled exception, see documentation.")
 	#}
 
@@ -90,7 +90,8 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 		text <- paste0(doc, ".txt")
 		raw <- readLines(text, warn = F, encoding = "WINDOWS-1252")
 		raw <- iconv(raw,"WINDOWS-1252","UTF-8") #this might not be a silver bullet, check the encoding
-	} # else if(local){
+	}
+	#else if(local){
 	#	stop("unhandled excepton")
 	#}
 
@@ -265,9 +266,10 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 	if(!local){
 		writeLines(as.character(terms), output, sep = "\n")
-	} else if(local){
-		return(as.character(terms))
 	}
+
+
+	if(return.as.list) return(as.character(terms))
 
 	# clean up
 	# system(paste0("cat .tmp/terms_all*.txt > out.txt"))
@@ -275,8 +277,8 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	# system(paste0("rm ", doc, ".txt ", basename(doc), ".temp.txt"))
 
   #TEMPORARY
-	TDM.df <<- TDM.df
-	out <<- out
-	syn.corp <<- syn.corp
+	#TDM.df <<- TDM.df
+	#out <<- out
+	#syn.corp <<- syn.corp
 
 }

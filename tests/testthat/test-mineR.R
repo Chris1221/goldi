@@ -1,5 +1,5 @@
 context("Test the main function")
-
+library(mineR)
 #declare test variables
 
 
@@ -23,4 +23,6 @@ lims <- list(1L, 2L, 3L, 4L, 5L, 6L, 7L, 8L, 9L)
 syn.list = list(c("abba", "research"))
 return.as.list <- TRUE
 
-mineR(doc = pdf2, terms = chunk, local = FALSE, length = length, output = "test.txt", syn = TRUE, lims = lims, syn.list =syn.list, return.as.list = return.as.list)
+test_that("testing main function", {
+	expect_output(suppressMessages(mineR(doc = pdf2, terms = chunk, local = FALSE, length = length, output = "test.txt", syn = TRUE, lims = lims, syn.list =syn.list, return.as.list = TRUE)), "nucleotide_binding 1")
+})
