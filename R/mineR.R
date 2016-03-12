@@ -14,8 +14,7 @@
 #'
 #' @export
 
-
-mineR <- function(doc = character(), terms = character(), local = FALSE, lims = "interactive", output = character(), syn = FALSE, syn.list = NULL, length = 10, wd = getwd()){
+mineR <- function(doc = character(), terms = character(), local = FALSE, lims = "interactive", output = character(), syn = FALSE, syn.list = NULL, length = 10, wd = getwd(), return.as.list = FALSE){
 
 	# error check input for missingness
 
@@ -70,11 +69,12 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 		#note: doubled the \ here to make it work in R
 		system(paste0("sed -e $'s/\\\\\\./\\\\\\n/g' ", doc, ".temp.txt > ", doc, "txt"))
 		system(paste0("rm ", doc, ".temp.txt"))
-	} else if(local) {
-		stop("Unhandled exception, see documentation.")
-	} else {
-		stop("Unhandled exception, see documentation.")
 	}
+	#else if(local) {
+		#stop("Unhandled exception, see documentation.")
+	#} #else {
+	#	stop("Unhandled exception, see documentation.")
+	#}
 
 	# after formating, bring in to R
 	## note: need to chunk to handle larger documents
@@ -90,9 +90,10 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 		text <- paste0(doc, ".txt")
 		raw <- readLines(text, warn = F, encoding = "WINDOWS-1252")
 		raw <- iconv(raw,"WINDOWS-1252","UTF-8") #this might not be a silver bullet, check the encoding
-	} else if(local){
-		stop("unhandled excepton")
 	}
+	#else if(local){
+	#	stop("unhandled excepton")
+	#}
 
 	raw <- unlist(strsplit(raw, split = ".", fixed = TRUE))
 
@@ -130,9 +131,9 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 	  raw_go <- readLines(paste0(terms), skipNul = T)
 
-	} else if(local){
-		stop("Unhandled excpetion, see documentation.")
-	}
+	} #else if(local){
+	#	stop("Unhandled excpetion, see documentation.")
+	#}
 
 	raw_go <- iconv(raw_go,"WINDOWS-1252","UTF-8") #this might not be a silver bullet, check the encoding
 	raw_go <- raw_go[which(raw_go!="")]
@@ -267,14 +268,17 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 		writeLines(as.character(terms), output, sep = "\n")
 	}
 
+
+	if(return.as.list) return(as.character(terms))
+
 	# clean up
 	# system(paste0("cat .tmp/terms_all*.txt > out.txt"))
 	# system("rm -rf .tmp/")
 	# system(paste0("rm ", doc, ".txt ", basename(doc), ".temp.txt"))
 
   #TEMPORARY
-	TDM.df <<- TDM.df
-	out <<- out
-	syn.corp <<- syn.corp
+	#TDM.df <<- TDM.df
+	#out <<- out
+	#syn.corp <<- syn.corp
 
 }

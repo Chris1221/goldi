@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/Chris1221/mineR.svg?branch=master)](https://travis-ci.org/Chris1221/mineR)
 
+[![codecov.io](https://codecov.io/github/Chris1221/mineR/coverage.svg?branch=master)](https://codecov.io/github/Chris1221/mineR?branch=master)
+
 To install
 
 ```{R}
@@ -9,7 +11,7 @@ library(devtools)
 install_github("Chris1221/mineR")
 ```
 
-For FAQ and tutorials, see the wiki. **Now with Synonyms!**
+For FAQ and tutorials, see the wiki. **Now with Synonyms and code coverage!**
 
 A basic run would consist of
 
