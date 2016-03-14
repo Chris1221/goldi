@@ -52,11 +52,22 @@ Source: CRAN
 Version: 1.0-6
 Hash: 67d0775189fd0041d95abca618c5c07e
 
+Package: brew
+Source: CRAN
+Version: 1.0-6
+Hash: 931f9972deae0f205e1c78a51f33149b
+
 Package: caTools
 Source: CRAN
 Version: 1.17.1
 Hash: 97cb6f6293cd18d17df77a6383cc6763
 Requires: bitops
+
+Package: covr
+Source: CRAN
+Version: 1.2.0
+Hash: 954bb878fafebfbd52767f94e6141dae
+Requires: crayon, devtools, htmltools, httr, jsonlite, rex
 
 Package: crayon
 Source: CRAN
@@ -173,11 +184,23 @@ Source: CRAN
 Version: 1.0.0
 Hash: 77da8f1df873a4b91e5c4a68fe2fb1b6
 
+Package: rex
+Source: CRAN
+Version: 1.1.1
+Hash: 69e208c6283398d235e507a658ba8079
+Requires: lazyeval, magrittr
+
 Package: rmarkdown
 Source: CRAN
 Version: 0.9.5
 Hash: c47e8fb40e81162783fe1335a13a0ca3
 Requires: caTools, htmltools, knitr, yaml
+
+Package: roxygen2
+Source: CRAN
+Version: 5.0.1
+Hash: 39ee3aba606f089cb378c4a1cdd6d499
+Requires: Rcpp, brew, digest, stringi, stringr
 
 Package: rstudioapi
 Source: CRAN
