@@ -11,7 +11,7 @@ mineR(doc = character(), terms = character(), local = FALSE,
 \arguments{
 \item{doc}{document which will be mined for keywords as a file path (character()).}
 
-\item{terms}{list of \n seperated key phrases of varying lengths to be identified.}
+\item{terms}{list of newline seperated key phrases of varying lengths to be identified.}
 
 \item{local}{currently only F is supported.}
 

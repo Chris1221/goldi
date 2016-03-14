@@ -3,7 +3,7 @@
 #' Fuzzy identification of key phrases from natural language
 #'
 #' @param doc document which will be mined for keywords as a file path (character()).
-#' @param terms list of \n seperated key phrases of varying lengths to be identified.
+#' @param terms list of newline seperated key phrases of varying lengths to be identified.
 #' @param local currently only F is supported.
 #' @param lims Number of identical (or synonymous) words which must be present in a sentence in order for it to be accepted. "interactive" is default and allows you to interavtively build your own list, but a list of n elements can be supplied where n is the largest term you wish to search for.
 #' @param output path to output file
@@ -11,7 +11,7 @@
 #' @param length maximum length of term in words that you would like to search for.
 #' @param syn TRUE if synonyms are to be used (also see syn.list), FALSE if no synonyms are to be used.
 #' @param syn.list LIST of synonyms to be used. First element of each list item is the word that will counted if any of the other elements of that list item are present.
-#' @param return.as.list Mostly used for testing, returns output as an R (character) object instead of writing to a file.  
+#' @param return.as.list Mostly used for testing, returns output as an R (character) object instead of writing to a file.
 #'
 #' @return A text document at wd/output if local == FALSE, or an R object if local == TRUE.
 #'

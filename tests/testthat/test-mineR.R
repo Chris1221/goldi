@@ -24,5 +24,5 @@ syn.list = list(c("abba", "research"))
 return.as.list <- TRUE
 
 test_that("testing main function", {
-	expect_output(suppressMessages(mineR(doc = pdf2, terms = chunk, local = FALSE, length = length, output = "test.txt", syn = TRUE, lims = lims, syn.list =syn.list, return.as.list = TRUE)), "nucleotide_binding 1")
+	expect_equal(suppressMessages(mineR(doc = pdf2, terms = chunk, local = FALSE, length = length, output = "test.txt", syn = TRUE, lims = lims, syn.list =syn.list, return.as.list = TRUE)), "nucleotide_binding 1")
 })
