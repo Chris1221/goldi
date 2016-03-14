@@ -54,7 +54,7 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 	library(Rcpp, quietly = T, verbose = F, warn.conflicts = F)
 	library(dplyr, quietly = T, verbose = F, warn.conflicts = F)
-	#library(tm, quietly = T, verbose = F, warn.conflicts = F)
+	library(tm, quietly = T, verbose = F, warn.conflicts = F)
 	library(SnowballC, quietly = T, verbose = F, warn.conflicts = F)
 
 
