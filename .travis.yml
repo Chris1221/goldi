@@ -8,6 +8,10 @@ env:
  global:
    - CRAN: http://cran.rstudio.com
 
+before_install:
+  - sudo apt-get -qq update
+  - sudo apt-get install -y xpdf
+
 r_binary_packages:
   - dplyr
   - rmarkdown
