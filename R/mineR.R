@@ -3,7 +3,7 @@
 #' Fuzzy identification of key phrases from natural language
 #'
 #' @param doc document which will be mined for keywords as a file path (character()).
-#' @param terms list of \n seperated key phrases of varying lengths to be identified.
+#' @param terms list of newline seperated key phrases of varying lengths to be identified.
 #' @param local currently only F is supported.
 #' @param lims parameters for acceptance of identification (see FILL_IN)
 #' @param output path to output file
