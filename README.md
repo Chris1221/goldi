@@ -1,6 +1,6 @@
 # mineR
 
-[![Build Status](https://travis-ci.org/Chris1221/mineR.svg?branch=master)](https://travis-ci.org/Chris1221/mineR) [![codecov.io](https://codecov.io/github/Chris1221/mineR/coverage.svg?branch=master)](https://codecov.io/github/Chris1221/mineR?branch=master)
+[![Build Status](https://travis-ci.org/Chris1221/mineR.svg?branch=master)](https://travis-ci.org/Chris1221/mineR) [![Build status](https://ci.appveyor.com/api/projects/status/v64oe85q29btxln9?svg=true)](https://ci.appveyor.com/project/Chris1221/miner) [![codecov.io](https://codecov.io/github/Chris1221/mineR/coverage.svg?branch=master)](https://codecov.io/github/Chris1221/mineR?branch=master)
 
 To install
 
