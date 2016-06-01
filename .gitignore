@@ -13,3 +13,4 @@ vignettes/*.pdf
 BP_terms.txt
 .Rproj.user
 packrat/lib*/
+inst/doc

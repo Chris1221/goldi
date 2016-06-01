@@ -18,9 +18,12 @@ Imports:
 Suggests:
     wordcloud,
     testthat,
-    covr
+    covr,
+    knitr,
+    rmarkdown
 License: GPS (>= 2) | file LICENSE
 BugReports: https://github.com/Chris1221/mineR/issues
 URL: https://github.com/Chris1221/mineR
 LazyData: TRUE
 RoxygenNote: 5.0.1
+VignetteBuilder: knitr

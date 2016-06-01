@@ -13,6 +13,11 @@
 #' @param syn.list LIST of synonyms to be used. First element of each list item is the word that will counted if any of the other elements of that list item are present.
 #' @param return.as.list Mostly used for testing, returns output as an R (character) object instead of writing to a file.
 #'
+#' @import tm
+#' @import Rcpp
+#' @import dplyr
+#' @import SnowballC
+#'
 #' @return A text document at wd/output if local == FALSE, or an R object if local == TRUE.
 #'
 #' @export
@@ -47,16 +52,6 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	} else if(typeof(lims) == "list"){
 	  message("Using custom list...")
 	}
-
-	# library calls quietly
-
-	message("Loading required libraries...")
-
-	library(Rcpp, quietly = T, verbose = F, warn.conflicts = F)
-	library(dplyr, quietly = T, verbose = F, warn.conflicts = F)
-	library(tm, quietly = T, verbose = F, warn.conflicts = F)
-	library(SnowballC, quietly = T, verbose = F, warn.conflicts = F)
-
 
 
 	# system calls to format pdf
