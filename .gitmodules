@@ -1,0 +1,3 @@
+[submodule "inst/mineR_paper"]
+	path = inst/mineR_paper
+	url = https://github.com/Chris1221/mineR_paper.git
