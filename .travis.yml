@@ -19,6 +19,7 @@ r_binary_packages:
   - tm
   - SnowballC
   - devtools
+  - pdftools
 
 notifications:
   email:
