@@ -14,7 +14,8 @@ Imports:
     Rcpp,
     tm,
     SnowballC,
-    devtools
+    devtools,
+    pdftools
 Suggests:
     wordcloud,
     testthat,
