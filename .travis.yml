@@ -31,5 +31,5 @@ r_github_packages:
 after_success:
   - Rscript -e 'covr::codecov()'
 
-git
+git:
   - submodules: false
