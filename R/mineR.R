@@ -25,7 +25,7 @@
 
 mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive", output = NULL, syn = FALSE, syn.list = NULL, length = 10, wd = getwd(), return.as.list = FALSE, log = NULL){
 
-	if(!is.null(log)) sink(log, append = TRUE, split = TRUE)
+	if(!is.null(log)) sink("log.txt", append = TRUE, split = TRUE)
 
 	# error check input for missingness
 
