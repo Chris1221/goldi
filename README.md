@@ -1,4 +1,14 @@
 # mineR
+### An R Package for Fuzzy Keyword Identification and Quantification in Natural Language
+--------------------------
+
+Status:
+
+| Branch | Travis-CI | Appveyor | Coverage | CRAN | Downloads | Publication |
+| :--- | :---: | :---: | :--: | :---: | :---: | :---: |
+| `master` | ![Build Status](https://travis-ci.org/Chris1221/mineR.svg?branch=master)](https://travis-ci.org/Chris1221/mineR) | [![Build status](https://ci.appveyor.com/api/projects/status/v64oe85q29btxln9?svg=true)](https://ci.appveyor.com/project/Chris1221/miner) | [![codecov.io](https://codecov.io/github/Chris1221/mineR/coverage.svg?branch=master)](https://codecov.io/github/Chris1221/mineR?branch=master) | ![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/mineR)](https://cran.r-project.org/package=mineR) | ![](http://cranlogs.r-pkg.org/badges/mineR) | GitXiv |
+| `devel` |![Build Status](https://travis-ci.org/Chris1221/mineR.svg?branch=master)](https://travis-ci.org/Chris1221/mineR) | [![Build status](https://ci.appveyor.com/api/projects/status/v64oe85q29btxln9?svg=true)](https://ci.appveyor.com/project/Chris1221/miner) | [![codecov.io](https://codecov.io/github/Chris1221/mineR/coverage.svg?branch=master)](https://codecov.io/github/Chris1221/mineR?branch=master) | ![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/mineR)](https://cran.r-project.org/package=mineR) | ![](http://cranlogs.r-pkg.org/badges/mineR) | GitXiv | 
+
 
 [![Build Status](https://travis-ci.org/Chris1221/mineR.svg?branch=master)](https://travis-ci.org/Chris1221/mineR) [![codecov.io](https://codecov.io/github/Chris1221/mineR/coverage.svg?branch=master)](https://codecov.io/github/Chris1221/mineR?branch=master)
 
