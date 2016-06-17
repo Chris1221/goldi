@@ -23,7 +23,9 @@
 #'
 #' @export
 
-mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive", output = NULL, syn = FALSE, syn.list = NULL, length = 10, wd = getwd(), return.as.list = FALSE){
+mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive", output = NULL, syn = FALSE, syn.list = NULL, length = 10, wd = getwd(), return.as.list = FALSE, log = NULL){
+
+	if(!is.null(log)) sink(file = log, append = TRUE, type = "message", split = TRUE)
 
 	# error check input for missingness
 
@@ -231,6 +233,10 @@ mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive",
 
 
 	if(return.as.list) return(as.character(terms))
+
+
+	if(!is.null(log)) sink()
+
 
 	# clean up
 	# system(paste0("cat .tmp/terms_all*.txt > out.txt"))
