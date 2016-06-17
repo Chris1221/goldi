@@ -190,6 +190,12 @@ Source: CRAN
 Version: 0.4.6-1
 Hash: 29eacc43b096c5b1a82c8d54a49b030b
 
+Package: pdftools
+Source: CRAN
+Version: 0.3
+Hash: db4b64b0aedd849c021e3bd5d9c50119
+Requires: Rcpp
+
 Package: praise
 Source: CRAN
 Version: 1.0.0

@@ -42,7 +42,7 @@ mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive",
 
 
 	#decide between interactive or given list
-	if(lims == "interactive" || lims == "i"){
+	if(lims == "interactive" | lims == "i"){
 		lims <- make.lim()
 	} else if(typeof(lims) == "character"){
 		stop("Please enter lims as a list or vector")
@@ -53,46 +53,8 @@ mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive",
 	  message("Using custom list...")
 	}
 
-
-	# system calls to format pdf
-	# assume if its in R then its already formatted
-	# assume iconv and sed are installed, mention this in the docs.
-
-	message("System calls...")
-
-
-	if(!local) {
-		system(paste0("pdftotext ", doc, " ", doc, ".txt"))
-		system(paste0("iconv -f WINDOWS-1252 -t UTF-8 ", doc, ".txt > ", doc, ".temp.txt"))
-		#note: doubled the \ here to make it work in R
-		system(paste0("sed -e $'s/\\\\\\./\\\\\\n/g' ", doc, ".temp.txt > ", doc, "txt"))
-		system(paste0("rm ", doc, ".temp.txt"))
-	}
-	#else if(local) {
-		#stop("Unhandled exception, see documentation.")
-	#} #else {
-	#	stop("Unhandled exception, see documentation.")
-	#}
-
-	# after formating, bring in to R
-	## note: need to chunk to handle larger documents
-
-	# def format call seperately
-	# combine types into one file (replaceExpressions.R)
-
-	# read in
-
-	message("Reading in input document and formatting...")
-
-	if(!local){
-		text <- paste0(doc, ".txt")
-		raw <- readLines(text, warn = F, encoding = "WINDOWS-1252")
-		raw <- iconv(raw,"WINDOWS-1252","UTF-8") #this might not be a silver bullet, check the encoding
-	}
-	#else if(local){
-	#	stop("unhandled excepton")
-	#}
-
+	raw <- pdf_text(doc)
+	
 	raw <- unlist(strsplit(raw, split = ".", fixed = TRUE))
 
 
