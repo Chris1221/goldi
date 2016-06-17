@@ -104,6 +104,12 @@ Version: 0.9
 Hash: cf338d73ba4ee3a4fefec612cdfd38db
 Requires: stringr
 
+Package: foreach
+Source: CRAN
+Version: 1.4.3
+Hash: cd53ef4cf29dc59ce3f8c5c1af735fd1
+Requires: iterators
+
 Package: formatR
 Source: CRAN
 Version: 1.4
@@ -130,6 +136,11 @@ Source: CRAN
 Version: 1.1.0
 Hash: 27ffb4b4dbb8ac4019126070d66910fc
 Requires: R6, curl, jsonlite, mime, openssl
+
+Package: iterators
+Source: CRAN
+Version: 1.0.8
+Hash: 488b93c2a4166db0d15f1e8d882cb1d4
 
 Package: jsonlite
 Source: CRAN
