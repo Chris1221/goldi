@@ -32,4 +32,4 @@ after_success:
   - Rscript -e 'covr::codecov()'
 
 git:
-  - submodules: false
+        submodules: false
