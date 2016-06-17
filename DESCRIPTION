@@ -1,23 +1,30 @@
 Package: mineR
 Type: Package
-Title: An R Package for Fuzzy Keyword Identification and Quantification in Natural Language
-Version: 0.1
+Title: An R Package for Fuzzy Keyword Identification and Quantification in
+    Natural Language
+Version: 0.1.1.9000
 Date: 2016-02-15
 Author: Christopher B. Cole
 Encoding: UTF-8
 Maintainer: Christopher B. Cole <chris.c.1221@gmail.com>
 Description: Blah
 Imports:
-	dplyr,
-	rmarkdown,
-	Rcpp,
-	tm,
-	SnowballC,
-	devtools
+    dplyr,
+    rmarkdown,
+    Rcpp,
+    tm,
+    SnowballC,
+    devtools,
+    pdftools
 Suggests:
-	wordcloud,
-	testthat
+    wordcloud,
+    testthat,
+    covr,
+    knitr,
+    rmarkdown
 License: GPS (>= 2) | file LICENSE
 BugReports: https://github.com/Chris1221/mineR/issues
 URL: https://github.com/Chris1221/mineR
 LazyData: TRUE
+RoxygenNote: 5.0.1
+VignetteBuilder: knitr

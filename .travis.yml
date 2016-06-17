@@ -8,6 +8,16 @@ env:
  global:
    - CRAN: http://cran.rstudio.com
 
+before_install:
+  - sudo apt-get -qq update
+  - sudo apt-get install -y xpdf
+
+addons:
+  apt:
+    packages:
+      - libwebp-dev
+      - libpoppler-cpp-dev
+
 r_binary_packages:
   - dplyr
   - rmarkdown
@@ -15,6 +25,9 @@ r_binary_packages:
   - tm
   - SnowballC
   - devtools
+
+r_github_packages:
+  - pdftools
 
 notifications:
   email:
@@ -26,3 +39,6 @@ r_github_packages:
 
 after_success:
   - Rscript -e 'covr::codecov()'
+
+git:
+        submodules: false

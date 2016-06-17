@@ -5,16 +5,27 @@
 #' @param doc document which will be mined for keywords as a file path (character()).
 #' @param terms list of newline seperated key phrases of varying lengths to be identified.
 #' @param local currently only F is supported.
-#' @param lims parameters for acceptance of identification (see FILL_IN)
+#' @param lims Number of identical (or synonymous) words which must be present in a sentence in order for it to be accepted. "interactive" is default and allows you to interavtively build your own list, but a list of n elements can be supplied where n is the largest term you wish to search for.
 #' @param output path to output file
 #' @param wd working directory if different than getwd()
 #' @param length maximum length of term in words that you would like to search for.
+#' @param syn TRUE if synonyms are to be used (also see syn.list), FALSE if no synonyms are to be used.
+#' @param syn.list LIST of synonyms to be used. First element of each list item is the word that will counted if any of the other elements of that list item are present.
+#' @param return.as.list Mostly used for testing, returns output as an R (character) object instead of writing to a file.
+#'
+#' @import tm
+#' @import Rcpp
+#' @import dplyr
+#' @import SnowballC
+#' @importFrom pdftools pdf_text
 #'
 #' @return A text document at wd/output if local == FALSE, or an R object if local == TRUE.
 #'
 #' @export
 
-mineR <- function(doc = character(), terms = character(), local = FALSE, lims = "interactive", output = character(), syn = FALSE, syn.list = NULL, length = 10, wd = getwd(), return.as.list = FALSE){
+mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive", output = NULL, syn = FALSE, syn.list = NULL, length = 10, wd = getwd(), return.as.list = FALSE, log = NULL){
+
+	if(!is.null(log)) sink("log.txt", append = TRUE, split = TRUE)
 
 	# error check input for missingness
 
@@ -34,7 +45,7 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 
 	#decide between interactive or given list
-	if(lims == "interactive" || lims == "i"){
+	if(lims == "interactive" | lims == "i"){
 		lims <- make.lim()
 	} else if(typeof(lims) == "character"){
 		stop("Please enter lims as a list or vector")
@@ -45,56 +56,8 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 	  message("Using custom list...")
 	}
 
-	# library calls quietly
-
-	message("Loading required libraries...")
-
-	library(Rcpp, quietly = T, verbose = F, warn.conflicts = F)
-	library(dplyr, quietly = T, verbose = F, warn.conflicts = F)
-	library(tm, quietly = T, verbose = F, warn.conflicts = F)
-	library(SnowballC, quietly = T, verbose = F, warn.conflicts = F)
-
-
-
-	# system calls to format pdf
-	# assume if its in R then its already formatted
-	# assume iconv and sed are installed, mention this in the docs.
-
-	message("System calls...")
-
-
-	if(!local) {
-		system(paste0("pdftotext ", doc, " ", doc, ".txt"))
-		system(paste0("iconv -f WINDOWS-1252 -t UTF-8 ", doc, ".txt > ", doc, ".temp.txt"))
-		#note: doubled the \ here to make it work in R
-		system(paste0("sed -e $'s/\\\\\\./\\\\\\n/g' ", doc, ".temp.txt > ", doc, "txt"))
-		system(paste0("rm ", doc, ".temp.txt"))
-	}
-	#else if(local) {
-		#stop("Unhandled exception, see documentation.")
-	#} #else {
-	#	stop("Unhandled exception, see documentation.")
-	#}
-
-	# after formating, bring in to R
-	## note: need to chunk to handle larger documents
-
-	# def format call seperately
-	# combine types into one file (replaceExpressions.R)
-
-	# read in
-
-	message("Reading in input document and formatting...")
-
-	if(!local){
-		text <- paste0(doc, ".txt")
-		raw <- readLines(text, warn = F, encoding = "WINDOWS-1252")
-		raw <- iconv(raw,"WINDOWS-1252","UTF-8") #this might not be a silver bullet, check the encoding
-	}
-	#else if(local){
-	#	stop("unhandled excepton")
-	#}
-
+	raw <- pdf_text(doc)
+	
 	raw <- unlist(strsplit(raw, split = ".", fixed = TRUE))
 
 
@@ -264,12 +227,20 @@ mineR <- function(doc = character(), terms = character(), local = FALSE, lims = 
 
 	message(paste0("Writing output to ", output))
 
-	if(!local){
+	if(!local && !return.as.list){
 		writeLines(as.character(terms), output, sep = "\n")
 	}
 
 
 	if(return.as.list) return(as.character(terms))
+
+
+
+	if(!is.null(log)){
+
+	cat(paste0("Session info: "))
+
+	}
 
 	# clean up
 	# system(paste0("cat .tmp/terms_all*.txt > out.txt"))
