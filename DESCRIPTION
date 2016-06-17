@@ -2,7 +2,7 @@ Package: mineR
 Type: Package
 Title: An R Package for Fuzzy Keyword Identification and Quantification in
     Natural Language
-Version: 0.1
+Version: 0.1.1.9000
 Date: 2016-02-15
 Author: Christopher B. Cole
 Encoding: UTF-8
