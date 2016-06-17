@@ -133,8 +133,8 @@ Requires: Rcpp, digest
 
 Package: httr
 Source: CRAN
-Version: 1.1.0
-Hash: 27ffb4b4dbb8ac4019126070d66910fc
+Version: 1.2.0
+Hash: cd5c30acde81117f6b9da436dffeaedf
 Requires: R6, curl, jsonlite, mime, openssl
 
 Package: iterators
@@ -144,8 +144,8 @@ Hash: 488b93c2a4166db0d15f1e8d882cb1d4
 
 Package: jsonlite
 Source: CRAN
-Version: 0.9.20
-Hash: 7c342f33735452ef1f1512af8bcca066
+Version: 0.9.22
+Hash: a465329f66afd33012e1aedfe5ba2e20
 
 Package: knitr
 Source: CRAN
@@ -155,8 +155,8 @@ Requires: digest, evaluate, formatR, highr, markdown, stringr, yaml
 
 Package: lazyeval
 Source: CRAN
-Version: 0.1.10
-Hash: 9679f1ac7f6bc07bc79755f34cd15e1f
+Version: 0.2.0
+Hash: 3d6e7608e65bbf5cb170dab1e3c9ed8b
 
 Package: magrittr
 Source: CRAN
@@ -226,8 +226,8 @@ Hash: f942db72a8f51e968b061f28058e2c57
 
 Package: slam
 Source: CRAN
-Version: 0.1-34
-Hash: ff38db4c0a970e38788f28a1a63c2742
+Version: 0.1-35
+Hash: 3f2ce71f0bb3247f5c3b74246db028ce
 
 Package: stringi
 Source: CRAN
