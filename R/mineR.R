@@ -17,7 +17,7 @@
 #' @import Rcpp
 #' @import dplyr
 #' @import SnowballC
-#' @import pdftools
+#' @importFrom pdftools pdf_text
 #'
 #' @return A text document at wd/output if local == FALSE, or an R object if local == TRUE.
 #'
