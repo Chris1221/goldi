@@ -23,7 +23,7 @@
 #'
 #' @export
 
-mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive", output = NULL, syn = FALSE, syn.list = NULL, length = 10, wd = getwd(), return.as.list = FALSE, log = NULL){
+mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive", output = NULL, syn = FALSE, syn.list = NULL, length = 10, wd = getwd(), return.as.list = FALSE, log = NULL, pdf_read = "R"){
 
 	if(!is.null(log)) sink("log.txt", append = TRUE, split = TRUE)
 
@@ -56,7 +56,48 @@ mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive",
 	  message("Using custom list...")
 	}
 
-	raw <- pdf_text(doc)
+	# Read the PDF in R through pdftools::pdf_text (this is probably fastest but does not handle 2 columns)
+	if(pdf_read == "R") raw <- pdf_text(doc)
+	# If the PDF is already converted, just read the txt
+	if(pdf_read == "txt") raw <- readLines(doc)
+	# If the PDF has two columns / is more complex, resort to external python calls
+	# Note that submodule will have to be init if the repo is cloned from github
+	# tarball should have it already Init, but check this to make sure.
+	if(pdf_read == "Py") {
+	
+		py <- system.file(package = "mineR", "pdfminer/tools/pdf2txt.py")
+		py_dir <- system.file(package = "mineR", "pdfminer")
+
+		# Error Chcecking
+		if(nchar(py) == 0) {
+	
+			warning("pdfminer is either missing or incorrectly configured.  Attempting to fix the issue but no promises.")
+			
+			if(system("git --version 2>&1 >/dev/null; echo $?", intern = TRUE, ignore.stderr = FALSE, ignore.stdout=FALSE) != "0") warning("git might not be properly installed either, but I'm going to try to use it anyway. You need it to initialize the subdirectory for the pythong pdfminer.")
+
+			# Is the directory empty? If so, git init the submodules
+		
+			if(length(list.files(py_dir)) == 0) system(paste0("git -C ", py_dir, " submodule init"))
+
+			# Check to see if it worked
+
+			if(length(list.files(py_dir)) == 0) stop("I was unable to fix the problem. Please either initialize the submodule yourself or raise an issue on Github to discuss the problem") 
+		}
+#		} else if(length(list.files(py_dir)) != 0 & nchar(py) == 0) {
+#
+#			warning("You seem to have the directory initialized but the pdf2txt.py is not present. I'm going to try to set up the python package for you.")
+#		
+#			status <- system(paste0("python ", py_dir, "/setup.py install 2>&1 >/dev/null; echo $?"), intern = TRUE)
+#
+#			if(status == "0") message("Set up of python pdfminer was successful!")
+#			if(status != "0") stop("Set up not succesful, please see online documentation or raise an issue on github.")
+#
+#
+#		}
+
+		raw <- system(paste(py, doc), intern = TRUE)
+
+	}
 	
 	raw <- unlist(strsplit(raw, split = ".", fixed = TRUE))
 
