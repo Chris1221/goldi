@@ -1,0 +1,31 @@
+---
+title: "Quick start guide"
+author: "Christopher B. Cole"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Quick start guide}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+To install
+
+```{R, eval = F}
+library(devtools)
+install_github("Chris1221/mineR")
+```
+
+For FAQ and tutorials, see the wiki. 
+
+A basic run would consist of
+
+```{R, eval = F}
+library(mineR)
+doc <- "my_file.pdf" #declare your input document
+terms <- "my_term_list.txt" #declare your term list
+
+mineR(doc = doc, terms = terms) #run the function
+```
+
+Any problems or questions should be [raised as issues](https://github.com/Chris1221/mineR/issues/new)

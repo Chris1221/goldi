@@ -1,0 +1,10 @@
+make.lim                Construct Constraint Limits for Fuzzy
+                        Identification
+make.syn                Construct synonym matrix for internal or
+                        external use
+mineR                   Text Miner
+replaceExpressions      Internal expression replacement with grep
+replaceExpressions.PlainTextDocument
+                        Internal expression replacement with grep
+replaceExpressions.character
+                        Internal expression replacement with grep

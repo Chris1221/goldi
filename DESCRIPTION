@@ -17,7 +17,6 @@ Imports:
     devtools,
     pdftools
 Suggests:
-    wordcloud,
     testthat,
     covr,
     knitr,
