@@ -14,3 +14,4 @@ BP_terms.txt
 .Rproj.user
 packrat/lib*/
 inst/doc
+inst/refs
