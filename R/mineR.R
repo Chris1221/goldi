@@ -23,7 +23,18 @@
 #'
 #' @export
 
-mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive", output = NULL, syn = FALSE, syn.list = NULL, length = 10, wd = getwd(), return.as.list = FALSE, log = NULL, pdf_read = "R"){
+mineR <- function(doc = NULL,
+		  terms = NULL,
+		  local = FALSE,
+		  lims = "interactive",
+		  output = NULL,
+		  syn = FALSE,
+		  syn.list = NULL,
+		  length = 10,
+		  wd = getwd(),
+		  return.as.list = FALSE,
+		  log = NULL,
+		  pdf_read = "R"){
 
 	if(!is.null(log)) sink("log.txt", append = TRUE, split = TRUE)
 

@@ -18,8 +18,22 @@ Type 'q()' to quit R.
 > library(testthat)
 > library(mineR)
 > 
-> test_dir("tests/testthat")
-Error in test_files(paths, reporter = reporter, env = env, ...) : 
-  No matching test file in dir
-Calls: test_dir -> test_files
+> test_check("mineR")
+1. Error: testing main function (@test-mineR.R#35) -----------------------------
+object 'syn.list' not found
+1: expect_equal(suppressMessages(mineR(doc = pdf2, terms = chunk, local = FALSE, length = length, 
+       output = "test.txt", syn = TRUE, lims = lims, syn.list = syn.list, return.as.list = TRUE)), 
+       out) at testthat/test-mineR.R:35
+2: compare(object, expected, ...)
+3: suppressMessages(mineR(doc = pdf2, terms = chunk, local = FALSE, length = length, 
+       output = "test.txt", syn = TRUE, lims = lims, syn.list = syn.list, return.as.list = TRUE))
+4: withCallingHandlers(expr, message = function(c) invokeRestart("muffleMessage"))
+5: mineR(doc = pdf2, terms = chunk, local = FALSE, length = length, output = "test.txt", 
+       syn = TRUE, lims = lims, syn.list = syn.list, return.as.list = TRUE)
+
+testthat results ================================================================
+OK: 1 SKIPPED: 0 FAILED: 1
+1. Error: testing main function (@test-mineR.R#35) 
+
+Error: testthat unit tests failed
 Execution halted

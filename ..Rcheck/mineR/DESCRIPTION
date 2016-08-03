@@ -16,4 +16,4 @@ URL: https://github.com/Chris1221/mineR
 LazyData: TRUE
 RoxygenNote: 5.0.1
 VignetteBuilder: knitr
-Built: R 3.2.3; ; 2016-07-13 14:04:25 UTC; unix
+Built: R 3.2.3; ; 2016-07-13 14:35:45 UTC; unix
