@@ -1,0 +1,4 @@
+PKG_LIBS= -Wsign-compare -llapack
+PKG_CXXFLAGS=-I../inst/include -DARMA_64BIT_WORD
+CXX_STD = CXX11
+
