@@ -4,9 +4,9 @@
 \alias{mineR}
 \title{Text Miner}
 \usage{
-mineR(doc = NULL, terms = NULL, local = FALSE, lims = "interactive",
-  output = NULL, syn = FALSE, syn.list = NULL, length = 10,
-  wd = getwd(), return.as.list = FALSE, log = NULL, pdf_read = "R")
+mineR(doc, terms, local = FALSE, lims = "interactive", output,
+  syn = FALSE, syn.list = NULL, length = 10, wd = getwd(),
+  return.as.list = FALSE, log = NULL, pdf_read = "local")
 }
 \arguments{
 \item{doc}{document which will be mined for keywords as a file path (character()).}

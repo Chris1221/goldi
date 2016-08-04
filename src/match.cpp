@@ -7,7 +7,7 @@ using namespace arma;
 
 //' @export
 // [[Rcpp::export]]
-arma::umat gen_cor(arma::uvec term_vector, arma::vec terms, arma::vec sentences, arma::mat pdf_tdm, arma::mat term_tdm, arma::vec thresholds) {
+arma::umat match(arma::uvec term_vector, arma::vec terms, arma::vec sentences, arma::mat pdf_tdm, arma::mat term_tdm, arma::vec thresholds) {
 
   //	Inputs:
   //
@@ -31,6 +31,9 @@ arma::umat gen_cor(arma::uvec term_vector, arma::vec terms, arma::vec sentences,
   //
 
   // 	Loop through each term in turn:
+	
+  // 	Set up output vector outside of loop space.
+	arma::umat out;
 
 	for(uword i = 0; i < terms.n_elem; i++){
 	
