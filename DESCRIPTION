@@ -12,6 +12,7 @@ Imports:
     dplyr,
     rmarkdown,
     Rcpp,
+    RcppArmadillo,
     tm,
     SnowballC,
     devtools,

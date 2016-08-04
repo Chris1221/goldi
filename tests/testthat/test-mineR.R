@@ -8,6 +8,6 @@ assign("doc", system.file("extdata", "parkinson_mitochondria.pdf", package = "mi
 
 
 test_that("testing main function", {
-	expect_equal(suppressMessages(mineR(doc = pdf2, terms = chunk, local = FALSE, length = length, output = "test.txt", syn = TRUE, lims = test_lim, syn.list =syn.list, log = log, return.as.list = TRUE)), out)
+	expect_equal(suppressMessages(mineR(doc = doc, terms = terms, local = FALSE, length = length, output = "test.txt", syn = TRUE, lims = test_lim, syn.list =syn.list, log = log, return.as.list = TRUE)), out)
 })
 

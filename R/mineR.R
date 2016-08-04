@@ -40,7 +40,7 @@ mineR <- function(doc,
 	# Start timer
 	ptm <- proc.time()
 
-	# Creating header for log file. 
+	# Creating header for log file.
 	pv <- packageVersion("mineR")
 
 	header <- paste0(
@@ -52,7 +52,7 @@ mineR <- function(doc,
 | ---------------------------------------------------- |
 |  For documentation, citation, bug reports, and more: |
 |          http://github.com/Chris1221/mineR           |
-@ ---------------------------------------------------- @ 
+@ ---------------------------------------------------- @
 
 For your reference, here is a list of your input options:
 
@@ -66,25 +66,25 @@ For your reference, here is a list of your input options:
 	wd:", capture.output(dput(wd)), "
 	return.as.list:", capture.output(dput(return.as.list)), "
 	log:", capture.output(dput(log)), "
-	pdf_read:", capture.output(dput(pdf_read))," 
+	pdf_read:", capture.output(dput(pdf_read)),"
 
 To recreate this exact run at a later date, you may reinput these options.
 
-Note that any interactively created lists may be saved and inputed. 
+Note that any interactively created lists may be saved and inputed.
 
 ")
-	
+
 
 
 	# --------------------- BEGIN FUNCTION -------------------------------------- #
 
 	# 	Start by defining the logging appender, if provided.
 	# 		If the logger is a character, this indicates that the user
-	# 		has provided a file path. Write to it. 
-	
+	# 		has provided a file path. Write to it.
+
 	if(typeof(log) == "character") {
-		cat(header, file = log, append = TRUE)	
-		futile.logger::appender.file(log)	
+		cat(header, file = log, append = TRUE)
+		futile.logger::appender.file(log)
 		flog.info("Logging has been enabled. Logging to file `%s`", log)
 	}
 
@@ -94,29 +94,29 @@ Note that any interactively created lists may be saved and inputed.
 	#		then allow them to build it interactively using the make.lim() function.
 	#
 	#		If the user has provided a character string for the lims, they have misunderstood
-	#		the input format, and must enter it as a vector or a list. 
-	#		
+	#		the input format, and must enter it as a vector or a list.
+	#
 	#		Try to coerce into list anyway if given as vector or a vector of doubled.
 	#
-	#		If the user has correctly entered the limits as a list, log the list and 
-	#		
+	#		If the user has correctly entered the limits as a list, log the list and
+	#
 
 	if(lims == "interactive" || lims == "i"){
 		lims <- make.lim()
 	} else if(typeof(lims) == "character"){
-	
+
 		stop()
 		flog.fatal("Improper limit input. Please see the documentation and try again.")
-	
+
 	} else if(typeof(lims) == "vector" || typeof(lims) == "double"){
-		
-		lims <- as.list(lims)	
+
+		lims <- as.list(lims)
 
 		flog.warn("Trying to coerce limits to list format.")
 		flog.info("Printing your lims to log file. You can use this to recreate your list later:")
-	
+
 		flog.info("%s", capture.output(dput(lims)))
-	
+
 	#	Print to log if it is being used
 	#		For some strange reason there is no append option in dput
 	#		So for now just sink it.
@@ -132,7 +132,7 @@ Note that any interactively created lists may be saved and inputed.
 
 
 	} else if(typeof(lims) == "list"){
-			
+
 		flog.info("Using custom list.")
 		flog.info("Printing out your list now. You can use this later")
 
@@ -157,17 +157,17 @@ Note that any interactively created lists may be saved and inputed.
 	# 	Read the PDF in R through pdftools::pdf_text (this is probably fastest but does not handle 2 columns)
 	# 		If need two column, need to use "py".
 	if(pdf_read == "R") raw <- pdf_text(doc); flog.info("Reading in input through pdftools::pdf_text. If you get any warnings, see their documentation.")
-	
+
 	#	If the PDF is already converted, just read the txt
-	#		This is best for power users who want to convert beforehand 
+	#		This is best for power users who want to convert beforehand
 	#		and check QC.
 	if(pdf_read == "txt") raw <- readLines(doc); flog.info("Reading in input through base::readLines.")
-	
+
 	# 	If the PDF has two columns / is more complex, resort to external python calls
 	# 		Note that submodule will have to be init if the repo is cloned from github
 	# 		tarball should have it already Init, but check this to make sure.
 	if(pdf_read == "Py") {
-	
+
 		flog.info("Reading in input through pdfminer. This might not work; you might have to download it yourself, then read in input through txt options.")
 
 	#	Try to find the pdf2txt python program
@@ -177,32 +177,32 @@ Note that any interactively created lists may be saved and inputed.
 
 	# 	Error Chcecking
 		if(nchar(py) == 0) {
-	
+
 			flog.warn("pdfminer is either missing or incorrectly configured.  Attempting to fix the issue but no promises.")
-			
+
 			if(system("git --version 2>&1 >/dev/null; echo $?", intern = TRUE, ignore.stderr = FALSE, ignore.stdout=FALSE) != "0") warning("git might not be properly installed either, but I'm going to try to use it anyway. You need it to initialize the subdirectory for the pythong pdfminer.")
 
 			# Is the directory empty? If so, git init the submodules
-		
+
 			if(length(list.files(py_dir)) == 0) system(paste0("git -C ", py_dir, " submodule init"))
 
 			# Check to see if it worked
 
 			if(length(list.files(py_dir)) == 0) stop(); flog.fatal("I was unable to fix the problem. Please either initialize the submodule yourself or raise an issue on Github to discuss the problem")
 		}
-	
-	#	Abandon this for now. 
+
+	#	Abandon this for now.
 	#		Maybe try to fix later.
-	
+
 		#} else if(length(list.files(py_dir)) != 0 & nchar(py) == 0) {
 
 		#warning("You seem to have the directory initialized but the pdf2txt.py is not present. I'm going to try to set up the python package for you.")
-		
+
 		#status <- system(paste0("python ", py_dir, "/setup.py install 2>&1 >/dev/null; echo $?"), intern = TRUE)
 
 		#if(status == "0") message("Set up of python pdfminer was successful!")
 		#if(status != "0") stop("Set up not succesful, please see online documentation or raise an issue on github.")
-	
+
 		#}
 
 	# Read in through PDFminer
@@ -211,7 +211,7 @@ Note that any interactively created lists may be saved and inputed.
 	}
 
 	if(pdf_read == "local") raw <- doc
-	
+
 
 	# Perform Quality control on input and create term document matrix.
 	raw <- unlist(strsplit(raw, split = ".", fixed = TRUE))
@@ -219,6 +219,8 @@ Note that any interactively created lists may be saved and inputed.
 
 	doc.vec <- VectorSource(raw)
 	doc.corpus <- Corpus(doc.vec)
+
+	sentences <- unlist(doc.vec[5][[1]])
 
 	flog.info("Quality control and constructing TDM...")
 
@@ -251,14 +253,14 @@ Note that any interactively created lists may be saved and inputed.
 
 	#	Read in the terms through R
 	#		Note that later, we should make this more flexible.
-	
+
 	if(!local){
 
 	  raw_go <- readLines(paste0(terms), skipNul = T)
 
 	}
 
-	
+
 	#	Perform the same quality control on the terms that was done on the PDF.
 
 	flog.info("Reading in of term list successful")
@@ -284,7 +286,7 @@ Note that any interactively created lists may be saved and inputed.
 	TermDocumentMatrix(doc.corpus) %>% as.matrix() %>% as.data.frame() -> TDM.go.df
 
 	#	Make the headers of the data frame the same as the terms
-	
+
 	sub <- gsub(" ", "_", x = raw_go)
 	sub <- gsub("-", "_", x = sub)
 
@@ -316,23 +318,23 @@ Note that any interactively created lists may be saved and inputed.
 	if(syn){
 
 	#	If the user has not provided a syn list (i.e. it defaulted to NULL)
-	#		but has set syn to TRUE, allow them to construct a list 
+	#		but has set syn to TRUE, allow them to construct a list
 	#		using the inbuilt function.
 
 		if(is.null(syn.list)){
-			
+
 			flog.info("Please follow the instructions to create your synonym list.")
 			syn.list <- make.syn(T)
-		
+
 		} else if(!is.null(syn.list)){
-			
+
 	#	If the syn list is already a list, assume that it is properly formated
 	#		and accept it as the synonym list.
 
 			if(typeof(syn.list) == "list"){
-			
-				flog.info("Using already existing synonym list.")		
-			
+
+				flog.info("Using already existing synonym list.")
+
 			} else {
 				flog.fatal("You have provided a synonym list, but it is not formated as a base::list(). Please reformat it correctly, or see the documentation for examples.")
 				stop()
@@ -341,7 +343,7 @@ Note that any interactively created lists may be saved and inputed.
 
 	#	Read in synonyms as corpus.
 	#		Performing the same QC as performed on the other two sections
-	
+
 		flog.info("Performing QC on synonyms")
 
 		syn.corp <- VectorSource(syn.list)
@@ -355,7 +357,7 @@ Note that any interactively created lists may be saved and inputed.
 		syn.corp <- tm_map(syn.corp, stemDocument)
 		syn.corp <- tm_map(syn.corp, stripWhitespace)
 
-	
+
 	# 	Find the first synonym.
 	#		This should REALLY be implimented in CPP.
 
@@ -378,13 +380,13 @@ Note that any interactively created lists may be saved and inputed.
 		merge(x = TDM.go.df, y = TDM.df, by = 'row.names') -> out
 
 	#	If there is more than one of a word in a sentence, set it just to one.
-	
+
 		out[out == 1 | out == 2 | out == 3 | out == 4 | out == 5] <- 1
 
 		terms <- list()
 
 	} else if(!syn){
-		
+
 		flog.info("No synonyms selected")
 
 	#	No change in this
@@ -402,13 +404,25 @@ Note that any interactively created lists may be saved and inputed.
 
 
 	# ------------------------ MATCHING TERMS --------------------------- #
-	# 
+	#
 	#	In this section, we take the terms and the PDF, find their intersection
 	#		and identify how many of the terms cooccur in a given sentence.
 	#
-	#	This is the slowest portion of the program, and is being rewritten in 
+	#	This is the slowest portion of the program, and is being rewritten in
 	#		c++11 to improve performance.
-	
+
+	#   Return the vector of where each term is in the OUT data frame
+	#     by column.
+  term_vector <- which(colnames(out) %in% colnames(TDM.go.df))
+
+  input_pdf_tdm <- as.matrix(out)
+  input_term_tdm <- as.matrix(out)
+
+  terms <- colnames(TDM.go.df)
+
+  # This is earlier in the code, but just to remember this is what it is
+# sentences <- unlist(doc.vec[5][[1]])
+
 
 	#	For each column, grab all PDF sentence and put in out.test
 
@@ -419,7 +433,7 @@ Note that any interactively created lists may be saved and inputed.
 	#	Get row sums of this term per PDF sentence
 
 		row <- sum(TDM.go.df[,name] != 0)
-		sums <- colSums(out.test) 
+		sums <- colSums(out.test)
 
 	    for(i in 1:length(lims)){
 	    	if(row == i){
@@ -431,7 +445,7 @@ Note that any interactively created lists may be saved and inputed.
 
 	}
 
-	
+
 	flog.info("Writing output to %s", output)
 
 	time <- proc.time() - ptm
@@ -447,6 +461,6 @@ Note that any interactively created lists may be saved and inputed.
 
 
 	if(return.as.list) return(as.character(terms))
-	
+
 
 }
