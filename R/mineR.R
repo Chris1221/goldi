@@ -396,7 +396,7 @@ Note that any interactively created lists may be saved and inputed.
 	# 		Just for simplicity
 		out[out == 1 | out == 2 | out == 3 | out == 4 | out == 5] <- 1
 
-		terms <- list()
+		#terms <- list()
 
 	}
 
@@ -426,14 +426,17 @@ Note that any interactively created lists may be saved and inputed.
 
 	#	For each column, grab all PDF sentence and put in out.test
 
+  # Flush terms before using it again.
+  terms <- list()
 	for(name in colnames(TDM.go.df)){
 
-		out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(matches("PDF_Sentence_*")) -> out.test
+		out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(starts_with("PDF_Sentence_")) -> out.test
 
 	#	Get row sums of this term per PDF sentence
 
 		row <- sum(TDM.go.df[,name] != 0)
 		sums <- colSums(out.test)
+
 
 	    for(i in 1:length(lims)){
 	    	if(row == i){
