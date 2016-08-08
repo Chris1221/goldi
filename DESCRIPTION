@@ -17,7 +17,8 @@ Imports:
     tm,
     SnowballC,
     devtools,
-    pdftools
+    pdftools,
+    futile.logger
 Suggests:
     testthat,
     covr,
