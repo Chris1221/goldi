@@ -18,53 +18,211 @@
 #' @import dplyr
 #' @import SnowballC
 #' @importFrom pdftools pdf_text
+#' @import futile.logger
 #'
 #' @return A text document at wd/output if local == FALSE, or an R object if local == TRUE.
 #'
 #' @export
 
-mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive", output = NULL, syn = FALSE, syn.list = NULL, length = 10, wd = getwd(), return.as.list = FALSE, log = NULL){
+mineR <- function(doc,
+		  terms,
+		  local = FALSE,
+		  lims = "interactive",
+		  output,
+		  syn = FALSE,
+		  syn.list = NULL,
+		  length = 10,
+		  wd = getwd(),
+		  return.as.list = FALSE,
+		  log = NULL,
+		  pdf_read = "local"){
 
-	if(!is.null(log)) sink("log.txt", append = TRUE, split = TRUE)
+	# Start timer
+	ptm <- proc.time()
 
-	# error check input for missingness
+	# Creating header for log file.
+	pv <- packageVersion("mineR")
 
-  message("Checking format of input variables...")
+	header <- paste0(
 
-	if(is.null(doc)){
-		stop("Please input a file path (local = FALSE) or R object (local = TRUE) as your input object.")
-	} else if(is.null(terms)){
-		stop("Please input a file path (local = FALSE) or R object (local = TRUE) as your list of terms.")
-	} else if(is.null(local)){
-		stop("Please indicate whether you will specify file paths (FALSE) or R objects (TRUE)")
-	} else if(is.null(lims)){
-		stop("Please specify limits as a list or use the inbuilt function for limit construction")
-	} else if(is.null(output)){
-		stop("Please specify output file path")
+"@------------------------------------------------------@
+|     mineR     |     v",pv,"     |   3/Aug/2016   |
+| ---------------------------------------------------- |
+|         (C) Christopher B. Cole, MIT License         |
+| ---------------------------------------------------- |
+|  For documentation, citation, bug reports, and more: |
+|          http://github.com/Chris1221/mineR           |
+@ ---------------------------------------------------- @
+
+For your reference, here is a list of your input options:
+
+	terms:", capture.output(dput(terms)), "
+	local:", capture.output(dput(local)), "
+	lims:", capture.output(dput(lims)), "
+	output:", capture.output(dput(output)), "
+	syn:", capture.output(dput(syn)), "
+	syn.list:", capture.output(dput(syn.list)), "
+	length:", capture.output(dput(length)), "
+	wd:", capture.output(dput(wd)), "
+	return.as.list:", capture.output(dput(return.as.list)), "
+	log:", capture.output(dput(log)), "
+	pdf_read:", capture.output(dput(pdf_read)),"
+
+To recreate this exact run at a later date, you may reinput these options.
+
+Note that any interactively created lists may be saved and inputed.
+
+")
+
+
+
+	# --------------------- BEGIN FUNCTION -------------------------------------- #
+
+	# 	Start by defining the logging appender, if provided.
+	# 		If the logger is a character, this indicates that the user
+	# 		has provided a file path. Write to it.
+
+	if(typeof(log) == "character") {
+		cat(header, file = log, append = TRUE)
+		futile.logger::appender.file(log)
+		flog.info("Logging has been enabled. Logging to file `%s`", log)
 	}
 
 
-	#decide between interactive or given list
-	if(lims == "interactive" | lims == "i"){
+	#	Decide on thresholds (limits) to be used as cut off.
+	#		If the user has left the section blank, or has specified interaction
+	#		then allow them to build it interactively using the make.lim() function.
+	#
+	#		If the user has provided a character string for the lims, they have misunderstood
+	#		the input format, and must enter it as a vector or a list.
+	#
+	#		Try to coerce into list anyway if given as vector or a vector of doubled.
+	#
+	#		If the user has correctly entered the limits as a list, log the list and
+	#
+
+	if(lims == "interactive" || lims == "i"){
 		lims <- make.lim()
 	} else if(typeof(lims) == "character"){
-		stop("Please enter lims as a list or vector")
+
+		stop()
+		flog.fatal("Improper limit input. Please see the documentation and try again.")
+
 	} else if(typeof(lims) == "vector" || typeof(lims) == "double"){
+
 		lims <- as.list(lims)
-		message("Using alternate format for list...")
+
+		flog.warn("Trying to coerce limits to list format.")
+		flog.info("Printing your lims to log file. You can use this to recreate your list later:")
+
+		flog.info("%s", capture.output(dput(lims)))
+
+	#	Print to log if it is being used
+	#		For some strange reason there is no append option in dput
+	#		So for now just sink it.
+	#	if(typeof(log) == "character") {
+	#		sink(log, append = TRUE)
+	#		dput(lims, file = log)
+	#		sink()
+	#	}
+	#	Else if print to std out.
+	#	if(typeof(log) != "character"){
+	#		dput(lims)
+	#	}
+
+
 	} else if(typeof(lims) == "list"){
-	  message("Using custom list...")
+
+		flog.info("Using custom list.")
+		flog.info("Printing out your list now. You can use this later")
+
+		flog.info("%s", capture.output(dput(lims)))
+	#       Print to log if it is being used
+        #               For some strange reason there is no append option in dput
+        #               So for now just sink it.
+        #        if(typeof(log) == "character") {
+        #                sink(log, append = TRUE)
+        #                dput(lims, file = log)
+        #                sink()
+        #        }
+        #       Else if print to std out.
+        #        if(typeof(log) != "character"){
+        #                dput(lims)
+        #        }
 	}
 
-	raw <- pdf_text(doc)
-	
+
+	# ---------------------- READING IN INPUT ----------------------------------- #
+	#
+	# 	Read the PDF in R through pdftools::pdf_text (this is probably fastest but does not handle 2 columns)
+	# 		If need two column, need to use "py".
+	if(pdf_read == "R") raw <- pdf_text(doc); flog.info("Reading in input through pdftools::pdf_text. If you get any warnings, see their documentation.")
+
+	#	If the PDF is already converted, just read the txt
+	#		This is best for power users who want to convert beforehand
+	#		and check QC.
+	if(pdf_read == "txt") raw <- readLines(doc); flog.info("Reading in input through base::readLines.")
+
+	# 	If the PDF has two columns / is more complex, resort to external python calls
+	# 		Note that submodule will have to be init if the repo is cloned from github
+	# 		tarball should have it already Init, but check this to make sure.
+	if(pdf_read == "Py") {
+
+		flog.info("Reading in input through pdfminer. This might not work; you might have to download it yourself, then read in input through txt options.")
+
+	#	Try to find the pdf2txt python program
+	#		Also try to find the directory for trouble shooting.
+		py <- system.file(package = "mineR", "pdfminer/tools/pdf2txt.py")
+		py_dir <- system.file(package = "mineR", "pdfminer")
+
+	# 	Error Chcecking
+		if(nchar(py) == 0) {
+
+			flog.warn("pdfminer is either missing or incorrectly configured.  Attempting to fix the issue but no promises.")
+
+			if(system("git --version 2>&1 >/dev/null; echo $?", intern = TRUE, ignore.stderr = FALSE, ignore.stdout=FALSE) != "0") warning("git might not be properly installed either, but I'm going to try to use it anyway. You need it to initialize the subdirectory for the pythong pdfminer.")
+
+			# Is the directory empty? If so, git init the submodules
+
+			if(length(list.files(py_dir)) == 0) system(paste0("git -C ", py_dir, " submodule init"))
+
+			# Check to see if it worked
+
+			if(length(list.files(py_dir)) == 0) stop(); flog.fatal("I was unable to fix the problem. Please either initialize the submodule yourself or raise an issue on Github to discuss the problem")
+		}
+
+	#	Abandon this for now.
+	#		Maybe try to fix later.
+
+		#} else if(length(list.files(py_dir)) != 0 & nchar(py) == 0) {
+
+		#warning("You seem to have the directory initialized but the pdf2txt.py is not present. I'm going to try to set up the python package for you.")
+
+		#status <- system(paste0("python ", py_dir, "/setup.py install 2>&1 >/dev/null; echo $?"), intern = TRUE)
+
+		#if(status == "0") message("Set up of python pdfminer was successful!")
+		#if(status != "0") stop("Set up not succesful, please see online documentation or raise an issue on github.")
+
+		#}
+
+	# Read in through PDFminer
+		raw <- system(paste(py, doc), intern = TRUE)
+
+	}
+
+	if(pdf_read == "local") raw <- doc
+
+
+	# Perform Quality control on input and create term document matrix.
 	raw <- unlist(strsplit(raw, split = ".", fixed = TRUE))
 
 
 	doc.vec <- VectorSource(raw)
 	doc.corpus <- Corpus(doc.vec)
 
-	message("Quality control and constructing TDM...")
+	sentences <- unlist(doc.vec[5][[1]])
+
+	flog.info("Quality control and constructing TDM...")
 
 	doc.corpus <- tm_map(doc.corpus, content_transformer(tolower), mc.cores = 1)
 	doc.corpus <- tm_map(doc.corpus, content_transformer(replaceExpressions), mc.cores = 1)
@@ -88,15 +246,25 @@ mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive",
 
 	TDM.df %>% select(words,counts) -> freq.table
 
-	message("Reading in term list and formatting...")
+	flog.info("Constuction of PDF TDM succesful.")
+
+	flog.info("Reading in term list and formatting.")
+	flog.info("Note that we are only currently supporting text input for the term list.")
+
+	#	Read in the terms through R
+	#		Note that later, we should make this more flexible.
 
 	if(!local){
 
 	  raw_go <- readLines(paste0(terms), skipNul = T)
 
-	} #else if(local){
-	#	stop("Unhandled excpetion, see documentation.")
-	#}
+	}
+
+
+	#	Perform the same quality control on the terms that was done on the PDF.
+
+	flog.info("Reading in of term list successful")
+	flog.info("Performing quality control for term list")
 
 	raw_go <- iconv(raw_go,"WINDOWS-1252","UTF-8") #this might not be a silver bullet, check the encoding
 	raw_go <- raw_go[which(raw_go!="")]
@@ -105,7 +273,7 @@ mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive",
 	doc.corpus <- Corpus(doc.vec)
 	raw.corpus <- doc.corpus # for use later
 
-	message("Quality control and constructing TDM...")
+	flog.info("Constructing TDM for term list")
 
 	doc.corpus <- tm_map(doc.corpus, content_transformer(tolower), mc.cores = 1)
 	doc.corpus <- tm_map(doc.corpus, content_transformer(replaceExpressions), mc.cores = 1)
@@ -117,14 +285,15 @@ mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive",
 
 	TermDocumentMatrix(doc.corpus) %>% as.matrix() %>% as.data.frame() -> TDM.go.df
 
-	#make the headers of the data frame the same as the terms
+	#	Make the headers of the data frame the same as the terms
+
 	sub <- gsub(" ", "_", x = raw_go)
 	sub <- gsub("-", "_", x = sub)
 
 	colnames(TDM.go.df) <- sub
 
 
-	## when subsetting, picking up terms with numbers AND actual sentences, so changing col names to be easily subsetable
+	#	 When subsetting, picking up terms with numbers AND actual sentences, so changing col names to be easily subsetable
 
 	TDM.df$words <- NULL
 	TDM.df$counts <- NULL
@@ -135,24 +304,48 @@ mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive",
 	# out[out == 1 | out == 2 | out == 3 | out == 4 | out == 5] <- 1
 	# terms <- list()
 
-	####### Synonym recognition here ########
+	flog.info("Term TDM construction successful")
 
-	### note this isnt incorpoaroated yet, see issue #8
+	# ---------------------- Synonym recognition here --------------------- #
 
-	if(syn){ # if the user wants synonyns
+	#	Looking for synonyms from the synonym list
+	#		This should really be done in cpp, given enough time.
 
-		# check if user provided syn list
+	flog.info("Incorporating synonyms")
+
+	#	If the user has provided syn == TRUE, then enter into the synonym cycle.
+	#		If not, bypass it entirely.
+	if(syn){
+
+	#	If the user has not provided a syn list (i.e. it defaulted to NULL)
+	#		but has set syn to TRUE, allow them to construct a list
+	#		using the inbuilt function.
+
 		if(is.null(syn.list)){
+
+			flog.info("Please follow the instructions to create your synonym list.")
 			syn.list <- make.syn(T)
+
 		} else if(!is.null(syn.list)){
+
+	#	If the syn list is already a list, assume that it is properly formated
+	#		and accept it as the synonym list.
+
 			if(typeof(syn.list) == "list"){
-			# syn list stays as is
+
+				flog.info("Using already existing synonym list.")
+
 			} else {
-				stop("Please enter syn.list as a list")
+				flog.fatal("You have provided a synonym list, but it is not formated as a base::list(). Please reformat it correctly, or see the documentation for examples.")
+				stop()
 			}
 		}
 
-		# read in as corpus
+	#	Read in synonyms as corpus.
+	#		Performing the same QC as performed on the other two sections
+
+		flog.info("Performing QC on synonyms")
+
 		syn.corp <- VectorSource(syn.list)
 		syn.corp <- Corpus(syn.corp)
 
@@ -164,8 +357,11 @@ mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive",
 		syn.corp <- tm_map(syn.corp, stemDocument)
 		syn.corp <- tm_map(syn.corp, stripWhitespace)
 
-	#now find the first
-		#for long synonym lists this would be REAAAALLLY slow
+
+	# 	Find the first synonym.
+	#		This should REALLY be implimented in CPP.
+
+		flog.info("Matching synonyms.")
 
 		for(i in 1:ncol(TDM.df)){
   		for(j in 1:length(syn.corp)){
@@ -183,36 +379,64 @@ mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive",
 
 		merge(x = TDM.go.df, y = TDM.df, by = 'row.names') -> out
 
+	#	If there is more than one of a word in a sentence, set it just to one.
+
 		out[out == 1 | out == 2 | out == 3 | out == 4 | out == 5] <- 1
 
 		terms <- list()
 
 	} else if(!syn){
 
-		#no change in this
+		flog.info("No synonyms selected")
+
+	#	No change in this
 		merge(x = TDM.go.df, y = TDM.df, by = 'row.names') -> out
 
-			# if word happens more than once jsut count it as once
-			# jsut for simplicity
+	# 	Ff word happens more than once jsut count it as once
+	# 		Just for simplicity
 		out[out == 1 | out == 2 | out == 3 | out == 4 | out == 5] <- 1
 
-		terms <- list()
+		#terms <- list()
 
 	}
 
-	message("Matching terms...")
+	flog.info("Matching terms")
 
+
+	# ------------------------ MATCHING TERMS --------------------------- #
+	#
+	#	In this section, we take the terms and the PDF, find their intersection
+	#		and identify how many of the terms cooccur in a given sentence.
+	#
+	#	This is the slowest portion of the program, and is being rewritten in
+	#		c++11 to improve performance.
+
+	#   Return the vector of where each term is in the OUT data frame
+	#     by column.
+  term_vector <- which(colnames(out) %in% colnames(TDM.go.df))
+
+  input_pdf_tdm <- as.matrix(out)
+  input_term_tdm <- as.matrix(out)
+
+  terms <- colnames(TDM.go.df)
+
+  # This is earlier in the code, but just to remember this is what it is
+# sentences <- unlist(doc.vec[5][[1]])
+
+
+	#	For each column, grab all PDF sentence and put in out.test
+
+  # Flush terms before using it again.
+  terms <- list()
 	for(name in colnames(TDM.go.df)){
 
-		# going to have to add in another step here
-		# maybe only have to alter this?????
-	  	out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(matches("PDF_Sentence_*")) -> out.test
+		out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(starts_with("PDF_Sentence_")) -> out.test
 
-		# this shouldnt change
-	    row <- sum(TDM.go.df[,name] != 0) # n words in term
+	#	Get row sums of this term per PDF sentence
 
-		# will need to alter this to add in the syns !!!! #
-	    sums <- colSums(out.test) # n words from go.df that match
+		row <- sum(TDM.go.df[,name] != 0)
+		sums <- colSums(out.test)
+
 
 	    for(i in 1:length(lims)){
 	    	if(row == i){
@@ -225,31 +449,21 @@ mineR <- function(doc = NULL, terms = NULL, local = FALSE, lims = "interactive",
 	}
 
 
-	message(paste0("Writing output to ", output))
+	flog.info("Writing output to %s", output)
+
+	time <- proc.time() - ptm
+	flog.info("This run took approximately %s seconds.", round(as.double(time[3]), 3))
+
+	flog.fatal("Everything was successful. Ending logging now. Have a nice day.")
 
 	if(!local && !return.as.list){
+
+		flog.info("Returning as List, either for internal use or for testing.")
 		writeLines(as.character(terms), output, sep = "\n")
 	}
 
 
 	if(return.as.list) return(as.character(terms))
 
-
-
-	if(!is.null(log)){
-
-	cat(paste0("Session info: "))
-
-	}
-
-	# clean up
-	# system(paste0("cat .tmp/terms_all*.txt > out.txt"))
-	# system("rm -rf .tmp/")
-	# system(paste0("rm ", doc, ".txt ", basename(doc), ".temp.txt"))
-
-  #TEMPORARY
-	#TDM.df <<- TDM.df
-	#out <<- out
-	#syn.corp <<- syn.corp
 
 }

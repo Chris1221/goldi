@@ -1,3 +1,6 @@
 [submodule "inst/mineR_paper"]
 	path = inst/mineR_paper
 	url = https://github.com/Chris1221/mineR_paper.git
+[submodule "inst/pdfminer"]
+	path = inst/pdfminer
+	url = https://github.com/euske/pdfminer.git

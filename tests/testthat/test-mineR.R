@@ -2,28 +2,17 @@ context("Test the main function")
 library(mineR)
 #declare test variables
 
+assign("terms", system.file("extdata", "pdf_chunk_1.txt", package = "mineR"), envir = .GlobalEnv)
 
-lim <- list()
-	for(i in 1:10){
-	lim[[i]] <- i
-}
+assign("doc", system.file("extdata", "parkinson_mitochondria.pdf", package = "mineR"), envir = .GlobalEnv)
 
-assign("chunk", system.file("extdata", "pdf_chunk_1.txt", package = "mineR"), envir = .GlobalEnv)
-
-assign("pdf2", system.file("extdata", "parkinson_mitochondria.pdf", package = "mineR"), envir = .GlobalEnv)
-
-assign("lim", lim, env = .GlobalEnv)
-doc <- pdf2
-terms <- chunk
-local = FALSE
-output = "test.txt"
 length = 10
 
-lims <- list(1L, 2L, 3L, 4L, 5L, 6L, 7L, 8L, 9L)
-syn.list = list(c("abba", "research"))
-return.as.list <- TRUE
+lims <- list(1L, 1L, 3L, 4L, 5L, 6L, 7L, 8L, 9L)
 
-#test_that("testing main function", {
-#	expect_equal(suppressMessages(mineR(doc = pdf2, terms = chunk, local = FALSE, length = length, output = "test.txt", syn = TRUE, lims = lims, syn.list =syn.list, return.as.list = TRUE)), "nucleotide_binding 1")
-#})
+log = "/dev/null"
+
+test_that("testing main function", {
+	expect_equal(suppressMessages(mineR(doc = doc, terms = terms, local = FALSE, length = length, output = "test.txt", lims = lims, log = log, return.as.list = TRUE, pdf_read = "R")), out)
+})
 

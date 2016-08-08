@@ -1,0 +1,31 @@
+---
+title: "Updates"
+author: "Christopher B. Cole"
+date: "July 5, 2016"
+output: html_document
+---
+
+## `coR-ge`
+
+- Runs still going:
+- Still on low $h^2$ so unstable
+- Lots of `NA`s
+- This is an example of good parameters:
+
+```{R, echo = F}
+library(pander)
+
+ex <- structure(list(V1 = c(0.527777777777778, 0.542857142857143, 0.542857142857143,
+0.575757575757576, 0.612903225806452, 0.789473684210526), V2 = c(0.53125,
+0.548387096774194, 0.548387096774194, 0.586206896551724, 0.62962962962963,
+0.882352941176471), V3 = structure(c(1L, 1L, 1L, 1L, 1L, 1L), .Label = "all", class = "factor"),
+    V4 = c(0, 0.2, 0.4, 0.6, 0.8, 0.9), V5 = c(0.45, 0.45, 0.45,
+    0.45, 0.45, 0.45), V6 = c(0.5, 0.5, 0.5, 0.5, 0.5, 0.5),
+    V7 = c(0.5, 0.5, 0.5, 0.5, 0.5, 0.5), V8 = c(1000L, 1000L,
+    1000L, 1000L, 1000L, 1000L), V9 = c(1L, 1L, 1L, 1L, 1L, 1L
+    ), V10 = c(7L, 7L, 7L, 7L, 7L, 7L), V11 = c(0.1, 0.1, 0.1,
+    0.1, 0.1, 0.1), V12 = c(0.5, 0.5, 0.5, 0.5, 0.5, 0.5)), .Names = c("V1",
+"V2", "V3", "V4", "V5", "V6", "V7", "V8", "V9", "V10", "V11",
+"V12"), class = "data.frame", row.names = c(NA, -6L))
+
+pander(ex)

@@ -14,3 +14,13 @@ BP_terms.txt
 .Rproj.user
 packrat/lib*/
 inst/doc
+inst/refs
+
+..Rcheck/
+.DS_Store/
+.RData
+.Rbuildignore
+.Rprofile
+.gitattributes
+TODO.md
+mineR.Rproj
