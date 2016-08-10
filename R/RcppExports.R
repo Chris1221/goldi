@@ -2,6 +2,11 @@
 # Generator token: 10BE3573-1514-4C36-9D1C-5A225CD40393
 
 #' @export
+match_min <- function(term_vector) {
+    .Call('mineR_match_min', PACKAGE = 'mineR', term_vector)
+}
+
+#' @export
 match <- function(term_vector, terms, sentences, pdf_tdm, term_tdm, thresholds) {
     .Call('mineR_match', PACKAGE = 'mineR', term_vector, terms, sentences, pdf_tdm, term_tdm, thresholds)
 }

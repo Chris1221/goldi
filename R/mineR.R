@@ -19,6 +19,9 @@
 #' @import SnowballC
 #' @importFrom pdftools pdf_text
 #' @import futile.logger
+#' @importFrom Rcpp sourceCpp
+#'
+#' @useDynLib mineR
 #'
 #' @return A text document at wd/output if local == FALSE, or an R object if local == TRUE.
 #'
@@ -416,6 +419,9 @@ Note that any interactively created lists may be saved and inputed.
   term_vector <- which(colnames(out) %in% colnames(TDM.go.df))
 
   input_pdf_tdm <- as.matrix(out)
+  colnames(input_pdf_tdm) <- NULL
+  input_pdf_tdm <- input_pdf_tdm[,-1]
+
   input_term_tdm <- as.matrix(out)
 
   terms <- colnames(TDM.go.df)
