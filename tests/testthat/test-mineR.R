@@ -8,7 +8,7 @@ assign("doc", system.file("extdata", "parkinson_mitochondria.pdf", package = "mi
 
 length = 10
 
-lims <- list(1L, 1L, 3L, 4L, 5L, 6L, 7L, 8L, 9L)
+lims <- c(1,2,3,3,4,5,6,6,7,8,9)
 
 log = "/dev/null"
 
