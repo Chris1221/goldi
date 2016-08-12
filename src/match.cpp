@@ -40,6 +40,12 @@ Rcpp::CharacterMatrix match(arma::uvec term_vector, arma::mat pdf_tdm, arma::mat
   	//	Step 1: Find where words are equal to one for the first term
 		arma::uword term_index = term_vector(i);
 		arma::vec term = pdf_tdm.col(term_index-1);
+		
+	// 	Step 1a: Count the number of words in the term TDM
+	// 		This  is different than words as shown here
+	
+		uvec term_words = find( term_tdm.col(i) > 0);
+		uword nword = term_words.n_elem;
 
 		uvec words = find(term > 0);
 
@@ -67,7 +73,7 @@ Rcpp::CharacterMatrix match(arma::uvec term_vector, arma::mat pdf_tdm, arma::mat
 		//
 		//		First find how many words there are in the term
 		
-			uword nword = words.n_elem;
+		//	uword nword = words.n_elem;
 			
 		//	EXCEPTION CATCHING: TERMS LONGER THAN THE MAX LENGTH OF THRESHOLDS
 		//			DO SOMETHING BETTER HERE

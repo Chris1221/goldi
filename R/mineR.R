@@ -38,7 +38,7 @@ mineR <- function(doc,
 		  syn.list = NULL,
 		  length = 10,
 		  wd = getwd(),
-		  return.as.list = FALSE,
+		  object = FALSE,
 		  log = NULL,
 		  pdf_read = "local",
 		  term_tdm = NULL){
@@ -419,7 +419,9 @@ Note that any interactively created lists may be saved and inputed.
 	#   Return the vector of where each term is in the OUT data frame
 	#     by column.
   term_vector <- which(colnames(out) %in% colnames(TDM.go.df))
-  term_vector <- term_vector - 1
+  #term_vector <- term_vector - 1
+
+  pdf_index <- which(grepl("PDF_Sentence", colnames(out))) - 1
 
   # Clean this up after, it's really messy right now
 
@@ -438,30 +440,34 @@ Note that any interactively created lists may be saved and inputed.
 # sentences <- unlist(doc.vec[5][[1]])
 
 
+
+  #################### OLD TERM MATCHING ########################
+
 	#	For each column, grab all PDF sentence and put in out.test
-
   # Flush terms before using it again.
-  terms <- list()
-	for(name in colnames(TDM.go.df)){
+  #terms <- list()
+	#for(name in colnames(TDM.go.df)){
 
-		out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(starts_with("PDF_Sentence_")) -> out.test
+	#	out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(starts_with("PDF_Sentence_")) -> out.test
 
 	#	Get row sums of this term per PDF sentence
 
-		row <- sum(TDM.go.df[,name] != 0)
-		sums <- colSums(out.test)
+	#	row <- sum(TDM.go.df[,name] != 0)
+	#	sums <- colSums(out.test)
 
 
-	    for(i in 1:length(lims)){
-	    	if(row == i){
-	    		if(any(sums == lims[[i]])){
-	    			terms <- c(terms, paste(name, sum(sums == lims[[i]], na.rm = TRUE)))
-	    		}
-	    	}
-	    }
+	 #   for(i in 1:length(lims)){
+	  #  	if(row == i){
+	   # 		if(any(sums == lims[[i]])){
+	    #			terms <- c(terms, paste(name, sum(sums == lims[[i]], na.rm = TRUE)))
+	    #		}
+	    #	}
+	    #}
 
-	}
+	#}
 
+
+  terms <- match(term_vector = term_vector, pdf_tdm = input_pdf_tdm, term_tdm = input_term_tdm, thresholds = unlist(lims), pdf_index, terms, sentences)
 
 	flog.info("Writing output to %s", output)
 
@@ -477,7 +483,7 @@ Note that any interactively created lists may be saved and inputed.
 	}
 
 
-	if(return.as.list) return(as.character(terms))
+	if(object) return(terms)
 
 
 }
