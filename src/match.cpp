@@ -7,7 +7,7 @@ using namespace arma;
 
 //' @export
 // [[Rcpp::export]]
-arma::mat match(arma::uvec term_vector, arma::mat pdf_tdm, arma::mat term_tdm, arma::vec thresholds) {
+Rcpp::CharacterMatrix match(arma::uvec term_vector, arma::mat pdf_tdm, arma::mat term_tdm, arma::vec thresholds, arma::uvec pdf_index, std::vector<std::string> terms, std::vector<std::string> sentences) {
 
   //	Inputs:
   //
@@ -17,7 +17,7 @@ arma::mat match(arma::uvec term_vector, arma::mat pdf_tdm, arma::mat term_tdm, a
   //		terms: List of terms used, this is the vector of column names of term_tdm.
   //		sentences: Vector of sentences read in from the PDf.
   //		pdf_tdm: Term document matrix of words in the PDF
-  //		term_pdf: Term document matrix of words in the terms and pdf sentences.
+  //		term_tdm: Term document matrix of words in the terms and pdf sentences.
   //		thresholds: Acceptance thresholds
   //
   // 	Outputs:
@@ -36,8 +36,6 @@ arma::mat match(arma::uvec term_vector, arma::mat pdf_tdm, arma::mat term_tdm, a
 	arma::mat out(1,2, fill::zeros);
 
 	for(uword i = 0; i < term_vector.n_elem; i++){
-	//uword i = 0;
-	cout << i << endl;
 
   	//	Step 1: Find where words are equal to one for the first term
 		arma::uword term_index = term_vector(i);
@@ -47,9 +45,10 @@ arma::mat match(arma::uvec term_vector, arma::mat pdf_tdm, arma::mat term_tdm, a
 
 	//	Step 2: Subset the pdf to just the rows which are the correct words
 	//		Might need to make a row vector out of this or something
-		
+	
+	//	MORE EXCEPTION HANDLING
 		if(words.n_elem > 0){
-			arma::mat pdf_subset = pdf_tdm.rows(words);
+			arma::mat pdf_subset = pdf_tdm.submat(words, pdf_index);
 		
 		//	Step 3: Find sums of each column in this subset
 		//	
@@ -68,7 +67,7 @@ arma::mat match(arma::uvec term_vector, arma::mat pdf_tdm, arma::mat term_tdm, a
 		//
 		//		First find how many words there are in the term
 		
-			uword nword = words.n_elem -1;
+			uword nword = words.n_elem;
 			
 		//	EXCEPTION CATCHING: TERMS LONGER THAN THE MAX LENGTH OF THRESHOLDS
 		//			DO SOMETHING BETTER HERE
@@ -110,5 +109,22 @@ arma::mat match(arma::uvec term_vector, arma::mat pdf_tdm, arma::mat term_tdm, a
 	}
 
 	
-	return out;
+	// Step 7: Substitute in strings
+	
+	// Step 7a. Get rid of first row used to initialize the matrix:
+	out.shed_row(out.n_rows - 1);
+	
+
+	Rcpp::CharacterMatrix out_char(out.n_rows, out.n_cols);
+
+	for(uword i = 0; i < out.n_rows; i++){
+
+		out_char(i, 0) = terms[out(i, 0)];
+		out_char(i, 1) = sentences[out(i, 1)];
+
+	}
+
+
+
+	return out_char;
 }

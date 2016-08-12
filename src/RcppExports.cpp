@@ -18,8 +18,8 @@ BEGIN_RCPP
 END_RCPP
 }
 // match
-arma::mat match(arma::uvec term_vector, arma::mat pdf_tdm, arma::mat term_tdm, arma::vec thresholds);
-RcppExport SEXP mineR_match(SEXP term_vectorSEXP, SEXP pdf_tdmSEXP, SEXP term_tdmSEXP, SEXP thresholdsSEXP) {
+Rcpp::CharacterMatrix match(arma::uvec term_vector, arma::mat pdf_tdm, arma::mat term_tdm, arma::vec thresholds, arma::uvec pdf_index, std::vector<std::string> terms, std::vector<std::string> sentences);
+RcppExport SEXP mineR_match(SEXP term_vectorSEXP, SEXP pdf_tdmSEXP, SEXP term_tdmSEXP, SEXP thresholdsSEXP, SEXP pdf_indexSEXP, SEXP termsSEXP, SEXP sentencesSEXP) {
 BEGIN_RCPP
     Rcpp::RObject __result;
     Rcpp::RNGScope __rngScope;
@@ -27,7 +27,10 @@ BEGIN_RCPP
     Rcpp::traits::input_parameter< arma::mat >::type pdf_tdm(pdf_tdmSEXP);
     Rcpp::traits::input_parameter< arma::mat >::type term_tdm(term_tdmSEXP);
     Rcpp::traits::input_parameter< arma::vec >::type thresholds(thresholdsSEXP);
-    __result = Rcpp::wrap(match(term_vector, pdf_tdm, term_tdm, thresholds));
+    Rcpp::traits::input_parameter< arma::uvec >::type pdf_index(pdf_indexSEXP);
+    Rcpp::traits::input_parameter< std::vector<std::string> >::type terms(termsSEXP);
+    Rcpp::traits::input_parameter< std::vector<std::string> >::type sentences(sentencesSEXP);
+    __result = Rcpp::wrap(match(term_vector, pdf_tdm, term_tdm, thresholds, pdf_index, terms, sentences));
     return __result;
 END_RCPP
 }

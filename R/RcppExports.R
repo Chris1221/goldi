@@ -7,7 +7,7 @@ match_min <- function(term_vector) {
 }
 
 #' @export
-match <- function(term_vector, pdf_tdm, term_tdm, thresholds) {
-    .Call('mineR_match', PACKAGE = 'mineR', term_vector, pdf_tdm, term_tdm, thresholds)
+match <- function(term_vector, pdf_tdm, term_tdm, thresholds, pdf_index, terms, sentences) {
+    .Call('mineR_match', PACKAGE = 'mineR', term_vector, pdf_tdm, term_tdm, thresholds, pdf_index, terms, sentences)
 }
 
