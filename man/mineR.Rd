@@ -2,37 +2,45 @@
 % Please edit documentation in R/mineR.R
 \name{mineR}
 \alias{mineR}
-\title{Text Miner}
+\title{mineR: An R Package for Fuzzy Keyword Identification and Quantification in Natural Language}
 \usage{
-mineR(doc, terms, local = FALSE, lims = "interactive", output,
-  syn = FALSE, syn.list = NULL, length = 10, wd = getwd(),
-  return.as.list = FALSE, log = NULL, pdf_read = "local")
+mineR(doc, terms, lims = "interactive", output, syn = FALSE,
+  syn.list = NULL, object = FALSE, log = NULL, reader = "local",
+  term_tdm = NULL, log.level = "warn")
 }
 \arguments{
-\item{doc}{document which will be mined for keywords as a file path (character()).}
+\item{doc}{Either a file path to a document which will be read in, or a string already read into R. See \code{"reader"} for more details. Depending on the \code{"reader"} selected, there are four options for document input.}
 
-\item{terms}{list of newline seperated key phrases of varying lengths to be identified.}
+\item{terms}{Either a character vector of terms, with each element being a separate term, or a file path to a newline seperated text document which may be parsed into terms.}
 
-\item{local}{currently only F is supported.}
-
-\item{lims}{Number of identical (or synonymous) words which must be present in a sentence in order for it to be accepted. "interactive" is default and allows you to interavtively build your own list, but a list of n elements can be supplied where n is the largest term you wish to search for.}
+\item{lims}{Number of identical (or synonymous) words which must be present in a sentence in order for it to be accepted as a match for the term. "interactive" is default and allows you to interavtively build your own list, but a list or vector of n elements can be supplied where n is the largest term you wish to search for.}
 
 \item{output}{path to output file}
 
-\item{syn}{TRUE if synonyms are to be used (also see syn.list), FALSE if no synonyms are to be used.}
+\item{syn}{If you would like to use synonyms, set \code{"syn = TRUE"} with \code{"syn.list"} left as default to launch the interactive generator (\code{"mineR::make.syn()"}), or give a list if synonyms are already formatted.}
 
 \item{syn.list}{LIST of synonyms to be used. First element of each list item is the word that will counted if any of the other elements of that list item are present.}
 
-\item{length}{maximum length of term in words that you would like to search for.}
-
-\item{wd}{working directory if different than getwd()}
-
-\item{return.as.list}{Mostly used for testing, returns output as an R (character) object instead of writing to a file.}
+\item{object}{Return as an R object?}
 }
 \value{
 A text document at wd/output if local == FALSE, or an R object if local == TRUE.
 }
 \description{
-Fuzzy identification of key phrases from natural language
+This function takes as input a document which the user wishes to mine, a list of terms which they wish to identify, and an acceptance function for deciding on associations. This is the main function of the package; all others are helper functions, exported for your convenience. For full instructions on this function's usage, please see the documentation at github.com/Chris1221/mineR, or read the associated publication.  We recommend it as background regardless.
 }
+\details{
+Gene Ontology (GO) is a popular and frequently accessed database cataloging gene functions and processes. Groups across the world have used the data archived in GO to further understand and study the mechanisms behind life.  However, the annotation of GO terms and associations in the biomedical literature has been a persistent bottleneck for researchers; there is a growing need for easily accessible software packages which facilitate either fully or semi automated identification of GO terms present in the literature. Here we present an open source R package to address the above problem.  mineR, source found at  www.github.com/Chris1221/mineR, is programmed in R and C++ for performance.  This package addresses the persistent need of researchers to efficiently identify gene ontology terms in the literature, and can serve as a cog inside more complex workflows.
+}
+\author{
+Christopher B. Cole <chris.c.1221@gmail.com>
+}
+\references{
+See ArXiv prepubliation.
+}
+\keyword{Databases}
+\keyword{Gene}
+\keyword{Mining,}
+\keyword{Ontology,}
+\keyword{Text}
 
