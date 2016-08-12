@@ -41,7 +41,8 @@ mineR <- function(doc,
 		  object = FALSE,
 		  log = NULL,
 		  pdf_read = "local",
-		  term_tdm = NULL){
+		  term_tdm = NULL,
+		  log.level = "warn"){
 
 	# Start timer
 	ptm <- proc.time()
@@ -87,6 +88,15 @@ Note that any interactively created lists may be saved and inputed.
 	# 	Start by defining the logging appender, if provided.
 	# 		If the logger is a character, this indicates that the user
 	# 		has provided a file path. Write to it.
+
+	if(log.level == "info"){
+	    flog.threshold(INFO)
+	} else if(log.level == "warn"){
+	  flog.threshold(WARN)
+	} else if(log.level == "fatal"){
+	  flog.threshold(FATAL)
+	}
+
 
 	if(typeof(log) == "character") {
 		cat(header, file = log, append = TRUE)
@@ -474,7 +484,7 @@ Note that any interactively created lists may be saved and inputed.
 	time <- proc.time() - ptm
 	flog.info("This run took approximately %s seconds.", round(as.double(time[3]), 3))
 
-	flog.fatal("Everything was successful. Ending logging now. Have a nice day.")
+	flog.info("Everything was successful. Ending logging now. Have a nice day.")
 
 	if(!local && !return.as.list){
 
