@@ -7,7 +7,7 @@ using namespace arma;
 
 //' @export
 // [[Rcpp::export]]
-int match_min(arma::uvec term_vector) {
+arma::uword match_min(arma::uvec term_vector) {
 
   //	Inputs:
   //
@@ -38,7 +38,7 @@ int match_min(arma::uvec term_vector) {
 //	for(uword i = 0; i < terms.n_elem; i++){
 	uword i = 0;	
   	//	Step 1: Find where words are equal to one for the first term
-	int term_index = term_vector(i);
+	uword term_index = term_vector(i);
 	//arma::vec term = term_tdm.col(term_index);
 
 	//uvec words = find(term >= 1);

@@ -7,7 +7,7 @@ using namespace arma;
 
 //' @export
 // [[Rcpp::export]]
-arma::umat match(arma::uvec term_vector, arma::vec terms, arma::vec sentences, arma::mat pdf_tdm, arma::mat term_tdm, arma::vec thresholds) {
+arma::mat match(arma::uvec term_vector, arma::mat pdf_tdm, arma::mat term_tdm, arma::vec thresholds) {
 
   //	Inputs:
   //
@@ -33,15 +33,16 @@ arma::umat match(arma::uvec term_vector, arma::vec terms, arma::vec sentences, a
   // 	Loop through each term in turn:
 	
   // 	Set up output vector outside of loop space.
-	arma::umat out;
+//	arma::mat out;
 
-	for(uword i = 0; i < terms.n_elem; i++){
-	
+//	for(uword i = 0; i < term_vector.n_elem; i++){
+uword i = 0;
+
   	//	Step 1: Find where words are equal to one for the first term
 		arma::uword term_index = term_vector(i);
-		arma::vec term = term_tdm.col(term_index);
+		arma::vec term = term_tdm.col(term_index-1);
 
-		uvec words = find(term >= 1);
+		uvec words = find(term > 0);
 
 	//	Step 2: Subset the pdf to just the rows which are the correct words
 	//		Might need to make a row vector out of this or something
@@ -54,8 +55,8 @@ arma::umat match(arma::uvec term_vector, arma::vec terms, arma::vec sentences, a
 	//
 	//		Dim 0 means to take the sum of the COLUMNS as opposed
 	//		to the rows.
-		arma::rowvec sums = sum(pdf_subset, 0);
-	
+	//	arma::rowvec sums = sum(pdf_subset, 0);
+//		arma::vec sums_col = conv_to<vec>::from(sums);	
 	// 	Step 4: Loop through thresholds
 	//
 	//		See if any of the sentence hits the threshold and if so then
@@ -63,11 +64,11 @@ arma::umat match(arma::uvec term_vector, arma::vec terms, arma::vec sentences, a
 	//
 	//		First find how many words there are in the term
 	
-		uword nword = words.n_elem;
+//		uword nword = words.n_elem - 1;
 		
 	//		Note: have to shift the index down one, as the first threshold
 	//		is the 0th element.
-		arma::uvec sentence_index = find( sums >= thresholds(nword-1) );
+//		arma::uvec sentence_index = find( sums_col > 0 );
 	
 	//	Step 5: If sentence_index is empty, continue on to next iteration
 
@@ -76,22 +77,25 @@ arma::umat match(arma::uvec term_vector, arma::vec terms, arma::vec sentences, a
 	//		I think this has to be outside the if statement
 	//	
 	//	This will *probably* error.
-		arma::umat out_add(sentence_index.n_elem, 2);
+	//	arma::mat out_add(sentence_index.n_elem, 2);
 	
-		if(sentence_index.n_elem > 0){
+//		if(sentence_index.n_elem > 0){
 		
 			//	Add the sentence indices to the second column.
-			out_add.col(2) = sentence_index;
+//			out_add.col(1) = conv_to<vec>::from(sentence_index);
 
 		//	Fill the first column with the term index
-			out_add.col(1).fill(i);
+	//		out_add.col(0).fill(i);
 		
-		}
+	//	}
 	
 	//	Step 6: Merge rows onto output column
 		
-		arma::umat out = join_cols(out, out_add);
-	}
+		//arma::mat out = join_cols(out, out_add);
+		
+	//	out.insert_rows(sentence_index.n_elem, out_add);
 	
-	return out;
+//	}
+	
+	return pdf_subset;
 }

@@ -15,8 +15,10 @@
 #'
 #' @import tm
 #' @import Rcpp
+#' @import RcppArmadillo
 #' @import dplyr
 #' @import SnowballC
+#' @import magrittr
 #' @importFrom pdftools pdf_text
 #' @import futile.logger
 #' @importFrom Rcpp sourceCpp
@@ -38,7 +40,8 @@ mineR <- function(doc,
 		  wd = getwd(),
 		  return.as.list = FALSE,
 		  log = NULL,
-		  pdf_read = "local"){
+		  pdf_read = "local",
+		  term_tdm = NULL){
 
 	# Start timer
 	ptm <- proc.time()
@@ -257,44 +260,43 @@ Note that any interactively created lists may be saved and inputed.
 	#	Read in the terms through R
 	#		Note that later, we should make this more flexible.
 
-	if(!local){
+	if(is.null(term_tdm)){
 
-	  raw_go <- readLines(paste0(terms), skipNul = T)
+		  raw_go <- readLines(paste0(terms), skipNul = T)
 
+		#	Perform the same quality control on the terms that was done on the PDF.
+
+		flog.info("Reading in of term list successful")
+		flog.info("Performing quality control for term list")
+
+		raw_go <- iconv(raw_go,"WINDOWS-1252","UTF-8") #this might not be a silver bullet, check the encoding
+		raw_go <- raw_go[which(raw_go!="")]
+
+		doc.vec <- VectorSource(raw_go)
+		doc.corpus <- Corpus(doc.vec)
+		raw.corpus <- doc.corpus # for use later
+
+		flog.info("Constructing TDM for term list")
+
+		doc.corpus <- tm_map(doc.corpus, content_transformer(tolower), mc.cores = 1)
+		doc.corpus <- tm_map(doc.corpus, content_transformer(replaceExpressions), mc.cores = 1)
+		doc.corpus <- tm_map(doc.corpus, removePunctuation, mc.cores = 1)
+		doc.corpus <- tm_map(doc.corpus, removeNumbers, mc.cores = 1)
+		doc.corpus <- tm_map(doc.corpus, removeWords, stopwords("english"), mc.cores = 1)
+		doc.corpus <- tm_map(doc.corpus, stemDocument)
+		doc.corpus <- tm_map(doc.corpus, stripWhitespace)
+
+		TermDocumentMatrix(doc.corpus) %>% as.matrix() %>% as.data.frame() -> TDM.go.df
+
+		#	Make the headers of the data frame the same as the terms
+
+		sub <- gsub(" ", "_", x = raw_go)
+		sub <- gsub("-", "_", x = sub)
+
+		colnames(TDM.go.df) <- sub
+	} else if(!is.null(term_tdm)){
+		TDM.go.df <- term_tdm
 	}
-
-
-	#	Perform the same quality control on the terms that was done on the PDF.
-
-	flog.info("Reading in of term list successful")
-	flog.info("Performing quality control for term list")
-
-	raw_go <- iconv(raw_go,"WINDOWS-1252","UTF-8") #this might not be a silver bullet, check the encoding
-	raw_go <- raw_go[which(raw_go!="")]
-
-	doc.vec <- VectorSource(raw_go)
-	doc.corpus <- Corpus(doc.vec)
-	raw.corpus <- doc.corpus # for use later
-
-	flog.info("Constructing TDM for term list")
-
-	doc.corpus <- tm_map(doc.corpus, content_transformer(tolower), mc.cores = 1)
-	doc.corpus <- tm_map(doc.corpus, content_transformer(replaceExpressions), mc.cores = 1)
-	doc.corpus <- tm_map(doc.corpus, removePunctuation, mc.cores = 1)
-	doc.corpus <- tm_map(doc.corpus, removeNumbers, mc.cores = 1)
-	doc.corpus <- tm_map(doc.corpus, removeWords, stopwords("english"), mc.cores = 1)
-	doc.corpus <- tm_map(doc.corpus, stemDocument)
-	doc.corpus <- tm_map(doc.corpus, stripWhitespace)
-
-	TermDocumentMatrix(doc.corpus) %>% as.matrix() %>% as.data.frame() -> TDM.go.df
-
-	#	Make the headers of the data frame the same as the terms
-
-	sub <- gsub(" ", "_", x = raw_go)
-	sub <- gsub("-", "_", x = sub)
-
-	colnames(TDM.go.df) <- sub
-
 
 	#	 When subsetting, picking up terms with numbers AND actual sentences, so changing col names to be easily subsetable
 
@@ -421,6 +423,7 @@ Note that any interactively created lists may be saved and inputed.
   input_pdf_tdm <- as.matrix(out)
   colnames(input_pdf_tdm) <- NULL
   input_pdf_tdm <- input_pdf_tdm[,-1]
+  input_pdf_tdm %<>% as.data.frame %>% data.matrix
 
   input_term_tdm <- as.matrix(out)
 
