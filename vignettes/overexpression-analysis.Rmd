@@ -1,0 +1,115 @@
+---
+title: "Overexpression of Terms in a Target Set of Abstracts"
+author: "Christopher B. Cole"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Overexpression of Terms in a Target Set of Abstracts}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+In this analysis we seek to find Gene Ontology terms which may be overrepresented in a "target set" of abstracts, such as the results of a PubMed query.
+
+We first fetch all the results of a specific query from Pubmed using the `RISmed` package and store their abstracts in a `data.frame`.
+
+```{R}
+library(RISmed)
+
+# Store the input string for reuse
+search_topic <- "anaphylaxis genetics"
+search_query <- EUtilsSummary(search_topic, mindate=2014, maxdate=2015)
+
+summary(search_query)
+
+pull <- EUtilsGet(search_query)
+
+data <- data.frame('Abstracts' = AbstractText(pull))
+
+# Get rid of first entry for some reason, seems to always be blank
+data[,1] <- as.character(data[,1])
+data <- data[-1,]
+
+head(data)
+```
+
+We want to compare the terms found here to something, so we grab all abstracts from 2014 to 2015 which match a similar field, i.e. immunology genetics.  Note that only 1000 records are taken by default.
+
+```{R}
+# Store the input string for reuse
+search_topic <- "immunology genetics"
+search_query <- EUtilsSummary(search_topic, # Find all articles matching the string
+                              mindate=2014, # From 2014
+                              maxdate=2015, # to 2015
+                              retmax = 1000)  # This is the default but explicit
+
+summary(search_query)
+
+pull_control <- EUtilsGet(search_query)
+
+control <- data.frame('Abstracts' = AbstractText(pull_control))
+
+# Get rid of first entry for some reason, seems to always be blank
+control[,1] <- as.character(control[,1])
+control <- control[-1,]
+
+head(control)
+```
+
+We now run `mineR` on each of the entries in both the target group and the control group.
+
+```{R}
+library(mineR)
+
+
+terms <- system.file("extdata/MF_terms", package = "mineR")
+
+ raw_go <- readLines(paste0(terms), skipNul = T)
+
+		#	Perform the same quality control on the terms that was done on the PDF.
+
+		flog.info("Reading in of term list successful")
+		flog.info("Performing quality control for term list")
+
+		raw_go <- iconv(raw_go,"WINDOWS-1252","UTF-8") #this might not be a silver bullet, check the encoding
+		raw_go <- raw_go[which(raw_go!="")]
+
+		doc.vec <- VectorSource(raw_go)
+		doc.corpus <- Corpus(doc.vec)
+		raw.corpus <- doc.corpus # for use later
+
+		flog.info("Constructing TDM for term list")
+
+		doc.corpus <- tm_map(doc.corpus, content_transformer(tolower), mc.cores = 1)
+		doc.corpus <- tm_map(doc.corpus, content_transformer(replaceExpressions), mc.cores = 1)
+		doc.corpus <- tm_map(doc.corpus, removePunctuation, mc.cores = 1)
+		doc.corpus <- tm_map(doc.corpus, removeNumbers, mc.cores = 1)
+		doc.corpus <- tm_map(doc.corpus, removeWords, stopwords("english"), mc.cores = 1)
+		doc.corpus <- tm_map(doc.corpus, stemDocument)
+		doc.corpus <- tm_map(doc.corpus, stripWhitespace)
+
+		TermDocumentMatrix(doc.corpus) %>% as.matrix() %>% as.data.frame() -> TDM.go.df
+
+		#	Make the headers of the data frame the same as the terms
+
+		sub <- gsub(" ", "_", x = raw_go)
+		sub <- gsub("-", "_", x = sub)
+
+		colnames(TDM.go.df) <- sub
+
+
+
+
+for(i in 1:nrow(data)){
+  mineR(doc = data[i], 
+        terms = terms, 
+        local = F, 
+        lims = as.list(c(1,2,3,4,4,5,6,7,7,8,10)),
+        syn = F,
+        length = 10,
+        object = T,
+        log = "/dev/null",
+        pdf_read = "local",
+        output = "/dev/null",
+        term_tdm = TDM.go.df)
+}

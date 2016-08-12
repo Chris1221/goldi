@@ -15,10 +15,15 @@
 #'
 #' @import tm
 #' @import Rcpp
+#' @import RcppArmadillo
 #' @import dplyr
 #' @import SnowballC
+#' @import magrittr
 #' @importFrom pdftools pdf_text
 #' @import futile.logger
+#' @importFrom Rcpp sourceCpp
+#'
+#' @useDynLib mineR
 #'
 #' @return A text document at wd/output if local == FALSE, or an R object if local == TRUE.
 #'
@@ -33,9 +38,11 @@ mineR <- function(doc,
 		  syn.list = NULL,
 		  length = 10,
 		  wd = getwd(),
-		  return.as.list = FALSE,
+		  object = FALSE,
 		  log = NULL,
-		  pdf_read = "local"){
+		  pdf_read = "local",
+		  term_tdm = NULL,
+		  log.level = "warn"){
 
 	# Start timer
 	ptm <- proc.time()
@@ -81,6 +88,15 @@ Note that any interactively created lists may be saved and inputed.
 	# 	Start by defining the logging appender, if provided.
 	# 		If the logger is a character, this indicates that the user
 	# 		has provided a file path. Write to it.
+
+	if(log.level == "info"){
+	    flog.threshold(INFO)
+	} else if(log.level == "warn"){
+	  flog.threshold(WARN)
+	} else if(log.level == "fatal"){
+	  flog.threshold(FATAL)
+	}
+
 
 	if(typeof(log) == "character") {
 		cat(header, file = log, append = TRUE)
@@ -254,44 +270,43 @@ Note that any interactively created lists may be saved and inputed.
 	#	Read in the terms through R
 	#		Note that later, we should make this more flexible.
 
-	if(!local){
+	if(is.null(term_tdm)){
 
-	  raw_go <- readLines(paste0(terms), skipNul = T)
+		  raw_go <- readLines(paste0(terms), skipNul = T)
 
+		#	Perform the same quality control on the terms that was done on the PDF.
+
+		flog.info("Reading in of term list successful")
+		flog.info("Performing quality control for term list")
+
+		raw_go <- iconv(raw_go,"WINDOWS-1252","UTF-8") #this might not be a silver bullet, check the encoding
+		raw_go <- raw_go[which(raw_go!="")]
+
+		doc.vec <- VectorSource(raw_go)
+		doc.corpus <- Corpus(doc.vec)
+		raw.corpus <- doc.corpus # for use later
+
+		flog.info("Constructing TDM for term list")
+
+		doc.corpus <- tm_map(doc.corpus, content_transformer(tolower), mc.cores = 1)
+		doc.corpus <- tm_map(doc.corpus, content_transformer(replaceExpressions), mc.cores = 1)
+		doc.corpus <- tm_map(doc.corpus, removePunctuation, mc.cores = 1)
+		doc.corpus <- tm_map(doc.corpus, removeNumbers, mc.cores = 1)
+		doc.corpus <- tm_map(doc.corpus, removeWords, stopwords("english"), mc.cores = 1)
+		doc.corpus <- tm_map(doc.corpus, stemDocument)
+		doc.corpus <- tm_map(doc.corpus, stripWhitespace)
+
+		TermDocumentMatrix(doc.corpus) %>% as.matrix() %>% as.data.frame() -> TDM.go.df
+
+		#	Make the headers of the data frame the same as the terms
+
+		sub <- gsub(" ", "_", x = raw_go)
+		sub <- gsub("-", "_", x = sub)
+
+		colnames(TDM.go.df) <- sub
+	} else if(!is.null(term_tdm)){
+		TDM.go.df <- term_tdm
 	}
-
-
-	#	Perform the same quality control on the terms that was done on the PDF.
-
-	flog.info("Reading in of term list successful")
-	flog.info("Performing quality control for term list")
-
-	raw_go <- iconv(raw_go,"WINDOWS-1252","UTF-8") #this might not be a silver bullet, check the encoding
-	raw_go <- raw_go[which(raw_go!="")]
-
-	doc.vec <- VectorSource(raw_go)
-	doc.corpus <- Corpus(doc.vec)
-	raw.corpus <- doc.corpus # for use later
-
-	flog.info("Constructing TDM for term list")
-
-	doc.corpus <- tm_map(doc.corpus, content_transformer(tolower), mc.cores = 1)
-	doc.corpus <- tm_map(doc.corpus, content_transformer(replaceExpressions), mc.cores = 1)
-	doc.corpus <- tm_map(doc.corpus, removePunctuation, mc.cores = 1)
-	doc.corpus <- tm_map(doc.corpus, removeNumbers, mc.cores = 1)
-	doc.corpus <- tm_map(doc.corpus, removeWords, stopwords("english"), mc.cores = 1)
-	doc.corpus <- tm_map(doc.corpus, stemDocument)
-	doc.corpus <- tm_map(doc.corpus, stripWhitespace)
-
-	TermDocumentMatrix(doc.corpus) %>% as.matrix() %>% as.data.frame() -> TDM.go.df
-
-	#	Make the headers of the data frame the same as the terms
-
-	sub <- gsub(" ", "_", x = raw_go)
-	sub <- gsub("-", "_", x = sub)
-
-	colnames(TDM.go.df) <- sub
-
 
 	#	 When subsetting, picking up terms with numbers AND actual sentences, so changing col names to be easily subsetable
 
@@ -414,9 +429,20 @@ Note that any interactively created lists may be saved and inputed.
 	#   Return the vector of where each term is in the OUT data frame
 	#     by column.
   term_vector <- which(colnames(out) %in% colnames(TDM.go.df))
+  #term_vector <- term_vector - 1
 
-  input_pdf_tdm <- as.matrix(out)
-  input_term_tdm <- as.matrix(out)
+  pdf_index <- which(grepl("PDF_Sentence", colnames(out))) - 1
+
+  # Clean this up after, it's really messy right now
+
+  out %>% as.data.frame %>% data.matrix -> input_pdf_tdm
+  colnames(input_pdf_tdm) <- NULL
+  row.names(input_pdf_tdm) <- NULL
+
+  input_term_tdm <- as.matrix(TDM.go.df)
+  input_term_tdm %<>% as.data.frame %>% data.matrix
+  colnames(input_term_tdm) <- NULL
+  row.names(input_term_tdm) <- NULL
 
   terms <- colnames(TDM.go.df)
 
@@ -424,37 +450,41 @@ Note that any interactively created lists may be saved and inputed.
 # sentences <- unlist(doc.vec[5][[1]])
 
 
+
+  #################### OLD TERM MATCHING ########################
+
 	#	For each column, grab all PDF sentence and put in out.test
-
   # Flush terms before using it again.
-  terms <- list()
-	for(name in colnames(TDM.go.df)){
+  #terms <- list()
+	#for(name in colnames(TDM.go.df)){
 
-		out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(starts_with("PDF_Sentence_")) -> out.test
+	#	out %>% filter(get(name, envir=as.environment(out)) == 1) %>% select(starts_with("PDF_Sentence_")) -> out.test
 
 	#	Get row sums of this term per PDF sentence
 
-		row <- sum(TDM.go.df[,name] != 0)
-		sums <- colSums(out.test)
+	#	row <- sum(TDM.go.df[,name] != 0)
+	#	sums <- colSums(out.test)
 
 
-	    for(i in 1:length(lims)){
-	    	if(row == i){
-	    		if(any(sums == lims[[i]])){
-	    			terms <- c(terms, paste(name, sum(sums == lims[[i]], na.rm = TRUE)))
-	    		}
-	    	}
-	    }
+	 #   for(i in 1:length(lims)){
+	  #  	if(row == i){
+	   # 		if(any(sums == lims[[i]])){
+	    #			terms <- c(terms, paste(name, sum(sums == lims[[i]], na.rm = TRUE)))
+	    #		}
+	    #	}
+	    #}
 
-	}
+	#}
 
+
+  terms <- match(term_vector = term_vector, pdf_tdm = input_pdf_tdm, term_tdm = input_term_tdm, thresholds = unlist(lims), pdf_index, terms, sentences)
 
 	flog.info("Writing output to %s", output)
 
 	time <- proc.time() - ptm
 	flog.info("This run took approximately %s seconds.", round(as.double(time[3]), 3))
 
-	flog.fatal("Everything was successful. Ending logging now. Have a nice day.")
+	flog.info("Everything was successful. Ending logging now. Have a nice day.")
 
 	if(!local && !return.as.list){
 
@@ -463,7 +493,7 @@ Note that any interactively created lists may be saved and inputed.
 	}
 
 
-	if(return.as.list) return(as.character(terms))
+	if(object) return(terms)
 
 
 }
