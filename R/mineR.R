@@ -419,13 +419,18 @@ Note that any interactively created lists may be saved and inputed.
 	#   Return the vector of where each term is in the OUT data frame
 	#     by column.
   term_vector <- which(colnames(out) %in% colnames(TDM.go.df))
+  term_vector <- term_vector - 1
 
-  input_pdf_tdm <- as.matrix(out)
+  # Clean this up after, it's really messy right now
+
+  out %>% as.data.frame %>% data.matrix -> input_pdf_tdm
   colnames(input_pdf_tdm) <- NULL
-  input_pdf_tdm <- input_pdf_tdm[,-1]
-  input_pdf_tdm %<>% as.data.frame %>% data.matrix
+  row.names(input_pdf_tdm) <- NULL
 
-  input_term_tdm <- as.matrix(out)
+  input_term_tdm <- as.matrix(TDM.go.df)
+  input_term_tdm %<>% as.data.frame %>% data.matrix
+  colnames(input_term_tdm) <- NULL
+  row.names(input_term_tdm) <- NULL
 
   terms <- colnames(TDM.go.df)
 
