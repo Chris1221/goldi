@@ -1,4 +1,5 @@
 #!/bin/bash
+#$ -S /bin/bash
 #$ -q abaqus.q
 #$ -l qname=abaqus.q
 #$ -cwd
