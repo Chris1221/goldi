@@ -19,7 +19,6 @@ inst/refs
 ..Rcheck/
 .DS_Store/
 .RData
-.Rbuildignore
 .Rprofile
 .gitattributes
 TODO.md
