@@ -40,15 +40,18 @@ control <- data.frame('Abstracts' = AbstractText(pull_control))
   results <- list()
 
   for(i in 1:length(data)){
-    results[[i]] <- mineR(doc = data[i],
-          terms = terms,
-          lims = lims,
-          syn = F,
-          object = T,
-          log = "/dev/null",
-          reader = "local",
-          output = "/dev/null",
-          term_tdm = TDM.go.df)
+
+    if(!data[i] == ""){
+      results[[i]] <- mineR(doc = data[i],
+            terms = terms,
+            lims = lims,
+            syn = F,
+            object = T,
+            log = "/dev/null",
+            reader = "local",
+            output = "/dev/null",
+            term_tdm = TDM.go.df)
+    }
   }
 
   results <- do.call("rbind", results)
@@ -58,15 +61,17 @@ control <- data.frame('Abstracts' = AbstractText(pull_control))
   control_results <- list()
 
   for(i in 1:length(control)){
-    control_results[[i]] <- mineR(doc = control[i],
-          terms = terms,
-          lims = lims,
-          syn = F,
-          object = T,
-          log = "/dev/null",
-          reader = "local",
-          output = "/dev/null",
-          term_tdm = TDM.go.df)
+    if(!control[i] == ""){
+      control_results[[i]] <- mineR(doc = control[i],
+            terms = terms,
+            lims = lims,
+            syn = F,
+            object = T,
+            log = "/dev/null",
+            reader = "local",
+            output = "/dev/null",
+            term_tdm = TDM.go.df)
+    }
   }
   control_results <- do.call("rbind", control_results)
 
