@@ -2,17 +2,27 @@ context("Test the main function")
 library(mineR)
 #declare test variables
 
-assign("terms", system.file("extdata", "pdf_chunk_1.txt", package = "mineR"), envir = .GlobalEnv)
-
-assign("doc", system.file("extdata", "parkinson_mitochondria.pdf", package = "mineR"), envir = .GlobalEnv)
-
-length = 10
+doc <- "Ribosomal chaperone activity."
+data("TDM.go.df")
+#TDM.go.df <- TDM.go.df[c(1:5),]
 
 lims <- c(1,2,3,3,4,5,6,6,7,8,9)
 
 log = "/dev/null"
+ouput = "/dev/null"
+
+out <- structure(c("ribosomal_chaperone_activity", "Ribosomal chaperone activity"), .Dim = 1:2)
 
 test_that("testing main function", {
-	expect_equal(suppressMessages(mineR(doc = doc, terms = terms, local = FALSE, length = length, output = "test.txt", lims = lims, log = log, object = TRUE, pdf_read = "R")), out)
+	expect_equal(
+	  mineR(doc = doc,
+	        terms = "empty",
+	        output = output,
+	        lims = lims,
+	        log = log,
+	        object = TRUE,
+	        reader = "local",
+	        term_tdm = TDM.go.df),
+	  out)
 })
 
