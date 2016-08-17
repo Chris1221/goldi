@@ -65,10 +65,12 @@ This will give the term identified and the context in the free form where it was
 
 ### FAQ
 
-Q:
-A:
+Q: **This is all really confusing, where can I read more about this package?**
 
-Q: **How does `mineR` match terms to sentences?
+A: Please see the pre print of our paper.
+
+Q: **How does `mineR` match terms to sentences?**
+
 A: `mineR` accomplishes this by finding the number of similar words in a term and in a sentence, comparing this to a user defined acceptance function A(n) based on the length of the term n. The default function is given by the following:
 
 <p align = "center">
@@ -84,18 +86,23 @@ lims <- c(1,2,3,3,4,5,6,6,7,8,8)
 If the number of words present equals or exceeds this function, then a match is declared. You are encouraged to play around and find what acceptance function works for you.
 
 Q: **What if I don't have my text in R, but instead as a text or PDF file?**
+
 A: `mineR` has four distinct methods for importing text locally, please see the wiki article on the subject.
 
 Q: **When I install the package, I get messages about `libc` or `gcc` versions. What's happening?**
+
 A: The most likely scenario is that your `gcc` compiler (which compiles the `c++` code) is out of date, espcially if you are on an older version of linux distribution like CentOS on some cluster systems. Contact your system administrator and try to update `gcc`.
 
 Q: **How can I work with abstracts from pubmed?**
+
 A: We recommend the `RISmed` package.
 
 Q: **Where can I see some examples of this package in use?**
+
 A: Please see the included vignettes, especially the overexpression analysis implimented in the paper.
 
 Q: **Nothing is working, who can I complain to?**
+
 A: Please raise an issue on this repository, that's most likely to get answered.
 
 
