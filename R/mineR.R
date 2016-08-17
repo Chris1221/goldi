@@ -33,8 +33,8 @@
 #' @export
 
 mineR <- function(doc,
-		  terms,
-		  lims = "interactive",
+		  terms = "You must put your terms here if not using a precomputed TDM.",
+		  lims = c(1,2,3,3,4,5,6,6,7,8,8),
 		  output,
 		  syn = FALSE,
 		  syn.list = NULL,
