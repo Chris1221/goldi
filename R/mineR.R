@@ -22,9 +22,8 @@
 #' @import RcppArmadillo
 #' @import dplyr
 #' @import SnowballC
-#' @import magrittr
 #' @import futile.logger
-#' @importFrom pdftools pdf_text
+#' @importFrom magrittr %<>%
 #' @importFrom Rcpp sourceCpp
 #'
 #' @useDynLib mineR
@@ -171,8 +170,14 @@ Note that any interactively created lists may be saved and inputed.
 	#
 	# 	Read the PDF in R through pdftools::pdf_text (this is probably fastest but does not handle 2 columns)
 	# 		If need two column, need to use "py".
-	if(reader == "R") raw <- pdf_text(doc); flog.info("Reading in input through pdftools::pdf_text. If you get any warnings, see their documentation.")
+	if(reader == "R") {
 
+	  if(!require(pdftools)){
+	    flog.fatal("Please install pdftools for this functionality")
+	    } else {
+	  raw <- pdf_text(doc); flog.info("Reading in input through pdftools::pdf_text. If you get any warnings, see their documentation.")
+	    }
+	  }
 	#	If the PDF is already converted, just read the txt
 	#		This is best for power users who want to convert beforehand
 	#		and check QC.
