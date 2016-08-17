@@ -13,7 +13,7 @@ In this analysis we seek to find Gene Ontology terms which may be overrepresente
 
 We first fetch all the results of a specific query from Pubmed using the `RISmed` package and store their abstracts in a `data.frame`.
 
-```{R}
+```{R, eval = F}
 library(RISmed)
 
 # Store the input string for reuse
@@ -35,7 +35,7 @@ head(data)
 
 We want to compare the terms found here to something, so we grab all abstracts from 2014 to 2015 which match a similar field, i.e. immunology genetics.  Note that only 1000 records are taken by default.
 
-```{R}
+```{R, eval = F}
 # Store the input string for reuse
 search_topic <- "immunology genetics"
 search_query <- EUtilsSummary(search_topic, # Find all articles matching the string
@@ -58,14 +58,17 @@ head(control)
 
 We now run `mineR` on each of the entries in both the target group and the control group.
 
-```{R}
+```{R, eval = F}
 library(mineR)
 
 
-terms <- system.file("extdata/MF_terms", package = "mineR")
+#terms <- system.file("extdata/MF_terms", package = "mineR")
 
- raw_go <- readLines(paste0(terms), skipNul = T)
+ #raw_go <- readLines(paste0(terms), skipNul = T)
+load("data/MF_terms.Rda")
 
+raw_go <- lapply(MF_terms, as.character)
+raw_go <- unlist(raw_go)
 		#	Perform the same quality control on the terms that was done on the PDF.
 
 		flog.info("Reading in of term list successful")
@@ -99,17 +102,21 @@ terms <- system.file("extdata/MF_terms", package = "mineR")
 
 
 
-
-for(i in 1:nrow(data)){
+  results <- data.frame()
+		
+for(i in 1:5){
   mineR(doc = data[i], 
         terms = terms, 
         local = F, 
-        lims = as.list(c(1,2,3,4,4,5,6,7,7,8,10)),
+        lims = as.list(c(1,2,2,3,4,5,6,7,7,8,10)),
         syn = F,
         length = 10,
         object = T,
         log = "/dev/null",
         pdf_read = "local",
         output = "/dev/null",
-        term_tdm = TDM.go.df)
+        term_tdm = TDM.go.df) -> results_new
+  
+    results <- rbind(results, results_new)
 }
+```

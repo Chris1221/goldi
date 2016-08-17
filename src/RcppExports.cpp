@@ -6,17 +6,6 @@
 
 using namespace Rcpp;
 
-// match_min
-arma::uword match_min(arma::uvec term_vector);
-RcppExport SEXP mineR_match_min(SEXP term_vectorSEXP) {
-BEGIN_RCPP
-    Rcpp::RObject __result;
-    Rcpp::RNGScope __rngScope;
-    Rcpp::traits::input_parameter< arma::uvec >::type term_vector(term_vectorSEXP);
-    __result = Rcpp::wrap(match_min(term_vector));
-    return __result;
-END_RCPP
-}
 // match
 Rcpp::CharacterMatrix match(arma::uvec term_vector, arma::mat pdf_tdm, arma::mat term_tdm, arma::vec thresholds, arma::uvec pdf_index, std::vector<std::string> terms, std::vector<std::string> sentences);
 RcppExport SEXP mineR_match(SEXP term_vectorSEXP, SEXP pdf_tdmSEXP, SEXP term_tdmSEXP, SEXP thresholdsSEXP, SEXP pdf_indexSEXP, SEXP termsSEXP, SEXP sentencesSEXP) {

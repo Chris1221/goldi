@@ -1,26 +1,29 @@
-#' Text Miner
+#' @title mineR: An R Package for Fuzzy Keyword Identification and Quantification in Natural Language
 #'
-#' Fuzzy identification of key phrases from natural language
+#' @description This function takes as input a document which the user wishes to mine, a list of terms which they wish to identify, and an acceptance function for deciding on associations. This is the main function of the package; all others are helper functions, exported for your convenience. For full instructions on this function's usage, please see the documentation at github.com/Chris1221/mineR, or read the associated publication.  We recommend it as background regardless.
 #'
-#' @param doc document which will be mined for keywords as a file path (character()).
-#' @param terms list of newline seperated key phrases of varying lengths to be identified.
-#' @param local currently only F is supported.
-#' @param lims Number of identical (or synonymous) words which must be present in a sentence in order for it to be accepted. "interactive" is default and allows you to interavtively build your own list, but a list of n elements can be supplied where n is the largest term you wish to search for.
+#' @details Gene Ontology (GO) is a popular and frequently accessed database cataloging gene functions and processes. Groups across the world have used the data archived in GO to further understand and study the mechanisms behind life.  However, the annotation of GO terms and associations in the biomedical literature has been a persistent bottleneck for researchers; there is a growing need for easily accessible software packages which facilitate either fully or semi automated identification of GO terms present in the literature. Here we present an open source R package to address the above problem.  mineR, source found at  www.github.com/Chris1221/mineR, is programmed in R and C++ for performance.  This package addresses the persistent need of researchers to efficiently identify gene ontology terms in the literature, and can serve as a cog inside more complex workflows.
+#'
+#' @keywords Text Mining, Gene Ontology, Databases
+#'
+#' @author Christopher B. Cole <chris.c.1221@gmail.com>
+#'
+#' @references See ArXiv prepubliation.
+#'
+#' @param doc Either a file path to a document which will be read in, or a string already read into R. See \code{"reader"} for more details. Depending on the \code{"reader"} selected, there are four options for document input.
+#' @param terms Either a character vector of terms, with each element being a separate term, or a file path to a newline seperated text document which may be parsed into terms.
+#' @param lims Number of identical (or synonymous) words which must be present in a sentence in order for it to be accepted as a match for the term. "interactive" is default and allows you to interavtively build your own list, but a list or vector of n elements can be supplied where n is the largest term you wish to search for.
 #' @param output path to output file
-#' @param wd working directory if different than getwd()
-#' @param length maximum length of term in words that you would like to search for.
-#' @param syn TRUE if synonyms are to be used (also see syn.list), FALSE if no synonyms are to be used.
+#' @param syn If you would like to use synonyms, set \code{"syn = TRUE"} with \code{"syn.list"} left as default to launch the interactive generator (\code{"mineR::make.syn()"}), or give a list if synonyms are already formatted.
 #' @param syn.list LIST of synonyms to be used. First element of each list item is the word that will counted if any of the other elements of that list item are present.
-#' @param return.as.list Mostly used for testing, returns output as an R (character) object instead of writing to a file.
+#' @param object Return as an R object?
 #'
 #' @import tm
-#' @import Rcpp
 #' @import RcppArmadillo
 #' @import dplyr
 #' @import SnowballC
-#' @import magrittr
-#' @importFrom pdftools pdf_text
 #' @import futile.logger
+#' @importFrom magrittr %<>%
 #' @importFrom Rcpp sourceCpp
 #'
 #' @useDynLib mineR
@@ -30,17 +33,14 @@
 #' @export
 
 mineR <- function(doc,
-		  terms,
-		  local = FALSE,
-		  lims = "interactive",
+		  terms = "You must put your terms here if not using a precomputed TDM.",
+		  lims = c(1,2,3,3,4,5,6,6,7,8,8),
 		  output,
 		  syn = FALSE,
 		  syn.list = NULL,
-		  length = 10,
-		  wd = getwd(),
 		  object = FALSE,
 		  log = NULL,
-		  pdf_read = "local",
+		  reader = "local",
 		  term_tdm = NULL,
 		  log.level = "warn"){
 
@@ -69,11 +69,9 @@ For your reference, here is a list of your input options:
 	output:", capture.output(dput(output)), "
 	syn:", capture.output(dput(syn)), "
 	syn.list:", capture.output(dput(syn.list)), "
-	length:", capture.output(dput(length)), "
-	wd:", capture.output(dput(wd)), "
 	return.as.list:", capture.output(dput(return.as.list)), "
 	log:", capture.output(dput(log)), "
-	pdf_read:", capture.output(dput(pdf_read)),"
+	reader:", capture.output(dput(reader)),"
 
 To recreate this exact run at a later date, you may reinput these options.
 
@@ -172,17 +170,23 @@ Note that any interactively created lists may be saved and inputed.
 	#
 	# 	Read the PDF in R through pdftools::pdf_text (this is probably fastest but does not handle 2 columns)
 	# 		If need two column, need to use "py".
-	if(pdf_read == "R") raw <- pdf_text(doc); flog.info("Reading in input through pdftools::pdf_text. If you get any warnings, see their documentation.")
+	if(reader == "R") {
 
+	  if(!require(pdftools)){
+	    flog.fatal("Please install pdftools for this functionality")
+	    } else {
+	  raw <- pdf_text(doc); flog.info("Reading in input through pdftools::pdf_text. If you get any warnings, see their documentation.")
+	    }
+	  }
 	#	If the PDF is already converted, just read the txt
 	#		This is best for power users who want to convert beforehand
 	#		and check QC.
-	if(pdf_read == "txt") raw <- readLines(doc); flog.info("Reading in input through base::readLines.")
+	if(reader == "txt") raw <- readLines(doc); flog.info("Reading in input through base::readLines.")
 
 	# 	If the PDF has two columns / is more complex, resort to external python calls
 	# 		Note that submodule will have to be init if the repo is cloned from github
 	# 		tarball should have it already Init, but check this to make sure.
-	if(pdf_read == "Py") {
+	if(reader == "Py") {
 
 		flog.info("Reading in input through pdfminer. This might not work; you might have to download it yourself, then read in input through txt options.")
 
@@ -226,7 +230,7 @@ Note that any interactively created lists may be saved and inputed.
 
 	}
 
-	if(pdf_read == "local") raw <- doc
+	if(reader == "local") raw <- doc
 
 
 	# Perform Quality control on input and create term document matrix.
@@ -486,7 +490,7 @@ Note that any interactively created lists may be saved and inputed.
 
 	flog.info("Everything was successful. Ending logging now. Have a nice day.")
 
-	if(!local && !return.as.list){
+	if(!object){
 
 		flog.info("Returning as List, either for internal use or for testing.")
 		writeLines(as.character(terms), output, sep = "\n")

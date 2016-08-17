@@ -19,8 +19,12 @@ inst/refs
 ..Rcheck/
 .DS_Store/
 .RData
-.Rbuildignore
 .Rprofile
 .gitattributes
 TODO.md
 mineR.Rproj
+
+# CPP stuff
+src/*.o
+src/*.so
+src/*.dll
