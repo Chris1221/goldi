@@ -65,7 +65,7 @@ This will give the term identified and the context in the free form where it was
 
 ### FAQ
 
-Q: **This is all really confusing, where can I read more about this package?**
+###### Q: **This is all really confusing, where can I read more about this package?**
 
 A: Please see the pre print of our paper.
 
