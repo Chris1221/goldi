@@ -23,3 +23,8 @@ inst/refs
 .gitattributes
 TODO.md
 mineR.Rproj
+
+# CPP stuff
+src/*.o
+src/*.so
+src/*.dll
