@@ -12,7 +12,7 @@ Status:
 
 ### Overview
 
-`mineR` is a tool for identifying key terms in text. It has been developed with the intention of identifying ontological labels in free form text with specific application to finding [Gene Ontology] terms in the biomedical literature with strict canonical NLP quality control. 
+`mineR` is a tool for identifying key terms in text. It has been developed with the intention of identifying ontological labels in free form text with specific application to finding [Gene Ontology](http://geneontology.org) terms in the biomedical literature with strict canonical NLP quality control. 
 
 ### Installation
 
