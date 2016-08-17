@@ -26,10 +26,33 @@ mineR(doc,
 \item{object}{Return as an R object?}
 }
 \value{
-A text document at wd/output if local == FALSE, or an R object if local == TRUE.
+A data frame of terms and their context within the document.
 }
 \description{
 This function takes as input a document which the user wishes to mine, a list of terms which they wish to identify, and an acceptance function for deciding on associations. This is the main function of the package; all others are helper functions, exported for your convenience. For full instructions on this function's usage, please see the documentation at github.com/Chris1221/mineR, or read the associated publication.  We recommend it as background regardless.
+}
+\examples{
+\dontrun{
+
+# Give the free form text
+doc <- "In this sentence we will talk about ribosomal chaperone activity. In this sentence we will talk about nothing. Here we discuss obsolete molecular terms."
+
+# Load in the included term document matrix for the terms
+data("TDM.go.df")
+
+# Pipe output and log to /dev/null
+output = "/dev/null"
+log = "/dev/null"
+
+# Run the function
+mineR(doc = doc,
+      term_tdm = TDM.go.df,
+      output = output,
+      log = log,
+      object = TRUE)
+
+}
+
 }
 \author{
 Christopher B. Cole <chris.c.1221@gmail.com>
