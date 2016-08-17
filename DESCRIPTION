@@ -18,6 +18,7 @@ Imports:
     SnowballC,
     devtools,
     pdftools,
+    magrittr,
     futile.logger
 Suggests:
     testthat,
