@@ -2,7 +2,7 @@
 % Please edit documentation in R/mineR.R
 \name{mineR}
 \alias{mineR}
-\title{mineR: An R Package for Fuzzy Keyword Identification and Quantification in Natural Language}
+\title{Identify terms present in document.}
 \usage{
 mineR(doc,
   terms = "You must put your terms here if not using a precomputed TDM.",

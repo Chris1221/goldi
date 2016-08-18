@@ -1,4 +1,4 @@
-#' @title mineR: An R Package for Fuzzy Keyword Identification and Quantification in Natural Language
+#' @title Identify terms present in document.
 #'
 #' @description This function takes as input a document which the user wishes to mine, a list of terms which they wish to identify, and an acceptance function for deciding on associations. This is the main function of the package; all others are helper functions, exported for your convenience. For full instructions on this function's usage, please see the documentation at github.com/Chris1221/mineR, or read the associated publication.  We recommend it as background regardless.
 #'
