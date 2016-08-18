@@ -1,5 +1,4 @@
 ## `GOldilocks`: **G**ene **O**ntology **L**abel **D**iscernment and **I**dentification in **L**iterature **O**bserving **C**ogent **K**eyterm **S**ynonyms
-
 ### **Just the right** term matches.
 
 --------------------------
