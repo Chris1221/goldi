@@ -1,7 +1,6 @@
-Package: mineR
+Package: GOldilocks
 Type: Package
-Title: An R Package for Fuzzy Keyword Identification and Quantification in
-    Natural Language
+Title: Gene Ontology Label Discernment and Identification in Literature Observing Cogent Keyterm Synonyms 
 Version: 0.2.3.9000
 Date: 2016-02-15
 Author: Christopher B. Cole
