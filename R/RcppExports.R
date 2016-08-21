@@ -3,6 +3,6 @@
 
 #' @export
 match <- function(term_vector, pdf_tdm, term_tdm, thresholds, pdf_index, terms, sentences) {
-    .Call('mineR_match', PACKAGE = 'mineR', term_vector, pdf_tdm, term_tdm, thresholds, pdf_index, terms, sentences)
+    .Call('GOldilocks_match', PACKAGE = 'GOldilocks', term_vector, pdf_tdm, term_tdm, thresholds, pdf_index, terms, sentences)
 }
 

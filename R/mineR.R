@@ -25,7 +25,7 @@
 #' @importFrom magrittr %<>%
 #' @importFrom Rcpp sourceCpp
 #'
-#' @useDynLib mineR
+#' @useDynLib GOldilocks
 #'
 #' @examples
 #' \dontrun{
