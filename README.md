@@ -1,5 +1,4 @@
-`mineR`: An R Package for Fuzzy Keyword Identification and Quantification in Natural Language
---------------------------
+## `GOldilocks`: **G**ene **O**ntology **L**abel **D**iscernment and **I**dentification in **L**iterature **O**bserving **C**ogent **K**eyterm **S**ynonyms
 
 Status:
 

@@ -1,8 +1,7 @@
-#' @title mineR: An R Package for Fuzzy Keyword Identification and Quantification in Natural Language
+#' @title Identify terms present in document.
 #'
 #' @description This function takes as input a document which the user wishes to mine, a list of terms which they wish to identify, and an acceptance function for deciding on associations. This is the main function of the package; all others are helper functions, exported for your convenience. For full instructions on this function's usage, please see the documentation at github.com/Chris1221/mineR, or read the associated publication.  We recommend it as background regardless.
 #'
-#' @details Gene Ontology (GO) is a popular and frequently accessed database cataloging gene functions and processes. Groups across the world have used the data archived in GO to further understand and study the mechanisms behind life.  However, the annotation of GO terms and associations in the biomedical literature has been a persistent bottleneck for researchers; there is a growing need for easily accessible software packages which facilitate either fully or semi automated identification of GO terms present in the literature. Here we present an open source R package to address the above problem.  mineR, source found at  www.github.com/Chris1221/mineR, is programmed in R and C++ for performance.  This package addresses the persistent need of researchers to efficiently identify gene ontology terms in the literature, and can serve as a cog inside more complex workflows.
 #'
 #' @keywords Text Mining, Gene Ontology, Databases
 #'
@@ -28,7 +27,29 @@
 #'
 #' @useDynLib mineR
 #'
-#' @return A text document at wd/output if local == FALSE, or an R object if local == TRUE.
+#' @examples
+#' \dontrun{
+#'
+#' # Give the free form text
+#' doc <- "In this sentence we will talk about ribosomal chaperone activity. In this sentence we will talk about nothing. Here we discuss obsolete molecular terms."
+#'
+#' # Load in the included term document matrix for the terms
+#' data("TDM.go.df")
+#'
+#' # Pipe output and log to /dev/null
+#' output = "/dev/null"
+#' log = "/dev/null"
+#'
+#' # Run the function
+#' mineR(doc = doc,
+#'       term_tdm = TDM.go.df,
+#'       output = output,
+#'       log = log,
+#'       object = TRUE)
+#'
+#' }
+#'
+#' @return A data frame of terms and their context within the document.
 #'
 #' @export
 

@@ -59,64 +59,48 @@ head(control)
 We now run `mineR` on each of the entries in both the target group and the control group.
 
 ```{R, eval = F}
-library(mineR)
+ data(package = "mineR", "TDM.go.df")
+  TDM.go.df <- TDM.go.df[, !duplicated(colnames(TDM.go.df))]
 
+  lims <- c(1,2,2,3,4,5,6,7,7,8,10)
 
-#terms <- system.file("extdata/MF_terms", package = "mineR")
+  results <- list()
 
- #raw_go <- readLines(paste0(terms), skipNul = T)
-load("data/MF_terms.Rda")
+  for(i in 1:length(data)){
 
-raw_go <- lapply(MF_terms, as.character)
-raw_go <- unlist(raw_go)
-		#	Perform the same quality control on the terms that was done on the PDF.
+    if(!data[i] == ""){
+      results[[i]] <- mineR(doc = data[i],
+            terms = terms,
+            lims = lims,
+            syn = F,
+            object = T,
+            log = "/dev/null",
+            reader = "local",
+            output = "/dev/null",
+            term_tdm = TDM.go.df)
+    }
+  }
 
-		flog.info("Reading in of term list successful")
-		flog.info("Performing quality control for term list")
+  results <- do.call("rbind", results)
 
-		raw_go <- iconv(raw_go,"WINDOWS-1252","UTF-8") #this might not be a silver bullet, check the encoding
-		raw_go <- raw_go[which(raw_go!="")]
+  control_results <- list()
 
-		doc.vec <- VectorSource(raw_go)
-		doc.corpus <- Corpus(doc.vec)
-		raw.corpus <- doc.corpus # for use later
-
-		flog.info("Constructing TDM for term list")
-
-		doc.corpus <- tm_map(doc.corpus, content_transformer(tolower), mc.cores = 1)
-		doc.corpus <- tm_map(doc.corpus, content_transformer(replaceExpressions), mc.cores = 1)
-		doc.corpus <- tm_map(doc.corpus, removePunctuation, mc.cores = 1)
-		doc.corpus <- tm_map(doc.corpus, removeNumbers, mc.cores = 1)
-		doc.corpus <- tm_map(doc.corpus, removeWords, stopwords("english"), mc.cores = 1)
-		doc.corpus <- tm_map(doc.corpus, stemDocument)
-		doc.corpus <- tm_map(doc.corpus, stripWhitespace)
-
-		TermDocumentMatrix(doc.corpus) %>% as.matrix() %>% as.data.frame() -> TDM.go.df
-
-		#	Make the headers of the data frame the same as the terms
-
-		sub <- gsub(" ", "_", x = raw_go)
-		sub <- gsub("-", "_", x = sub)
-
-		colnames(TDM.go.df) <- sub
-
-
-
-  results <- data.frame()
-		
-for(i in 1:5){
-  mineR(doc = data[i], 
-        terms = terms, 
-        local = F, 
-        lims = as.list(c(1,2,2,3,4,5,6,7,7,8,10)),
-        syn = F,
-        length = 10,
-        object = T,
-        log = "/dev/null",
-        pdf_read = "local",
-        output = "/dev/null",
-        term_tdm = TDM.go.df) -> results_new
-  
-    results <- rbind(results, results_new)
-}
+  for(i in 1:length(control)){
+    if(!control[i] == ""){
+      control_results[[i]] <- mineR(doc = control[i],
+            terms = terms,
+            lims = lims,
+            syn = F,
+            object = T,
+            log = "/dev/null",
+            reader = "local",
+            output = "/dev/null",
+            term_tdm = TDM.go.df)
+    }
+  }
+  control_results <- do.call("rbind", control_results)
 ```
+
+This gives us two objects holding the results, `results` and `control_results`.  We summarize the results and take all the terms in the result set with more than two occurances to minimize spurious hits.
+
+```{R, eval = F}

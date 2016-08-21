@@ -2,6 +2,8 @@
 
 S3method(replaceExpressions,PlainTextDocument)
 S3method(replaceExpressions,character)
+export(enrichment)
+export(hgt)
 export(make.lim)
 export(make.syn)
 export(match)
