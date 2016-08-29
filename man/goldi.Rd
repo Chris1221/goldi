@@ -24,6 +24,14 @@ goldi(doc,
 \item{syn.list}{LIST of synonyms to be used. First element of each list item is the word that will counted if any of the other elements of that list item are present.}
 
 \item{object}{Return as an R object?}
+
+\item{log}{If specified, the path to the log you wish to keep.}
+
+\item{reader}{Option for how to read in the text files. See details.}
+
+\item{term_tdm}{If using a precompiled TDM.}
+
+\item{log.level}{Logging level. See \code{?flog.threshold} for details.}
 }
 \value{
 A data frame of terms and their context within the document.
@@ -35,7 +43,7 @@ This function takes as input a document which the user wishes to mine, a list of
 \dontrun{
 
 # Give the free form text
-doc <- "In this sentence we will talk about ribosomal chaperone activity. In this sentence we will talk about nothing. Here we discuss obsolete molecular terms."
+doc <- "In this sentence we will talk about ribosomal chaperone activity."
 
 # Load in the included term document matrix for the terms
 data("TDM.go.df")

@@ -3,31 +3,33 @@ Type: Package
 Title: Gene Ontology Label Discernment and Identification 
 Version: 0.2.3.9000
 Date: 2016-02-15
-Author: Christopher B. Cole
+Authors@R: c(person("Christopher B.", "Cole", email = "chris.c.1221@gmail.com",
+  role = c("aut", "cre")), person("Sejal", "Patel",
+  role = c("ctb")), person("Jo", "Knight",
+  role = c("ctb", "cph")))
 Encoding: UTF-8
 Maintainer: Christopher B. Cole <chris.c.1221@gmail.com>
-Description: Blah
+Description: goldi is a tool for identifying key terms in text. It has been developed with the intention of identifying ontological labels in free form text with specific application to finding Gene Ontology terms in the biomedical literature with strict canonical NLP quality control.
 LinkingTo: Rcpp, RcppArmadillo
+Depends: R (>= 2.15.0)
 Imports:
     dplyr,
-    rmarkdown,
     Rcpp,
     RcppArmadillo,
     tm,
-    SnowballC,
-    devtools, 
+    SnowballC, 
     magrittr,
     futile.logger
 Suggests:
     testthat,
     covr,
-    knitr,
     rmarkdown,
+    knitr,
     pdftools,
     RISmed
-License: GPS (>= 2) | file LICENSE
-BugReports: https://github.com/Chris1221/mineR/issues
-URL: https://github.com/Chris1221/mineR
+License: MIT + file LICENSE
+BugReports: https://github.com/Chris1221/goldi/issues
+URL: https://github.com/Chris1221/goldi
 LazyData: TRUE
 RoxygenNote: 5.0.1
 VignetteBuilder: knitr

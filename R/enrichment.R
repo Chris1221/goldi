@@ -21,15 +21,15 @@ enrichment <- function(target, control, threshold, correction = "fdr"){
 
   target %<>%
     as.data.frame() %>%
-    group_by(V1) %>%
-    summarise(length = length(V1)) %>%
+    group_by_("V1") %>%
+    summarise_(length = "length(V1)") %>%
     filter(length > threshold) %>%
     arrange(-length)
 
   control %<>%
     as.data.frame %>%
-    group_by(V1) %>%
-    summarise(length = length(V1)) %>%
+    group_by_("V1") %>%
+    summarise_(length = "length(V1)") %>%
     arrange(-length)
 
   results <- data.frame(Term = character(), Enrichment = double(), P = double(), stringsAsFactors = F)

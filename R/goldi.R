@@ -18,8 +18,8 @@
 #' @param object Return as an R object?
 #' @param log If specified, the path to the log you wish to keep.
 #' @param term_tdm If using a precompiled TDM.
-#' @param log Logging level. See \code{?flog.threshold} for details.
-#'
+#' @param log.level Logging level. See \code{?flog.threshold} for details.
+#' @param reader Option for how to read in the text files. See details.
 #' @import tm
 #' @import RcppArmadillo
 #' @import dplyr
@@ -34,7 +34,7 @@
 #' \dontrun{
 #'
 #' # Give the free form text
-#' doc <- "In this sentence we will talk about ribosomal chaperone activity. In this sentence we will talk about nothing. Here we discuss obsolete molecular terms."
+#' doc <- "In this sentence we will talk about ribosomal chaperone activity."
 #'
 #' # Load in the included term document matrix for the terms
 #' data("TDM.go.df")
@@ -196,11 +196,7 @@ Note that any interactively created lists may be saved and inputed.
 	# 		If need two column, need to use "py".
 	if(reader == "R") {
 
-	  if(!require(pdftools)){
-	    flog.fatal("Please install pdftools for this functionality")
-	    } else {
-	  raw <- pdf_text(doc); flog.info("Reading in input through pdftools::pdf_text. If you get any warnings, see their documentation.")
-	    }
+	  raw <- pdftools::pdf_text(doc); flog.info("Reading in input through pdftools::pdf_text. If you get any warnings, see their documentation.")
 	  }
 	#	If the PDF is already converted, just read the txt
 	#		This is best for power users who want to convert beforehand
@@ -216,24 +212,24 @@ Note that any interactively created lists may be saved and inputed.
 
 	#	Try to find the pdf2txt python program
 	#		Also try to find the directory for trouble shooting.
-		py <- system.file(package = "goldi", "pdfminer/tools/pdf2txt.py")
-		py_dir <- system.file(package = "goldi", "pdfminer")
+		py <- system.file(package = "goldi", "pdf2txt.py")
+		#py_dir <- system.file(package = "goldi", "pdfminer")
 
 	# 	Error Chcecking
-		if(nchar(py) == 0) {
+		#if(nchar(py) == 0) {
 
-			flog.warn("pdfminer is either missing or incorrectly configured.  Attempting to fix the issue but no promises.")
+			#flog.warn("pdfminer is either missing or incorrectly configured.  Attempting to fix the issue but no promises.")
 
-			if(system("git --version 2>&1 >/dev/null; echo $?", intern = TRUE, ignore.stderr = FALSE, ignore.stdout=FALSE) != "0") warning("git might not be properly installed either, but I'm going to try to use it anyway. You need it to initialize the subdirectory for the pythong pdfminer.")
+			#if(system("git --version 2>&1 >/dev/null; echo $?", intern = TRUE, ignore.stderr = FALSE, ignore.stdout=FALSE) != "0") warning("git might not be properly installed either, but I'm going to try to use it anyway. You need it to initialize the subdirectory for the pythong pdfminer.")
 
 			# Is the directory empty? If so, git init the submodules
 
-			if(length(list.files(py_dir)) == 0) system(paste0("git -C ", py_dir, " submodule init"))
+			#if(length(list.files(py_dir)) == 0) system(paste0("git -C ", py_dir, " submodule init"))
 
 			# Check to see if it worked
 
-			if(length(list.files(py_dir)) == 0) stop(); flog.fatal("I was unable to fix the problem. Please either initialize the submodule yourself or raise an issue on Github to discuss the problem")
-		}
+			#if(length(list.files(py_dir)) == 0) stop(); flog.fatal("I was unable to fix the problem. Please either initialize the submodule yourself or raise an issue on Github to discuss the problem")
+		#}
 
 	#	Abandon this for now.
 	#		Maybe try to fix later.
@@ -288,7 +284,7 @@ Note that any interactively created lists may be saved and inputed.
 	  TDM.df[i,n+2] <- sum(TDM.df[i,1:n])
 	}
 
-	TDM.df %>% select(words,counts) -> freq.table
+	TDM.df %>% select_("words","counts") -> freq.table
 
 	flog.info("Constuction of PDF TDM succesful.")
 

@@ -2,7 +2,15 @@
 # Generator token: 10BE3573-1514-4C36-9D1C-5A225CD40393
 
 #' @title Match terms
-#' @description Implimented in C++
+#' @description Match terms in C++
+#' @param term_vector Index vector of where each of the terms is in the pdf_tdm. i.e. the ith element of term_vector is j. Therefor, term i is at column j in the pdf_tdm.
+#' @param terms List of terms used, this is the vector of column names of term_tdm.
+#' @param sentences Vector of sentences read in from the PDf.
+#' @param pdf_tdm Term document matrix of words in the PDF
+#' @param term_tdm Term document matrix of words in the terms and pdf sentences.
+#' @param thresholds Acceptance thresholds
+#' @param pdf_index Index of terms in PDF
+#' @return List of matched terms.
 #' @export
 match <- function(term_vector, pdf_tdm, term_tdm, thresholds, pdf_index, terms, sentences) {
     .Call('goldi_match', PACKAGE = 'goldi', term_vector, pdf_tdm, term_tdm, thresholds, pdf_index, terms, sentences)

@@ -1,0 +1,5 @@
+.travis.yml
+appveyor.yml
+data-raw/
+inst/mineR_paper
+inst/pdfminer
