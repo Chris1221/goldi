@@ -1,6 +1,6 @@
 #' Construct Constraint Limits for Fuzzy Identification
 #'
-#' @param i interactive (TRUE) or specified list (FALSE)
+#' @param int interactive (TRUE) or specified list (FALSE)
 #' @param list preconstructed list if i is FALSE
 #' @param length number of parameters you wish to enter. Defaults to 5.
 #'
@@ -20,14 +20,14 @@ make.lim <- function(int=TRUE, list=NULL, length=10) {
 		while(i < length){
 
 			lims[[i]] <- as.integer(readline(prompt = paste0("For terms with ", i, " words, type how many matches are required: ")))
-			
+
 			if(is.na(lims[[i]])) stop("Please enter a number.")
 
 			if(lims[[i]] == -9) {
 				lims[[i]] <- NULL
 				break
 			}
-			
+
 			if(lims[[i]] > i) {
 				message(" \n Number of terms to match exceeds number of words in term. Please try again or -9 to exit. \n")
 				i = i-1
@@ -47,4 +47,4 @@ make.lim <- function(int=TRUE, list=NULL, length=10) {
 	return(lims)
 
 
-} 
+}

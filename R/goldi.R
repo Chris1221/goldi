@@ -1,6 +1,6 @@
 #' @title Identify terms present in document.
 #'
-#' @description This function takes as input a document which the user wishes to mine, a list of terms which they wish to identify, and an acceptance function for deciding on associations. This is the main function of the package; all others are helper functions, exported for your convenience. For full instructions on this function's usage, please see the documentation at github.com/Chris1221/mineR, or read the associated publication.  We recommend it as background regardless.
+#' @description This function takes as input a document which the user wishes to mine, a list of terms which they wish to identify, and an acceptance function for deciding on associations. This is the main function of the package; all others are helper functions, exported for your convenience. For full instructions on this function's usage, please see the documentation at github.com/Chris1221/goldi, or read the associated publication.  We recommend it as background regardless.
 #'
 #'
 #' @keywords Text Mining, Gene Ontology, Databases
@@ -13,9 +13,12 @@
 #' @param terms Either a character vector of terms, with each element being a separate term, or a file path to a newline seperated text document which may be parsed into terms.
 #' @param lims Number of identical (or synonymous) words which must be present in a sentence in order for it to be accepted as a match for the term. "interactive" is default and allows you to interavtively build your own list, but a list or vector of n elements can be supplied where n is the largest term you wish to search for.
 #' @param output path to output file
-#' @param syn If you would like to use synonyms, set \code{"syn = TRUE"} with \code{"syn.list"} left as default to launch the interactive generator (\code{"mineR::make.syn()"}), or give a list if synonyms are already formatted.
+#' @param syn If you would like to use synonyms, set \code{"syn = TRUE"} with \code{"syn.list"} left as default to launch the interactive generator (\code{"goldi::make.syn()"}), or give a list if synonyms are already formatted.
 #' @param syn.list LIST of synonyms to be used. First element of each list item is the word that will counted if any of the other elements of that list item are present.
 #' @param object Return as an R object?
+#' @param log If specified, the path to the log you wish to keep.
+#' @param term_tdm If using a precompiled TDM.
+#' @param log Logging level. See \code{?flog.threshold} for details.
 #'
 #' @import tm
 #' @import RcppArmadillo
@@ -25,7 +28,7 @@
 #' @importFrom magrittr %<>%
 #' @importFrom Rcpp sourceCpp
 #'
-#' @useDynLib GOldilocks
+#' @useDynLib goldi
 #'
 #' @examples
 #' \dontrun{
@@ -41,7 +44,7 @@
 #' log = "/dev/null"
 #'
 #' # Run the function
-#' mineR(doc = doc,
+#' goldi(doc = doc,
 #'       term_tdm = TDM.go.df,
 #'       output = output,
 #'       log = log,
@@ -53,7 +56,7 @@
 #'
 #' @export
 
-mineR <- function(doc,
+goldi <- function(doc,
 		  terms = "You must put your terms here if not using a precomputed TDM.",
 		  lims = c(1,2,3,3,4,5,6,6,7,8,8),
 		  output,
@@ -69,17 +72,17 @@ mineR <- function(doc,
 	ptm <- proc.time()
 
 	# Creating header for log file.
-	pv <- packageVersion("mineR")
+	pv <- packageVersion("goldi")
 
 	header <- paste0(
 
 "@------------------------------------------------------@
-|     mineR     |     v",pv,"     |   3/Aug/2016   |
+|     goldi     |     v",pv,"     |   3/Aug/2016   |
 | ---------------------------------------------------- |
 |         (C) Christopher B. Cole, MIT License         |
 | ---------------------------------------------------- |
 |  For documentation, citation, bug reports, and more: |
-|          http://github.com/Chris1221/mineR           |
+|          http://github.com/Chris1221/goldi           |
 @ ---------------------------------------------------- @
 
 For your reference, here is a list of your input options:
@@ -213,8 +216,8 @@ Note that any interactively created lists may be saved and inputed.
 
 	#	Try to find the pdf2txt python program
 	#		Also try to find the directory for trouble shooting.
-		py <- system.file(package = "mineR", "pdfminer/tools/pdf2txt.py")
-		py_dir <- system.file(package = "mineR", "pdfminer")
+		py <- system.file(package = "goldi", "pdfminer/tools/pdf2txt.py")
+		py_dir <- system.file(package = "goldi", "pdfminer")
 
 	# 	Error Chcecking
 		if(nchar(py) == 0) {
