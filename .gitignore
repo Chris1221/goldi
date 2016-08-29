@@ -28,3 +28,5 @@ mineR.Rproj
 src/*.o
 src/*.so
 src/*.dll
+
+inst/mineR_paper/
