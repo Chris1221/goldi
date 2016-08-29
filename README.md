@@ -1,4 +1,4 @@
-## `goldi`: **G**ene **O**ntology **L**abel **D**iscernment
+## `goldi`: **G**ene **O**ntology **L**abel **D**iscernment and **Identification**
 
 Status:
 
