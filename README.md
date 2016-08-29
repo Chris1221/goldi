@@ -1,4 +1,4 @@
-## `goldi`: **G**ene **O**ntology **L**abel **D**iscernment and **I**dentification in **L**iterature **O**bserving **C**ogent **K**eyterm **S**ynonyms
+## `goldi`: **G**ene **O**ntology **L**abel **D**iscernment
 
 Status:
 
