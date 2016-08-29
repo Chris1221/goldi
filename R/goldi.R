@@ -27,6 +27,8 @@
 #' @import futile.logger
 #' @importFrom magrittr %<>%
 #' @importFrom Rcpp sourceCpp
+#' @importFrom utils capture.output packageVersion
+#' @importFrom stats p.adjust
 #'
 #' @useDynLib goldi
 #'
