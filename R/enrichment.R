@@ -4,8 +4,8 @@
 #'
 #' @details This function mimics a truncated version of the output of \href{https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-48}{GOrilla} by identifying and quantifying the enrichment of terms in a target set of articles. Given N articles and B associations of the given term, the enrichment of b terms in the n articles in the target set is given by \eqn{\frac{\frac{b}{n}}{\frac{B}{N}}}.
 #'
-#' @param target Set of \code{\link{mineR}} output for a target set of articles.
-#' @param control Set of \code{\link{mineR}} output for a control set of articles.
+#' @param target Set of \code{\link{goldi}} output for a target set of articles.
+#' @param control Set of \code{\link{goldi}} output for a control set of articles.
 #' @param threshold Only investigate associations which have been founder greater than this number of times.
 #' @param correction Correction to impliment on association P values. Users may choose any value which \code{\link[stats]{p.adjust}} may accept.
 #'
@@ -21,15 +21,15 @@ enrichment <- function(target, control, threshold, correction = "fdr"){
 
   target %<>%
     as.data.frame() %>%
-    group_by(V1) %>%
-    summarise(length = length(V1)) %>%
+    group_by_("V1") %>%
+    summarise_(length = "length(V1)") %>%
     filter(length > threshold) %>%
     arrange(-length)
 
   control %<>%
     as.data.frame %>%
-    group_by(V1) %>%
-    summarise(length = length(V1)) %>%
+    group_by_("V1") %>%
+    summarise_(length = "length(V1)") %>%
     arrange(-length)
 
   results <- data.frame(Term = character(), Enrichment = double(), P = double(), stringsAsFactors = F)

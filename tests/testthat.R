@@ -1,4 +1,4 @@
 library(testthat)
-library(mineR)
+library(goldi)
 
-test_check("mineR")
+test_check("goldi")

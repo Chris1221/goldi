@@ -1,5 +1,5 @@
 context("Test the main function")
-library(mineR)
+library(goldi)
 #declare test variables
 
 doc <- "Ribosomal chaperone activity."
@@ -19,7 +19,7 @@ test_that("testing main function", {
   if(os != "unix") skip("Tests are not currently performed on windows.")
 
   expect_equal(
-    mineR(doc = doc,
+    goldi(doc = doc,
           terms = "empty",
           output = output,
           lims = lims,

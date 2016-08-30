@@ -8,7 +8,7 @@ using namespace Rcpp;
 
 // match
 Rcpp::CharacterMatrix match(arma::uvec term_vector, arma::mat pdf_tdm, arma::mat term_tdm, arma::vec thresholds, arma::uvec pdf_index, std::vector<std::string> terms, std::vector<std::string> sentences);
-RcppExport SEXP mineR_match(SEXP term_vectorSEXP, SEXP pdf_tdmSEXP, SEXP term_tdmSEXP, SEXP thresholdsSEXP, SEXP pdf_indexSEXP, SEXP termsSEXP, SEXP sentencesSEXP) {
+RcppExport SEXP goldi_match(SEXP term_vectorSEXP, SEXP pdf_tdmSEXP, SEXP term_tdmSEXP, SEXP thresholdsSEXP, SEXP pdf_indexSEXP, SEXP termsSEXP, SEXP sentencesSEXP) {
 BEGIN_RCPP
     Rcpp::RObject __result;
     Rcpp::RNGScope __rngScope;

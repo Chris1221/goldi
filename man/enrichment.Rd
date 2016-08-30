@@ -7,9 +7,9 @@
 enrichment(target, control, threshold, correction = "fdr")
 }
 \arguments{
-\item{target}{Set of \code{\link{mineR}} output for a target set of articles.}
+\item{target}{Set of \code{\link{goldi}} output for a target set of articles.}
 
-\item{control}{Set of \code{\link{mineR}} output for a control set of articles.}
+\item{control}{Set of \code{\link{goldi}} output for a control set of articles.}
 
 \item{threshold}{Only investigate associations which have been founder greater than this number of times.}
 
