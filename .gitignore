@@ -31,3 +31,4 @@ src/*.dll
 
 inst/mineR_paper/
 inst/pdfminer/
+inst/refs/

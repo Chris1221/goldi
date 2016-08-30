@@ -9,7 +9,7 @@ Authors@R: c(person("Christopher B.", "Cole", email = "chris.c.1221@gmail.com",
   role = c("ctb", "cph")))
 Encoding: UTF-8
 Maintainer: Christopher B. Cole <chris.c.1221@gmail.com>
-Description: goldi is a tool for identifying key terms in text. It has been developed with the intention of identifying ontological labels in free form text with specific application to finding Gene Ontology terms in the biomedical literature with strict canonical NLP quality control.
+Description: A tool for identifying multi-word key terms in free text with application to Gene Ontology labels.
 LinkingTo: Rcpp, RcppArmadillo
 Depends: R (>= 2.15.0)
 Imports:
