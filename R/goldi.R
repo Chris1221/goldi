@@ -21,7 +21,6 @@
 #' @param log.level Logging level. See \code{?flog.threshold} for details.
 #' @param reader Option for how to read in the text files. See details.
 #' @import tm
-#' @import RcppArmadillo
 #' @import dplyr
 #' @import SnowballC
 #' @import futile.logger

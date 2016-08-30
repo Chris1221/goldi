@@ -15,16 +15,16 @@ Status:
 
 ### Installation
 
-`goldi` is not currently on CRAN, though submission is planned. You can install the stable, master branch with:
+`goldi` can be installed from CRAN with
+
+```R
+install.packages("goldi")
+```
+
+Or, you may choose to install the latest stable development version with
 
 ```R
 devtools::install_github("Chris1221/goldi")
-```
-
-For those who don't mind seeing error messages, you can also install the development version with:
-
-```R
-devtools::install_github("Chris1221/goldi", ref = "devel")
 ```
 
 ### Minimal Example
