@@ -10,7 +10,7 @@ Authors@R: c(
     )
 Encoding: UTF-8
 Maintainer: Christopher B. Cole <chris.c.1221@gmail.com>
-Description: A tool for identifying multi-word key terms in free text with application to Gene Ontology labels.
+Description: A tool for identifying multiple word key terms in free text with application to Gene Ontology labels.
 LinkingTo: 
     Rcpp, 
     RcppArmadillo

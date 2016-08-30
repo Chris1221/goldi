@@ -70,7 +70,8 @@ Q: **This is all really confusing, where can I read more about this package?**
 
 Q: **How does `goldi` match terms to sentences?**
 
-> A: `goldi` accomplishes this by finding the number of similar words in a term and in a sentence, comparing this to a user defined acceptance function A(n) based on the length of the term n. The default function is given by the following: <p align = "center"> ![A](http://www.sciweavers.org/tex2img.php?eq=%5Cmathcal%7BA%7D%28n%29%20%3D%20%5Cbegin%7Bcases%7D%20n%20%26%20n%20%5Cleq%203%20%5C%5C%20n-1%20%26%204%20%5Cleq%20n%20%5Cleq%207%20%5C%5C%20n-2%20%26%208%20%5Cleq%20n%20%5Cleq%2010%20%5C%5C%20n-3%20%26%20n%20%3E%2010%20%5Cend%7Bcases%7D&bc=White&fc=Black&im=jpg&fs=12&ff=mathdesign&edit=0) <p> This may be represented as a vector in R `lims <- c(1,2,3,3,4,5,6,6,7,8,9)` If the number of words present equals or exceeds this function, then a match is declared. You are encouraged to play around and find what acceptance function works for you.
+> A: `goldi` accomplishes this by finding the number of similar words in a term and in a sentence, comparing this to a user defined acceptance function A(n) based on the length of the term n. The default function is given by the following: $$ \mathcal{A}(n) = \begin{cases} n, & 1 < n \leq 4 \\ n-1, & 5 < n \leq 8 \\ n-2, & 9 <
+    n \leq 10 \\ 10, & n > 10 \end{cases} $$ This may be represented as a vector in R `lims <- c(1,2,3,3,4,5,6,6,7,8,9)` If the number of words present equals or exceeds this function, then a match is declared. You are encouraged to play around and find what acceptance function works for you.
 
 Q: **What if I don't have my text in R, but instead as a text or PDF file?**
 
