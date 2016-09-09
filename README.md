@@ -81,6 +81,9 @@ Q: **How can I work with abstracts from pubmed?**
 Q: **Where can I see some examples of this package in use?**
 > A: Please see the included vignettes, especially the overexpression analysis implimented in the paper.
 
+Q: **I am looking for a project to work on with `goldi`, do you have any ideas?**
+> A: Please see [here](https://github.com/Chris1221/goldi/blob/master/project_ideas.md).
+
 Q: **Nothing is working, who can I complain to?**
 > A: Please raise an issue on this repository, that's most likely to get answered.
 
