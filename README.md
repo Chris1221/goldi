@@ -5,12 +5,14 @@ Status:
 | Branch | Travis-CI | Appveyor | Coverage | CRAN | Downloads | Publication |
 | :--- | :---: | :---: | :--: | :---: | :---: | :---: |
 | `master` | ![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=master) | ![Build status](https://ci.appveyor.com/api/projects/status/v64oe85q29btxln9?svg=true) | [![codecov.io](https://codecov.io/github/Chris1221/goldi/coverage.svg?branch=master)](https://codecov.io/github/Chris1221/goldi?branch=master) | ![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/goldi) | ![](http://cranlogs.r-pkg.org/badges/goldi) | [bioRχiv](http://biorxiv.org/content/early/2016/09/05/073460) |
-| `devel` |![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=devel) | [![Build status](https://ci.appveyor.com/api/projects/status/v64oe85q29btxln9?svg=true)](https://ci.appveyor.com/project/Chris1221/miner) | [![codecov.io](https://codecov.io/github/Chris1221/goldi/coverage.svg?branch=devel)](https://codecov.io/github/Chris1221/goldi?branch=devel) | ![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/goldi) | ![](http://cranlogs.r-pkg.org/badges/goldi) | [bioRχiv](http://biorxiv.org/content/early/2016/09/05/073460) | 
+| `devel` |![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=devel) | [![Build status](https://ci.appveyor.com/api/projects/status/v64oe85q29btxln9?svg=true)](https://ci.appveyor.com/project/Chris1221/miner) | [![codecov.io](https://codecov.io/github/Chris1221/goldi/coverage.svg?branch=devel)](https://codecov.io/github/Chris1221/goldi?branch=devel) | ![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/goldi) | ![](http://cranlogs.r-pkg.org/badges/goldi) | <div data-badge-type="4" data-doi="http://dx.doi.org/10.1101/073460" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div> | 
 --------------------------------
 
 ### Overview
 
 `goldi` is a tool for identifying key terms in text. It has been developed with the intention of identifying ontological labels in free form text with specific application to finding [Gene Ontology](http://geneontology.org) terms in the biomedical literature with strict canonical NLP quality control. 
+
+
 
 ### Installation
 
