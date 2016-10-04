@@ -12,7 +12,7 @@ Status:
 
 `goldi` is a tool for identifying key terms in text. It has been developed with the intention of identifying ontological labels in free form text with specific application to finding [Gene Ontology](http://geneontology.org) terms in the biomedical literature with strict canonical NLP quality control. 
 
-
+<div data-badge-details="right" data-badge-type="donut" data-doi="http://dx.doi.org/10.1101/073460" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ### Installation
 
