@@ -511,6 +511,8 @@ Note that any interactively created lists may be saved and inputed.
 
 	flog.info("Everything was successful. Ending logging now. Have a nice day.")
 
+	colnames(terms) <- c("Identified Terms", "Context")
+
 	if(!object){
 
 		flog.info("Returning as List, either for internal use or for testing.")
