@@ -5,7 +5,7 @@
 #'
 #' @keywords Text Mining, Gene Ontology, Databases
 #'
-#' @author Christopher B. Cole <chris.c.1221@gmail.com>
+#' @author Christopher B. Cole <chris.c.1221@@gmail.com>
 #'
 #' @references See ArXiv prepubliation.
 #'
