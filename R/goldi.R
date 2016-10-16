@@ -151,7 +151,7 @@ Note that any interactively created lists may be saved and inputed.
 
 		lims <- as.list(lims)
 
-		flog.warn("Trying to coerce limits to list format.")
+		flog.debug("Trying to coerce limits to list format.")
 		flog.info("Printing your lims to log file. You can use this to recreate your list later:")
 
 		flog.info("%s", capture.output(dput(lims)))
