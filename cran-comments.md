@@ -1,7 +1,7 @@
 ## Test environments
-* Local OS X Install, R 3.3.1
-* Linux Ubuntu 12.04 LTS Server Edition 64 bit (through Travis-CI), R 3.3.1
-* Windows through Appveyor, R R.3.3.1
+* Local OS X Install, R 3.3.1 + R Devel 
+* Linux Ubuntu 12.04 LTS Server Edition 64 bit (through Travis-CI), R 3.3.1 + R Devel
+* Windows through Appveyor, R 3.3.1 + R Devel
 
 ## R CMD check results
 There were no ERRORs or WARNINGs.
