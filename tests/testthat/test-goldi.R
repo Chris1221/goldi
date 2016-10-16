@@ -12,8 +12,9 @@ log = "/dev/null"
 ouput = "/dev/null"
 
 os <- .Platform$OS.type
-out <- structure(c("ribosomal_chaperone_activity", "Ribosomal chaperone activity"), .Dim = 1:2)
+#out <- structure(c("ribosomal_chaperone_activity", "Ribosomal chaperone activity"), .Dim = 1:2)
 
+out <- structure(c("ribosomal_chaperone_activity", "In this sentence we will talk about ribosomal chaperone activity"), .Dim = 1:2, .Dimnames = list(NULL, c("Identified Terms", "Context" )))
 
 test_that("testing main function", {
   if(os != "unix") skip("Tests are not currently performed on windows.")
