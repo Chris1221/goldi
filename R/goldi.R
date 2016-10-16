@@ -460,12 +460,12 @@ Note that any interactively created lists may be saved and inputed.
 
   # Clean this up after, it's really messy right now
 
-  out %>% as.data.frame %>% data.matrix -> input_pdf_tdm
+  suppressWarnings( out %>% as.data.frame %>% data.matrix ) -> input_pdf_tdm
   colnames(input_pdf_tdm) <- NULL
   row.names(input_pdf_tdm) <- NULL
 
   input_term_tdm <- as.matrix(TDM.go.df)
-  input_term_tdm %<>% as.data.frame %>% data.matrix
+  input_term_tdm %<>% as.data.frame %>% data.matrix %>% suppressWarnings()
   colnames(input_term_tdm) <- NULL
   row.names(input_term_tdm) <- NULL
 
