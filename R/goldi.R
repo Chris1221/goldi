@@ -5,7 +5,7 @@
 #'
 #' @keywords Text Mining, Gene Ontology, Databases
 #'
-#' @author Christopher B. Cole <chris.c.1221@gmail.com>
+#' @author Christopher B. Cole <chris.c.1221@@gmail.com>
 #'
 #' @references See ArXiv prepubliation.
 #'
@@ -151,7 +151,7 @@ Note that any interactively created lists may be saved and inputed.
 
 		lims <- as.list(lims)
 
-		flog.warn("Trying to coerce limits to list format.")
+		flog.debug("Trying to coerce limits to list format.")
 		flog.info("Printing your lims to log file. You can use this to recreate your list later:")
 
 		flog.info("%s", capture.output(dput(lims)))
@@ -460,12 +460,12 @@ Note that any interactively created lists may be saved and inputed.
 
   # Clean this up after, it's really messy right now
 
-  out %>% as.data.frame %>% data.matrix -> input_pdf_tdm
+  suppressWarnings( out %>% as.data.frame %>% data.matrix ) -> input_pdf_tdm
   colnames(input_pdf_tdm) <- NULL
   row.names(input_pdf_tdm) <- NULL
 
   input_term_tdm <- as.matrix(TDM.go.df)
-  input_term_tdm %<>% as.data.frame %>% data.matrix
+  input_term_tdm %<>% as.data.frame %>% data.matrix %>% suppressWarnings()
   colnames(input_term_tdm) <- NULL
   row.names(input_term_tdm) <- NULL
 
@@ -510,6 +510,8 @@ Note that any interactively created lists may be saved and inputed.
 	flog.info("This run took approximately %s seconds.", round(as.double(time[3]), 3))
 
 	flog.info("Everything was successful. Ending logging now. Have a nice day.")
+
+	colnames(terms) <- c("Identified Terms", "Context")
 
 	if(!object){
 
