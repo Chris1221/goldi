@@ -74,6 +74,29 @@ Q: **How does `goldi` match terms to sentences?**
 Q: **What if I don't have my text in R, but instead as a text or PDF file?**
 > A: `goldi` has four distinct methods for importing text locally, please see the wiki article on the subject.
 
+Q: **Installation from CRAN is not working and it says something about `slam`, what's going on?**
+
+Newer versions of the `tm` package, which is a dependency of `goldi` require a package named `slam` which needs to be compiled from Fortran. Try the following, and if it doesn't work, raise an issue on the repository and we'll get it fixed!
+
+Type the following into terminal (on Mac OSX):
+
+```sh
+curl -O http://r.research.att.com/libs/gfortran-4.8.2-darwin13.tar.bz2
+sudo tar fvxz gfortran-4.8.2-darwin13.tar.bz2 -C /
+```
+
+Install `slam`:
+
+```R
+install.packages("slam")
+```
+
+Reinstall `goldi`:
+
+```R
+install.packages("goldi")
+```
+
 Q: **When I install the package, I get messages about `libc` or `gcc` versions. What's happening?**
 > A: The most likely scenario is that your `gcc` compiler (which compiles the `c++` code) is out of date, espcially if you are on an older version of linux distribution like CentOS on some cluster systems. Contact your system administrator and try to update `gcc`.
 
