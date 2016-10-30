@@ -106,5 +106,17 @@ Q: **I am looking for a project to work on with `goldi`, do you have any ideas?*
 Q: **Nothing is working, who can I complain to?**
 > A: Please raise an issue on this repository, that's most likely to get answered.
 
+### Citation
 
+Cole, Christopher B., et al. "Semi-Automated Identification of Ontological Labels in the Biomedical Literature with goldi." bioRxiv (2016): 073460.
 
+```
+@article{cole2016semi,
+  title={Semi-Automated Identification of Ontological Labels in the Biomedical Literature with goldi},
+  author={Cole, Christopher B and Patel, Sejal and French, Leon and Knight, Jo},
+  journal={bioRxiv},
+  pages={073460},
+  year={2016},
+  publisher={Cold Spring Harbor Labs Journals}
+}
+```
