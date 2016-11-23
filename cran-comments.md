@@ -1,3 +1,7 @@
+## Release Summary
+
+This is the second release of `goldi`. It resolves an unstated LLAPACK dependency which caused CRAN checks to fail on solaris-sparc and solaris-x86. My apologies for the error.
+
 ## Test environments
 * Local OS X Install, R 3.3.1 + R Devel 
 * Linux Ubuntu 12.04 LTS Server Edition 64 bit (through Travis-CI), R 3.3.1 + R Devel
