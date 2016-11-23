@@ -5,7 +5,7 @@ Status:
 | Branch | Travis-CI | Appveyor | Coverage | CRAN | Downloads | Publication |
 | :--- | :---: | :---: | :--: | :---: | :---: | :---: |
 | `master` | ![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=master) | ![Build status](https://ci.appveyor.com/api/projects/status/v64oe85q29btxln9?svg=true) | [![codecov.io](https://codecov.io/github/Chris1221/goldi/coverage.svg?branch=master)](https://codecov.io/github/Chris1221/goldi?branch=master) | ![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/goldi) | ![](http://cranlogs.r-pkg.org/badges/goldi) | [bioRχiv](http://biorxiv.org/content/early/2016/09/05/073460) |
-| `devel` |![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=devel) | [![Build status](https://ci.appveyor.com/api/projects/status/v64oe85q29btxln9?svg=true)](https://ci.appveyor.com/project/Chris1221/miner) | [![codecov.io](https://codecov.io/github/Chris1221/goldi/coverage.svg?branch=devel)](https://codecov.io/github/Chris1221/goldi?branch=devel) | ![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/goldi) | ![](http://cranlogs.r-pkg.org/badges/goldi) | <div data-badge-type="4" data-doi="http://dx.doi.org/10.1101/073460" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div> | 
+| `devel` |![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=devel) | [![Build status](https://ci.appveyor.com/api/projects/status/v64oe85q29btxln9?svg=true)](https://ci.appveyor.com/project/Chris1221/miner) | [![codecov.io](https://codecov.io/github/Chris1221/goldi/coverage.svg?branch=devel)](https://codecov.io/github/Chris1221/goldi?branch=devel) | ![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/goldi) | ![](http://cranlogs.r-pkg.org/badges/grand-total/goldi) | <div data-badge-type="4" data-doi="http://dx.doi.org/10.1101/073460" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div> | 
 --------------------------------
 
 ### Overview
@@ -76,23 +76,17 @@ Q: **What if I don't have my text in R, but instead as a text or PDF file?**
 
 Q: **Installation from CRAN is not working and it says something about `slam`, what's going on?**
 
-Newer versions of the `tm` package, which is a dependency of `goldi` require a package named `slam` which needs to be compiled from Fortran. Try the following, and if it doesn't work, raise an issue on the repository and we'll get it fixed!
-
+> A: Newer versions of the `tm` package, which is a dependency of `goldi` require a package named `slam` which needs to be compiled from Fortran. Try the following, and if it doesn't work, raise an issue on the repository and we'll get it fixed!
 Type the following into terminal (on Mac OSX):
-
 ```sh
 curl -O http://r.research.att.com/libs/gfortran-4.8.2-darwin13.tar.bz2
 sudo tar fvxz gfortran-4.8.2-darwin13.tar.bz2 -C /
 ```
-
 Install `slam`:
-
 ```R
 install.packages("slam")
 ```
-
 Reinstall `goldi`:
-
 ```R
 install.packages("goldi")
 ```
@@ -112,5 +106,17 @@ Q: **I am looking for a project to work on with `goldi`, do you have any ideas?*
 Q: **Nothing is working, who can I complain to?**
 > A: Please raise an issue on this repository, that's most likely to get answered.
 
+### Citation
 
+Cole, Christopher B., et al. "Semi-Automated Identification of Ontological Labels in the Biomedical Literature with goldi." bioRxiv (2016): 073460.
 
+```
+@article{cole2016semi,
+  title={Semi-Automated Identification of Ontological Labels in the Biomedical Literature with goldi},
+  author={Cole, Christopher B and Patel, Sejal and French, Leon and Knight, Jo},
+  journal={bioRxiv},
+  pages={073460},
+  year={2016},
+  publisher={Cold Spring Harbor Labs Journals}
+}
+```
