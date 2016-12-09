@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>Goldi by Chris1221</title>
+  </head>
+
+  <body>
+    <div id="container">
+      <div class="inner">
+
+        <header>
+          <h1>Goldi</h1>
+          <h2>R Package for Gene Ontology Label Discernment and Identification.</h2>
+        </header>
+
+        <section id="downloads" class="clearfix">
+          <a href="https://github.com/Chris1221/goldi/zipball/master" id="download-zip" class="button"><span>Download .zip</span></a>
+          <a href="https://github.com/Chris1221/goldi/tarball/master" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
+          <a href="https://github.com/Chris1221/goldi" id="view-on-github" class="button"><span>View on GitHub</span></a>
+        </section>
+
+        <hr>
+
+        <section id="main_content">
+          <h2>
+<a id="goldi-gene-ontology-label-discernment-and-identification" class="anchor" href="#goldi-gene-ontology-label-discernment-and-identification" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><code>goldi</code>: <strong>G</strong>ene <strong>O</strong>ntology <strong>L</strong>abel <strong>D</strong>iscernment and <strong>I</strong>dentification</h2>
+
+<p>Status:</p>
+
+<table>
+<thead>
+<tr>
+<th align="left">Branch</th>
+<th align="center">Travis-CI</th>
+<th align="center">Appveyor</th>
+<th align="center">Coverage</th>
+<th align="center">CRAN</th>
+<th align="center">Downloads</th>
+<th align="center">Publication</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><code>master</code></td>
+<td align="center"><img src="https://travis-ci.org/Chris1221/goldi.svg?branch=master" alt="Build Status"></td>
+<td align="center"><img src="https://ci.appveyor.com/api/projects/status/v64oe85q29btxln9?svg=true" alt="Build status"></td>
+<td align="center"><a href="https://codecov.io/github/Chris1221/goldi?branch=master"><img src="https://codecov.io/github/Chris1221/goldi/coverage.svg?branch=master" alt="codecov.io"></a></td>
+<td align="center"><img src="http://www.r-pkg.org/badges/version/goldi" alt="CRAN_Status_Badge"></td>
+<td align="center"><img src="http://cranlogs.r-pkg.org/badges/goldi" alt=""></td>
+<td align="center"><a href="http://biorxiv.org/content/early/2016/09/05/073460">bioRχiv</a></td>
+</tr>
+<tr>
+<td align="left"><code>devel</code></td>
+<td align="center"><img src="https://travis-ci.org/Chris1221/goldi.svg?branch=devel" alt="Build Status"></td>
+<td align="center"><a href="https://ci.appveyor.com/project/Chris1221/miner"><img src="https://ci.appveyor.com/api/projects/status/v64oe85q29btxln9?svg=true" alt="Build status"></a></td>
+<td align="center"><a href="https://codecov.io/github/Chris1221/goldi?branch=devel"><img src="https://codecov.io/github/Chris1221/goldi/coverage.svg?branch=devel" alt="codecov.io"></a></td>
+<td align="center"><img src="http://www.r-pkg.org/badges/version/goldi" alt="CRAN_Status_Badge"></td>
+<td align="center"><img src="http://cranlogs.r-pkg.org/badges/grand-total/goldi" alt=""></td>
+<td align="center"><div></div></td>
+</tr>
+</tbody>
+</table>
+
+<hr>
+
+<h3>
+<a id="overview" class="anchor" href="#overview" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Overview</h3>
+
+<p><code>goldi</code> is a tool for identifying key terms in text. It has been developed with the intention of identifying ontological labels in free form text with specific application to finding <a href="http://geneontology.org">Gene Ontology</a> terms in the biomedical literature with strict canonical NLP quality control. </p>
+
+<div></div>
+
+<h3>
+<a id="installation" class="anchor" href="#installation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Installation</h3>
+
+<p><code>goldi</code> can be installed from CRAN with</p>
+
+<div class="highlight highlight-source-r"><pre>install.packages(<span class="pl-s"><span class="pl-pds">"</span>goldi<span class="pl-pds">"</span></span>)</pre></div>
+
+<p>Or, you may choose to install the latest stable development version with</p>
+
+<div class="highlight highlight-source-r"><pre><span class="pl-e">devtools</span><span class="pl-k">::</span>install_github(<span class="pl-s"><span class="pl-pds">"</span>Chris1221/goldi<span class="pl-pds">"</span></span>)</pre></div>
+
+<h3>
+<a id="minimal-example" class="anchor" href="#minimal-example" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Minimal Example</h3>
+
+<p><code>goldi</code> attempts to identify terms in free text through semantic similarity. This means that if a term and a sentence share a high number of words, the sentence has a higher probability of talking about the term.</p>
+
+<p>Given the following input text and the included pre-computed term document matrix for approximately 10,000 Gene Onotlogy molecular function terms, we can find which are discussed in our text.</p>
+
+<div class="highlight highlight-source-r"><pre><span class="pl-c"># Give the free form text</span>
+<span class="pl-smi">doc</span> <span class="pl-k">&lt;-</span> <span class="pl-s"><span class="pl-pds">"</span>In this sentence we will talk about ribosomal chaperone activity. In this sentence we will talk about nothing. Here we discuss obsolete molecular terms.<span class="pl-pds">"</span></span>
+
+<span class="pl-c"># Load in the included term document matrix for the terms</span>
+data(<span class="pl-s"><span class="pl-pds">"</span>TDM.go.df<span class="pl-pds">"</span></span>)
+
+<span class="pl-c"># Pipe output and log to /dev/null</span>
+<span class="pl-v">output</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>/dev/null<span class="pl-pds">"</span></span>
+<span class="pl-v">log</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">"</span>/dev/null<span class="pl-pds">"</span></span>
+
+<span class="pl-c"># Run the function</span>
+goldi(<span class="pl-v">doc</span> <span class="pl-k">=</span> <span class="pl-smi">doc</span>, 
+  <span class="pl-v">term_tdm</span> <span class="pl-k">=</span> <span class="pl-smi">TDM.go.df</span>,
+  <span class="pl-v">output</span> <span class="pl-k">=</span> <span class="pl-smi">output</span>,
+  <span class="pl-v">log</span> <span class="pl-k">=</span> <span class="pl-smi">log</span>,
+  <span class="pl-v">object</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)</pre></div>
+
+<p>Note in the above example, we impliment a few other options. Firstly, we don't want to see the output or the log for this example, so we pipe them to <code>/dev/null</code>. Secondly, we would like to return the output as an R object instead of writing it to a file, so we specify <code>object = TRUE</code>. </p>
+
+<p>This will output the following table:</p>
+
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Context</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ribosomal_chaperone_activity</td>
+<td>In this sentence we will talk about ribosomal chaperone activity</td>
+</tr>
+</tbody>
+</table>
+
+<p>This will give the term identified and the context in the free form where it was identified. This table will form the basis for all further analysis.</p>
+
+<h3>
+<a id="faq" class="anchor" href="#faq" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>FAQ</h3>
+
+<p>Q: <strong>This is all really confusing, where can I read more about this package?</strong></p>
+
+<blockquote>
+<p>A: Please see the pre print of our paper.</p>
+</blockquote>
+
+<p>Q: <strong>How does <code>goldi</code> match terms to sentences?</strong></p>
+
+<blockquote>
+<p>A: <code>goldi</code> accomplishes this by finding the number of similar words in a term and in a sentence, comparing this to a user defined acceptance function A(n) based on the length of the term n. The default function is given by the following: </p>
+<p align="center"> <img src="http://www.sciweavers.org/tex2img.php?eq=%5Cmathcal%7BA%7D%28n%29%20%3D%20%5Cbegin%7Bcases%7D%20n%20%26%20n%20%5Cleq%203%20%5C%5C%20n-1%20%26%204%20%5Cleq%20n%20%5Cleq%207%20%5C%5C%20n-2%20%26%208%20%5Cleq%20n%20%5Cleq%2010%20%5C%5C%20n-3%20%26%20n%20%3E%2010%20%5Cend%7Bcases%7D&amp;bc=White&amp;fc=Black&amp;im=jpg&amp;fs=12&amp;ff=mathdesign&amp;edit=0" alt="A"> </p>
+<p> This may be represented as a vector in R <code>lims &lt;- c(1,2,3,3,4,5,6,6,7,8,9)</code> If the number of words present equals or exceeds this function, then a match is declared. You are encouraged to play around and find what acceptance function works for you.</p>
+</blockquote>
+
+<p>Q: <strong>What if I don't have my text in R, but instead as a text or PDF file?</strong></p>
+
+<blockquote>
+<p>A: <code>goldi</code> has four distinct methods for importing text locally, please see the wiki article on the subject.</p>
+</blockquote>
+
+<p>Q: <strong>Installation from CRAN is not working and it says something about <code>slam</code>, what's going on?</strong></p>
+
+<blockquote>
+<p>A: Newer versions of the <code>tm</code> package, which is a dependency of <code>goldi</code> require a package named <code>slam</code> which needs to be compiled from Fortran. Try the following, and if it doesn't work, raise an issue on the repository and we'll get it fixed!
+Type the following into terminal (on Mac OSX):</p>
+
+<div class="highlight highlight-source-shell"><pre>curl -O http://r.research.att.com/libs/gfortran-4.8.2-darwin13.tar.bz2
+sudo tar fvxz gfortran-4.8.2-darwin13.tar.bz2 -C /</pre></div>
+
+<p>Install <code>slam</code>:</p>
+
+<div class="highlight highlight-source-r"><pre>install.packages(<span class="pl-s"><span class="pl-pds">"</span>slam<span class="pl-pds">"</span></span>)</pre></div>
+
+<p>Reinstall <code>goldi</code>:</p>
+
+<div class="highlight highlight-source-r"><pre>install.packages(<span class="pl-s"><span class="pl-pds">"</span>goldi<span class="pl-pds">"</span></span>)</pre></div>
+</blockquote>
+
+<p>Q: <strong>When I install the package, I get messages about <code>libc</code> or <code>gcc</code> versions. What's happening?</strong></p>
+
+<blockquote>
+<p>A: The most likely scenario is that your <code>gcc</code> compiler (which compiles the <code>c++</code> code) is out of date, espcially if you are on an older version of linux distribution like CentOS on some cluster systems. Contact your system administrator and try to update <code>gcc</code>.</p>
+</blockquote>
+
+<p>Q: <strong>How can I work with abstracts from pubmed?</strong></p>
+
+<blockquote>
+<p>A: We recommend the <code>RISmed</code> package.</p>
+</blockquote>
+
+<p>Q: <strong>Where can I see some examples of this package in use?</strong></p>
+
+<blockquote>
+<p>A: Please see the included vignettes, especially the overexpression analysis implimented in the paper.</p>
+</blockquote>
+
+<p>Q: <strong>I am looking for a project to work on with <code>goldi</code>, do you have any ideas?</strong></p>
+
+<blockquote>
+<p>A: Please see <a href="https://github.com/Chris1221/goldi/blob/master/project_ideas.md">here</a>.</p>
+</blockquote>
+
+<p>Q: <strong>Nothing is working, who can I complain to?</strong></p>
+
+<blockquote>
+<p>A: Please raise an issue on this repository, that's most likely to get answered.</p>
+</blockquote>
+
+<h3>
+<a id="citation" class="anchor" href="#citation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Citation</h3>
+
+<p>Cole, Christopher B., et al. "Semi-Automated Identification of Ontological Labels in the Biomedical Literature with goldi." bioRxiv (2016): 073460.</p>
+
+<pre><code>@article{cole2016semi,
+  title={Semi-Automated Identification of Ontological Labels in the Biomedical Literature with goldi},
+  author={Cole, Christopher B and Patel, Sejal and French, Leon and Knight, Jo},
+  journal={bioRxiv},
+  pages={073460},
+  year={2016},
+  publisher={Cold Spring Harbor Labs Journals}
+}
+</code></pre>
+        </section>
+
+        <footer>
+          Goldi is maintained by <a href="https://github.com/Chris1221">Chris1221</a><br>
+          This page was generated by <a href="https://pages.github.com">GitHub Pages</a>. Tactile theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.
+        </footer>
+
+        
+      </div>
+    </div>
+  </body>
+</html>
