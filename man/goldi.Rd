@@ -62,15 +62,14 @@ goldi(doc = doc,
 }
 
 }
-\author{
-Christopher B. Cole <chris.c.1221@gmail.com>
-}
 \references{
 See ArXiv prepubliation.
+}
+\author{
+Christopher B. Cole <chris.c.1221@gmail.com>
 }
 \keyword{Databases}
 \keyword{Gene}
 \keyword{Mining,}
 \keyword{Ontology,}
 \keyword{Text}
-

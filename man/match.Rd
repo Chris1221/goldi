@@ -27,4 +27,3 @@ List of matched terms.
 \description{
 Match terms in C++
 }
-

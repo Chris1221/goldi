@@ -34,5 +34,5 @@ License: MIT + file LICENSE
 BugReports: https://github.com/Chris1221/goldi/issues
 URL: https://github.com/Chris1221/goldi
 LazyData: TRUE
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1
 VignetteBuilder: knitr

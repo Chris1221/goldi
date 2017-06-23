@@ -16,4 +16,3 @@ make.lim(int = TRUE, list = NULL, length = 10)
 \description{
 Construct Constraint Limits for Fuzzy Identification
 }
-
