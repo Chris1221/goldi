@@ -260,16 +260,29 @@ Note that any interactively created lists may be saved and inputed.
 
 	doc.vec <- VectorSource(raw)
 	doc.corpus <- Corpus(doc.vec)
+	
+	## June 23 2017: For some reason this no longer works 
+	#sentences <- unlist(doc.vec[5][[1]])
 
-	sentences <- unlist(doc.vec[5][[1]])
+	#	This might not be a totally perfect solution 
+	#	but maybe it will work for now?
+
+	sentences <- unlist(doc.vec$content)
+
+	# Maybe try to test more cases later
+# * 
+# !
+# *
+
+
 
 	flog.info("Quality control and constructing TDM...")
 
-	doc.corpus <- tm_map(doc.corpus, content_transformer(tolower), mc.cores = 1)
-	doc.corpus <- tm_map(doc.corpus, content_transformer(replaceExpressions), mc.cores = 1)
-	doc.corpus <- tm_map(doc.corpus, removePunctuation, mc.cores = 1)
-	doc.corpus <- tm_map(doc.corpus, removeNumbers, mc.cores = 1)
-	doc.corpus <- tm_map(doc.corpus, removeWords, stopwords("english"), mc.cores = 1)
+	doc.corpus <- tm_map(doc.corpus, content_transformer(tolower))
+	doc.corpus <- tm_map(doc.corpus, content_transformer(replaceExpressions))
+	doc.corpus <- tm_map(doc.corpus, removePunctuation)
+	doc.corpus <- tm_map(doc.corpus, removeNumbers)
+	doc.corpus <- tm_map(doc.corpus, removeWords, stopwords("english"))
 	doc.corpus <- tm_map(doc.corpus, stemDocument)
 	doc.corpus <- tm_map(doc.corpus, stripWhitespace)
 
@@ -313,11 +326,11 @@ Note that any interactively created lists may be saved and inputed.
 
 		flog.info("Constructing TDM for term list")
 
-		doc.corpus <- tm_map(doc.corpus, content_transformer(tolower), mc.cores = 1)
-		doc.corpus <- tm_map(doc.corpus, content_transformer(replaceExpressions), mc.cores = 1)
-		doc.corpus <- tm_map(doc.corpus, removePunctuation, mc.cores = 1)
-		doc.corpus <- tm_map(doc.corpus, removeNumbers, mc.cores = 1)
-		doc.corpus <- tm_map(doc.corpus, removeWords, stopwords("english"), mc.cores = 1)
+		doc.corpus <- tm_map(doc.corpus, content_transformer(tolower))
+		doc.corpus <- tm_map(doc.corpus, content_transformer(replaceExpressions))
+		doc.corpus <- tm_map(doc.corpus, removePunctuation)
+		doc.corpus <- tm_map(doc.corpus, removeNumbers)
+		doc.corpus <- tm_map(doc.corpus, removeWords, stopwords("english"))
 		doc.corpus <- tm_map(doc.corpus, stemDocument)
 		doc.corpus <- tm_map(doc.corpus, stripWhitespace)
 
@@ -389,11 +402,11 @@ Note that any interactively created lists may be saved and inputed.
 		syn.corp <- VectorSource(syn.list)
 		syn.corp <- Corpus(syn.corp)
 
-		syn.corp <- tm_map(syn.corp, content_transformer(tolower), mc.cores = 1)
-		syn.corp <- tm_map(syn.corp, content_transformer(replaceExpressions), mc.cores = 1)
-		syn.corp <- tm_map(syn.corp, removePunctuation, mc.cores = 1)
-		syn.corp <- tm_map(syn.corp, removeNumbers, mc.cores = 1)
-		syn.corp <- tm_map(syn.corp, removeWords, stopwords("english"), mc.cores = 1)
+		syn.corp <- tm_map(syn.corp, content_transformer(tolower))
+		syn.corp <- tm_map(syn.corp, content_transformer(replaceExpressions))
+		syn.corp <- tm_map(syn.corp, removePunctuation)
+		syn.corp <- tm_map(syn.corp, removeNumbers)
+		syn.corp <- tm_map(syn.corp, removeWords, stopwords("english"))
 		syn.corp <- tm_map(syn.corp, stemDocument)
 		syn.corp <- tm_map(syn.corp, stripWhitespace)
 
