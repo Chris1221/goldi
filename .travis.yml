@@ -1,52 +1,31 @@
-# Sample .travis.yml for R projects
-
-language: r
-warnings_are_errors: false
-sudo: required
-
-env:
- global:
-   - CRAN: http://cran.rstudio.com
+language: R
+cache: packages
 
 matrix:
   include:
     - os: linux
       dist: precise
-      sudo: true
-      before_install:
-        - sudo apt-get -qq update
-        - sudo apt-get install -y xpdf
+      r: oldrel
+      sudo: false
+      r_build_args: '--no-build-vignettes'
+      r_check_args: '--ignore-vignettes --no-examples'
     - os: linux
       dist: trusty
       sudo: required
-      before_install:
-        - sudo apt-get -qq update
-        - sudo apt-get install -y xpdf
-    - os: osx
-      osx_image: xcode8.3
-      brew_packages: xpdf 
+      env: R_CODECOV=true
+      r: release
+    - os: linux
+      dist: trusty
+      r: devel
+      r_build_args: '--no-build-vignettes'
+      r_check_args: '--ignore-vignettes --no-examples'
 
- r_binary_packages:
-  - dplyr
-  - rmarkdown
-  - Rcpp
-  - tm
-  - SnowballC
-  - devtools
-
-r_github_packages:
-  - pdftools
+warnings_are_errors: true
 
 notifications:
   email:
     on_success: change
     on_failure: change
 
-r_github_packages:
-  - jimhester/covr
-
 after_success:
-  - Rscript -e 'covr::codecov()'
-
-git:
-        submodules: false
+- if [[ "${R_CODECOV}" ]]; then R -e 'covr::codecov()'; fi
