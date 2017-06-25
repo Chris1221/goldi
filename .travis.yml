@@ -30,5 +30,11 @@ notifications:
     on_success: change
     on_failure: change
 
+
+r_github_packages:
+        - pdftools
+        - jimhester/covr
+
+    
 after_success:
 - if [[ "${R_CODECOV}" ]]; then R -e 'covr::codecov()'; fi
