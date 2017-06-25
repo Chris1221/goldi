@@ -32,8 +32,8 @@ notifications:
 
 
 r_github_packages:
-        - pdftools
-        - jimhester/covr
+        - ropensci/pdftools
+        - jimhester/covo
 
     
 after_success:
