@@ -1,12 +1,14 @@
-## `goldi`: **G**ene **O**ntology **L**abel **D**iscernment and **I**dentification
+## `goldi`: **G**ene **O**ntology **L**abel **D**iscernment and **I**dentification  ![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=master)
 
-Status:
 
-| Branch | Travis-CI | Appveyor | Coverage | CRAN | Downloads | Publication |
-| :--- | :---: | :---: | :--: | :---: | :---: | :---: |
-| `master` | ![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=master) | ![Build status](https://ci.appveyor.com/api/projects/status/v64oe85q29btxln9?svg=true) | [![codecov.io](https://codecov.io/github/Chris1221/goldi/coverage.svg?branch=master)](https://codecov.io/github/Chris1221/goldi?branch=master) | ![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/goldi) | ![](http://cranlogs.r-pkg.org/badges/goldi) | [bioRχiv](http://biorxiv.org/content/early/2016/09/05/073460) |
-| `devel` |![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=devel) | [![Build status](https://ci.appveyor.com/api/projects/status/v64oe85q29btxln9?svg=true)](https://ci.appveyor.com/project/Chris1221/miner) | [![codecov.io](https://codecov.io/github/Chris1221/goldi/coverage.svg?branch=devel)](https://codecov.io/github/Chris1221/goldi?branch=devel) | ![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/goldi) | ![](http://cranlogs.r-pkg.org/badges/grand-total/goldi) | <div data-badge-type="4" data-doi="http://dx.doi.org/10.1101/073460" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div> | 
---------------------------------
+Status: `goldi` is not currently published on CRAN but is being resubmitted.
+
+
+The package is currently checked on `R-oldrel` (v`3.3.3`), `R-release` (v`3.4.0`), and `R-devel` (v`3.5.0`) on
+
+- Ubuntu LTS 14.06 on Travis-CI 
+- XCode 8.3 on OSX 10.13 on Travis-CI
+- Winbuilder 
 
 ### Overview
 
