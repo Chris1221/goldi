@@ -1,20 +1,20 @@
-## `goldi`: **G**ene **O**ntology **L**abel **D**iscernment and **I**dentification  ![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=master)
+# `goldi`:   ![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=master)
 
+### **G**ene **O**ntology **L**abel **D**iscernment and **I**dentification
 
-Status: `goldi` is not currently published on CRAN but is being resubmitted.
+`goldi` is a tool for identifying key terms in text. It has been developed with the intention of identifying ontological labels in free form text with specific application to finding [Gene Ontology](http://geneontology.org) terms in the biomedical literature with strict canonical NLP quality control. 
 
+<div data-badge-details="right" data-badge-type="donut" data-doi="http://dx.doi.org/10.1101/073460" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+### Status 
+
+`goldi` is not currently published on CRAN but is being resubmitted.
 
 The package is currently checked on `R-oldrel` (v`3.3.3`), `R-release` (v`3.4.0`), and `R-devel` (v`3.5.0`) on
 
 - Ubuntu LTS 14.06 on Travis-CI 
 - XCode 8.3 on OSX 10.13 on Travis-CI
 - Winbuilder 
-
-### Overview
-
-`goldi` is a tool for identifying key terms in text. It has been developed with the intention of identifying ontological labels in free form text with specific application to finding [Gene Ontology](http://geneontology.org) terms in the biomedical literature with strict canonical NLP quality control. 
-
-<div data-badge-details="right" data-badge-type="donut" data-doi="http://dx.doi.org/10.1101/073460" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ### Installation
 
