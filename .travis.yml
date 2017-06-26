@@ -51,6 +51,8 @@ r_binary_packages:
         - devtools
         - rex
         - crayon
+        - RcppArmadillo
+        - futile.logger
 
 r_github_packages:
         - ropensci/pdftools
