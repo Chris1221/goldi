@@ -44,6 +44,7 @@ notifications:
 
 
 r_github_packages:
+        - RcppCore/Rcpp
         - ropensci/pdftools
         - jimhester/covo
 
