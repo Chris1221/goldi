@@ -1,4 +1,4 @@
-# `goldi`:   ![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=master)
+## goldi   ![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=master)
 
 ### **G**ene **O**ntology **L**abel **D**iscernment and **I**dentification
 
