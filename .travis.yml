@@ -30,7 +30,7 @@ matrix:
       osx_image: xcode8.3
       brew_packages: poppler
       r: release
-     - os: osx
+    - os: osx
       osx_image: xcode8.3
       brew_packages: poppler
       r: devel
