@@ -49,6 +49,8 @@ r_binary_packages:
         - tm
         - SnowballC
         - devtools
+        - rex
+        - crayon
 
 r_github_packages:
         - ropensci/pdftools
