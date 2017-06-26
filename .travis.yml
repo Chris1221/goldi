@@ -22,6 +22,18 @@ matrix:
       r: devel
       r_build_args: '--no-build-vignettes'
       r_check_args: '--ignore-vignettes --no-examples'
+    - os: osx
+      osx_image: xcode8.3
+      brew_packages: poppler
+      r: oldrel
+    - os: osx
+      osx_image: xcode8.3
+      brew_packages: poppler
+      r: release
+     - os: osx
+      osx_image: xcode8.3
+      brew_packages: poppler
+      r: devel
 
 warnings_are_errors: true
 
