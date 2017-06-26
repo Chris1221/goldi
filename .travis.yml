@@ -35,6 +35,11 @@ r_github_packages:
         - ropensci/pdftools
         - jimhester/covo
 
+addons:
+  apt:
+    packages:
+      - libwebp-dev
+      - libpoppler-cpp-dev
     
 after_success:
 - if [[ "${R_CODECOV}" ]]; then R -e 'covr::codecov()'; fi
