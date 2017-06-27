@@ -1,4 +1,4 @@
-## goldi   ![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=master)
+## goldi   ![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=master) [![codecov](https://codecov.io/gh/Chris1221/goldi/branch/master/graph/badge.svg)](https://codecov.io/gh/Chris1221/goldi) ![CRAN_S- RcppCore/Rcpptatus_Badge](http://www.r-pkg.org/badges/version/goldi) ![](http://cranlogs.r-pkg.org/badges/grand-total/goldi) <div data-badge-type="4" data-doi=" 	10.1101/073460" data-hide-no-mentions="true" class="altmetric-embed"></div> 
 
 ### **G**ene **O**ntology **L**abel **D**iscernment and **I**dentification
 
