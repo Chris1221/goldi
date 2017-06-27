@@ -53,6 +53,8 @@ r_binary_packages:
         - crayon
         - RcppArmadillo
         - futile.logger
+        - testthat
+        - RISmed
 
 r_github_packages:
         - ropensci/pdftools
