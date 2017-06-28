@@ -8,8 +8,6 @@
 
 ### Status 
 
-`goldi` is not currently published on CRAN but is being resubmitted.
-
 The package is currently checked on `R-oldrel` (v`3.3.3`), `R-release` (v`3.4.0`), and `R-devel` (v`3.5.0`) on
 
 - [Ubuntu LTS 14.06 on Travis-CI](https://travis-ci.org/Chris1221/goldi)
