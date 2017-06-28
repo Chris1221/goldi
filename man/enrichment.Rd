@@ -27,4 +27,3 @@ This function mimics a truncated version of the output of \href{https://bmcbioin
 \references{
 Eden, E., Navon, R., Steinfeld, I., Lipson, D., & Yakhini, Z. (2009). GOrilla: a tool for discovery and visualization of enriched GO terms in ranked gene lists. BMC Bioinformatics, 10(1), 1–7. http://doi.org/10.1186/1471-2105-10-48
 }
-

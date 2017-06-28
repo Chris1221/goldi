@@ -1,25 +1,29 @@
+## Release Summary
+
+This is the second release of goldi. It resolves an unstated LLAPACK dependency which caused CRAN checks to fail on solaris-sparc and solaris-x86.
+
 ## Test environments
-* Local OS X Install, R 3.3.1 + R Devel 
-* Linux Ubuntu 12.04 LTS Server Edition 64 bit (through Travis-CI), R 3.3.1 + R Devel
-* Windows through Appveyor, R 3.3.1 + R Devel
+* OS X 10.12 XCODE 8.3 (through Travis-CI), R 3.3.3 + R 3.4.0 + R Devel 
+* Linux Ubuntu 12.04 LTS Server Edition 64 bit (through Travis-CI), R 3.3.3 + R 3.4.0 + R Devel
+* Windows through win-builder.r-project.org, R 3.4.0 + R Devel
 
 ## R CMD check results
 There were no ERRORs or WARNINGs.
 
-There was one NOTE:
+There was ONE NOTE. 
 
-	* checking CRAN incoming feasibility ... NOTE
-	Maintainer: 'Christopher B. Cole <chris.c.1221@gmail.com>'
+* checking CRAN incoming feasibility ... NOTE
+Maintainer: 'Christopher B. Cole <chris.c.1221@gmail.com>'
 
-	New submission
+New submission
 
-	License components with restrictions and base license permitting such:
-	  MIT + file LICENSE
-	File 'LICENSE':
-	  YEAR: 2016
-	  COPYRIGHT HOLDER: Christopher B. Cole
+Package was archived on CRAN
 
-This note has appeared since it is the first submission to CRAN of this package. We do not believe that it represents an issue.
+CRAN repository db overrides:
+  X-CRAN-Comment: Archived on 2017-03-26 as check problems were not
+    corrected despite reminders.
+
+My most sincere apologies for not responding to corrections faster; they have been resolved with this release. 
 
 ## Downstream dependencies
 There are no downstream dependencies.

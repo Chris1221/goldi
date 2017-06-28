@@ -12,4 +12,3 @@ replaceExpressions(x)
 \description{
 Internal expression replacement with grep
 }
-

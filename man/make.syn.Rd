@@ -12,4 +12,3 @@ make.syn(return = FALSE)
 \description{
 Construct synonym matrix for internal or external use
 }
-

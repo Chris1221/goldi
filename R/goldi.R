@@ -260,8 +260,21 @@ Note that any interactively created lists may be saved and inputed.
 
 	doc.vec <- VectorSource(raw)
 	doc.corpus <- Corpus(doc.vec)
+	
+	## June 23 2017: For some reason this no longer works 
+	#sentences <- unlist(doc.vec[5][[1]])
 
-	sentences <- unlist(doc.vec[5][[1]])
+	#	This might not be a totally perfect solution 
+	#	but maybe it will work for now?
+
+	sentences <- unlist(doc.vec$content)
+
+	# Maybe try to test more cases later
+# * 
+# !
+# *
+
+
 
 	flog.info("Quality control and constructing TDM...")
 

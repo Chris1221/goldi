@@ -1,18 +1,18 @@
-## `goldi`: **G**ene **O**ntology **L**abel **D**iscernment and **I**dentification
+## goldi   ![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=master) ![codecov](https://codecov.io/gh/Chris1221/goldi/branch/master/graph/badge.svg) ![CRAN_S- RcppCore/Rcpptatus_Badge](http://www.r-pkg.org/badges/version/goldi) ![](http://cranlogs.r-pkg.org/badges/grand-total/goldi) 
 
-Status:
-
-| Branch | Travis-CI | Appveyor | Coverage | CRAN | Downloads | Publication |
-| :--- | :---: | :---: | :--: | :---: | :---: | :---: |
-| `master` | ![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=master) | ![Build status](https://ci.appveyor.com/api/projects/status/v64oe85q29btxln9?svg=true) | [![codecov.io](https://codecov.io/github/Chris1221/goldi/coverage.svg?branch=master)](https://codecov.io/github/Chris1221/goldi?branch=master) | ![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/goldi) | ![](http://cranlogs.r-pkg.org/badges/goldi) | [bioRχiv](http://biorxiv.org/content/early/2016/09/05/073460) |
-| `devel` |![Build Status](https://travis-ci.org/Chris1221/goldi.svg?branch=devel) | [![Build status](https://ci.appveyor.com/api/projects/status/v64oe85q29btxln9?svg=true)](https://ci.appveyor.com/project/Chris1221/miner) | [![codecov.io](https://codecov.io/github/Chris1221/goldi/coverage.svg?branch=devel)](https://codecov.io/github/Chris1221/goldi?branch=devel) | ![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/goldi) | ![](http://cranlogs.r-pkg.org/badges/goldi) | <div data-badge-type="4" data-doi="http://dx.doi.org/10.1101/073460" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div> | 
---------------------------------
-
-### Overview
+### **G**ene **O**ntology **L**abel **D**iscernment and **I**dentification
 
 `goldi` is a tool for identifying key terms in text. It has been developed with the intention of identifying ontological labels in free form text with specific application to finding [Gene Ontology](http://geneontology.org) terms in the biomedical literature with strict canonical NLP quality control. 
 
 <div data-badge-details="right" data-badge-type="donut" data-doi="http://dx.doi.org/10.1101/073460" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+### Status 
+
+The package is currently checked on `R-oldrel` (v`3.3.3`), `R-release` (v`3.4.0`), and `R-devel` (v`3.5.0`) on
+
+- [Ubuntu LTS 14.06 on Travis-CI](https://travis-ci.org/Chris1221/goldi)
+- [XCode 8.3 on OSX 10.13 on Travis-CI](https://travis-ci.org/Chris1221/goldi)
+- Winbuilder 
 
 ### Installation
 
@@ -74,6 +74,23 @@ Q: **How does `goldi` match terms to sentences?**
 Q: **What if I don't have my text in R, but instead as a text or PDF file?**
 > A: `goldi` has four distinct methods for importing text locally, please see the wiki article on the subject.
 
+Q: **Installation from CRAN is not working and it says something about `slam`, what's going on?**
+
+> A: Newer versions of the `tm` package, which is a dependency of `goldi` require a package named `slam` which needs to be compiled from Fortran. Try the following, and if it doesn't work, raise an issue on the repository and we'll get it fixed!
+Type the following into terminal (on Mac OSX):
+```sh
+curl -O http://r.research.att.com/libs/gfortran-4.8.2-darwin13.tar.bz2
+sudo tar fvxz gfortran-4.8.2-darwin13.tar.bz2 -C /
+```
+Install `slam`:
+```R
+install.packages("slam")
+```
+Reinstall `goldi`:
+```R
+install.packages("goldi")
+```
+
 Q: **When I install the package, I get messages about `libc` or `gcc` versions. What's happening?**
 > A: The most likely scenario is that your `gcc` compiler (which compiles the `c++` code) is out of date, espcially if you are on an older version of linux distribution like CentOS on some cluster systems. Contact your system administrator and try to update `gcc`.
 
@@ -89,5 +106,18 @@ Q: **I am looking for a project to work on with `goldi`, do you have any ideas?*
 Q: **Nothing is working, who can I complain to?**
 > A: Please raise an issue on this repository, that's most likely to get answered.
 
+### Citation
 
+Cole, Christopher B., et al. "Semi-Automated Identification of Ontological Labels in the Biomedical Literature with goldi." bioRxiv (2016): 073460.
+
+```
+@article{cole2016semi,
+  title={Semi-Automated Identification of Ontological Labels in the Biomedical Literature with goldi},
+  author={Cole, Christopher B and Patel, Sejal and French, Leon and Knight, Jo},
+  journal={bioRxiv},
+  pages={073460},
+  year={2016},
+  publisher={Cold Spring Harbor Labs Journals}
+}
+```
 

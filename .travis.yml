@@ -1,44 +1,70 @@
-# Sample .travis.yml for R projects
+language: R
+cache: packages
 
-language: r
-warnings_are_errors: false
-sudo: required
+git:
+        submodules: false
 
-env:
- global:
-   - CRAN: http://cran.rstudio.com
+matrix:
+  include:
+    - os: linux
+      dist: precise
+      r: oldrel
+      sudo: false
+      r_build_args: '--no-build-vignettes'
+      r_check_args: '--ignore-vignettes --no-examples'
+    - os: linux
+      dist: trusty
+      sudo: required
+      env: R_CODECOV=true
+      r: release
+    - os: linux
+      dist: trusty
+      r: devel
+      r_build_args: '--no-build-vignettes'
+      r_check_args: '--ignore-vignettes --no-examples'
+    - os: osx
+      osx_image: xcode8.3
+      brew_packages: poppler
+      r: oldrel
+    - os: osx
+      osx_image: xcode8.3
+      brew_packages: poppler
+      r: release
+    - os: osx
+      osx_image: xcode8.3
+      brew_packages: poppler
+      r: devel
 
-before_install:
-  - sudo apt-get -qq update
-  - sudo apt-get install -y xpdf
-
-addons:
-  apt:
-    packages:
-      - libwebp-dev
-      - libpoppler-cpp-dev
-
-r_binary_packages:
-  - dplyr
-  - rmarkdown
-  - Rcpp
-  - tm
-  - SnowballC
-  - devtools
-
-r_github_packages:
-  - pdftools
+warnings_are_errors: true
 
 notifications:
   email:
     on_success: change
     on_failure: change
 
+r_binary_packages:
+        - dplyr
+        - rmarkdown
+        - Rcpp
+        - tm
+        - SnowballC
+        - devtools
+        - rex
+        - crayon
+        - RcppArmadillo
+        - futile.logger
+        - testthat
+        - RISmed
+
 r_github_packages:
-  - jimhester/covr
+        - ropensci/pdftools
+        - jimhester/covr
 
+addons:
+  apt:
+    packages:
+      - libwebp-dev
+      - libpoppler-cpp-dev
+    
 after_success:
-  - Rscript -e 'covr::codecov()'
-
-git:
-        submodules: false
+- if [[ "${R_CODECOV}" ]]; then R -e 'covr::codecov()'; fi

@@ -1,3 +1,4 @@
+README.md
 .travis.yml
 appveyor.yml
 data-raw/
@@ -5,3 +6,5 @@ inst/mineR_paper
 inst/pdfminer
 cran-comments.md
 project_ideas.md
+inst/data
+inst/paper
