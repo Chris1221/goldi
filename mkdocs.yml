@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: goldi
 pages:
 - Home: 'index.md'
 - Using goldi: 'using_goldi.md'
