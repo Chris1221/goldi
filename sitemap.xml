@@ -3,7 +3,15 @@
 
     
     <url>
-     <loc>/</loc>
+     <loc>http://chrisbcole.me/</loc>
+     <lastmod>2017-08-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://chrisbcole.me/using_goldi/</loc>
      <lastmod>2017-08-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
