@@ -1,1 +1,7 @@
 site_name: My Docs
+pages:
+- Home: 'index.md'
+- Using goldi: 'using_goldi.md'
+site_url: http://chrisbcole.me
+repo_url: ttps://github.com/Chris1221/goldi
+
