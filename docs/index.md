@@ -15,7 +15,7 @@ This package performs a few main objectives:
 Please see the other pages on this website for description of the main functions, as well as some examples of `goldi` in the real world. 
 
 
-### Installation
+## Installation
 
 `goldi` can be installed from CRAN with
 
@@ -38,3 +38,42 @@ The package is currently checked on `R-oldrel` (v`3.3.3`), `R-release` (v`3.4.0`
 - Winbuilder 
 
 If you notice any issues, please raise it on the repository!
+
+## Minimal Example
+
+`goldi` attempts to identify terms in free text through semantic similarity. This means that if a term and a sentence share a high number of words, the sentence has a higher probability of talking about the term.
+
+Given the following input text and the included pre-computed term document matrix for approximately 10,000 Gene Onotlogy molecular function terms, we can find which are discussed in our text.
+
+```R
+# Give the free form text
+doc <- "In this sentence we will talk about ribosomal chaperone activity. In this sentence we will talk about nothing. Here we discuss obsolete molecular terms."
+
+# Load in the included term document matrix for the terms
+data("TDM.go.df")
+
+# Pipe output and log to /dev/null
+output = "/dev/null"
+log = "/dev/null"
+
+# Run the function
+goldi(doc = doc, 
+  term_tdm = TDM.go.df,
+  output = output,
+  log = log,
+  object = TRUE)
+```
+
+Note in the above example, we impliment a few other options. Firstly, we don't want to see the output or the log for this example, so we pipe them to `/dev/null`. Secondly, we would like to return the output as an R object instead of writing it to a file, so we specify `object = TRUE`. 
+
+This will output the following table:
+
+|          Term                |                               Context                            |
+| ---------------------------- | ---------------------------------------------------------------  |
+| ribosomal_chaperone_activity | In this sentence we will talk about ribosomal chaperone activity |
+
+This will give the term identified and the context in the free form where it was identified. This table will form the basis for all further analysis.
+
+## Getting help
+
+For help, please post an issue on the repository.
