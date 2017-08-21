@@ -13,12 +13,62 @@
         {
             "location": "/using_goldi/",
             "text": "Using \ngoldi",
-            "title": "Using goldi"
+            "title": "Quick Start"
         },
         {
             "location": "/using_goldi/#using-goldi",
             "text": "",
             "title": "Using goldi"
+        },
+        {
+            "location": "/synonyms/",
+            "text": "Working with Synonyms",
+            "title": "Synonyms"
+        },
+        {
+            "location": "/synonyms/#working-with-synonyms",
+            "text": "",
+            "title": "Working with Synonyms"
+        },
+        {
+            "location": "/advanced/",
+            "text": "Advanced Usage",
+            "title": "Advanced Usage"
+        },
+        {
+            "location": "/advanced/#advanced-usage",
+            "text": "",
+            "title": "Advanced Usage"
+        },
+        {
+            "location": "/functions/",
+            "text": "Functions",
+            "title": "Function Reference"
+        },
+        {
+            "location": "/functions/#functions",
+            "text": "",
+            "title": "Functions"
+        },
+        {
+            "location": "/license/",
+            "text": "License",
+            "title": "License"
+        },
+        {
+            "location": "/license/#license",
+            "text": "",
+            "title": "License"
+        },
+        {
+            "location": "/contributing/",
+            "text": "How to contribute",
+            "title": "Contributing"
+        },
+        {
+            "location": "/contributing/#how-to-contribute",
+            "text": "",
+            "title": "How to contribute"
         }
     ]
 }

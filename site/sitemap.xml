@@ -10,11 +10,47 @@
     
 
     
+        
     <url>
      <loc>http://chrisbcole.me/using_goldi/</loc>
      <lastmod>2017-08-21</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>http://chrisbcole.me/synonyms/</loc>
+     <lastmod>2017-08-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://chrisbcole.me/advanced/</loc>
+     <lastmod>2017-08-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>http://chrisbcole.me/functions/</loc>
+     <lastmod>2017-08-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://chrisbcole.me/license/</loc>
+     <lastmod>2017-08-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://chrisbcole.me/contributing/</loc>
+     <lastmod>2017-08-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>
