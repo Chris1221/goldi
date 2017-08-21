@@ -13,3 +13,28 @@ This package performs a few main objectives:
 `goldi` is freely distributed on CRAN and Github, and bug reports are always welcome. 
 
 Please see the other pages on this website for description of the main functions, as well as some examples of `goldi` in the real world. 
+
+
+### Installation
+
+`goldi` can be installed from CRAN with
+
+```R
+install.packages("goldi")
+```
+
+Or, you may choose to install the latest stable development version with
+
+```R
+devtools::install_github("Chris1221/goldi")
+```
+
+## Status 
+
+The package is currently checked on `R-oldrel` (v`3.3.3`), `R-release` (v`3.4.0`), and `R-devel` (v`3.5.0`) on
+
+- [Ubuntu LTS 14.06 on Travis-CI](https://travis-ci.org/Chris1221/goldi)
+- [XCode 8.3 on OSX 10.13 on Travis-CI](https://travis-ci.org/Chris1221/goldi)
+- Winbuilder 
+
+If you notice any issues, please raise it on the repository!

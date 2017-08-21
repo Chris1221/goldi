@@ -4,27 +4,27 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="None">
         
-        <link rel="canonical" href="http://chrisbcole.me/">
-        <link rel="shortcut icon" href="./img/favicon.ico">
-        <title>goldi</title>
-        <link href="./css/bootstrap-custom.min.css" rel="stylesheet">
-        <link href="./css/font-awesome-4.5.0.css" rel="stylesheet">
-        <link href="./css/base.css" rel="stylesheet">
-        <link rel="stylesheet" href="./css/highlight.css">
+        
+        <link rel="canonical" href="http://chrisbcole.me/functions/">
+        <link rel="shortcut icon" href="../img/favicon.ico">
+        <title>Function Reference - goldi</title>
+        <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../css/font-awesome-4.5.0.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="../css/highlight.css">
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
             <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
             <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
         <![endif]-->
 	
-	<script src="./js/jquery-1.10.2.min.js"></script>
-        <script src="./js/bootstrap-3.0.3.min.js"></script>
-        <script src="./js/highlight.pack.js"></script> 
+	<script src="../js/jquery-1.10.2.min.js"></script>
+        <script src="../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../js/highlight.pack.js"></script> 
     </head>
 
-    <body class="homepage">
+    <body>
 
         <div class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
@@ -38,47 +38,47 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href=".">goldi</a>
+            <a class="navbar-brand" href="..">goldi</a>
         </div>
 
         <!-- Expanded navigation -->
         <div class="navbar-collapse collapse">
                 <!-- Main navigation -->
                 <ul class="nav navbar-nav">
-                    <li class="active">
-                        <a href=".">Home</a>
+                    <li >
+                        <a href="..">Home</a>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">User Guide <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             
 <li >
-    <a href="using_goldi/">Quick Start</a>
+    <a href="../using_goldi/">Quick Start</a>
 </li>
                             
 <li >
-    <a href="synonyms/">Synonyms</a>
+    <a href="../synonyms/">Synonyms</a>
 </li>
                             
 <li >
-    <a href="advanced/">Advanced Usage</a>
+    <a href="../advanced/">Advanced Usage</a>
 </li>
                         </ul>
                     </li>
-                    <li class="dropdown">
+                    <li class="dropdown active">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             
-<li >
-    <a href="functions/">Function Reference</a>
+<li class="active">
+    <a href="./">Function Reference</a>
 </li>
                             
 <li >
-    <a href="license/">License</a>
+    <a href="../license/">License</a>
 </li>
                             
 <li >
-    <a href="contributing/">Contributing</a>
+    <a href="../contributing/">Contributing</a>
 </li>
                         </ul>
                     </li>
@@ -90,13 +90,13 @@
                         <i class="fa fa-search"></i> Search
                     </a>
                 </li>
-                    <li class="disabled">
-                        <a rel="next" >
+                    <li >
+                        <a rel="next" href="../advanced/">
                             <i class="fa fa-arrow-left"></i> Previous
                         </a>
                     </li>
                     <li >
-                        <a rel="prev" href="using_goldi/">
+                        <a rel="prev" href="../license/">
                             Next <i class="fa fa-arrow-right"></i>
                         </a>
                     </li>
@@ -113,50 +113,21 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#introduction">Introduction</a></li>
-            <li><a href="#installation">Installation</a></li>
-            <li><a href="#status">Status</a></li>
+        <li class="main active"><a href="#functions">Functions</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="introduction">Introduction</h1>
-<p>Gene Ontology is a public database which, among other things, classifies gene functions according to the molecular functions involved, the cellular compartment where the product is active, and the relevant biological pathways in which they play a part. These classes, or "terms", are highly useful in molecular biology, and are often referred to in the literature. However, with the size and complexity of biomedical publications, this information is often difficult to study in aggregate.  </p>
-<p><code>goldi</code> is a tool for identifying key terms in text. It has been developed with the intention of identifying ontological labels in free form text with specific application to finding Gene Ontology terms in the biomedical literature with strict canonical NLP quality control.</p>
-<p>This package performs a few main objectives:</p>
-<ul>
-<li>Identifies terms in free text (we distribute the package with a set of Molecular Function terms from Gene Ontology for easy use)</li>
-<li>Summarizes the quantity and quality of annotations across a corpus</li>
-<li>Provides helpful functions for working with <code>goldi</code> class objects, including enrichment tests between two corpora. </li>
-</ul>
-<p><code>goldi</code> is freely distributed on CRAN and Github, and bug reports are always welcome. </p>
-<p>Please see the other pages on this website for description of the main functions, as well as some examples of <code>goldi</code> in the real world. </p>
-<h3 id="installation">Installation</h3>
-<p><code>goldi</code> can be installed from CRAN with</p>
-<pre><code class="R">install.packages(&quot;goldi&quot;)
-</code></pre>
-
-<p>Or, you may choose to install the latest stable development version with</p>
-<pre><code class="R">devtools::install_github(&quot;Chris1221/goldi&quot;)
-</code></pre>
-
-<h2 id="status">Status</h2>
-<p>The package is currently checked on <code>R-oldrel</code> (v<code>3.3.3</code>), <code>R-release</code> (v<code>3.4.0</code>), and <code>R-devel</code> (v<code>3.5.0</code>) on</p>
-<ul>
-<li><a href="https://travis-ci.org/Chris1221/goldi">Ubuntu LTS 14.06 on Travis-CI</a></li>
-<li><a href="https://travis-ci.org/Chris1221/goldi">XCode 8.3 on OSX 10.13 on Travis-CI</a></li>
-<li>Winbuilder </li>
-</ul>
-<p>If you notice any issues, please raise it on the repository!</p></div>
+<h1 id="functions">Functions</h1></div>
         </div>
 
         <footer class="col-md-12">
             <hr>
             <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
         </footer>
-        <script>var base_url = '.';</script>
-        <script data-main="./mkdocs/js/search.js" src="./mkdocs/js/require.js"></script>
-        <script src="./js/base.js"></script><div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+        <script>var base_url = '..';</script>
+        <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script>
+        <script src="../js/base.js"></script><div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
@@ -183,8 +154,3 @@
 
     </body>
 </html>
-
-<!--
-MkDocs version : 0.16.3
-Build Date UTC : 2017-08-21 20:29:35
--->
