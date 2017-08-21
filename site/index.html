@@ -154,7 +154,9 @@
 <p><code>goldi</code> attempts to identify terms in free text through semantic similarity. This means that if a term and a sentence share a high number of words, the sentence has a higher probability of talking about the term.</p>
 <p>Given the following input text and the included pre-computed term document matrix for approximately 10,000 Gene Onotlogy molecular function terms, we can find which are discussed in our text.</p>
 <pre><code class="R"># Give the free form text
-doc &lt;- &quot;In this sentence we will talk about ribosomal chaperone activity. In this sentence we will talk about nothing. Here we discuss obsolete molecular terms.&quot;
+doc &lt;- &quot;In this sentence we will talk about ribosomal chaperone activity.
+    In this sentence we will talk about nothing. 
+    Here we discuss obsolete molecular terms.&quot;
 
 # Load in the included term document matrix for the terms
 data(&quot;TDM.go.df&quot;)
@@ -228,5 +230,5 @@ goldi(doc = doc,
 
 <!--
 MkDocs version : 0.16.3
-Build Date UTC : 2017-08-21 20:32:38
+Build Date UTC : 2017-08-21 20:33:49
 -->

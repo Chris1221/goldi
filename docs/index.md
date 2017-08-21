@@ -47,7 +47,9 @@ Given the following input text and the included pre-computed term document matri
 
 ```R
 # Give the free form text
-doc <- "In this sentence we will talk about ribosomal chaperone activity. In this sentence we will talk about nothing. Here we discuss obsolete molecular terms."
+doc <- "In this sentence we will talk about ribosomal chaperone activity.
+	In this sentence we will talk about nothing. 
+	Here we discuss obsolete molecular terms."
 
 # Load in the included term document matrix for the terms
 data("TDM.go.df")
