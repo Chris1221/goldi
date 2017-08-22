@@ -117,12 +117,15 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#overexpression-of-terms-in-a-target-set-of-abstracts">Overexpression of Terms in a Target Set of Abstracts</a></li>
+        <li class="main active"><a href="#examples">Examples</a></li>
+            <li><a href="#overexpression-of-terms-in-a-target-set-of-abstracts">Overexpression of Terms in a Target Set of Abstracts</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="overexpression-of-terms-in-a-target-set-of-abstracts">Overexpression of Terms in a Target Set of Abstracts</h1>
+<h1 id="examples">Examples</h1>
+<p>Here you'll find some complete examples of start-to-finish analysis conducted in <code>goldi</code>. Please feel free to contribute! </p>
+<h2 id="overexpression-of-terms-in-a-target-set-of-abstracts">Overexpression of Terms in a Target Set of Abstracts</h2>
 <p>In this analysis we seek to find Gene Ontology terms which may be overrepresented in a "target set" of abstracts, such as the results of a PubMed query.</p>
 <p>We first fetch all the results of a specific query from Pubmed using the <code>RISmed</code> package and store their abstracts in a <code>data.frame</code>.</p>
 <pre><code class="r">library(RISmed)
