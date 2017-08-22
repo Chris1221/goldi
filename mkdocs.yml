@@ -1,0 +1,15 @@
+site_name: goldi
+pages:
+- Home: 'index.md'
+- User Guide:
+        - 'Quick Start': 'using_goldi.md'
+        - 'Synonyms': 'synonyms.md'
+        - 'Advanced Usage': 'advanced.md'
+        - 'Examples': 'overexpression-analysis.md'
+- About:
+        - 'Function Reference': 'functions.md' 
+        - 'License': 'license.md'
+        - 'Contributing': 'contributing.md'
+site_url: http://chrisbcole.me
+repo_url: https://github.com/Chris1221/goldi
+

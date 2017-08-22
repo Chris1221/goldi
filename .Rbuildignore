@@ -8,3 +8,6 @@ cran-comments.md
 project_ideas.md
 inst/data
 inst/paper
+site/
+docs/
+mkdocs.yml

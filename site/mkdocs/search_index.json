@@ -1,0 +1,109 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Introduction\n\n\nGene Ontology is a public database which, among other things, classifies gene functions according to the molecular functions involved, the cellular compartment where the product is active, and the relevant biological pathways in which they play a part. These classes, or \"terms\", are highly useful in molecular biology, and are often referred to in the literature. However, with the size and complexity of biomedical publications, this information is often difficult to study in aggregate.  \n\n\ngoldi\n is a tool for identifying key terms in text. It has been developed with the intention of identifying ontological labels in free form text with specific application to finding Gene Ontology terms in the biomedical literature with strict canonical NLP quality control.\n\n\nThis package performs a few main objectives:\n\n\n\n\nIdentifies terms in free text (we distribute the package with a set of Molecular Function terms from Gene Ontology for easy use)\n\n\nSummarizes the quantity and quality of annotations across a corpus\n\n\nProvides helpful functions for working with \ngoldi\n class objects, including enrichment tests between two corpora. \n\n\n\n\ngoldi\n is freely distributed on CRAN and Github, and bug reports are always welcome. \n\n\nPlease see the other pages on this website for description of the main functions, as well as some examples of \ngoldi\n in the real world. \n\n\nInstallation\n\n\ngoldi\n can be installed from CRAN with\n\n\ninstall.packages(\"goldi\")\n\n\n\n\nOr, you may choose to install the latest stable development version with\n\n\ndevtools::install_github(\"Chris1221/goldi\")\n\n\n\n\nStatus\n\n\nThe package is currently checked on \nR-oldrel\n (v\n3.3.3\n), \nR-release\n (v\n3.4.0\n), and \nR-devel\n (v\n3.5.0\n) on\n\n\n\n\nUbuntu LTS 14.06 on Travis-CI\n\n\nXCode 8.3 on OSX 10.13 on Travis-CI\n\n\nWinbuilder \n\n\n\n\nIf you notice any issues, please raise it on the repository!\n\n\nMinimal Example\n\n\ngoldi\n attempts to identify terms in free text through semantic similarity. This means that if a term and a sentence share a high number of words, the sentence has a higher probability of talking about the term.\n\n\nGiven the following input text and the included pre-computed term document matrix for approximately 10,000 Gene Onotlogy molecular function terms, we can find which are discussed in our text.\n\n\n# Give the free form text\ndoc <- \"In this sentence we will talk about ribosomal chaperone activity.\n    In this sentence we will talk about nothing. \n    Here we discuss obsolete molecular terms.\"\n\n# Load in the included term document matrix for the terms\ndata(\"TDM.go.df\")\n\n# Pipe output and log to /dev/null\noutput = \"/dev/null\"\nlog = \"/dev/null\"\n\n# Run the function\ngoldi(doc = doc, \n  term_tdm = TDM.go.df,\n  output = output,\n  log = log,\n  object = TRUE)\n\n\n\n\nNote in the above example, we impliment a few other options. Firstly, we don't want to see the output or the log for this example, so we pipe them to \n/dev/null\n. Secondly, we would like to return the output as an R object instead of writing it to a file, so we specify \nobject = TRUE\n. \n\n\nThis will output the following table:\n\n\n\n\n\n\n\n\nTerm\n\n\nContext\n\n\n\n\n\n\n\n\n\n\nribosomal_chaperone_activity\n\n\nIn this sentence we will talk about ribosomal chaperone activity\n\n\n\n\n\n\n\n\nThis will give the term identified and the context in the free form where it was identified. This table will form the basis for all further analysis.\n\n\nGetting help\n\n\nFor help, please post an issue on the repository.",
+            "title": "Home"
+        },
+        {
+            "location": "/#introduction",
+            "text": "Gene Ontology is a public database which, among other things, classifies gene functions according to the molecular functions involved, the cellular compartment where the product is active, and the relevant biological pathways in which they play a part. These classes, or \"terms\", are highly useful in molecular biology, and are often referred to in the literature. However, with the size and complexity of biomedical publications, this information is often difficult to study in aggregate.    goldi  is a tool for identifying key terms in text. It has been developed with the intention of identifying ontological labels in free form text with specific application to finding Gene Ontology terms in the biomedical literature with strict canonical NLP quality control.  This package performs a few main objectives:   Identifies terms in free text (we distribute the package with a set of Molecular Function terms from Gene Ontology for easy use)  Summarizes the quantity and quality of annotations across a corpus  Provides helpful functions for working with  goldi  class objects, including enrichment tests between two corpora.    goldi  is freely distributed on CRAN and Github, and bug reports are always welcome.   Please see the other pages on this website for description of the main functions, as well as some examples of  goldi  in the real world.",
+            "title": "Introduction"
+        },
+        {
+            "location": "/#installation",
+            "text": "goldi  can be installed from CRAN with  install.packages(\"goldi\")  Or, you may choose to install the latest stable development version with  devtools::install_github(\"Chris1221/goldi\")",
+            "title": "Installation"
+        },
+        {
+            "location": "/#status",
+            "text": "The package is currently checked on  R-oldrel  (v 3.3.3 ),  R-release  (v 3.4.0 ), and  R-devel  (v 3.5.0 ) on   Ubuntu LTS 14.06 on Travis-CI  XCode 8.3 on OSX 10.13 on Travis-CI  Winbuilder    If you notice any issues, please raise it on the repository!",
+            "title": "Status"
+        },
+        {
+            "location": "/#minimal-example",
+            "text": "goldi  attempts to identify terms in free text through semantic similarity. This means that if a term and a sentence share a high number of words, the sentence has a higher probability of talking about the term.  Given the following input text and the included pre-computed term document matrix for approximately 10,000 Gene Onotlogy molecular function terms, we can find which are discussed in our text.  # Give the free form text\ndoc <- \"In this sentence we will talk about ribosomal chaperone activity.\n    In this sentence we will talk about nothing. \n    Here we discuss obsolete molecular terms.\"\n\n# Load in the included term document matrix for the terms\ndata(\"TDM.go.df\")\n\n# Pipe output and log to /dev/null\noutput = \"/dev/null\"\nlog = \"/dev/null\"\n\n# Run the function\ngoldi(doc = doc, \n  term_tdm = TDM.go.df,\n  output = output,\n  log = log,\n  object = TRUE)  Note in the above example, we impliment a few other options. Firstly, we don't want to see the output or the log for this example, so we pipe them to  /dev/null . Secondly, we would like to return the output as an R object instead of writing it to a file, so we specify  object = TRUE .   This will output the following table:     Term  Context      ribosomal_chaperone_activity  In this sentence we will talk about ribosomal chaperone activity     This will give the term identified and the context in the free form where it was identified. This table will form the basis for all further analysis.",
+            "title": "Minimal Example"
+        },
+        {
+            "location": "/#getting-help",
+            "text": "For help, please post an issue on the repository.",
+            "title": "Getting help"
+        },
+        {
+            "location": "/using_goldi/",
+            "text": "Using \ngoldi",
+            "title": "Quick Start"
+        },
+        {
+            "location": "/using_goldi/#using-goldi",
+            "text": "",
+            "title": "Using goldi"
+        },
+        {
+            "location": "/synonyms/",
+            "text": "Working with Synonyms",
+            "title": "Synonyms"
+        },
+        {
+            "location": "/synonyms/#working-with-synonyms",
+            "text": "",
+            "title": "Working with Synonyms"
+        },
+        {
+            "location": "/advanced/",
+            "text": "Advanced Usage",
+            "title": "Advanced Usage"
+        },
+        {
+            "location": "/advanced/#advanced-usage",
+            "text": "",
+            "title": "Advanced Usage"
+        },
+        {
+            "location": "/overexpression-analysis/",
+            "text": "Examples\n\n\nHere you'll find some complete examples of start-to-finish analysis conducted in \ngoldi\n. Please feel free to contribute! \n\n\nOverexpression of Terms in a Target Set of Abstracts\n\n\nIn this analysis we seek to find Gene Ontology terms which may be overrepresented in a \"target set\" of abstracts, such as the results of a PubMed query.\n\n\nWe first fetch all the results of a specific query from Pubmed using the \nRISmed\n package and store their abstracts in a \ndata.frame\n.\n\n\nlibrary(RISmed)\n\n# Store the input string for reuse\nsearch_topic <- \"anaphylaxis genetics\"\nsearch_query <- EUtilsSummary(search_topic, mindate=2014, maxdate=2015)\n\nsummary(search_query)\n\npull <- EUtilsGet(search_query)\n\ndata <- data.frame('Abstracts' = AbstractText(pull))\n\n# Get rid of first entry for some reason, seems to always be blank\ndata[,1] <- as.character(data[,1])\ndata <- data[-1,]\n\nhead(data)\n\n\n\n\nWe want to compare the terms found here to something, so we grab all abstracts from 2014 to 2015 which match a similar field, i.e. immunology genetics.  Note that only 1000 records are taken by default.\n\n\n# Store the input string for reuse\nsearch_topic <- \"immunology genetics\"\nsearch_query <- EUtilsSummary(search_topic, # Find all articles matching the string\n                              mindate=2014, # From 2014\n                              maxdate=2015, # to 2015\n                              retmax = 1000)  # This is the default but explicit\n\nsummary(search_query)\n\npull_control <- EUtilsGet(search_query)\n\ncontrol <- data.frame('Abstracts' = AbstractText(pull_control))\n\n# Get rid of first entry for some reason, seems to always be blank\ncontrol[,1] <- as.character(control[,1])\ncontrol <- control[-1,]\n\nhead(control)\n\n\n\n\nWe now run \ngoldi\n on each of the entries in both the target group and the control group.\n\n\n data(package = \"goldi\", \"TDM.go.df\")\n  TDM.go.df <- TDM.go.df[, !duplicated(colnames(TDM.go.df))]\n\n  lims <- c(1,2,2,3,4,5,6,7,7,8,10)\n\n  results <- list()\n\n  for(i in 1:length(data)){\n\n    if(!data[i] == \"\"){\n      results[[i]] <- goldi(doc = data[i],\n            terms = terms,\n            lims = lims,\n            syn = F,\n            object = T,\n            log = \"/dev/null\",\n            reader = \"local\",\n            output = \"/dev/null\",\n            term_tdm = TDM.go.df)\n    }\n  }\n\n  results <- do.call(\"rbind\", results)\n\n  control_results <- list()\n\n  for(i in 1:length(control)){\n    if(!control[i] == \"\"){\n      control_results[[i]] <- goldi(doc = control[i],\n            terms = terms,\n            lims = lims,\n            syn = F,\n            object = T,\n            log = \"/dev/null\",\n            reader = \"local\",\n            output = \"/dev/null\",\n            term_tdm = TDM.go.df)\n    }\n  }\n  control_results <- do.call(\"rbind\", control_results)\n\n\n\n\nThis gives us two objects holding the results, \nresults\n and \ncontrol_results\n.  We summarize the results and take all the terms in the result set with more than two occurances to minimize spurious hits. We use the method employed by GOrilla to calculate the enrichment of terms in the target set, and limit it to those which have been identified more than five times. We calculate $P$ values using the hypergeometric distribution.\n\n\ngoldi::enrichment(target = results,\n                  control = control_results\n                  threshold = 5)\n\n\n\n\n\n\n\n\n\n\nTerm\n\n\nEnrichment\n\n\nP\n\n\n\n\n\n\n\n\n\n\nprotein_C_(activated)_activity\n\n\n66.55\n\n\n1.257e-20\n\n\n\n\n\n\nCD27_receptor_activity\n\n\n66\n\n\n2.614e-21\n\n\n\n\n\n\nCD40_receptor_activity\n\n\n66\n\n\n2.614e-21\n\n\n\n\n\n\nreceptor_activator_activity\n\n\n66\n\n\n2.614e-21\n\n\n\n\n\n\nreceptor_activity\n\n\n66\n\n\n2.614e-21\n\n\n\n\n\n\nIgE_binding\n\n\n65.34\n\n\n8.639e-20\n\n\n\n\n\n\nkinase_activator_activity\n\n\n65.34\n\n\n8.639e-20\n\n\n\n\n\n\nkinase_activity\n\n\n65.34\n\n\n8.639e-20\n\n\n\n\n\n\nB_cell_receptor_activity\n\n\n62.23\n\n\n5.11e-14\n\n\n\n\n\n\nT_cell_receptor_activity\n\n\n62.23\n\n\n5.11e-14\n\n\n\n\n\n\n\n\nThis replicates the analysis presented in our prepublication. The terms above can be easily changed around, and any bunch of strings may be used for comparrison.",
+            "title": "Examples"
+        },
+        {
+            "location": "/overexpression-analysis/#examples",
+            "text": "Here you'll find some complete examples of start-to-finish analysis conducted in  goldi . Please feel free to contribute!",
+            "title": "Examples"
+        },
+        {
+            "location": "/overexpression-analysis/#overexpression-of-terms-in-a-target-set-of-abstracts",
+            "text": "In this analysis we seek to find Gene Ontology terms which may be overrepresented in a \"target set\" of abstracts, such as the results of a PubMed query.  We first fetch all the results of a specific query from Pubmed using the  RISmed  package and store their abstracts in a  data.frame .  library(RISmed)\n\n# Store the input string for reuse\nsearch_topic <- \"anaphylaxis genetics\"\nsearch_query <- EUtilsSummary(search_topic, mindate=2014, maxdate=2015)\n\nsummary(search_query)\n\npull <- EUtilsGet(search_query)\n\ndata <- data.frame('Abstracts' = AbstractText(pull))\n\n# Get rid of first entry for some reason, seems to always be blank\ndata[,1] <- as.character(data[,1])\ndata <- data[-1,]\n\nhead(data)  We want to compare the terms found here to something, so we grab all abstracts from 2014 to 2015 which match a similar field, i.e. immunology genetics.  Note that only 1000 records are taken by default.  # Store the input string for reuse\nsearch_topic <- \"immunology genetics\"\nsearch_query <- EUtilsSummary(search_topic, # Find all articles matching the string\n                              mindate=2014, # From 2014\n                              maxdate=2015, # to 2015\n                              retmax = 1000)  # This is the default but explicit\n\nsummary(search_query)\n\npull_control <- EUtilsGet(search_query)\n\ncontrol <- data.frame('Abstracts' = AbstractText(pull_control))\n\n# Get rid of first entry for some reason, seems to always be blank\ncontrol[,1] <- as.character(control[,1])\ncontrol <- control[-1,]\n\nhead(control)  We now run  goldi  on each of the entries in both the target group and the control group.   data(package = \"goldi\", \"TDM.go.df\")\n  TDM.go.df <- TDM.go.df[, !duplicated(colnames(TDM.go.df))]\n\n  lims <- c(1,2,2,3,4,5,6,7,7,8,10)\n\n  results <- list()\n\n  for(i in 1:length(data)){\n\n    if(!data[i] == \"\"){\n      results[[i]] <- goldi(doc = data[i],\n            terms = terms,\n            lims = lims,\n            syn = F,\n            object = T,\n            log = \"/dev/null\",\n            reader = \"local\",\n            output = \"/dev/null\",\n            term_tdm = TDM.go.df)\n    }\n  }\n\n  results <- do.call(\"rbind\", results)\n\n  control_results <- list()\n\n  for(i in 1:length(control)){\n    if(!control[i] == \"\"){\n      control_results[[i]] <- goldi(doc = control[i],\n            terms = terms,\n            lims = lims,\n            syn = F,\n            object = T,\n            log = \"/dev/null\",\n            reader = \"local\",\n            output = \"/dev/null\",\n            term_tdm = TDM.go.df)\n    }\n  }\n  control_results <- do.call(\"rbind\", control_results)  This gives us two objects holding the results,  results  and  control_results .  We summarize the results and take all the terms in the result set with more than two occurances to minimize spurious hits. We use the method employed by GOrilla to calculate the enrichment of terms in the target set, and limit it to those which have been identified more than five times. We calculate $P$ values using the hypergeometric distribution.  goldi::enrichment(target = results,\n                  control = control_results\n                  threshold = 5)     Term  Enrichment  P      protein_C_(activated)_activity  66.55  1.257e-20    CD27_receptor_activity  66  2.614e-21    CD40_receptor_activity  66  2.614e-21    receptor_activator_activity  66  2.614e-21    receptor_activity  66  2.614e-21    IgE_binding  65.34  8.639e-20    kinase_activator_activity  65.34  8.639e-20    kinase_activity  65.34  8.639e-20    B_cell_receptor_activity  62.23  5.11e-14    T_cell_receptor_activity  62.23  5.11e-14     This replicates the analysis presented in our prepublication. The terms above can be easily changed around, and any bunch of strings may be used for comparrison.",
+            "title": "Overexpression of Terms in a Target Set of Abstracts"
+        },
+        {
+            "location": "/functions/",
+            "text": "Functions",
+            "title": "Function Reference"
+        },
+        {
+            "location": "/functions/#functions",
+            "text": "",
+            "title": "Functions"
+        },
+        {
+            "location": "/license/",
+            "text": "License",
+            "title": "License"
+        },
+        {
+            "location": "/license/#license",
+            "text": "",
+            "title": "License"
+        },
+        {
+            "location": "/contributing/",
+            "text": "How to contribute",
+            "title": "Contributing"
+        },
+        {
+            "location": "/contributing/#how-to-contribute",
+            "text": "",
+            "title": "How to contribute"
+        }
+    ]
+}

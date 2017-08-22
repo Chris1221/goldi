@@ -1,0 +1,127 @@
+# Examples
+
+Here you'll find some complete examples of start-to-finish analysis conducted in `goldi`. Please feel free to contribute! 
+
+## Overexpression of Terms in a Target Set of Abstracts
+
+In this analysis we seek to find Gene Ontology terms which may be overrepresented in a "target set" of abstracts, such as the results of a PubMed query.
+
+We first fetch all the results of a specific query from Pubmed using the `RISmed` package and store their abstracts in a `data.frame`.
+
+
+```r
+library(RISmed)
+
+# Store the input string for reuse
+search_topic <- "anaphylaxis genetics"
+search_query <- EUtilsSummary(search_topic, mindate=2014, maxdate=2015)
+
+summary(search_query)
+
+pull <- EUtilsGet(search_query)
+
+data <- data.frame('Abstracts' = AbstractText(pull))
+
+# Get rid of first entry for some reason, seems to always be blank
+data[,1] <- as.character(data[,1])
+data <- data[-1,]
+
+head(data)
+```
+
+We want to compare the terms found here to something, so we grab all abstracts from 2014 to 2015 which match a similar field, i.e. immunology genetics.  Note that only 1000 records are taken by default.
+
+
+```r
+# Store the input string for reuse
+search_topic <- "immunology genetics"
+search_query <- EUtilsSummary(search_topic, # Find all articles matching the string
+                              mindate=2014, # From 2014
+                              maxdate=2015, # to 2015
+                              retmax = 1000)  # This is the default but explicit
+
+summary(search_query)
+
+pull_control <- EUtilsGet(search_query)
+
+control <- data.frame('Abstracts' = AbstractText(pull_control))
+
+# Get rid of first entry for some reason, seems to always be blank
+control[,1] <- as.character(control[,1])
+control <- control[-1,]
+
+head(control)
+```
+
+We now run `goldi` on each of the entries in both the target group and the control group.
+
+
+```r
+ data(package = "goldi", "TDM.go.df")
+  TDM.go.df <- TDM.go.df[, !duplicated(colnames(TDM.go.df))]
+
+  lims <- c(1,2,2,3,4,5,6,7,7,8,10)
+
+  results <- list()
+
+  for(i in 1:length(data)){
+
+    if(!data[i] == ""){
+      results[[i]] <- goldi(doc = data[i],
+            terms = terms,
+            lims = lims,
+            syn = F,
+            object = T,
+            log = "/dev/null",
+            reader = "local",
+            output = "/dev/null",
+            term_tdm = TDM.go.df)
+    }
+  }
+
+  results <- do.call("rbind", results)
+
+  control_results <- list()
+
+  for(i in 1:length(control)){
+    if(!control[i] == ""){
+      control_results[[i]] <- goldi(doc = control[i],
+            terms = terms,
+            lims = lims,
+            syn = F,
+            object = T,
+            log = "/dev/null",
+            reader = "local",
+            output = "/dev/null",
+            term_tdm = TDM.go.df)
+    }
+  }
+  control_results <- do.call("rbind", control_results)
+```
+
+This gives us two objects holding the results, `results` and `control_results`.  We summarize the results and take all the terms in the result set with more than two occurances to minimize spurious hits. We use the method employed by GOrilla to calculate the enrichment of terms in the target set, and limit it to those which have been identified more than five times. We calculate $P$ values using the hypergeometric distribution.
+
+
+```r
+goldi::enrichment(target = results,
+                  control = control_results
+                  threshold = 5)
+```
+
+
+| Term  | Enrichment | P | 
+| --- | --- | --- |
+| protein_C_(activated)_activity |    66.55 |     1.257e-20 |
+| CD27_receptor_activity | 66 | 2.614e-21 |
+| CD40_receptor_activity | 66 | 2.614e-21 |
+| receptor_activator_activity | 66 | 2.614e-21 |
+| receptor_activity | 66 | 2.614e-21 |
+| IgE_binding | 65.34 | 8.639e-20 |
+| kinase_activator_activity |       65.34 |     8.639e-20 |
+| kinase_activity |            65.34 |     8.639e-20 |
+| B_cell_receptor_activity |       62.23 |     5.11e-14 | 
+| T_cell_receptor_activity |       62.23 |     5.11e-14 | 
+
+
+This replicates the analysis presented in our prepublication. The terms above can be easily changed around, and any bunch of strings may be used for comparrison. 
+

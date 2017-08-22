@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="http://chrisbcole.me/overexpression-analysis/">
+        <link rel="shortcut icon" href="../img/favicon.ico">
+        <title>Examples - goldi</title>
+        <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../css/font-awesome-4.5.0.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="../css/highlight.css">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+	
+	<script src="../js/jquery-1.10.2.min.js"></script>
+        <script src="../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../js/highlight.pack.js"></script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="..">goldi</a>
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+                    <li >
+                        <a href="..">Home</a>
+                    </li>
+                    <li class="dropdown active">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">User Guide <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../using_goldi/">Quick Start</a>
+</li>
+                            
+<li >
+    <a href="../synonyms/">Synonyms</a>
+</li>
+                            
+<li >
+    <a href="../advanced/">Advanced Usage</a>
+</li>
+                            
+<li class="active">
+    <a href="./">Examples</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../functions/">Function Reference</a>
+</li>
+                            
+<li >
+    <a href="../license/">License</a>
+</li>
+                            
+<li >
+    <a href="../contributing/">Contributing</a>
+</li>
+                        </ul>
+                    </li>
+                </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                        <i class="fa fa-search"></i> Search
+                    </a>
+                </li>
+                    <li >
+                        <a rel="next" href="../advanced/">
+                            <i class="fa fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="../functions/">
+                            Next <i class="fa fa-arrow-right"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/Chris1221/goldi">
+                                <i class="fa fa-github"></i>GitHub
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#examples">Examples</a></li>
+            <li><a href="#overexpression-of-terms-in-a-target-set-of-abstracts">Overexpression of Terms in a Target Set of Abstracts</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<h1 id="examples">Examples</h1>
+<p>Here you'll find some complete examples of start-to-finish analysis conducted in <code>goldi</code>. Please feel free to contribute! </p>
+<h2 id="overexpression-of-terms-in-a-target-set-of-abstracts">Overexpression of Terms in a Target Set of Abstracts</h2>
+<p>In this analysis we seek to find Gene Ontology terms which may be overrepresented in a "target set" of abstracts, such as the results of a PubMed query.</p>
+<p>We first fetch all the results of a specific query from Pubmed using the <code>RISmed</code> package and store their abstracts in a <code>data.frame</code>.</p>
+<pre><code class="r">library(RISmed)
+
+# Store the input string for reuse
+search_topic &lt;- &quot;anaphylaxis genetics&quot;
+search_query &lt;- EUtilsSummary(search_topic, mindate=2014, maxdate=2015)
+
+summary(search_query)
+
+pull &lt;- EUtilsGet(search_query)
+
+data &lt;- data.frame('Abstracts' = AbstractText(pull))
+
+# Get rid of first entry for some reason, seems to always be blank
+data[,1] &lt;- as.character(data[,1])
+data &lt;- data[-1,]
+
+head(data)
+</code></pre>
+
+<p>We want to compare the terms found here to something, so we grab all abstracts from 2014 to 2015 which match a similar field, i.e. immunology genetics.  Note that only 1000 records are taken by default.</p>
+<pre><code class="r"># Store the input string for reuse
+search_topic &lt;- &quot;immunology genetics&quot;
+search_query &lt;- EUtilsSummary(search_topic, # Find all articles matching the string
+                              mindate=2014, # From 2014
+                              maxdate=2015, # to 2015
+                              retmax = 1000)  # This is the default but explicit
+
+summary(search_query)
+
+pull_control &lt;- EUtilsGet(search_query)
+
+control &lt;- data.frame('Abstracts' = AbstractText(pull_control))
+
+# Get rid of first entry for some reason, seems to always be blank
+control[,1] &lt;- as.character(control[,1])
+control &lt;- control[-1,]
+
+head(control)
+</code></pre>
+
+<p>We now run <code>goldi</code> on each of the entries in both the target group and the control group.</p>
+<pre><code class="r"> data(package = &quot;goldi&quot;, &quot;TDM.go.df&quot;)
+  TDM.go.df &lt;- TDM.go.df[, !duplicated(colnames(TDM.go.df))]
+
+  lims &lt;- c(1,2,2,3,4,5,6,7,7,8,10)
+
+  results &lt;- list()
+
+  for(i in 1:length(data)){
+
+    if(!data[i] == &quot;&quot;){
+      results[[i]] &lt;- goldi(doc = data[i],
+            terms = terms,
+            lims = lims,
+            syn = F,
+            object = T,
+            log = &quot;/dev/null&quot;,
+            reader = &quot;local&quot;,
+            output = &quot;/dev/null&quot;,
+            term_tdm = TDM.go.df)
+    }
+  }
+
+  results &lt;- do.call(&quot;rbind&quot;, results)
+
+  control_results &lt;- list()
+
+  for(i in 1:length(control)){
+    if(!control[i] == &quot;&quot;){
+      control_results[[i]] &lt;- goldi(doc = control[i],
+            terms = terms,
+            lims = lims,
+            syn = F,
+            object = T,
+            log = &quot;/dev/null&quot;,
+            reader = &quot;local&quot;,
+            output = &quot;/dev/null&quot;,
+            term_tdm = TDM.go.df)
+    }
+  }
+  control_results &lt;- do.call(&quot;rbind&quot;, control_results)
+</code></pre>
+
+<p>This gives us two objects holding the results, <code>results</code> and <code>control_results</code>.  We summarize the results and take all the terms in the result set with more than two occurances to minimize spurious hits. We use the method employed by GOrilla to calculate the enrichment of terms in the target set, and limit it to those which have been identified more than five times. We calculate $P$ values using the hypergeometric distribution.</p>
+<pre><code class="r">goldi::enrichment(target = results,
+                  control = control_results
+                  threshold = 5)
+</code></pre>
+
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Enrichment</th>
+<th>P</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>protein_C_(activated)_activity</td>
+<td>66.55</td>
+<td>1.257e-20</td>
+</tr>
+<tr>
+<td>CD27_receptor_activity</td>
+<td>66</td>
+<td>2.614e-21</td>
+</tr>
+<tr>
+<td>CD40_receptor_activity</td>
+<td>66</td>
+<td>2.614e-21</td>
+</tr>
+<tr>
+<td>receptor_activator_activity</td>
+<td>66</td>
+<td>2.614e-21</td>
+</tr>
+<tr>
+<td>receptor_activity</td>
+<td>66</td>
+<td>2.614e-21</td>
+</tr>
+<tr>
+<td>IgE_binding</td>
+<td>65.34</td>
+<td>8.639e-20</td>
+</tr>
+<tr>
+<td>kinase_activator_activity</td>
+<td>65.34</td>
+<td>8.639e-20</td>
+</tr>
+<tr>
+<td>kinase_activity</td>
+<td>65.34</td>
+<td>8.639e-20</td>
+</tr>
+<tr>
+<td>B_cell_receptor_activity</td>
+<td>62.23</td>
+<td>5.11e-14</td>
+</tr>
+<tr>
+<td>T_cell_receptor_activity</td>
+<td>62.23</td>
+<td>5.11e-14</td>
+</tr>
+</tbody>
+</table>
+<p>This replicates the analysis presented in our prepublication. The terms above can be easily changed around, and any bunch of strings may be used for comparrison. </p></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>var base_url = '..';</script>
+        <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script>
+        <script src="../js/base.js"></script><div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
