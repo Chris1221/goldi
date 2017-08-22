@@ -5,6 +5,7 @@ pages:
         - 'Quick Start': 'using_goldi.md'
         - 'Synonyms': 'synonyms.md'
         - 'Advanced Usage': 'advanced.md'
+        - 'Examples': 'overexpression-analysis.md'
 - About:
         - 'Function Reference': 'functions.md' 
         - 'License': 'license.md'
